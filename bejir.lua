@@ -251,28 +251,29 @@ local function ExecuteReactivePlay(word, prefixLen, submitRemote, visualRemote)
 end
 
 -- ═══════════════════════════════════════════════════════════════════════
--- 3. UI CONSTRUCTION (WIND UI)
+-- 3. UI CONSTRUCTION (WIND UI) — Beverly Hub V 1.0
 -- ═══════════════════════════════════════════════════════════════════════
 local Window = WindUI:CreateWindow({
-    Title = "Sambung Kata Pro",
-    Icon = "solar:file-text-bold",
-    Folder = "sambungkatapro",
+    Title = "Beverly Hub  |  V 1.0",
+    Icon = "solar:star-bold",
+    Folder = "beverlyhub",
     NewElements = true,
     HideSearchBar = true,
     Topbar = {
         Height = 44,
-        ButtonsType = "Default",
+        ButtonsType = "Mac",
     },
     OpenButton = {
-        Title = "SKP",
+        Title = "✦ Beverly",
         CornerRadius = UDim.new(1, 0),
-        StrokeThickness = 2,
+        StrokeThickness = 0,
         Enabled = true,
         Draggable = true,
-        Scale = 0.5,
+        Scale = 0.55,
         Color = ColorSequence.new(
-            Color3.fromHex("#30FF6A"), 
-            Color3.fromHex("#00D4FF")
+            Color3.fromHex("#C084FC"),
+            Color3.fromHex("#F472B6"),
+            Color3.fromHex("#38BDF8")
         )
     },
 })
@@ -281,13 +282,13 @@ local Window = WindUI:CreateWindow({
 local MainTab = Window:Tab({
     Title = "Main",
     Icon = "solar:home-2-bold",
-    IconColor = Color3.fromHex("#30FF6A"),
+    IconColor = Color3.fromHex("#C084FC"),
     IconShape = "Square",
     Border = true,
 })
 
 local AutoSection = MainTab:Section({
-    Title = "Auto Play",
+    Title = "✦ Auto Play",
     Box = true,
     BoxBorder = true,
     Opened = true,
@@ -313,7 +314,7 @@ AutoSection:Toggle({
 local SpeedTab = Window:Tab({
     Title = "Kecepatan",
     Icon = "solar:alarm-bold",
-    IconColor = Color3.fromHex("#ECA201"),
+    IconColor = Color3.fromHex("#F472B6"),
     IconShape = "Square",
     Border = true,
 })
@@ -394,57 +395,70 @@ local OverlayTitle
 local OverlayCounter
 
 local function CreateOverlay()
-    pcall(function() if Services.CoreGui:FindFirstChild("SKP_Overlay") then Services.CoreGui.SKP_Overlay:Destroy() end end)
-    local Screen = Instance.new("ScreenGui", Services.CoreGui) Screen.Name = "SKP_Overlay"
+    pcall(function() if Services.CoreGui:FindFirstChild("BEV_Overlay") then Services.CoreGui.BEV_Overlay:Destroy() end end)
+    local Screen = Instance.new("ScreenGui", Services.CoreGui) Screen.Name = "BEV_Overlay"
     local Frame = Instance.new("Frame", Screen)
-    Frame.Size = UDim2.new(0, 220, 0, 320)
-    Frame.Position = UDim2.new(0.82, 0, 0.25, 0)
-    Frame.BackgroundColor3 = Color3.fromRGB(12, 12, 18)
-    Frame.BackgroundTransparency = 0.08
+    Frame.Size = UDim2.new(0, 230, 0, 340)
+    Frame.Position = UDim2.new(0.81, 0, 0.22, 0)
+    Frame.BackgroundColor3 = Color3.fromRGB(14, 10, 22)
+    Frame.BackgroundTransparency = 0.05
     Frame.Active = true; Frame.Draggable = true
     local corner = Instance.new("UICorner", Frame)
-    corner.CornerRadius = UDim.new(0, 14)
+    corner.CornerRadius = UDim.new(0, 16)
     local stroke = Instance.new("UIStroke", Frame)
-    stroke.Color = Color3.fromHex("#30FF6A")
-    stroke.Thickness = 1.5
-    stroke.Transparency = 0.4
-    
-    -- Header
+    stroke.Color = Color3.fromHex("#C084FC")
+    stroke.Thickness = 2
+    stroke.Transparency = 0.2
+
+    -- Gradient header strip
+    local headerBg = Instance.new("Frame", Frame)
+    headerBg.Size = UDim2.new(1, 0, 0, 54)
+    headerBg.BackgroundColor3 = Color3.fromHex("#1A0A2E")
+    headerBg.BorderSizePixel = 0
+    local headerCorner = Instance.new("UICorner", headerBg)
+    headerCorner.CornerRadius = UDim.new(0, 16)
+    local headerGrad = Instance.new("UIGradient", headerBg)
+    headerGrad.Color = ColorSequence.new(Color3.fromHex("#C084FC"), Color3.fromHex("#F472B6"))
+    headerGrad.Rotation = 90
+    headerGrad.Transparency = NumberSequence.new({NumberSequenceKeypoint.new(0, 0.75), NumberSequenceKeypoint.new(1, 0.9)})
+
+    -- Title
     OverlayTitle = Instance.new("TextLabel", Frame)
     OverlayTitle.Size = UDim2.new(1, 0, 0, 30)
     OverlayTitle.Position = UDim2.new(0, 0, 0, 4)
-    OverlayTitle.Text = "📝 SARAN KATA"
-    OverlayTitle.TextColor3 = Color3.fromHex("#30FF6A")
+    OverlayTitle.Text = "✦ SARAN KATA"
+    OverlayTitle.TextColor3 = Color3.fromHex("#E9D5FF")
     OverlayTitle.BackgroundTransparency = 1
     OverlayTitle.Font = Enum.Font.GothamBold
-    OverlayTitle.TextSize = 13
-    
-    -- Counter label
+    OverlayTitle.TextSize = 14
+
+    -- Counter
     OverlayCounter = Instance.new("TextLabel", Frame)
     OverlayCounter.Size = UDim2.new(1, -16, 0, 18)
-    OverlayCounter.Position = UDim2.new(0, 8, 0, 32)
+    OverlayCounter.Position = UDim2.new(0, 10, 0, 34)
     OverlayCounter.Text = "Menunggu soal..."
-    OverlayCounter.TextColor3 = Color3.fromRGB(140, 140, 160)
+    OverlayCounter.TextColor3 = Color3.fromHex("#D8B4FE")
     OverlayCounter.BackgroundTransparency = 1
     OverlayCounter.Font = Enum.Font.Gotham
     OverlayCounter.TextSize = 11
     OverlayCounter.TextXAlignment = Enum.TextXAlignment.Left
-    
+
     -- Separator
     local sep = Instance.new("Frame", Frame)
-    sep.Size = UDim2.new(0.9, 0, 0, 1)
-    sep.Position = UDim2.new(0.05, 0, 0, 52)
-    sep.BackgroundColor3 = Color3.fromRGB(50, 50, 65)
+    sep.Size = UDim2.new(0.88, 0, 0, 1)
+    sep.Position = UDim2.new(0.06, 0, 0, 56)
+    sep.BackgroundColor3 = Color3.fromHex("#7C3AED")
+    sep.BackgroundTransparency = 0.5
     sep.BorderSizePixel = 0
-    
-    -- Scroll area
+
+    -- Scroll
     OverlayScroll = Instance.new("ScrollingFrame", Frame)
-    OverlayScroll.Size = UDim2.new(0.92, 0, 1, -60)
-    OverlayScroll.Position = UDim2.new(0.04, 0, 0, 56)
+    OverlayScroll.Size = UDim2.new(0.92, 0, 1, -62)
+    OverlayScroll.Position = UDim2.new(0.04, 0, 0, 60)
     OverlayScroll.BackgroundTransparency = 1
     OverlayScroll.ScrollBarThickness = 3
-    OverlayScroll.ScrollBarImageColor3 = Color3.fromHex("#30FF6A")
-    OverlayScroll.ScrollBarImageTransparency = 0.3
+    OverlayScroll.ScrollBarImageColor3 = Color3.fromHex("#C084FC")
+    OverlayScroll.ScrollBarImageTransparency = 0.2
     local layout = Instance.new("UIListLayout", OverlayScroll)
     layout.Padding = UDim.new(0, 3)
 end
@@ -473,46 +487,57 @@ local function UpdateOverlay(prefix, submitRemote)
         OverlayTitle.Text = "📝 SARAN KATA [" .. totalAvailable .. "]"
     end
     
-    -- Build buttons
+    -- Build buttons with alternating colors
+    local colors = {
+        Color3.fromHex("#1E1035"),
+        Color3.fromHex("#1A1028"),
+        Color3.fromHex("#1D0E30"),
+    }
+    local hoverColors = {
+        Color3.fromHex("#4C1D95"),
+        Color3.fromHex("#831843"),
+        Color3.fromHex("#1E40AF"),
+    }
+    local accentColors = {
+        Color3.fromHex("#C084FC"),
+        Color3.fromHex("#F472B6"),
+        Color3.fromHex("#38BDF8"),
+    }
     for _, w in ipairs(bucket) do
         if shown >= MAX_SHOWN then break end
         if w:sub(1, #prefix) == prefix and not State.UsedWords[w] then
+            local colorIdx = (shown % 3) + 1
             local btn = Instance.new("TextButton", OverlayScroll)
             btn.Size = UDim2.new(1, 0, 0, 30)
-            btn.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+            btn.BackgroundColor3 = colors[colorIdx]
             btn.AutoButtonColor = false
             btn.Font = Enum.Font.GothamMedium
             btn.TextSize = 13
-            btn.TextColor3 = Color3.fromRGB(210, 210, 225)
+            btn.TextColor3 = Color3.fromHex("#E9D5FF")
             btn.TextXAlignment = Enum.TextXAlignment.Left
             btn.Text = "  " .. w .. "  (" .. #w .. ")"
             local btnCorner = Instance.new("UICorner", btn)
             btnCorner.CornerRadius = UDim.new(0, 8)
             local btnStroke = Instance.new("UIStroke", btn)
-            btnStroke.Color = Color3.fromRGB(45, 45, 60)
+            btnStroke.Color = accentColors[colorIdx]
             btnStroke.Thickness = 1
-            btnStroke.Transparency = 0.5
-            
-            -- Hover effects
+            btnStroke.Transparency = 0.7
+
             btn.MouseEnter:Connect(function()
-                btn.BackgroundColor3 = Color3.fromRGB(40, 45, 55)
-                btnStroke.Color = Color3.fromHex("#30FF6A")
-                btnStroke.Transparency = 0.3
+                btn.BackgroundColor3 = hoverColors[colorIdx]
+                btnStroke.Transparency = 0.1
             end)
             btn.MouseLeave:Connect(function()
-                btn.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
-                btnStroke.Color = Color3.fromRGB(45, 45, 60)
-                btnStroke.Transparency = 0.5
+                btn.BackgroundColor3 = colors[colorIdx]
+                btnStroke.Transparency = 0.7
             end)
-            
-            -- Click to submit
             btn.MouseButton1Click:Connect(function()
                 submitRemote:FireServer(w)
                 State.UsedWords[w] = true
-                btn.BackgroundColor3 = Color3.fromHex("#30FF6A")
-                btn.TextColor3 = Color3.fromRGB(10, 10, 15)
+                btn.BackgroundColor3 = Color3.fromHex("#7C3AED")
+                btn.TextColor3 = Color3.fromHex("#F5F3FF")
                 btn.Text = "  ✓ " .. w
-                btnStroke.Color = Color3.fromHex("#30FF6A")
+                btnStroke.Color = Color3.fromHex("#C084FC")
                 btnStroke.Transparency = 0
                 task.delay(1, function()
                     if btn.Parent then btn:Destroy() end
@@ -602,9 +627,9 @@ local function Init()
     end)
     
     WindUI:Notify({
-        Title = "Sambung Kata Pro",
-        Content = "v15.0 loaded! Kamus: " .. tostring(loadSuccess and "Online ✓" or "Fallback ⚠"),
-        Icon = "solar:check-square-bold",
+        Title = "✦ Beverly Hub V 1.0",
+        Content = "Loaded! Kamus: " .. tostring(loadSuccess and "Online ✓" or "Fallback ⚠"),
+        Icon = "solar:star-bold",
         Duration = 5,
     })
 end
