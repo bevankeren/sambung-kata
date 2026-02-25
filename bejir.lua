@@ -558,6 +558,8 @@ local MiscState = {
     OriginalWalkSpeed = 16,
     OriginalJumpPower = 50,
     OriginalGravity = 196.2,
+    OriginalDisplayName = LocalPlayer.DisplayName,
+    HideIdentityConn = nil,
 }
 
 -- Helper: get character safely
@@ -783,6 +785,45 @@ WorldSection:Slider({
         pcall(function()
             workspace.Gravity = v
         end)
+    end
+})
+
+WorldSection:Space()
+
+WorldSection:Toggle({
+    Title = "Hide Identity",
+    Desc = "Samarkan nama karakter menjadi 'beverlyhub' (Client-side)",
+    Default = false,
+    Callback = function(v)
+        if v then
+            -- Enable Spoofing
+            MiscState.HideIdentityConn = Services.RunService.Heartbeat:Connect(function()
+                pcall(function()
+                    local char = LocalPlayer.Character
+                    if char then
+                        local hum = char:FindFirstChildOfClass("Humanoid")
+                        if hum and hum.DisplayName ~= "beverlyhub" then
+                            hum.DisplayName = "beverlyhub"
+                        end
+                    end
+                end)
+            end)
+        else
+            -- Disable Spoofing
+            if MiscState.HideIdentityConn then
+                MiscState.HideIdentityConn:Disconnect()
+                MiscState.HideIdentityConn = nil
+            end
+            pcall(function()
+                local char = LocalPlayer.Character
+                if char then
+                    local hum = char:FindFirstChildOfClass("Humanoid")
+                    if hum then
+                        hum.DisplayName = MiscState.OriginalDisplayName
+                    end
+                end
+            end)
+        end
     end
 })
 
