@@ -199,6 +199,7 @@ end
 -- HANYA dipanggil setelah submit + rejection, TIDAK PERNAH saat sedang ngetik
 local function BackspaceText(visualRemote, currentText, stopAt)
     -- FAILCHECK: jangan jalankan kalau sedang backspace / tidak ada teks / remote nil
+    if State.BlatantEnabled then return end
     if State.IsBackspacing then return end
     if not currentText or currentText == "" then return end
     if not visualRemote then return end
@@ -224,6 +225,7 @@ end
 -- EKSEKUSI UTAMA (REACTIVE LOOP)
 local function ExecuteReactivePlay(word, prefixLen, submitRemote, visualRemote)
     -- FAILCHECK: jangan jalankan kalau sudah ada task aktif atau sedang backspace
+    if State.BlatantEnabled then return end
     if State.ActiveTask then return end
     if State.IsBackspacing then return end
     if not word or word == "" then return end
@@ -1165,6 +1167,7 @@ local function Init()
                 local word = FindWord(predictedPrefix)
                 if word and not State.UsedWords[word] then
                     -- Tembak peluru sebelum server ganti giliran!
+                    pcall(function() VisualRemote:FireServer(word) end)
                     pcall(function() SubmitRemote:FireServer(word) end)
                     State.UsedWords[word] = true
                     State.LastWordAttempted = word
@@ -1208,6 +1211,7 @@ local function Init()
                         if State.CurrentSoal == letter and State.BlatantEnabled then
                             local word = FindWord(letter)
                             if word and not State.UsedWords[word] then
+                                pcall(function() VisualRemote:FireServer(word) end)
                                 pcall(function() SubmitRemote:FireServer(word) end)
                                 State.UsedWords[word] = true
                                 State.LastWordAttempted = word
@@ -1249,7 +1253,7 @@ local function Init()
                 and State.HasSubmitted 
                 and State.SubmitPending 
                 and State.CurrentSoal ~= ""
-                and (tick() - State.LastSubmitTime > 2.0)  -- 2 detik untuk blatant (lebih cepat)
+                and (tick() - State.LastSubmitTime > 0.4)  -- 0.4 detik untuk blatant (sangat cepat retry)
             then
                 -- Kata ditolak — langsung retry tanpa backspace
                 State.TotalErrors = State.TotalErrors + 1
@@ -1267,8 +1271,9 @@ local function Init()
                 -- Langsung coba kata baru (instant submit)
                 local retry = FindWord(State.CurrentSoal, true)
                 if retry and not State.UsedWords[retry] then
-                    task.wait(State.BlatantDelay)
+                    if State.BlatantDelay > 0 then task.wait(State.BlatantDelay) end
                     if State.BlatantEnabled and State.CurrentSoal ~= "" then
+                        pcall(function() VisualRemote:FireServer(retry) end)
                         pcall(function() SubmitRemote:FireServer(retry) end)
                         State.UsedWords[retry] = true
                         State.LastWordAttempted = retry
@@ -1328,21 +1333,22 @@ local function Init()
     end)
     
     -- BLATANT IDLE DETECTOR
-    -- Kalau blatant aktif tapi tidak ada submit dalam 3 detik dan tidak ada pending, coba submit
+    -- Kalau blatant aktif tapi tidak ada submit dalam 0.5 detik dan tidak ada pending, coba submit
     task.spawn(function()
         while State.IsRunning do
-            task.wait(1.5)
+            task.wait(0.5)
             if State.BlatantEnabled 
                 and not State.HasSubmitted 
                 and not State.SubmitPending 
                 and State.CurrentSoal ~= ""
-                and (tick() - State.LastSubmitTime > 1.5) 
+                and (tick() - State.LastSubmitTime > 0.5) 
             then
                 -- Blatant idle — paksa submit
                 local word = FindWord(State.CurrentSoal)
                 if word and not State.UsedWords[word] then
                     if State.BlatantDelay > 0 then task.wait(State.BlatantDelay) end
                     if State.BlatantEnabled and State.CurrentSoal ~= "" then
+                        pcall(function() VisualRemote:FireServer(word) end)
                         pcall(function() SubmitRemote:FireServer(word) end)
                         State.UsedWords[word] = true
                         State.LastWordAttempted = word
