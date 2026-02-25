@@ -1121,10 +1121,8 @@ local function Init()
                 State.CurrentTypedText = ""
                 State.LastSubmitTime = tick()  -- reset timer agar watchdog tidak langsung fire
                 
-                pcall(function() UpdateOverlay(letter, SubmitRemote) end)
-                
                 if State.BlatantEnabled then
-                    -- BLATANT MODE: instant submit tanpa ngetik
+                    -- OPTIMIZATION: Submit langsung SEBELUM update UI karena UpdateOverlay bikin yield 0.1s
                     task.spawn(function()
                         if State.BlatantDelay > 0 then task.wait(State.BlatantDelay) end
                         -- Re-check prefix masih sama
@@ -1141,13 +1139,21 @@ local function Init()
                             end
                         end
                     end)
+                    
+                    -- Update UI *setelah* submit terkirim ke server
+                    pcall(function() UpdateOverlay(letter, SubmitRemote) end)
+                    
                 elseif State.AutoEnabled then
+                    pcall(function() UpdateOverlay(letter, SubmitRemote) end)
                     local word = FindWord(letter)
                     if word then
                         task.spawn(function()
                             ExecuteReactivePlay(word, #State.CurrentSoal, SubmitRemote, VisualRemote)
                         end)
                     end
+                else
+                    -- Mode manual (auto/blatant mati)
+                    pcall(function() UpdateOverlay(letter, SubmitRemote) end)
                 end
             end
         end
