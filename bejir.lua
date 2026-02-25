@@ -1154,26 +1154,60 @@ local function Init()
     end)
 
     -- POST-SUBMIT WATCHDOG
-    -- HANYA menghapus teks jika:
-    --   1. HasSubmitted == true (kata benar-benar sudah di-submit)
-    --   2. Prefix TIDAK berubah setelah 5 detik (artinya server MENOLAK kata)
-    --   3. Tidak sedang ngetik (ActiveTask == false)
-    --   4. Tidak sedang backspace (IsBackspacing == false)
+    -- Menangani rejection untuk KEDUA mode: AutoPlay dan Blatant
     task.spawn(function()
         while State.IsRunning do
             task.wait(0.8)
             
-            -- SEMUA KONDISI harus terpenuhi sebelum backspace
-            local shouldRetry = State.AutoEnabled 
-                and State.HasSubmitted           -- WAJIB: sudah benar-benar submit
-                and State.SubmitPending           -- WAJIB: masih menunggu respons
-                and not State.ActiveTask          -- WAJIB: tidak sedang ngetik
-                and not State.IsBackspacing       -- WAJIB: tidak sedang backspace
-                and State.CurrentSoal ~= ""       -- WAJIB: ada soal aktif
-                and (tick() - State.LastSubmitTime > 5.0)  -- Tunggu 5 detik (bukan 3)
+            -- === BLATANT MODE WATCHDOG ===
+            if State.BlatantEnabled 
+                and State.HasSubmitted 
+                and State.SubmitPending 
+                and State.CurrentSoal ~= ""
+                and (tick() - State.LastSubmitTime > 2.0)  -- 2 detik untuk blatant (lebih cepat)
+            then
+                -- Kata ditolak — langsung retry tanpa backspace
+                State.TotalErrors = State.TotalErrors + 1
+                State.ConsecutiveErrors = State.ConsecutiveErrors + 1
+                
+                if State.LastWordAttempted ~= "" then
+                    State.RejectedWords[State.LastWordAttempted] = true
+                    State.UsedWords[State.LastWordAttempted] = true
+                end
+                
+                State.HasSubmitted = false
+                State.SubmitPending = false
+                UnlockWord()
+                
+                -- Langsung coba kata baru (instant submit)
+                local retry = FindWord(State.CurrentSoal, true)
+                if retry and not State.UsedWords[retry] then
+                    task.wait(State.BlatantDelay)
+                    if State.BlatantEnabled and State.CurrentSoal ~= "" then
+                        pcall(function() SubmitRemote:FireServer(retry) end)
+                        State.UsedWords[retry] = true
+                        State.LastWordAttempted = retry
+                        State.LastSubmitTime = tick()
+                        State.HasSubmitted = true
+                        State.SubmitPending = true
+                        UnlockWord()
+                    end
+                else
+                    -- Kehabisan kata, reset rejected dan coba lagi
+                    State.RejectedWords = {}
+                    State.LastSubmitTime = tick()
+                end
             
-            if shouldRetry then
-                -- Kata ditolak server — SEKARANG baru boleh backspace
+            -- === AUTO PLAY MODE WATCHDOG ===
+            elseif State.AutoEnabled 
+                and State.HasSubmitted
+                and State.SubmitPending
+                and not State.ActiveTask
+                and not State.IsBackspacing
+                and State.CurrentSoal ~= ""
+                and (tick() - State.LastSubmitTime > 5.0)
+            then
+                -- Kata ditolak server — backspace lalu retry
                 State.TotalErrors = State.TotalErrors + 1
                 State.ConsecutiveErrors = State.ConsecutiveErrors + 1
                 
@@ -1204,6 +1238,35 @@ local function Init()
                 end
                 
                 State.LastSubmitTime = tick()
+            end
+        end
+    end)
+    
+    -- BLATANT IDLE DETECTOR
+    -- Kalau blatant aktif tapi tidak ada submit dalam 3 detik dan tidak ada pending, coba submit
+    task.spawn(function()
+        while State.IsRunning do
+            task.wait(1.5)
+            if State.BlatantEnabled 
+                and not State.HasSubmitted 
+                and not State.SubmitPending 
+                and State.CurrentSoal ~= ""
+                and (tick() - State.LastSubmitTime > 1.5) 
+            then
+                -- Blatant idle — paksa submit
+                local word = FindWord(State.CurrentSoal)
+                if word and not State.UsedWords[word] then
+                    task.wait(State.BlatantDelay)
+                    if State.BlatantEnabled and State.CurrentSoal ~= "" then
+                        pcall(function() SubmitRemote:FireServer(word) end)
+                        State.UsedWords[word] = true
+                        State.LastWordAttempted = word
+                        State.LastSubmitTime = tick()
+                        State.HasSubmitted = true
+                        State.SubmitPending = true
+                        UnlockWord()
+                    end
+                end
             end
         end
     end)
