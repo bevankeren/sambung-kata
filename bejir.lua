@@ -527,6 +527,319 @@ BackspaceSection:Slider({
     end
 })
 
+-- ═══════════════════════════════════════════════════════════════════════
+-- MISC TAB — Utility Features
+-- ═══════════════════════════════════════════════════════════════════════
+local MiscTab = Window:Tab({
+    Title = "Misc",
+    Icon = "solar:settings-bold",
+    IconColor = Color3.fromHex("#34D399"),
+    IconShape = "Square",
+    Border = true,
+})
+
+-- Misc State
+local MiscState = {
+    FlyEnabled = false,
+    FlySpeed = 50,
+    FlyBody = nil,
+    FlyGyro = nil,
+    NoclipEnabled = false,
+    NoclipConn = nil,
+    InfJumpEnabled = false,
+    InfJumpConn = nil,
+    OriginalWalkSpeed = 16,
+    OriginalJumpPower = 50,
+    OriginalGravity = 196.2,
+}
+
+-- Helper: get character safely
+local function GetCharacter()
+    local char = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+    return char
+end
+
+local function GetHumanoid()
+    local char = GetCharacter()
+    return char and char:FindFirstChildOfClass("Humanoid")
+end
+
+local function GetRootPart()
+    local char = GetCharacter()
+    return char and char:FindFirstChild("HumanoidRootPart")
+end
+
+-- ══ MOVEMENT SECTION ══
+local MovementSection = MiscTab:Section({
+    Title = "🏃 Movement",
+    Box = true,
+    BoxBorder = true,
+    Opened = true,
+})
+
+MovementSection:Slider({
+    Title = "WalkSpeed",
+    Desc = "Kecepatan jalan (default: 16)",
+    IsTooltip = true,
+    Step = 1,
+    Value = { Min = 16, Max = 200, Default = 16 },
+    Callback = function(v)
+        pcall(function()
+            local hum = GetHumanoid()
+            if hum then hum.WalkSpeed = v end
+        end)
+    end
+})
+
+MovementSection:Space()
+
+MovementSection:Slider({
+    Title = "JumpPower",
+    Desc = "Kekuatan lompat (default: 50)",
+    IsTooltip = true,
+    Step = 5,
+    Value = { Min = 50, Max = 500, Default = 50 },
+    Callback = function(v)
+        pcall(function()
+            local hum = GetHumanoid()
+            if hum then
+                hum.UseJumpPower = true
+                hum.JumpPower = v
+            end
+        end)
+    end
+})
+
+MovementSection:Space()
+
+MovementSection:Toggle({
+    Title = "Infinite Jump",
+    Desc = "Lompat tanpa batas di udara",
+    Default = false,
+    Callback = function(v)
+        MiscState.InfJumpEnabled = v
+        if v then
+            MiscState.InfJumpConn = game:GetService("UserInputService").JumpRequest:Connect(function()
+                pcall(function()
+                    local hum = GetHumanoid()
+                    if hum and MiscState.InfJumpEnabled then
+                        hum:ChangeState(Enum.HumanoidStateType.Jumping)
+                    end
+                end)
+            end)
+        else
+            if MiscState.InfJumpConn then
+                MiscState.InfJumpConn:Disconnect()
+                MiscState.InfJumpConn = nil
+            end
+        end
+    end
+})
+
+-- ══ FLY SECTION ══
+local FlySection = MiscTab:Section({
+    Title = "✈ Fly",
+    Box = true,
+    BoxBorder = true,
+    Opened = true,
+})
+
+FlySection:Toggle({
+    Title = "Fly",
+    Desc = "Terbang bebas (WASD + Space/Shift)",
+    Default = false,
+    Callback = function(v)
+        MiscState.FlyEnabled = v
+        pcall(function()
+            local rootPart = GetRootPart()
+            local hum = GetHumanoid()
+            if not rootPart or not hum then return end
+            
+            if v then
+                -- Create fly bodies
+                local bg = Instance.new("BodyGyro")
+                bg.P = 9e4
+                bg.D = 500
+                bg.MaxTorque = Vector3.new(9e9, 9e9, 9e9)
+                bg.CFrame = rootPart.CFrame
+                bg.Parent = rootPart
+                MiscState.FlyGyro = bg
+                
+                local bv = Instance.new("BodyVelocity")
+                bv.MaxForce = Vector3.new(9e9, 9e9, 9e9)
+                bv.Velocity = Vector3.new(0, 0, 0)
+                bv.Parent = rootPart
+                MiscState.FlyBody = bv
+                
+                hum.PlatformStand = true
+                
+                -- Fly loop
+                task.spawn(function()
+                    local UIS = game:GetService("UserInputService")
+                    local cam = workspace.CurrentCamera
+                    while MiscState.FlyEnabled and MiscState.FlyBody and MiscState.FlyBody.Parent do
+                        local dir = Vector3.new(0, 0, 0)
+                        if UIS:IsKeyDown(Enum.KeyCode.W) then dir = dir + cam.CFrame.LookVector end
+                        if UIS:IsKeyDown(Enum.KeyCode.S) then dir = dir - cam.CFrame.LookVector end
+                        if UIS:IsKeyDown(Enum.KeyCode.A) then dir = dir - cam.CFrame.RightVector end
+                        if UIS:IsKeyDown(Enum.KeyCode.D) then dir = dir + cam.CFrame.RightVector end
+                        if UIS:IsKeyDown(Enum.KeyCode.Space) then dir = dir + Vector3.new(0, 1, 0) end
+                        if UIS:IsKeyDown(Enum.KeyCode.LeftShift) then dir = dir - Vector3.new(0, 1, 0) end
+                        
+                        if dir.Magnitude > 0 then
+                            MiscState.FlyBody.Velocity = dir.Unit * MiscState.FlySpeed
+                        else
+                            MiscState.FlyBody.Velocity = Vector3.new(0, 0, 0)
+                        end
+                        MiscState.FlyGyro.CFrame = cam.CFrame
+                        task.wait()
+                    end
+                end)
+            else
+                -- Cleanup
+                if MiscState.FlyGyro then pcall(function() MiscState.FlyGyro:Destroy() end) MiscState.FlyGyro = nil end
+                if MiscState.FlyBody then pcall(function() MiscState.FlyBody:Destroy() end) MiscState.FlyBody = nil end
+                hum.PlatformStand = false
+            end
+        end)
+    end
+})
+
+FlySection:Space()
+
+FlySection:Slider({
+    Title = "Fly Speed",
+    Desc = "Kecepatan terbang",
+    IsTooltip = true,
+    Step = 5,
+    Value = { Min = 10, Max = 300, Default = 50 },
+    Callback = function(v) MiscState.FlySpeed = v end
+})
+
+-- ══ WORLD SECTION ══
+local WorldSection = MiscTab:Section({
+    Title = "🌍 World",
+    Box = true,
+    BoxBorder = true,
+    Opened = true,
+})
+
+WorldSection:Toggle({
+    Title = "Noclip",
+    Desc = "Tembus dinding dan objek",
+    Default = false,
+    Callback = function(v)
+        MiscState.NoclipEnabled = v
+        if v then
+            MiscState.NoclipConn = Services.RunService.Stepped:Connect(function()
+                pcall(function()
+                    if not MiscState.NoclipEnabled then return end
+                    local char = LocalPlayer.Character
+                    if char then
+                        for _, part in pairs(char:GetDescendants()) do
+                            if part:IsA("BasePart") then
+                                part.CanCollide = false
+                            end
+                        end
+                    end
+                end)
+            end)
+        else
+            if MiscState.NoclipConn then
+                MiscState.NoclipConn:Disconnect()
+                MiscState.NoclipConn = nil
+            end
+            -- Restore collision
+            pcall(function()
+                local char = LocalPlayer.Character
+                if char then
+                    for _, part in pairs(char:GetDescendants()) do
+                        if part:IsA("BasePart") then
+                            part.CanCollide = true
+                        end
+                    end
+                end
+            end)
+        end
+    end
+})
+
+WorldSection:Space()
+
+WorldSection:Slider({
+    Title = "Gravity",
+    Desc = "Gravitasi dunia (default: 196.2)",
+    IsTooltip = true,
+    Step = 5,
+    Value = { Min = 0, Max = 500, Default = 196 },
+    Callback = function(v)
+        pcall(function()
+            workspace.Gravity = v
+        end)
+    end
+})
+
+-- ══ PERFORMANCE SECTION ══
+local PerfSection = MiscTab:Section({
+    Title = "⚡ Performance",
+    Box = true,
+    BoxBorder = true,
+    Opened = true,
+})
+
+PerfSection:Toggle({
+    Title = "FPS Booster",
+    Desc = "Hapus efek visual untuk naikkan FPS",
+    Default = false,
+    Callback = function(v)
+        pcall(function()
+            local lighting = game:GetService("Lighting")
+            if v then
+                -- Disable heavy effects
+                for _, effect in pairs(lighting:GetChildren()) do
+                    if effect:IsA("BlurEffect") or effect:IsA("SunRaysEffect") or 
+                       effect:IsA("BloomEffect") or effect:IsA("DepthOfFieldEffect") or
+                       effect:IsA("ColorCorrectionEffect") then
+                        effect.Enabled = false
+                    end
+                end
+                -- Lower terrain detail
+                pcall(function()
+                    game:GetService("Terrain").WaterWaveSize = 0
+                    game:GetService("Terrain").WaterWaveSpeed = 0
+                    game:GetService("Terrain").WaterReflectance = 0
+                    game:GetService("Terrain").WaterTransparency = 0
+                end)
+                -- Remove particles
+                for _, v in pairs(workspace:GetDescendants()) do
+                    if v:IsA("ParticleEmitter") or v:IsA("Trail") or v:IsA("Smoke") or 
+                       v:IsA("Fire") or v:IsA("Sparkles") then
+                        v.Enabled = false
+                    end
+                end
+                
+                settings().Rendering.QualityLevel = Enum.QualityLevel.Level01
+            else
+                -- Re-enable
+                for _, effect in pairs(lighting:GetChildren()) do
+                    if effect:IsA("PostEffect") then
+                        effect.Enabled = true
+                    end
+                end
+                for _, v in pairs(workspace:GetDescendants()) do
+                    if v:IsA("ParticleEmitter") or v:IsA("Trail") or v:IsA("Smoke") or 
+                       v:IsA("Fire") or v:IsA("Sparkles") then
+                        v.Enabled = true
+                    end
+                end
+                settings().Rendering.QualityLevel = Enum.QualityLevel.Automatic
+            end
+        end)
+    end
+})
+
+
+
 -- SARAN KATA OVERLAY (Optimized)
 local OverlayScroll
 local OverlayTitle
