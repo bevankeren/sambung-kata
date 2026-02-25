@@ -847,6 +847,19 @@ WorldSection:Toggle({
     end
 })
 
+WorldSection:Space()
+
+WorldSection:Button({
+    Title = "Rejoin Same Server",
+    Desc = "Keluar dan masuk kembali ke server ini",
+    Callback = function()
+        pcall(function()
+            WindUI:Notify({Title = "Rejoin", Content = "Sedang mencoba rejoin ke server ini...", Duration = 3})
+            Services.TeleportService:TeleportToPlaceInstance(game.PlaceId, game.JobId, LocalPlayer)
+        end)
+    end
+})
+
 -- ══ PERFORMANCE SECTION ══
 local PerfSection = MiscTab:Section({
     Title = "⚡ Performance",
