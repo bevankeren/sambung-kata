@@ -136,10 +136,25 @@ local function FindWord(prefix, forceNew)
         -- WORD MODE LOGIC
         if not selectedWord then
             if State.WordMode == "umum" then
-                -- Pilih kata pendek (umum/sering didengar) — ambil dari awal list (sudah di-sort by length)
-                local maxIdx = math.min(math.ceil(#candidates * 0.3), #candidates)
-                maxIdx = math.max(1, maxIdx)
-                selectedWord = candidates[math.random(1, maxIdx)]
+                -- Pilih kata berukuran "normal" (4 - 6 huruf) agar terdengar natural dan bukan singkatan aneh
+                local normalWords = {}
+                for _, w in ipairs(candidates) do
+                    if #w >= 4 and #w <= 6 then
+                        table.insert(normalWords, w)
+                    end
+                end
+                
+                if #normalWords > 0 then
+                    -- Ambil 50% kata terpendek dari himpunan kata normal
+                    local maxIdx = math.min(math.ceil(#normalWords * 0.5), #normalWords)
+                    maxIdx = math.max(1, maxIdx)
+                    selectedWord = normalWords[math.random(1, maxIdx)]
+                else
+                    -- Fallback: ambil dari 30% kata terpendek yang tersedia
+                    local maxIdx = math.min(math.ceil(#candidates * 0.3), #candidates)
+                    maxIdx = math.max(1, maxIdx)
+                    selectedWord = candidates[math.random(1, maxIdx)]
+                end
                 
             elseif State.WordMode == "aneh" then
                 -- Pilih kata panjang (jarang didengar) — ambil dari akhir list
