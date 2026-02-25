@@ -481,7 +481,7 @@ AutoSection:Space()
 
 AutoSection:Dropdown({
     Title = "Mode Kata",
-    Desc = "Pilih jenis kata yang digunakan",
+    Desc = "Umum: AI cari yg sering didengar\nBalanced: Campuran\nAneh: Jarang didengar",
     Multi = false,
     Value = "Balanced",
     Values = {"Umum", "Balanced", "Aneh"},
