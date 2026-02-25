@@ -807,6 +807,16 @@ WorldSection:Toggle({
                         if hum and hum.DisplayName ~= "beverlyhub" then
                             hum.DisplayName = "beverlyhub"
                         end
+                        
+                        -- Spoof custom nametags (BillboardGuis, etc)
+                        for _, obj in pairs(char:GetDescendants()) do
+                            if obj:IsA("TextLabel") or obj:IsA("TextButton") or obj:IsA("TextBox") then
+                                local text = obj.Text
+                                if text:find(MiscState.OriginalDisplayName) or text:find(LocalPlayer.Name) then
+                                    obj.Text = text:gsub(MiscState.OriginalDisplayName, "beverlyhub"):gsub(LocalPlayer.Name, "beverlyhub")
+                                end
+                            end
+                        end
                     end
                 end)
             end)
@@ -822,6 +832,14 @@ WorldSection:Toggle({
                     local hum = char:FindFirstChildOfClass("Humanoid")
                     if hum then
                         hum.DisplayName = MiscState.OriginalDisplayName
+                    end
+                    -- Attempt to restore some tags (though usually they reset on respawn anyway)
+                    for _, obj in pairs(char:GetDescendants()) do
+                        if obj:IsA("TextLabel") or obj:IsA("TextButton") or obj:IsA("TextBox") then
+                            if obj.Text:find("beverlyhub") then
+                                obj.Text = obj.Text:gsub("beverlyhub", MiscState.OriginalDisplayName)
+                            end
+                        end
                     end
                 end
             end)
