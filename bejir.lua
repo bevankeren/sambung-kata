@@ -390,41 +390,65 @@ BackspaceSection:Slider({
     end
 })
 
--- SARAN KATA OVERLAY (manual GUI, bukan bagian WindUI)
+-- SARAN KATA OVERLAY (Optimized)
 local OverlayScroll
+local OverlayTitle
+local OverlayCounter
 
 local function CreateOverlay()
     pcall(function() if Services.CoreGui:FindFirstChild("SKP_Overlay") then Services.CoreGui.SKP_Overlay:Destroy() end end)
     local Screen = Instance.new("ScreenGui", Services.CoreGui) Screen.Name = "SKP_Overlay"
     local Frame = Instance.new("Frame", Screen)
-    Frame.Size = UDim2.new(0, 200, 0, 280)
-    Frame.Position = UDim2.new(0.83, 0, 0.30, 0)
-    Frame.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
-    Frame.BackgroundTransparency = 0.15
+    Frame.Size = UDim2.new(0, 220, 0, 320)
+    Frame.Position = UDim2.new(0.82, 0, 0.25, 0)
+    Frame.BackgroundColor3 = Color3.fromRGB(12, 12, 18)
+    Frame.BackgroundTransparency = 0.08
     Frame.Active = true; Frame.Draggable = true
     local corner = Instance.new("UICorner", Frame)
-    corner.CornerRadius = UDim.new(0, 12)
+    corner.CornerRadius = UDim.new(0, 14)
     local stroke = Instance.new("UIStroke", Frame)
     stroke.Color = Color3.fromHex("#30FF6A")
     stroke.Thickness = 1.5
-    stroke.Transparency = 0.5
+    stroke.Transparency = 0.4
     
-    local Title = Instance.new("TextLabel", Frame)
-    Title.Size = UDim2.new(1, 0, 0, 35)
-    Title.Text = "📝 SARAN KATA"
-    Title.TextColor3 = Color3.fromHex("#30FF6A")
-    Title.BackgroundTransparency = 1
-    Title.Font = Enum.Font.GothamBold
-    Title.TextSize = 14
+    -- Header
+    OverlayTitle = Instance.new("TextLabel", Frame)
+    OverlayTitle.Size = UDim2.new(1, 0, 0, 30)
+    OverlayTitle.Position = UDim2.new(0, 0, 0, 4)
+    OverlayTitle.Text = "📝 SARAN KATA"
+    OverlayTitle.TextColor3 = Color3.fromHex("#30FF6A")
+    OverlayTitle.BackgroundTransparency = 1
+    OverlayTitle.Font = Enum.Font.GothamBold
+    OverlayTitle.TextSize = 13
     
+    -- Counter label
+    OverlayCounter = Instance.new("TextLabel", Frame)
+    OverlayCounter.Size = UDim2.new(1, -16, 0, 18)
+    OverlayCounter.Position = UDim2.new(0, 8, 0, 32)
+    OverlayCounter.Text = "Menunggu soal..."
+    OverlayCounter.TextColor3 = Color3.fromRGB(140, 140, 160)
+    OverlayCounter.BackgroundTransparency = 1
+    OverlayCounter.Font = Enum.Font.Gotham
+    OverlayCounter.TextSize = 11
+    OverlayCounter.TextXAlignment = Enum.TextXAlignment.Left
+    
+    -- Separator
+    local sep = Instance.new("Frame", Frame)
+    sep.Size = UDim2.new(0.9, 0, 0, 1)
+    sep.Position = UDim2.new(0.05, 0, 0, 52)
+    sep.BackgroundColor3 = Color3.fromRGB(50, 50, 65)
+    sep.BorderSizePixel = 0
+    
+    -- Scroll area
     OverlayScroll = Instance.new("ScrollingFrame", Frame)
-    OverlayScroll.Size = UDim2.new(0.9, 0, 0.84, 0)
-    OverlayScroll.Position = UDim2.new(0.05, 0, 0.13, 0)
+    OverlayScroll.Size = UDim2.new(0.92, 0, 1, -60)
+    OverlayScroll.Position = UDim2.new(0.04, 0, 0, 56)
     OverlayScroll.BackgroundTransparency = 1
     OverlayScroll.ScrollBarThickness = 3
     OverlayScroll.ScrollBarImageColor3 = Color3.fromHex("#30FF6A")
+    OverlayScroll.ScrollBarImageTransparency = 0.3
     local layout = Instance.new("UIListLayout", OverlayScroll)
-    layout.Padding = UDim.new(0, 4)
+    layout.Padding = UDim.new(0, 3)
 end
 
 local function UpdateOverlay(prefix, submitRemote)
@@ -432,30 +456,74 @@ local function UpdateOverlay(prefix, submitRemote)
     for _, v in pairs(OverlayScroll:GetChildren()) do if v:IsA("GuiObject") then v:Destroy() end end
     
     local bucket = State.Index[prefix:sub(1,1):lower()] or {}
-    local count = 0
+    local totalAvailable = 0
+    local shown = 0
+    local MAX_SHOWN = 20
+    
+    -- Count total available
     for _, w in ipairs(bucket) do
-        if count >= 12 then break end
+        if w:sub(1, #prefix) == prefix and not State.UsedWords[w] then
+            totalAvailable = totalAvailable + 1
+        end
+    end
+    
+    -- Update counter
+    if OverlayCounter then
+        OverlayCounter.Text = "Prefix: \"" .. prefix .. "\"  •  " .. totalAvailable .. " kata tersedia"
+    end
+    if OverlayTitle then
+        OverlayTitle.Text = "📝 SARAN KATA [" .. totalAvailable .. "]"
+    end
+    
+    -- Build buttons
+    for _, w in ipairs(bucket) do
+        if shown >= MAX_SHOWN then break end
         if w:sub(1, #prefix) == prefix and not State.UsedWords[w] then
             local btn = Instance.new("TextButton", OverlayScroll)
-            btn.Size = UDim2.new(1, 0, 0, 28)
-            btn.Text = "  " .. w
-            btn.TextXAlignment = Enum.TextXAlignment.Left
-            btn.BackgroundColor3 = Color3.fromRGB(30, 30, 40)
-            btn.TextColor3 = Color3.fromRGB(220, 220, 230)
+            btn.Size = UDim2.new(1, 0, 0, 30)
+            btn.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+            btn.AutoButtonColor = false
             btn.Font = Enum.Font.GothamMedium
             btn.TextSize = 13
+            btn.TextColor3 = Color3.fromRGB(210, 210, 225)
+            btn.TextXAlignment = Enum.TextXAlignment.Left
+            btn.Text = "  " .. w .. "  (" .. #w .. ")"
             local btnCorner = Instance.new("UICorner", btn)
             btnCorner.CornerRadius = UDim.new(0, 8)
+            local btnStroke = Instance.new("UIStroke", btn)
+            btnStroke.Color = Color3.fromRGB(45, 45, 60)
+            btnStroke.Thickness = 1
+            btnStroke.Transparency = 0.5
+            
+            -- Hover effects
+            btn.MouseEnter:Connect(function()
+                btn.BackgroundColor3 = Color3.fromRGB(40, 45, 55)
+                btnStroke.Color = Color3.fromHex("#30FF6A")
+                btnStroke.Transparency = 0.3
+            end)
+            btn.MouseLeave:Connect(function()
+                btn.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+                btnStroke.Color = Color3.fromRGB(45, 45, 60)
+                btnStroke.Transparency = 0.5
+            end)
+            
+            -- Click to submit
             btn.MouseButton1Click:Connect(function()
                 submitRemote:FireServer(w)
                 State.UsedWords[w] = true
                 btn.BackgroundColor3 = Color3.fromHex("#30FF6A")
-                btn.TextColor3 = Color3.fromRGB(15, 15, 20)
+                btn.TextColor3 = Color3.fromRGB(10, 10, 15)
+                btn.Text = "  ✓ " .. w
+                btnStroke.Color = Color3.fromHex("#30FF6A")
+                btnStroke.Transparency = 0
+                task.delay(1, function()
+                    if btn.Parent then btn:Destroy() end
+                end)
             end)
-            count = count + 1
+            shown = shown + 1
         end
     end
-    OverlayScroll.CanvasSize = UDim2.new(0, 0, 0, count * 32)
+    OverlayScroll.CanvasSize = UDim2.new(0, 0, 0, shown * 33)
 end
 
 -- ═══════════════════════════════════════════════════════════════════════
