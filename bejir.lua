@@ -1123,10 +1123,33 @@ local function UpdateOverlay(prefix, submitRemote)
     local shown = 0
     local MAX_SHOWN = 20
     
-    -- Count total available
+    local candidates = {}
+    -- Count total available and collect candidates
     for _, w in ipairs(bucket) do
         if w:sub(1, #prefix) == prefix and not State.UsedWords[w] then
             totalAvailable = totalAvailable + 1
+            table.insert(candidates, w)
+        end
+    end
+    
+    -- Pick words that are "umum" (common lengths, usually 4-7 letters, not just the absolute shortest which might be weird acronyms)
+    local selectedWords = {}
+    if #candidates > 0 then
+        -- Shuffle or pick from the first 30% of the list (which contains relatively short but real words)
+        local maxIdx = math.min(math.ceil(#candidates * 0.3), #candidates)
+        maxIdx = math.max(MAX_SHOWN, maxIdx) -- ensure we have enough to show
+        
+        local usedIndices = {}
+        for i = 1, math.min(MAX_SHOWN, #candidates) do
+            local attempts = 0
+            local r
+            repeat
+                r = math.random(1, math.max(1, maxIdx))
+                attempts = attempts + 1
+            until not usedIndices[r] or attempts > 10
+            
+            usedIndices[r] = true
+            table.insert(selectedWords, candidates[r])
         end
     end
     
@@ -1154,9 +1177,9 @@ local function UpdateOverlay(prefix, submitRemote)
         Color3.fromHex("#F472B6"),
         Color3.fromHex("#38BDF8"),
     }
-    for _, w in ipairs(bucket) do
+    for _, w in ipairs(selectedWords) do
         if shown >= MAX_SHOWN then break end
-        if w:sub(1, #prefix) == prefix and not State.UsedWords[w] then
+        if true then -- already filtered by prefix and used state
             local colorIdx = (shown % 3) + 1
             local btn = Instance.new("TextButton", OverlayScroll)
             btn.Size = UDim2.new(1, 0, 0, 30)
