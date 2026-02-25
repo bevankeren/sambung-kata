@@ -169,10 +169,12 @@ local function GetDelay()
     return baseDelay
 end
 
--- Backspace natural: hapus teks satu huruf per waktu dengan delay
-local function BackspaceText(visualRemote, currentText)
+-- Backspace natural: hapus teks satu huruf per waktu, berhenti di `stopAt` huruf
+-- stopAt = panjang prefix (sisakan prefix, jangan hapus sampai kosong)
+local function BackspaceText(visualRemote, currentText, stopAt)
     if not currentText or currentText == "" then return end
-    for i = #currentText, 1, -1 do
+    stopAt = stopAt or 0
+    for i = #currentText, stopAt + 1, -1 do
         if not State.AutoEnabled then return end
         local partialText = currentText:sub(1, i - 1)
         visualRemote:FireServer(partialText)
@@ -581,6 +583,8 @@ local function Init()
                 State.ActiveTask = true
                 
                 task.wait(0.2)
+                -- Hapus hanya sampai sisa prefix (jangan hapus sampai kosong)
+                BackspaceText(VisualRemote, State.CurrentTypedText, #State.CurrentSoal)
                 UnlockWord()
                 
                 local retry = FindWord(State.CurrentSoal, true)
