@@ -199,19 +199,16 @@ local function ExecuteReactivePlay(word, prefixLen, submitRemote, visualRemote)
     for i = startIdx, #currentWord do
         if not State.AutoEnabled then State.ActiveTask = false; return end
         
-        -- Prefix berubah: backspace dulu baru stop
+        -- Prefix berubah: langsung stop, TIDAK hapus teks
         if State.CurrentSoal ~= currentPrefix then
-            BackspaceText(visualRemote, State.CurrentTypedText)
             State.ActiveTask = false
             UnlockWord()
             return
         end
         
-        -- Kata dipakai orang lain: backspace lalu retry
+        -- Kata dipakai orang lain: langsung retry, TIDAK hapus teks
         if State.UsedWords[currentWord] then
-            BackspaceText(visualRemote, State.CurrentTypedText)
             UnlockWord()
-            
             local retry = FindWord(State.CurrentSoal, true)
             if retry then
                 State.ActiveTask = false
@@ -222,9 +219,8 @@ local function ExecuteReactivePlay(word, prefixLen, submitRemote, visualRemote)
             return
         end
         
-        -- Locked word berubah: switch ke word baru
+        -- Locked word berubah: switch ke word baru, TIDAK hapus teks
         if State.LockedWord ~= currentWord and State.LockedPrefix == currentPrefix then
-            BackspaceText(visualRemote, State.CurrentTypedText)
             State.ActiveTask = false
             task.spawn(function() 
                 ExecuteReactivePlay(State.LockedWord, #State.CurrentSoal, submitRemote, visualRemote) 
