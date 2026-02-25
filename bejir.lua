@@ -1,7 +1,12 @@
 --[[
     SAMBUNG KATA PRO v16.0
     Beverly Hub — Safe Backspace + Failchecks
-]]
+]]--=============================================================================
+-- ANTI-DUPLICATION / RE-EXECUTION SAFEGUARD
+--=============================================================================
+if _G.BeverlyHubUnload then
+    pcall(function() _G.BeverlyHubUnload() end)
+end
 
 -- LOAD WIND UI
 local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
@@ -49,9 +54,10 @@ local State = {
     BackspaceDelayMin = 0.03,
     BackspaceDelayMax = 0.09,
     CurrentTypedText = "",
+    MatchRemoteConn = nil,           -- NEW: keep track of event conn for safe unload
 }
 
--- ═══════════════════════════════════════════════════════════════════════
+-- Helper: get character safely
 -- 1. LOAD KAMUS EXTERNAL
 -- ═══════════════════════════════════════════════════════════════════════
 local RAW_KAMUS = {}
@@ -426,6 +432,19 @@ local AutoSection = MainTab:Section({
     BoxBorder = true,
     Opened = true,
 })
+
+-- Build the Unload Function to be registered globally
+_G.BeverlyHubUnload = function()
+    State.IsRunning = false
+    MiscState.IsRunning = false
+    if State.MatchRemoteConn then State.MatchRemoteConn:Disconnect() end
+    if MiscState.HideIdentityConn then MiscState.HideIdentityConn:Disconnect() end
+    if MiscState.NoclipConn then MiscState.NoclipConn:Disconnect() end
+    if MiscState.FlyConn then MiscState.FlyConn:Disconnect() end
+    if pcall(function() Window:Destroy() end) then end
+    if pcall(function() if Services.CoreGui:FindFirstChild("BEV_Overlay") then Services.CoreGui.BEV_Overlay:Destroy() end end) then end
+    _G.BeverlyHubUnload = nil
+end
 
 AutoSection:Toggle({
     Title = "Auto Play",
@@ -1196,7 +1215,7 @@ local function Init()
     end
 
     -- EVENT LISTENER
-    MatchRemote.OnClientEvent:Connect(function(...)
+    State.MatchRemoteConn = MatchRemote.OnClientEvent:Connect(function(...)
         local args = {...}
         
         local newlyUsedWord = nil
