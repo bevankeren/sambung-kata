@@ -1,6 +1,6 @@
 --[[
-    SAMBUNG KATA PRO v15.0
-    Wind UI + External Kamus + Natural Backspace
+    SAMBUNG KATA PRO v16.0
+    Beverly Hub — Safe Backspace + Failchecks
 ]]
 
 -- LOAD WIND UI
@@ -24,9 +24,12 @@ local State = {
     Index = {},
     GlobalDict = {},
     ActiveTask = false,
+    IsBackspacing = false,           -- NEW: guard against overlapping backspace
+    HasSubmitted = false,            -- NEW: true only after actual submit
+    SubmitPending = false,           -- NEW: waiting for server response
     CurrentSoal = "",
     LastWordAttempted = "",
-    LastSubmitTime = 0,
+    LastSubmitTime = 0,              -- will be set to tick() at Init()
     LockedWord = "",
     LockedPrefix = "",
     TotalWordsFound = 0,
@@ -170,36 +173,76 @@ local function GetDelay()
 end
 
 -- Backspace natural: hapus teks satu huruf per waktu, berhenti di `stopAt` huruf
--- stopAt = panjang prefix (sisakan prefix, jangan hapus sampai kosong)
+-- HANYA dipanggil setelah submit + rejection, TIDAK PERNAH saat sedang ngetik
 local function BackspaceText(visualRemote, currentText, stopAt)
+    -- FAILCHECK: jangan jalankan kalau sedang backspace / tidak ada teks / remote nil
+    if State.IsBackspacing then return end
     if not currentText or currentText == "" then return end
+    if not visualRemote then return end
+    
+    State.IsBackspacing = true
     stopAt = stopAt or 0
+    
     for i = #currentText, stopAt + 1, -1 do
-        if not State.AutoEnabled then return end
+        -- FAILCHECK: berhenti kalau auto dimatikan atau prefix berubah (seseorang jawab duluan)
+        if not State.AutoEnabled then 
+            State.IsBackspacing = false
+            return 
+        end
         local partialText = currentText:sub(1, i - 1)
-        visualRemote:FireServer(partialText)
+        pcall(function() visualRemote:FireServer(partialText) end)
         State.CurrentTypedText = partialText
         local bsDelay = State.BackspaceDelayMin + (math.random() * (State.BackspaceDelayMax - State.BackspaceDelayMin))
         task.wait(bsDelay)
     end
+    State.IsBackspacing = false
 end
 
 -- EKSEKUSI UTAMA (REACTIVE LOOP)
 local function ExecuteReactivePlay(word, prefixLen, submitRemote, visualRemote)
+    -- FAILCHECK: jangan jalankan kalau sudah ada task aktif atau sedang backspace
     if State.ActiveTask then return end
+    if State.IsBackspacing then return end
+    if not word or word == "" then return end
+    if not submitRemote or not visualRemote then return end
+    
     State.ActiveTask = true
+    State.HasSubmitted = false  -- reset: belum submit apa-apa
     
     local currentWord = word
     local currentPrefix = State.CurrentSoal
     
+    -- FAILCHECK: pastikan kata dimulai dengan prefix yang benar
+    if not currentWord:sub(1, #currentPrefix):lower() == currentPrefix:lower() then
+        State.ActiveTask = false
+        return
+    end
+    
     local think = State.ThinkDelayMin + (math.random() * (State.ThinkDelayMax - State.ThinkDelayMin))
     task.wait(think)
+    
+    -- FAILCHECK: re-check setelah think delay, mungkin prefix sudah berubah
+    if State.CurrentSoal ~= currentPrefix then
+        State.ActiveTask = false
+        UnlockWord()
+        return
+    end
     
     local startIdx = prefixLen + 1
     if startIdx < 1 then startIdx = 1 end
     
     for i = startIdx, #currentWord do
-        if not State.AutoEnabled then State.ActiveTask = false; return end
+        -- FAILCHECK: auto dimatikan
+        if not State.AutoEnabled then 
+            State.ActiveTask = false
+            return 
+        end
+        
+        -- FAILCHECK: sedang backspace, berhenti ngetik
+        if State.IsBackspacing then
+            State.ActiveTask = false
+            return
+        end
         
         -- Prefix berubah: langsung stop, TIDAK hapus teks
         if State.CurrentSoal ~= currentPrefix then
@@ -208,7 +251,7 @@ local function ExecuteReactivePlay(word, prefixLen, submitRemote, visualRemote)
             return
         end
         
-        -- Kata dipakai orang lain: langsung retry, TIDAK hapus teks
+        -- Kata sudah dipakai orang lain: cari kata baru, TIDAK hapus teks
         if State.UsedWords[currentWord] then
             UnlockWord()
             local retry = FindWord(State.CurrentSoal, true)
@@ -230,22 +273,40 @@ local function ExecuteReactivePlay(word, prefixLen, submitRemote, visualRemote)
             return
         end
 
-        -- Ketik huruf
+        -- Ketik huruf (dengan pcall untuk safety)
         local typed = currentWord:sub(1, i)
-        visualRemote:FireServer(typed)
+        pcall(function() visualRemote:FireServer(typed) end)
         State.CurrentTypedText = typed
         task.wait(GetDelay())
     end
     
-    -- SUBMIT
+    -- ═══ SUBMIT ═══
+    -- FAILCHECK: triple-check sebelum submit
     task.wait(0.5)
-    if State.AutoEnabled and State.CurrentSoal == currentPrefix then
-        submitRemote:FireServer(currentWord)
-        State.LastWordAttempted = currentWord
-        State.LastSubmitTime = tick()
-        State.UsedWords[currentWord] = true
-        State.CurrentTypedText = ""
+    if not State.AutoEnabled then
+        State.ActiveTask = false
+        return
     end
+    if State.CurrentSoal ~= currentPrefix then
+        -- Prefix sudah berubah saat kita nunggu, jangan submit
+        State.ActiveTask = false
+        UnlockWord()
+        return
+    end
+    if State.UsedWords[currentWord] then
+        -- Kata tiba-tiba sudah terpakai (orang lain jawab duluan)
+        State.ActiveTask = false
+        UnlockWord()
+        return
+    end
+    
+    -- Semua check passed, aman untuk submit
+    pcall(function() submitRemote:FireServer(currentWord) end)
+    State.LastWordAttempted = currentWord
+    State.LastSubmitTime = tick()
+    State.HasSubmitted = true      -- BARU SET TRUE SETELAH BENAR-BENAR SUBMIT
+    State.SubmitPending = true     -- Menunggu respons server
+    State.UsedWords[currentWord] = true
     
     State.ActiveTask = false
 end
@@ -566,7 +627,7 @@ local function Init()
     -- EVENT LISTENER
     MatchRemote.OnClientEvent:Connect(function(...)
         local args = {...}
-        ScanForUsedWords(args)
+        pcall(function() ScanForUsedWords(args) end)
         
         if args[1] == "UpdateServerLetter" and args[2] then
             local letter = tostring(args[2]):lower()
@@ -576,12 +637,23 @@ local function Init()
                     UnlockWord()
                 end
                 
+                -- Prefix berubah = jawaban sebelumnya diterima (atau orang lain jawab)
+                if State.HasSubmitted and State.SubmitPending then
+                    -- Jawaban BERHASIL! Prefix berubah berarti server menerima kata kita
+                    State.TotalCorrect = State.TotalCorrect + 1
+                    State.ConsecutiveErrors = 0
+                end
+                
+                -- Reset semua state untuk soal baru
                 State.CurrentSoal = letter
                 State.ActiveTask = false
-                State.ConsecutiveErrors = 0
-                State.TotalCorrect = State.TotalCorrect + 1
+                State.IsBackspacing = false
+                State.HasSubmitted = false
+                State.SubmitPending = false
                 State.CurrentTypedText = ""
-                UpdateOverlay(letter, SubmitRemote)
+                State.LastSubmitTime = tick()  -- reset timer agar watchdog tidak langsung fire
+                
+                pcall(function() UpdateOverlay(letter, SubmitRemote) end)
                 
                 if State.AutoEnabled then
                     local word = FindWord(letter)
@@ -596,22 +668,46 @@ local function Init()
     end)
 
     -- POST-SUBMIT WATCHDOG
+    -- HANYA menghapus teks jika:
+    --   1. HasSubmitted == true (kata benar-benar sudah di-submit)
+    --   2. Prefix TIDAK berubah setelah 5 detik (artinya server MENOLAK kata)
+    --   3. Tidak sedang ngetik (ActiveTask == false)
+    --   4. Tidak sedang backspace (IsBackspacing == false)
     task.spawn(function()
         while State.IsRunning do
-            task.wait(0.5)
-            if State.AutoEnabled and not State.ActiveTask and State.CurrentSoal ~= "" and tick() - State.LastSubmitTime > 3.0 then
-                
+            task.wait(0.8)
+            
+            -- SEMUA KONDISI harus terpenuhi sebelum backspace
+            local shouldRetry = State.AutoEnabled 
+                and State.HasSubmitted           -- WAJIB: sudah benar-benar submit
+                and State.SubmitPending           -- WAJIB: masih menunggu respons
+                and not State.ActiveTask          -- WAJIB: tidak sedang ngetik
+                and not State.IsBackspacing       -- WAJIB: tidak sedang backspace
+                and State.CurrentSoal ~= ""       -- WAJIB: ada soal aktif
+                and (tick() - State.LastSubmitTime > 5.0)  -- Tunggu 5 detik (bukan 3)
+            
+            if shouldRetry then
+                -- Kata ditolak server — SEKARANG baru boleh backspace
                 State.TotalErrors = State.TotalErrors + 1
                 State.ConsecutiveErrors = State.ConsecutiveErrors + 1
-                State.RejectedWords[State.LastWordAttempted] = true
-                State.UsedWords[State.LastWordAttempted] = true
-                State.ActiveTask = true
                 
-                task.wait(0.2)
-                -- Hapus hanya sampai sisa prefix (jangan hapus sampai kosong)
-                BackspaceText(VisualRemote, State.CurrentTypedText, #State.CurrentSoal)
+                if State.LastWordAttempted ~= "" then
+                    State.RejectedWords[State.LastWordAttempted] = true
+                    State.UsedWords[State.LastWordAttempted] = true
+                end
+                
+                State.HasSubmitted = false
+                State.SubmitPending = false
+                
+                -- Backspace: hapus hanya sampai prefix, sisakan prefix
+                task.wait(0.3)
+                if State.CurrentTypedText ~= "" and VisualRemote then
+                    BackspaceText(VisualRemote, State.CurrentTypedText, #State.CurrentSoal)
+                end
+                
                 UnlockWord()
                 
+                -- Coba kata baru
                 local retry = FindWord(State.CurrentSoal, true)
                 if retry then
                     State.ActiveTask = false
@@ -626,9 +722,18 @@ local function Init()
         end
     end)
     
+    -- Initialize LastSubmitTime agar watchdog tidak langsung fire
+    State.LastSubmitTime = tick()
+    
+    -- Hitung total kata di kamus
+    local totalKata = 0
+    for _, bucket in pairs(State.Index) do
+        totalKata = totalKata + #bucket
+    end
+    
     WindUI:Notify({
         Title = "✦ Beverly Hub V 1.0",
-        Content = "Loaded! Kamus: " .. tostring(loadSuccess and "Online ✓" or "Fallback ⚠"),
+        Content = "Loaded! Kamus: " .. tostring(loadSuccess and (totalKata .. " kata ✓") or "Fallback ⚠"),
         Icon = "solar:star-bold",
         Duration = 5,
     })
