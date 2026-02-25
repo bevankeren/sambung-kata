@@ -28,7 +28,7 @@ local State = {
     HasSubmitted = false,            -- NEW: true only after actual submit
     SubmitPending = false,           -- NEW: waiting for server response
     BlatantEnabled = false,          -- NEW: instant submit mode
-    BlatantDelay = 0.1,              -- NEW: delay between instant submits
+    BlatantDelay = 0.0,              -- NEW: delay between instant submits
     CurrentSoal = "",
     LastWordAttempted = "",
     LastSubmitTime = 0,              -- will be set to tick() at Init()
@@ -892,7 +892,7 @@ FarmSection:Slider({
     Desc = "Jeda sebelum submit instan (detik)",
     IsTooltip = true,
     Step = 0.05,
-    Value = { Min = 0.05, Max = 1.0, Default = 0.1 },
+    Value = { Min = 0.0, Max = 1.0, Default = 0.0 },
     Callback = function(v)
         State.BlatantDelay = v
     end
@@ -1126,7 +1126,7 @@ local function Init()
                 if State.BlatantEnabled then
                     -- BLATANT MODE: instant submit tanpa ngetik
                     task.spawn(function()
-                        task.wait(State.BlatantDelay)
+                        if State.BlatantDelay > 0 then task.wait(State.BlatantDelay) end
                         -- Re-check prefix masih sama
                         if State.CurrentSoal == letter and State.BlatantEnabled then
                             local word = FindWord(letter)
@@ -1256,7 +1256,7 @@ local function Init()
                 -- Blatant idle — paksa submit
                 local word = FindWord(State.CurrentSoal)
                 if word and not State.UsedWords[word] then
-                    task.wait(State.BlatantDelay)
+                    if State.BlatantDelay > 0 then task.wait(State.BlatantDelay) end
                     if State.BlatantEnabled and State.CurrentSoal ~= "" then
                         pcall(function() SubmitRemote:FireServer(word) end)
                         State.UsedWords[word] = true
