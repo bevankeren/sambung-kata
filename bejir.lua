@@ -51,7 +51,7 @@ local RAW_KAMUS = {}
 
 local loadSuccess, loadError = pcall(function()
     RAW_KAMUS = loadstring(game:HttpGet(
-        "https://raw.githubusercontent.com/bevankeren/sambung-kata/master/kamus.lua"
+        "https://raw.githubusercontent.com/bevankeren/sambung-kata/master/kamus_lengkap.lua"
     ))()
 end)
 
