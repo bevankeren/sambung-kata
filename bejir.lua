@@ -855,7 +855,20 @@ WorldSection:Button({
     Callback = function()
         pcall(function()
             WindUI:Notify({Title = "Rejoin", Content = "Sedang mencoba rejoin ke server ini...", Duration = 3})
-            Services.TeleportService:TeleportToPlaceInstance(game.PlaceId, game.JobId, LocalPlayer)
+            
+            local ts = game:GetService("TeleportService")
+            local p = game:GetService("Players").LocalPlayer
+            
+            -- Try method 1: specific to this job ID (works but sometimes blocked by some games)
+            pcall(function()
+                ts:TeleportToPlaceInstance(game.PlaceId, game.JobId, p)
+            end)
+            
+            -- Try method 2: fallback (just teleport to the place, Roblox often puts you back in same/new server)
+            task.wait(1)
+            pcall(function()
+                ts:Teleport(game.PlaceId, p)
+            end)
         end)
     end
 })
