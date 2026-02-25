@@ -27,6 +27,8 @@ local State = {
     IsBackspacing = false,           -- NEW: guard against overlapping backspace
     HasSubmitted = false,            -- NEW: true only after actual submit
     SubmitPending = false,           -- NEW: waiting for server response
+    BlatantEnabled = false,          -- NEW: instant submit mode
+    BlatantDelay = 0.1,              -- NEW: delay between instant submits
     CurrentSoal = "",
     LastWordAttempted = "",
     LastSubmitTime = 0,              -- will be set to tick() at Init()
@@ -840,6 +842,82 @@ PerfSection:Toggle({
 
 
 
+-- ═══════════════════════════════════════════════════════════════════════
+-- BLATANT TAB — Auto Farm Money
+-- ═══════════════════════════════════════════════════════════════════════
+local BlatantTab = Window:Tab({
+    Title = "Blatant",
+    Icon = "solar:bolt-circle-bold",
+    IconColor = Color3.fromHex("#EF4444"),
+    IconShape = "Square",
+    Border = true,
+})
+
+local FarmSection = BlatantTab:Section({
+    Title = "💰 Auto Farm Money",
+    Box = true,
+    BoxBorder = true,
+    Opened = true,
+})
+
+FarmSection:Paragraph({
+    Title = "⚠ Peringatan",
+    Desc = "Fitur ini SANGAT BLATANT dan mudah terlihat.\n\nUntuk hasil maksimal & aman:\n• Gunakan 2 akun di 1 meja (private server)\n• Akun utama farm, akun ke-2 sebagai partner\n• Jangan gunakan di server publik yang ramai\n• Kata langsung di-submit tanpa animasi ketik",
+})
+
+FarmSection:Space()
+
+FarmSection:Toggle({
+    Title = "Auto Farm",
+    Desc = "Langsung jawab instan tanpa proses mengetik.\nHarus pakai 2 akun dalam 1 meja agar maksimal.",
+    Default = false,
+    Callback = function(v)
+        State.BlatantEnabled = v
+        if v then
+            -- Matikan auto play biasa kalau blatant aktif
+            State.AutoEnabled = false
+            WindUI:Notify({
+                Title = "💰 Auto Farm ON",
+                Content = "Mode blatant aktif! Jawaban akan di-submit instan.",
+                Duration = 3,
+            })
+        end
+    end
+})
+
+FarmSection:Space()
+
+FarmSection:Slider({
+    Title = "Submit Delay",
+    Desc = "Jeda sebelum submit instan (detik)",
+    IsTooltip = true,
+    Step = 0.05,
+    Value = { Min = 0.05, Max = 1.0, Default = 0.1 },
+    Callback = function(v)
+        State.BlatantDelay = v
+    end
+})
+
+FarmSection:Space()
+
+FarmSection:Dropdown({
+    Title = "Farm Mode Kata",
+    Desc = "Pilih kata untuk farm",
+    Multi = false,
+    Value = "Terpendek",
+    Values = {"Terpendek", "Random", "Terpanjang"},
+    Callback = function(v)
+        if v == "Terpendek" then
+            State.WordMode = "umum"
+        elseif v == "Terpanjang" then
+            State.WordMode = "aneh"
+        else
+            State.WordMode = "balanced"
+        end
+        UnlockWord()
+    end
+})
+
 -- SARAN KATA OVERLAY (Optimized)
 local OverlayScroll
 local OverlayTitle
@@ -1045,7 +1123,25 @@ local function Init()
                 
                 pcall(function() UpdateOverlay(letter, SubmitRemote) end)
                 
-                if State.AutoEnabled then
+                if State.BlatantEnabled then
+                    -- BLATANT MODE: instant submit tanpa ngetik
+                    task.spawn(function()
+                        task.wait(State.BlatantDelay)
+                        -- Re-check prefix masih sama
+                        if State.CurrentSoal == letter and State.BlatantEnabled then
+                            local word = FindWord(letter)
+                            if word and not State.UsedWords[word] then
+                                pcall(function() SubmitRemote:FireServer(word) end)
+                                State.UsedWords[word] = true
+                                State.LastWordAttempted = word
+                                State.LastSubmitTime = tick()
+                                State.HasSubmitted = true
+                                State.SubmitPending = true
+                                UnlockWord()
+                            end
+                        end
+                    end)
+                elseif State.AutoEnabled then
                     local word = FindWord(letter)
                     if word then
                         task.spawn(function()
