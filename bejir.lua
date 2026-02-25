@@ -392,7 +392,7 @@ local DevSection = InfoTab:Section({
 
 DevSection:Paragraph({
     Title = "Beverly Hub V 1.0",
-    Desc = "Sambung Kata Pro — Script otomatis untuk game Sambung Kata di Roblox.\n\nDibuat oleh: bevankeren\nGitHub: github.com/bevankeren/sambung-kata\nUI Library: Wind UI by Footagesus",
+    Desc = "Sambung Kata Pro — Script otomatis untuk game Sambung Kata di Roblox.\n\nDibuat oleh: Beverly\nDiscord: (coming soon)\nUI Library: Wind UI by Footagesus",
 })
 
 DevSection:Space()
