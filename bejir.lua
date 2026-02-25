@@ -29,6 +29,7 @@ local State = {
     SubmitPending = false,           -- NEW: waiting for server response
     BlatantEnabled = false,          -- NEW: instant submit mode
     BlatantDelay = 0.0,              -- NEW: delay between instant submits
+    BlatantPredict = false,          -- NEW: predict next turn and bypass animation
     CurrentSoal = "",
     LastWordAttempted = "",
     LastSubmitTime = 0,              -- will be set to tick() at Init()
@@ -170,15 +171,19 @@ end
 
 -- Scan kata yang sudah dipakai pemain lain
 local function ScanForUsedWords(args)
-    if not State.AutoBlacklist then return end
+    if not State.AutoBlacklist then return nil end
+    local newlyFoundWord = nil
     for _, val in pairs(args) do
         if type(val) == "string" and #val > 2 then
             local clean = val:lower():gsub("%s+", "")
             if State.GlobalDict[clean] and not State.UsedWords[clean] then
                 State.UsedWords[clean] = true
+                -- We found a word that was just accepted by the server!
+                newlyFoundWord = clean
             end
         end
     end
+    return newlyFoundWord
 end
 
 -- Delay human-like dengan variasi
@@ -900,6 +905,17 @@ FarmSection:Slider({
 
 FarmSection:Space()
 
+FarmSection:Toggle({
+    Title = "Predictive Spam",
+    Desc = "LEWATI ANIMASI SERVER!\nLgsg nebak huruf selanjutnya detik itu juga.\nBisa bikin 0.0 detik delay total.",
+    Default = false,
+    Callback = function(v)
+        State.BlatantPredict = v
+    end
+})
+
+FarmSection:Space()
+
 FarmSection:Dropdown({
     Title = "Farm Mode Kata",
     Desc = "Pilih kata untuk farm",
@@ -1095,7 +1111,29 @@ local function Init()
     -- EVENT LISTENER
     MatchRemote.OnClientEvent:Connect(function(...)
         local args = {...}
-        pcall(function() ScanForUsedWords(args) end)
+        
+        local newlyUsedWord = nil
+        pcall(function() newlyUsedWord = ScanForUsedWords(args) end)
+        
+        -- PREDICTIVE BLATANT MODE
+        -- Kalau ada kata yang baru masuk (berarti ada yang baru jawab bener), langsung tebak huruf ujungnya!
+        if State.BlatantEnabled and State.BlatantPredict and newlyUsedWord then
+            local predictedPrefix = newlyUsedWord:sub(-1)
+            task.spawn(function()
+                if State.BlatantDelay > 0 then task.wait(State.BlatantDelay) end
+                local word = FindWord(predictedPrefix)
+                if word and not State.UsedWords[word] then
+                    -- Tembak peluru sebelum server ganti giliran!
+                    pcall(function() SubmitRemote:FireServer(word) end)
+                    State.UsedWords[word] = true
+                    State.LastWordAttempted = word
+                    State.LastSubmitTime = tick()
+                    State.HasSubmitted = true
+                    State.SubmitPending = true
+                    UnlockWord()
+                end
+            end)
+        end
         
         if args[1] == "UpdateServerLetter" and args[2] then
             local letter = tostring(args[2]):lower()
