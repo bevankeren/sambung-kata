@@ -41,6 +41,7 @@ local State = {
     ThinkDelayMin = 0.8,
     ThinkDelayMax = 2.5,
     WordPreference = "balanced",
+    WordMode = "balanced",           -- NEW: umum / aneh / balanced
     PreferredLength = 0,
     BackspaceDelayMin = 0.03,
     BackspaceDelayMax = 0.09,
@@ -113,6 +114,7 @@ local function FindWord(prefix, forceNew)
     if #candidates > 0 then
         local selectedWord = nil
         
+        -- Error recovery: setelah banyak error, pilih kata pendek
         if State.ConsecutiveErrors > 2 and State.PreferredLength > 0 then
             for _, word in ipairs(candidates) do
                 if #word <= State.PreferredLength + 2 then
@@ -122,10 +124,24 @@ local function FindWord(prefix, forceNew)
             end
         end
         
-        if not selectedWord and State.WordPreference == "balanced" then
-            local midIdx = math.floor(#candidates / 2) + math.random(0, math.floor(#candidates / 2))
-            midIdx = math.max(1, math.min(midIdx, #candidates))
-            selectedWord = candidates[midIdx]
+        -- WORD MODE LOGIC
+        if not selectedWord then
+            if State.WordMode == "umum" then
+                -- Pilih kata pendek (umum/sering didengar) — ambil dari awal list (sudah di-sort by length)
+                local maxIdx = math.min(math.ceil(#candidates * 0.3), #candidates)
+                maxIdx = math.max(1, maxIdx)
+                selectedWord = candidates[math.random(1, maxIdx)]
+                
+            elseif State.WordMode == "aneh" then
+                -- Pilih kata panjang (jarang didengar) — ambil dari akhir list
+                local startIdx = math.max(math.floor(#candidates * 0.7), 1)
+                selectedWord = candidates[math.random(startIdx, #candidates)]
+                
+            else -- balanced
+                local midIdx = math.floor(#candidates / 2) + math.random(0, math.floor(#candidates / 2))
+                midIdx = math.max(1, math.min(midIdx, #candidates))
+                selectedWord = candidates[midIdx]
+            end
         end
         
         if not selectedWord then
@@ -339,6 +355,53 @@ local Window = WindUI:CreateWindow({
     },
 })
 
+-- INFO TAB (OPENS FIRST — disclaimer + developer info)
+local InfoTab = Window:Tab({
+    Title = "Info",
+    Icon = "solar:info-circle-bold",
+    IconColor = Color3.fromHex("#FBBF24"),
+    IconShape = "Square",
+    Border = true,
+})
+
+local DisclaimerSection = InfoTab:Section({
+    Title = "⚠ DISCLAIMER",
+    Box = true,
+    BoxBorder = true,
+    Opened = true,
+})
+
+DisclaimerSection:Paragraph({
+    Title = "Peringatan Penggunaan",
+    Desc = "Jangan terlalu brutal menggunakan auto play.\n\nKalau mau aman, gunakan fitur KAMUS SAJA (panel saran kata di kanan layar) untuk memilih kata secara manual.\n\nAuto play hanya untuk bantuan, bukan untuk spam.\nGunakan dengan bijak agar tidak terdeteksi.",
+})
+
+DisclaimerSection:Space()
+
+DisclaimerSection:Paragraph({
+    Title = "Tips Aman",
+    Desc = "• Gunakan delay tinggi (1-2 detik)\n• Jangan nyalakan auto play terus-menerus\n• Sesekali jawab manual lewat panel kamus\n• Pilih mode kata 'Umum' agar tidak mencurigakan",
+})
+
+local DevSection = InfoTab:Section({
+    Title = "✦ Developer",
+    Box = true,
+    BoxBorder = true,
+    Opened = true,
+})
+
+DevSection:Paragraph({
+    Title = "Beverly Hub V 1.0",
+    Desc = "Sambung Kata Pro — Script otomatis untuk game Sambung Kata di Roblox.\n\nDibuat oleh: bevankeren\nGitHub: github.com/bevankeren/sambung-kata\nUI Library: Wind UI by Footagesus",
+})
+
+DevSection:Space()
+
+DevSection:Paragraph({
+    Title = "Fitur",
+    Desc = "• Auto Play dengan natural typing\n• 30.000+ kosa kata KBBI\n• Panel Saran Kata (manual pick)\n• Mode kata: Umum / Aneh / Balanced\n• Safe backspace (hanya setelah submit)\n• Anti-duplikat otomatis",
+})
+
 -- MAIN TAB
 local MainTab = Window:Tab({
     Title = "Main",
@@ -357,7 +420,7 @@ local AutoSection = MainTab:Section({
 
 AutoSection:Toggle({
     Title = "Auto Play",
-    Desc = "Otomatis jawab soal sambung kata",
+    Desc = "Otomatis jawab soal sambung kata\n⚙ Masih dalam perkembangan — gunakan dengan bijak",
     Default = false,
     Callback = function(v) State.AutoEnabled = v end
 })
@@ -369,6 +432,20 @@ AutoSection:Toggle({
     Desc = "Otomatis tandai kata yang sudah dipakai",
     Default = true,
     Callback = function(v) State.AutoBlacklist = v end
+})
+
+AutoSection:Space()
+
+AutoSection:Dropdown({
+    Title = "Mode Kata",
+    Desc = "Pilih jenis kata yang digunakan",
+    Multi = false,
+    Value = "Balanced",
+    Values = {"Umum", "Balanced", "Aneh"},
+    Callback = function(v)
+        State.WordMode = v:lower()
+        UnlockWord()  -- reset agar kata berikutnya pakai mode baru
+    end
 })
 
 -- SPEED TAB
