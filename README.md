@@ -1,4 +1,4 @@
-# Sambung Kata Pro
+# Sambung Kata Pro v1.0
 
 Script untuk game **Sambung Kata** di Roblox.
 
