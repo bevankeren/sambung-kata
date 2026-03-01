@@ -1,1 +1,0 @@
-print("Cek discord untuk pembaruan")
