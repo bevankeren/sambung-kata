@@ -2612,7 +2612,8 @@ return {
         ["koneksi"] = "Umum",
         ["enkripsi"] = "Umum",
         ["dekripsi"] = "Umum",
-        ["autentikasi"] = "Umum",\1        -- Tambahan (Auto-Ops)
+        ["autentikasi"] = "Umum",
+        -- Tambahan (Auto-Ops)
         ["abortif"] = "Umum",
         ["absorptif"] = "Umum",
         ["adaptif"] = "Umum",
