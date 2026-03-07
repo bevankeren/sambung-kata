@@ -88,6 +88,7 @@ agavaceae
 agihkan
 agilis
 agisambat
+agro
 ahadiah
 ahadun
 ahafit
@@ -177,6 +178,7 @@ akiat
 akin
 akordion
 akrobatika
+akrom
 aksensuasi
 aksesories
 aktans
@@ -676,6 +678,7 @@ boni
 borneensia
 bougainvellaea
 brachirus
+brah
 brak
 bral
 bras
@@ -683,6 +686,7 @@ brawijaya
 braya
 brazil
 bria
+bro
 bub
 buceros
 budhisme
@@ -753,6 +757,7 @@ cohh
 coki
 col
 com
+combro
 commersonia
 cong
 conneropsis
@@ -849,6 +854,7 @@ dinasnya
 dinetralisasikan
 ding
 dio
+diombang
 dip
 dipantulkan
 diparaf
@@ -956,6 +962,7 @@ emi
 emittance
 emo
 emp
+emprit
 ems
 emul
 ena
@@ -1092,9 +1099,11 @@ fiksional
 fil
 filamentosum
 filetik
+filu
 fim
 fin
 finitif
+fiqih
 fir
 firus
 fis
@@ -1279,6 +1288,7 @@ gomania
 gon
 goncangnya
 gondas
+gondongan
 gongi
 gonia
 gonta
@@ -1770,6 +1780,7 @@ jol
 jom
 jonathan
 joni
+jor
 jordania
 jos
 judikatif
@@ -1826,6 +1837,7 @@ kar
 karbondioksida
 karbonmonoksida
 kardiovaskuler
+kare
 karis
 karisti
 karp
@@ -1940,6 +1952,7 @@ konvulsif
 korang
 korasi
 koratif
+kordinator
 kosak
 kost
 kotakota
@@ -2169,6 +2182,7 @@ lysan
 mab
 mabrasi
 macrobium
+macrocladus
 macrophygia
 madraspatanum
 mae
@@ -2266,6 +2280,7 @@ mengintensif
 mengkomersialisasikan
 mengkomersialkan
 mengomentar
+menusuki
 meo
 merakus
 meraldin
@@ -2295,10 +2310,12 @@ miller
 mimiknya
 minallah
 minasysyaitanirrajim
+mine
 ming
 minibask
 minin
 minisme
+minit
 mint
 minuta
 mio
@@ -2436,6 +2453,7 @@ ndambu
 ndang
 ndarame
 ndaru
+ndasi
 ndauwa
 ndikar
 ndili
@@ -2616,6 +2634,7 @@ nging
 nginjek
 ngip
 ngir
+ngira
 ngirakan
 ngirapkan
 ngiris
@@ -2632,6 +2651,7 @@ ngobarkan
 ngobrol
 ngoceh
 ngocok
+ngode
 ngoding
 ngojek
 ngok
@@ -2658,6 +2678,7 @@ ngsah
 ngseng
 ngsi
 ngsong
+ngsot
 ngsui
 ngt
 ngu
@@ -2872,6 +2893,7 @@ nyin
 nyinggung
 nyolong
 nyub
+nyuling
 oai
 oal
 oantropologi
@@ -3271,6 +3293,7 @@ rauwolfia
 raw
 rayfish
 razak
+rbal
 rbalisme
 rbaneka
 rbis
@@ -3291,6 +3314,8 @@ rekreasional
 reliableness
 rentakkan
 renunglah
+rep
+repi
 repro
 republikdominika
 republikserbiabosnia
@@ -3387,6 +3412,7 @@ riya
 rma
 rmis
 robah
+robak
 robatik
 robotisasi
 robusta
@@ -3637,6 +3663,7 @@ soen
 sof
 soi
 sokap
+sold
 solekan
 sompr
 sond
@@ -3769,6 +3796,7 @@ tangkapi
 tangkuban
 tanki
 tans
+tanus
 taok
 tapeinochilus
 tapong
@@ -3810,6 +3838,7 @@ temerang
 ten
 tenagakerja
 tenderer
+tenemincelai
 tenggorokku
 teo
 teracuni
@@ -3833,6 +3862,7 @@ tersubstitusikannya
 tertanggungjawabkan
 tertiban
 terw
+tesa
 test
 testudinidae
 tet
@@ -3889,6 +3919,7 @@ tnograf
 toa
 tog
 togram
+tohi
 toil
 tokardiografi
 tokoan
@@ -3898,6 +3929,7 @@ toli
 tonasi
 tonuria
 tora
+torabika
 torakikus
 toredo
 tori
@@ -4048,6 +4080,7 @@ umbatrile
 umbellata
 umbian
 umbutnya
+umker
 umonia
 umpah
 uncaria
@@ -4171,6 +4204,7 @@ varius
 vaseline
 vea
 veks
+velg
 veloper
 ven
 veneris
@@ -4313,6 +4347,7 @@ yul
 yum
 yun
 yung
+yuridiksi
 yus
 yusticia
 yuti
