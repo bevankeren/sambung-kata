@@ -15,6 +15,7 @@ abisekanama
 abisinia
 ablutofilia
 ablutofobia
+ablutomania
 abong
 abra
 abraham
@@ -28,6 +29,7 @@ acalyoha
 acalypha
 accu
 acd
+aceweyawuna
 aciculatum
 acinya
 acipiter
@@ -75,8 +77,10 @@ adup
 adv
 advan
 adversitas
+aee
 aekanis
 ael
+aerofilateli
 aeroterapia
 afak
 afar
@@ -95,6 +99,7 @@ afo
 afro
 afta
 afu
+afuipei
 afung
 agadang
 agalimpuyung
@@ -162,6 +167,7 @@ aik
 aikoli
 aikuke
 ailakar
+ailana
 ailer
 aimi
 aina
@@ -234,6 +240,7 @@ ald
 ale
 alectis
 aleg
+alelnya
 aleurites
 alfab
 alfamart
@@ -241,6 +248,7 @@ alfamidi
 alfatihah
 alia
 alihbahasa
+alirnya
 alisyahbana
 alitas
 aliyyil
@@ -265,6 +273,8 @@ alshopila
 alsodeia
 alternanthera
 alternifolium
+altingia
+altissim
 altissima
 alukan
 alus
@@ -274,6 +284,7 @@ amanahnya
 amandem
 amanua
 amara
+amarantus
 amarta
 amarylidaceae
 amatinya
@@ -287,6 +298,7 @@ ambisilabis
 ambluycarpa
 amboinesis
 ambreng
+ambrengan
 ame
 amentacea
 amerikanus
@@ -338,6 +350,7 @@ andon
 andrographis
 andropogeh
 ane
+aneilema
 anek
 aner
 anes
@@ -437,10 +450,12 @@ antiimperialis
 antiintegrasi
 antikekerasan
 antiketombe
+antikons
 antinov
 antipartikelnya
 antipasif
 antipeluru
+antipemerintah
 antipenggumpalan
 antipiracy
 antiquata
@@ -456,6 +471,7 @@ antit
 antiteroris
 antiterorisme
 antropom
+antropos
 antukkan
 anui
 anuiti
@@ -497,6 +513,7 @@ aprindo
 apungkan
 apunsia
 apur
+aqil
 arabia
 arabica
 arabsaudi
@@ -516,6 +533,7 @@ arbit
 arbitr
 arbortrisis
 archoviella
+arctomys
 ardea
 ardisia
 areca
@@ -550,6 +568,7 @@ ars
 arse
 arsika
 artacarpus
+arteriosum
 arthostoma
 arthropoda
 artikulat
@@ -640,6 +659,7 @@ atr
 atra
 atri
 atrinuchalis
+atris
 atropurpurea
 atropurpureus
 atrosanguinea
@@ -717,10 +737,13 @@ baraandi
 barbaria
 baretnya
 baringtoniaspicata
+barunawali
 barus
+barynotus
 basri
 bataknya
 batipelagis
+batir
 batre
 bauhinia
 baui
@@ -755,6 +778,7 @@ bilhaj
 bilhal
 billahil
 billing
+bim
 bing
 bio
 biof
@@ -762,6 +786,7 @@ birdcalling
 biri
 biruan
 biseks
+bismilah
 bitorquata
 bitum
 boaja
@@ -939,6 +964,7 @@ dali
 damaikanlah
 damaskus
 damasyik
+dames
 damri
 dangal
 dangi
@@ -970,6 +996,7 @@ diamandemen
 diamat
 diana
 dianugerahkannya
+dianyam
 diasimilasikan
 dibatasi
 dibodohi
@@ -998,6 +1025,7 @@ dikeduk
 dikembangi
 dikesampingkan
 diki
+dikilahkan
 dikomandani
 dikomandoi
 dikomplikasi
@@ -1018,6 +1046,7 @@ dimasalahkan
 dinasnya
 dinetralisasikan
 ding
+dinihari
 dio
 diobrak
 diombang
@@ -1059,6 +1088,7 @@ dit
 ditahbiskan
 ditakdirkan
 ditandai
+ditas
 ditekapkan
 diteladani
 ditemu
@@ -1107,8 +1137,10 @@ ebenum
 ebo
 ebook
 echineis
+echinocactus
 echinometra
 ectoprocta
+edarannya
 edi
 edison
 efisiennya
@@ -1128,6 +1160,7 @@ ekplorasi
 eksek
 eksibisionism
 eksibisionisme
+ekskresinya
 ekslusif
 ekso
 eksploitif
@@ -1187,6 +1220,7 @@ engap
 engels
 engema
 england
+engulata
 enhalus
 enicurus
 enkaliptol
@@ -1227,6 +1261,7 @@ eropatimur
 erosiveness
 erosus
 eroton
+erpalsi
 erubescens
 erumpens
 erup
@@ -1307,6 +1342,7 @@ far
 fark
 farmakop
 farmokologi
+farnesiana
 fasciata
 fasciatus
 faso
@@ -1330,6 +1366,7 @@ fet
 fia
 fibraurea
 ficus
+figmen
 fih
 fiks
 fiksional
@@ -1358,6 +1395,7 @@ flabellifer
 flacourtia
 flagrasi
 flam
+flareup
 flavalus
 flavourful
 fleks
@@ -1405,6 +1443,7 @@ fum
 fun
 fung
 fungs
+fus
 fusarium
 fusca
 futbal
@@ -1432,9 +1471,12 @@ galosit
 galu
 galunggung
 games
+gandan
 gandarussa
 gandengkan
 gandengnya
+gandhi
+gangi
 gangraena
 gangsterism
 gangsur
@@ -1572,6 +1614,7 @@ goniothalamus
 gono
 gonorrhea
 gonta
+gontokan
 gonystylus
 goo
 goods
@@ -1624,6 +1667,7 @@ gurinda
 guruan
 gut
 gutsiness
+guttatus
 gymnurus
 gynandra
 gyoza
@@ -1658,6 +1702,7 @@ hamengku
 hami
 han
 handi
+handiplas
 handphone
 hangusan
 hani
@@ -1670,7 +1715,9 @@ hardnose
 harima
 harkatnya
 harpodon
+harya
 hasanlah
+hashbrowns
 hasselti
 hasseltii
 hassetti
@@ -1813,6 +1860,7 @@ hura
 huru
 husada
 husain
+husen
 huxley
 hyaenidae
 hydrocera
@@ -1869,6 +1917,7 @@ ikhtiarnya
 ikhtiog
 ikhtisariah
 iki
+iklanan
 iklimatisasi
 iko
 ikonia
@@ -1879,6 +1928,7 @@ iktikat
 iktis
 ikuti
 ikutilah
+ikutserta
 ikutsertakan
 ila
 ilam
@@ -1926,6 +1976,7 @@ incompetency
 ind
 indahkan
 indeterminan
+indicus
 indische
 indomaret
 indomie
@@ -1968,6 +2019,7 @@ inkuisisi
 ino
 inocarpus
 inophyllum
+inpuls
 ins
 insaflah
 insecta
@@ -1982,6 +2034,7 @@ int
 inta
 integralisme
 intelegensinya
+intelejen
 inteligensinya
 intelpam
 intenden
@@ -1992,6 +2045,7 @@ interinsul
 interj
 interkoneksitas
 interlokusi
+intermedia
 intermidius
 intermolekul
 internasionalisme
@@ -2010,6 +2064,7 @@ intransitifnya
 intras
 intrav
 intravaskul
+introj
 intsia
 inuria
 inv
@@ -2077,6 +2132,7 @@ istos
 isuk
 iswahyudi
 isy
+isytihar
 ita
 itali
 itar
@@ -2176,13 +2232,17 @@ kalkulatif
 kals
 kalsif
 kamikaz
+kampong
 kampunganlah
 kanabinol
 kanagurta
 kanak
+kanari
 kanc
+kancatel
 kand
 kandasnya
+kandulnya
 kangkangannya
 kangkangi
 kani
@@ -2191,9 +2251,11 @@ kanin
 kanisasi
 kanisme
 kanit
+kanonisasi
 kant
 kanter
 kanting
+kantungi
 kao
 kapolrestro
 kapolwiltabes
@@ -2228,6 +2290,7 @@ kauperoleh
 kausukai
 kausuruh
 kautanam
+kautegor
 kawa
 kawani
 kea
@@ -2236,6 +2299,7 @@ keambisian
 kebasaan
 kebengalan
 kebertidakpengalamanan
+kecepit
 kecualinya
 kedewasaannya
 kefasihannya
@@ -2268,6 +2332,8 @@ kesih
 keso
 ket
 ketaatannya
+keterputusan
+keterungkuan
 ketidaklaziman
 ketidakmujuran
 ketidakrendahhatian
@@ -2305,8 +2371,10 @@ king
 kintamani
 kiofit
 kirakan
+kiralah
 kirghizia
 kisitor
+kisme
 kiti
 klamasi
 klarasi
@@ -2334,6 +2402,7 @@ kons
 konst
 konstalasi
 konstriktif
+konsumeristis
 kont
 kontinyuitas
 kontraktif
@@ -2347,6 +2416,7 @@ kosak
 kosi
 kost
 kotakota
+kotangens
 kotil
 kovalen
 kow
@@ -2452,6 +2522,7 @@ lamiaceae
 lampuyangan
 lanceolata
 langerstroemia
+langitan
 languk
 lanka
 lankolia
@@ -2462,15 +2533,18 @@ laot
 lapi
 lapori
 laps
+lariknya
 lasan
 lase
 laserpuncture
 laserpunktur
 lasia
 lasianthus
+lastik
 lastis
 lastisitas
 lastom
+lasungkawa
 latarbelakang
 lates
 lati
@@ -2546,6 +2620,7 @@ limfositop
 limi
 limin
 limon
+linimasa
 linnacus
 linnaeus
 linoleat
@@ -2553,15 +2628,18 @@ liograf
 lioratif
 liotaksis
 lip
+lipad
 lipatganda
 lipiodalnya
 lips
+lipsis
 lipsom
 liran
 liri
 lisasi
 lisi
 lisk
+lisme
 litchi
 lite
 lithuania
@@ -2642,6 +2720,7 @@ mahamurah
 maharajal
 mahi
 mail
+maitake
 maiz
 maj
 majah
@@ -2726,6 +2805,7 @@ memilki
 memperkira
 memperseturukan
 mempiramida
+memundi
 mencolekkan
 meng
 mengagresif
@@ -2748,6 +2828,7 @@ ment
 menusuki
 meny
 menyelidikkan
+menyileti
 meo
 merakus
 meraldin
@@ -2758,6 +2839,8 @@ meritrix
 meso
 mesometereologi
 metafor
+metik
+metraliur
 meu
 mez
 mia
@@ -2772,13 +2855,16 @@ mih
 mikir
 mikirkan
 mikordat
+mikropon
 mikropros
+mikros
 mileu
 mili
 miliaris
 milih
 miller
 milletia
+milyuner
 mimiknya
 minallah
 minasysyaitanirrajim
@@ -2797,8 +2883,10 @@ mis
 misah
 misaminensis
 miscommunicating
+misformed
 mispers
 mit
+mium
 mne
 mno
 mobilis
@@ -2822,6 +2910,7 @@ moult
 mpah
 mpak
 mpel
+mpi
 muahid
 muan
 muangthai
@@ -2864,6 +2953,7 @@ nad
 nae
 nafakah
 nafilah
+naft
 nagasaki
 nagih
 nahan
@@ -2885,6 +2975,7 @@ nakutinya
 nalangi
 nalin
 nalisme
+nalitas
 nalti
 nam
 namai
@@ -2921,6 +3012,7 @@ nasionalismenya
 nasomaculata
 nastar
 nasturtium
+nasuhah
 nasuta
 nasutus
 nat
@@ -2929,6 +3021,8 @@ nauclea
 naucleiflorus
 naucrates
 naucratus
+navalis
+nazarkan
 nazarnya
 nazilah
 nda
@@ -2968,6 +3062,7 @@ nekan
 nel
 nelpon
 nempel
+nemurus
 nen
 nendangkan
 nengok
@@ -3065,6 +3160,7 @@ ngelamun
 ngelepik
 ngeles
 ngeliat
+ngeloyor
 ngem
 ngemasi
 ngemis
@@ -3074,6 +3170,7 @@ ngenanam
 ngenangkan
 ngendon
 ngeng
+ngengi
 ngeni
 ngentut
 ngep
@@ -3099,6 +3196,7 @@ nget
 ngetikkan
 ngetop
 ngetren
+ngetuk
 ngeyel
 ngg
 nggak
@@ -3185,6 +3283,7 @@ ngue
 nguh
 ngui
 nguin
+nguit
 nguk
 ngukur
 ngul
@@ -3193,6 +3292,7 @@ ngulik
 ngum
 ngumpet
 ngumpul
+ngumpulkan
 ngun
 ngungun
 ngungut
@@ -3260,6 +3360,7 @@ nitip
 nitis
 nitrob
 nitrog
+nitros
 nitroselulosanya
 nitur
 nium
@@ -3294,6 +3395,9 @@ nonagression
 nonantipasif
 nonbaku
 nonblock
+nonbudgeter
+nonconsent
+nondasar
 nondemokratis
 nondiscriminative
 nondiskriminasi
@@ -3304,6 +3408,8 @@ nonkonv
 nonlegitimacy
 nonmetalik
 nonnominatif
+nonpertanian
+nonrasional
 nonreferensial
 nonretroaktif
 nonsen
@@ -3381,6 +3487,7 @@ nyakit
 nyal
 nyalah
 nyalon
+nyamai
 nyambi
 nyambung
 nyangka
@@ -3391,6 +3498,7 @@ nyantol
 nyap
 nyapu
 nyar
+nyarat
 nyaringnya
 nyasar
 nyat
@@ -3401,6 +3509,7 @@ nyawer
 nyayat
 nyctalopia
 nycticorax
+nyebarkan
 nyebelin
 nyediakan
 nyeh
@@ -3409,13 +3518,16 @@ nyeling
 nyeluduk
 nyen
 nyeng
+nyentuh
 nyerakkan
+nyeret
 nyerong
 nyerukan
 nyet
 nyetrika
 nyiakan
 nyiarkan
+nyih
 nyik
 nyimpan
 nyimpanan
@@ -3428,6 +3540,7 @@ nyolok
 nyolong
 nyub
 nyuling
+nyung
 oai
 oal
 oantropologi
@@ -3459,6 +3572,7 @@ odi
 odimium
 odinom
 odo
+odokolonye
 odor
 odoratum
 odorifera
@@ -3466,16 +3580,19 @@ officinale
 officinalis
 officinarum
 ofi
+ofisika
 ogak
 ognosis
 ogo
 ograf
 ografi
 ografis
+ogram
 ohan
 ohi
 ohidrologi
 ohmik
+ohmm
 oho
 ohoa
 oholu
@@ -3588,6 +3705,7 @@ orchidaceae
 ord
 ordin
 ore
+organiknya
 organisasiperdagangandunia
 orgen
 oriantalis
@@ -3602,6 +3720,7 @@ ornam
 ornop
 oro
 orograf
+orologi
 orong
 orthomorpha
 orthomus
@@ -3700,6 +3819,7 @@ pengedraf
 pengefisienan
 pengembungan
 pengggolong
+penghayalan
 penghindar
 penginternasionalisasian
 pengorder
@@ -3728,6 +3848,7 @@ piggishness
 pigraf
 pigrafi
 pih
+pijaknya
 pik
 piki
 piko
@@ -3759,6 +3880,7 @@ pizootik
 plaks
 planiceps
 pleks
+pler
 ploceidae
 plok
 pluit
@@ -3837,6 +3959,7 @@ rabindranath
 racikannya
 racunkan
 radicant
+radiog
 raf
 rafflesia
 rafflesiaceae
@@ -3940,6 +4063,7 @@ rer
 resisten
 resmilah
 restructurization
+resufle
 resupply
 resurgency
 retrokardiak
@@ -3969,6 +4093,7 @@ rifi
 rifikasi
 rifikatur
 rig
+rigidness
 rigour
 rih
 rihatnya
@@ -3980,10 +4105,12 @@ rika
 rikal
 rikarditis
 rikardium
+rikarp
 rikets
 rikh
 riko
 rikondrium
+rikoset
 riks
 riksa
 riksaan
@@ -4013,6 +4140,7 @@ ripah
 rir
 risasi
 risida
+risium
 riskiness
 riskop
 risol
@@ -4036,6 +4164,7 @@ rius
 rivaskul
 rivatif
 riya
+rizotrop
 rma
 rmis
 robah
@@ -4078,6 +4207,7 @@ rondih
 roni
 rop
 roplankton
+roplastik
 ror
 roris
 roro
@@ -4093,6 +4223,7 @@ roxburghii
 roy
 royco
 rpg
+rpul
 rsc
 rsik
 rsil
@@ -4139,6 +4270,7 @@ sabitmerah
 sabitmu
 sabrang
 sabre
+sabuni
 sagir
 sagor
 sahul
@@ -4161,6 +4293,7 @@ sambu
 samiall
 samp
 sampe
+samsung
 samuderaatlantik
 samuderahindia
 samuderaindonesia
@@ -4184,7 +4317,9 @@ sarkan
 sas
 sasrabahu
 satan
+satanik
 satay
+sativus
 saudi
 saurida
 saurus
@@ -4221,6 +4356,7 @@ separably
 sepasif
 sepersekian
 sepersepuluh
+sepokat
 seraum
 serebri
 serotong
@@ -4288,6 +4424,7 @@ sinf
 singaporeana
 singk
 sinisisme
+sinklimal
 sinkronus
 sinopsiskan
 sint
@@ -4308,7 +4445,9 @@ sireh
 sist
 sistan
 sistans
+sistansi
 sistol
+sitophila
 sitti
 siu
 sium
@@ -4326,6 +4465,7 @@ skuamasi
 sle
 smaragdina
 smerisme
+smi
 smilax
 soar
 socrates
@@ -4335,8 +4475,10 @@ soen
 sof
 soi
 sokap
+solaria
 sold
 solekan
+solitik
 sommiferum
 sompr
 sond
@@ -4349,7 +4491,9 @@ sphenisciformes
 sphyraena
 spicata
 spinifex
+spo
 sponsif
+sporobolus
 spu
 sputatrix
 sriwijaya
@@ -4400,6 +4544,8 @@ suborganization
 subterranea
 subv
 sudirman
+sued
+suey
 suez
 suffruticosa
 sugestinya
@@ -4454,6 +4600,7 @@ tag
 tahayul
 tahbiskan
 tahiyat
+tahyul
 taibah
 tail
 tailan
@@ -4462,6 +4609,7 @@ taipei
 taiwan
 taj
 takang
+takasiri
 takbersambung
 takbiat
 taks
@@ -4478,14 +4626,17 @@ tamatuk
 tami
 tamp
 tampa
+tamsilnya
 tanakan
 taneh
 tangaeunga
+tangalunga
 tanggalkanlah
 tanggerang
 tanggulangilah
 tangkapi
 tangkuban
+tangkupan
 tanki
 tans
 tanus
@@ -4500,6 +4651,7 @@ taria
 tarmuzi
 tarrietia
 tart
+taruknya
 tarwiah
 tase
 tasi
@@ -4573,6 +4725,7 @@ terseretnya
 tersubstitusikannya
 tersusahkan
 tertanggungjawabkan
+terterangkan
 tertiban
 teru
 terw
@@ -4604,6 +4757,7 @@ tikul
 tikusan
 tikut
 til
+tiliaceus
 tilu
 timbullah
 timidness
@@ -4650,6 +4804,7 @@ tokopedia
 toks
 toksifikasi
 toli
+tome
 tonasi
 tonimi
 tonuria
@@ -5027,6 +5182,7 @@ wanti
 warahmatullahi
 waran
 wardah
+warkatpos
 warni
 wasa
 wat
@@ -5045,6 +5201,7 @@ wif
 wik
 wil
 wilangan
+william
 willughbeia
 willughbera
 win
@@ -5152,3 +5309,4 @@ zilenial
 zip
 zonk
 zuketo
+zusanli
