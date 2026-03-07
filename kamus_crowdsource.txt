@@ -649,6 +649,7 @@ audi
 auditif
 auditive
 auditoris
+auer
 aug
 auger
 augm
@@ -1383,6 +1384,7 @@ formicidae
 formosum
 fors
 fos
+fosbury
 fotoelektrik
 fotosintetis
 fov
@@ -1575,6 +1577,7 @@ goo
 goods
 gop
 gopay
+gord
 gorong
 gos
 gotongan
@@ -2606,6 +2609,7 @@ lumi
 lumutnya
 lupain
 lupang
+lur
 luri
 luruskanlah
 luscinia
@@ -3885,6 +3889,7 @@ rarki
 rasbora
 rastafara
 rasterize
+rasy
 ratanya
 ratapannya
 rati
