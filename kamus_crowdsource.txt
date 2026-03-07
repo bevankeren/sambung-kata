@@ -47,6 +47,7 @@ add
 adeasamaturuseng
 ademsi
 aden
+adenanthera
 adenitis
 adenostemma
 adep
@@ -81,6 +82,7 @@ aee
 aekanis
 aeki
 ael
+aequifasciata
 aerofilateli
 aeroterapia
 afak
@@ -116,6 +118,7 @@ agik
 agilis
 agisambat
 agro
+agungkanlah
 ahadiah
 ahadun
 ahafit
@@ -206,6 +209,7 @@ akaran
 aker
 akiat
 akin
+akord
 akordion
 akrobatika
 akrom
@@ -405,6 +409,7 @@ anok
 anoks
 anologi
 anomik
+anona
 anor
 anos
 anplectrum
@@ -473,6 +478,7 @@ antisocial
 antit
 antiteroris
 antiterorisme
+antras
 antropom
 antropos
 antukkan
@@ -776,6 +782,8 @@ berumbaian
 bervariatif
 bes
 betulnya
+biala
+biarkankah
 biauritus
 bib
 bibik
@@ -963,6 +971,7 @@ dabraccio
 dacelo
 daclylocladus
 dactylifera
+daemonorhops
 daemonorops
 daendels
 daf
@@ -1000,6 +1009,7 @@ deni
 dentis
 der
 diab
+diabstrakkan
 diadakanlah
 diadukkan
 diagih
@@ -1114,6 +1124,7 @@ diundangnya
 diupam
 diuruknya
 doaku
+dobl
 dod
 dodonaea
 doe
@@ -1534,6 +1545,7 @@ gelianisme
 gelidiopsisigida
 gem
 gemborkan
+gembrang
 gemel
 gemes
 gemonisme
@@ -1677,6 +1689,7 @@ gujarat
 gulang
 gularisasi
 gulash
+gulasi
 gulatif
 gumpa
 guni
@@ -1715,6 +1728,7 @@ halai
 halley
 halusi
 halusinog
+hambal
 hamburannya
 hamd
 hamengku
@@ -2315,6 +2329,7 @@ kautegor
 kawa
 kawani
 kea
+keabsolutan
 keabu
 keambisian
 kebasaan
@@ -2403,6 +2418,7 @@ kiti
 klamasi
 klarasi
 klaratif
+kleng
 kli
 klif
 kling
@@ -2825,6 +2841,7 @@ melan
 melanochaeta
 meli
 meliosmifolia
+melo
 melonjakkan
 memetaforkan
 memilki
@@ -3035,6 +3052,7 @@ nasa
 nasalis
 nase
 nasgor
+nasihatilah
 nasionalismenya
 nasomaculata
 nastar
@@ -4376,6 +4394,7 @@ segerai
 seintensif
 sejawatnya
 sekaliannya
+sekandung
 sekomunikatif
 selandiabaru
 selep
@@ -4479,6 +4498,7 @@ sionalitas
 sionis
 siran
 sireh
+sisian
 sist
 sistan
 sistans
@@ -4727,6 +4747,7 @@ ten
 tenagakerja
 tenderer
 tenemincelai
+tengarai
 tenggorokku
 tenuifolium
 teo
