@@ -297,6 +297,7 @@ anof
 anofel
 anok
 anoks
+anologi
 anomik
 ans
 ant
@@ -619,6 +620,7 @@ chequers
 chrysalidocarpus
 ciliaris
 cilincing
+cin
 cint
 cipt
 ciridipunctatus
@@ -1113,6 +1115,7 @@ habituatif
 habsi
 hadeh
 hadits
+hadjar
 hadley
 hadramaut
 haemadipsa
@@ -1517,6 +1520,7 @@ kanabinol
 kanc
 kangkangannya
 kani
+kanik
 kanisasi
 kanisme
 kanit
@@ -2026,6 +2030,7 @@ ndaru
 ndauwa
 ndikar
 ndili
+nding
 ndingi
 ndio
 ndok
@@ -2102,6 +2107,7 @@ ngang
 ngangenin
 ngangkat
 ngangkut
+ngani
 ngantre
 ngap
 ngar
@@ -2326,6 +2332,8 @@ nosis
 notatus
 notochelys
 nov
+nsa
+nsi
 nsim
 ntah
 ntar
@@ -2879,7 +2887,9 @@ rui
 ruki
 run
 runjungnya
+runtang
 rupi
+rur
 rus
 rusi
 rusuhan
@@ -2998,6 +3008,7 @@ sion
 sional
 sionalisme
 sionalitas
+siran
 sireh
 sist
 sitti
@@ -3155,6 +3166,7 @@ telekom
 telkomsel
 telon
 temen
+temerang
 ten
 tenagakerja
 teo
