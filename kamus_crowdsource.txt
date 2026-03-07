@@ -50,6 +50,7 @@ adversitas
 aekanis
 aeroterapia
 afak
+afar
 aferitif
 aff
 afghanistan
@@ -65,6 +66,7 @@ afung
 agadang
 agalimpuyung
 agallocha
+agavaceae
 agihkan
 agilis
 agisambat
@@ -147,12 +149,14 @@ akaran
 akiat
 akin
 akrobatika
+aktansi
 aktifis
 aktinom
 aktinomisetet
 akuad
 akui
 akuif
+akul
 akuntabilitasnya
 aladin
 alasi
@@ -193,6 +197,7 @@ alus
 amabilis
 amagat
 amanua
+amara
 amarta
 amarylidaceae
 amatinya
@@ -289,6 +294,7 @@ ant
 antagonistik
 antakusuma
 antam
+antaranggotanya
 antarcabang
 antarda
 antarglasial
@@ -298,6 +304,7 @@ antarkedua
 antarkesebelasan
 antarklausa
 antarklausanya
+antarpartai
 antarpelaku
 antarpendukung
 antarperseorangan
@@ -323,6 +330,7 @@ antisemitism
 antisocial
 antit
 antiteroris
+antropom
 antukkan
 anuiti
 anur
@@ -356,6 +364,7 @@ apunsia
 arabia
 arabica
 arabsaudi
+arachis
 arahi
 arahkanlah
 aralia
@@ -372,6 +381,7 @@ areca
 arecacear
 argentimaculatus
 aridifolia
+arin
 aristrokat
 aristrokratis
 arius
@@ -433,6 +443,7 @@ asusah
 asy
 asyhadu
 asyikan
+asyu
 atai
 atasi
 atasilah
@@ -462,6 +473,7 @@ atpokat
 atr
 atri
 atrinuchalis
+atropurpurea
 atropurpureus
 atrosanguinea
 attaqwa
@@ -521,6 +533,7 @@ basri
 bataknya
 bauhinia
 baui
+baw
 bcg
 beki
 bekl
@@ -542,6 +555,7 @@ bolakbalik
 boni
 bougainvellaea
 brachirus
+bral
 bras
 brawijaya
 braya
@@ -550,6 +564,7 @@ bria
 budhisme
 buf
 buhan
+buhi
 bukl
 buleleng
 bustrofedon
@@ -579,6 +594,7 @@ canavalia
 cancelling
 cannaeformis
 canus
+carnegica
 caso
 cauliflora
 chalcococyx
@@ -636,8 +652,10 @@ deka
 dekafinat
 deks
 deng
+deni
 diadakanlah
 diagih
+dial
 diamat
 dianugerahkannya
 diciptakan
@@ -679,7 +697,9 @@ disi
 disintegratif
 disori
 dista
+dit
 ditemu
+ditohokkan
 ditoleh
 doaku
 dod
@@ -720,6 +740,7 @@ ekletisisme
 eko
 ekosentris
 eksek
+ekslusif
 ekso
 eksploitif
 eksteritorial
@@ -768,8 +789,10 @@ ent
 enter
 enumeratif
 epen
+epi
 epidemik
 eracta
+eratnya
 erek
 eri
 erianthus
@@ -798,6 +821,7 @@ esif
 eslandia
 eso
 etawa
+ete
 eto
 eurycoma
 eva
@@ -876,6 +900,7 @@ flor
 floribunda
 floridina
 flynn
+fol
 folk
 fonemnya
 foni
@@ -1045,6 +1070,7 @@ gulang
 gularisasi
 gulash
 gulatif
+guni
 gurameh
 gurinda
 guruan
@@ -1117,6 +1143,7 @@ hiasilah
 hib
 hiburkanlah
 hid
+hida
 hidroponiks
 hidrosf
 hidroskopik
@@ -1124,6 +1151,7 @@ hig
 hih
 hijinks
 hil
+hila
 hili
 him
 himi
@@ -1255,6 +1283,7 @@ imperfektif
 implora
 imsakyih
 imu
+imunosupr
 inau
 incissus
 ind
@@ -1298,6 +1327,7 @@ install
 instrum
 instrumentatif
 int
+intenden
 intensifkan
 interaksinya
 interbranch
@@ -1386,6 +1416,7 @@ jaelani
 jai
 jak
 jaki
+jakulasi
 jamadilakhir
 jamb
 jampang
@@ -1404,6 +1435,7 @@ jinggaan
 jiplaknya
 jiri
 jis
+jol
 jom
 joni
 jordania
@@ -1470,11 +1502,13 @@ kaukutuk
 kaupatahkan
 kauperoleh
 kawa
+kea
 kebasaan
 kebengalan
 kebertidakpengalamanan
 kefasihannya
 keh
+kel
 kela
 kelemasan
 kemendesakan
@@ -1506,6 +1540,7 @@ kikihan
 kil
 kill
 kilowat
+kimi
 kinestetis
 king
 kintamani
@@ -1620,6 +1655,7 @@ lautcinaselatan
 lautkuning
 lautmediterania
 lav
+law
 layangku
 lban
 lea
@@ -1758,10 +1794,12 @@ maxima
 maximalist
 maximum
 maz
+mber
 mburs
 measliest
 meb
 mecah
+mela
 melan
 melanochaeta
 meliosmifolia
@@ -1792,11 +1830,13 @@ microlaser
 microwaving
 midiurnal
 mieayam
+mig
 mih
 mikir
 mikordat
 mikropros
 mili
+miliaris
 milih
 miller
 minallah
@@ -1822,6 +1862,7 @@ moldavia
 mom
 momordica
 mon
+mona
 monstratif
 mos
 moti
@@ -1847,6 +1888,7 @@ mundi
 munkar
 murbaut
 murinus
+muronatus
 musculus
 muti
 naalsi
@@ -1857,6 +1899,7 @@ nachos
 nad
 nae
 nafakah
+nagasaki
 nagih
 nahan
 nahar
@@ -2026,6 +2069,7 @@ ngepalkan
 ngepang
 nger
 ngerasa
+ngerem
 ngerjakan
 ngerjap
 ngerling
@@ -2097,6 +2141,7 @@ ngot
 ngotakan
 ngoyak
 ngoyakkan
+ngs
 ngsa
 ngsah
 ngseng
@@ -2145,6 +2190,7 @@ nin
 nina
 ninggal
 nio
+nipa
 nipon
 nir
 nirbau
@@ -2230,6 +2276,7 @@ nyakit
 nyalah
 nyalon
 nyambung
+nyangka
 nyangkutkan
 nyanjung
 nyap
@@ -2252,6 +2299,8 @@ nyiarkan
 nyin
 nyinggung
 nyolong
+oai
+oal
 oap
 oat
 obatkan
@@ -2267,6 +2316,7 @@ obtusifolia
 oby
 oceania
 ochamostachys
+ocl
 odal
 odalisme
 oder
@@ -2296,6 +2346,7 @@ oklimatologi
 oknya
 okolonialisme
 okrasi
+okratis
 oksias
 oksidental
 oksig
@@ -2324,6 +2375,7 @@ olo
 olokal
 olong
 omansi
+ome
 oms
 ona
 onasme
@@ -2434,6 +2486,7 @@ pautannya
 paz
 pelamis
 peli
+peme
 peng
 penginternasionalisasian
 pengorder
@@ -2489,11 +2542,14 @@ psik
 psikon
 ptabilitas
 ptum
+pua
 puh
 pui
 pulchella
 puli
 pulogadung
+puls
+puni
 punitif
 purpurescens
 pusuh
@@ -2540,6 +2596,7 @@ rahwana
 rakaatnya
 raki
 rakib
+rakota
 ral
 raldik
 ralia
@@ -2578,6 +2635,7 @@ rbalisme
 rbaneka
 rder
 recharacterizing
+refleksif
 reformatif
 regia
 regimentasi
@@ -2606,6 +2664,7 @@ rib
 ribonukleat
 ribuginosum
 ricu
+rid
 rif
 rifi
 rifikasi
@@ -2639,6 +2698,7 @@ rintihannyalah
 rio
 riodat
 riodisasi
+riola
 riologi
 rioritas
 riost
@@ -2662,6 +2722,7 @@ ritorium
 ritroblas
 rivatif
 riya
+robah
 robatik
 robotisasi
 roc
@@ -2671,6 +2732,8 @@ rofilia
 roftalmia
 roglif
 rografi
+rogram
+rohaniwati
 roj
 rokanonika
 roko
@@ -2679,6 +2742,7 @@ rolog
 rologi
 rom
 romagn
+romania
 romannya
 romawai
 romb
@@ -2688,6 +2752,7 @@ ronal
 ronautika
 rondih
 roni
+rop
 ror
 roro
 rosa
@@ -2731,6 +2796,7 @@ saintpaulia
 sakaratul
 sakralisme
 sales
+salomon
 salutasi
 salvinia
 sam
@@ -2750,6 +2816,7 @@ santannya
 santi
 sao
 sarcodactylis
+sarimi
 sas
 sasrabahu
 satay
@@ -2816,6 +2883,7 @@ sinkronus
 sinopsiskan
 sint
 sintaks
+sintaksisnya
 sintaktisnya
 sinusoidal
 siolog
@@ -2927,6 +2995,7 @@ taj
 takbersambung
 takbiat
 taktransitif
+talauma
 talik
 talografi
 tama
@@ -2995,6 +3064,7 @@ terw
 tet
 tgl
 tia
+tiah
 tif
 tifoid
 tifon
@@ -3185,6 +3255,7 @@ undangundang
 unduk
 unek
 ungah
+ungap
 ungaran
 unggat
 ungguh
@@ -3193,11 +3264,13 @@ ungkang
 unguiculata
 unia
 unilin
+unis
 univ
 unpreparedness
 unskillfulness
 untang
 untingan
+untukmenangkal
 update
 upgrade
 ural
@@ -3276,6 +3349,7 @@ varius
 vaseline
 veks
 ven
+venom
 ventrikulostomi
 verdancy
 verde
@@ -3313,12 +3387,14 @@ wattase
 wearability
 weatherability
 wedelia
+wel
 wes
 wif
 willughbeia
 willughbera
 win
 windah
+wini
 wir
 wirataparwa
 wis
@@ -3375,6 +3451,7 @@ yiz
 yodoform
 yogasana
 yogya
+yomi
 yong
 yorasi
 yosef
