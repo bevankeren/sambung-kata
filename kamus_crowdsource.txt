@@ -103,6 +103,7 @@ agap
 agapiuga
 agarose
 agavaceae
+ageng
 agihkan
 agik
 agilis
@@ -190,6 +191,7 @@ ajima
 ajin
 ajisai
 ajisesirep
+ajungan
 akadkan
 akalkan
 akaran
@@ -300,6 +302,7 @@ amp
 amper
 amphibius
 amphiphrion
+ampulla
 ampullaria
 amul
 anabantidae
@@ -411,9 +414,11 @@ antarkedua
 antarkesebelasan
 antarklausa
 antarklausanya
+antarmereka
 antarpartai
 antarpelaku
 antarpendukung
+antarpengusaha
 antarperseorangan
 antarplan
 antarpramuka
@@ -514,11 +519,13 @@ archoviella
 ardea
 ardisia
 areca
+arecacea
 arecacear
 arem
 areui
 arg
 argentimaculatus
+argentius
 arguens
 argyatus
 argyratum
@@ -703,6 +710,7 @@ bakalaur
 baleamifera
 balt
 bankdunia
+bant
 bantahannya
 baraandi
 barbaria
@@ -712,6 +720,7 @@ barus
 basri
 bataknya
 batipelagis
+batre
 bauhinia
 baui
 baw
@@ -755,6 +764,7 @@ biseks
 bitorquata
 bitum
 boaja
+bohay
 bohemia
 boid
 bolakbalik
@@ -775,6 +785,7 @@ brazil
 bria
 bro
 bromid
+bualkan
 bub
 buceros
 budhisme
@@ -886,6 +897,7 @@ cos
 croissant
 crotalaria
 ctenopharyngodon
+cuaks
 cucumis
 cucurbita
 cudrania
@@ -1024,6 +1036,7 @@ diperoleh
 dipersonanongratakan
 dipungli
 dir
+diramalkan
 direkonfirmasi
 direntak
 dis
@@ -1034,6 +1047,7 @@ disapukan
 diselekeh
 disfavoritism
 disi
+disia
 disingkan
 disintegratif
 disisihkannya
@@ -1100,6 +1114,7 @@ efisiennya
 efo
 eforia
 eichornia
+eiger
 ein
 ekasegi
 ekawarsa
@@ -1268,6 +1283,7 @@ fah
 fahmi
 fahomb
 fahrenh
+faisal
 faitisme
 fak
 fakfor
@@ -1285,6 +1301,7 @@ falograf
 falopoda
 falotoraks
 familiaris
+fanfiksi
 far
 fark
 farmakop
@@ -1348,6 +1365,7 @@ flo
 flor
 floribunda
 floridina
+fluk
 fluores
 flynn
 fob
@@ -1907,6 +1925,7 @@ indahkan
 indeterminan
 indische
 indomaret
+indomie
 indon
 indonesianizing
 indulgen
@@ -1919,6 +1938,7 @@ infark
 infeksilah
 infiltrom
 infl
+infortunatus
 infra
 ingatkanlah
 inggang
@@ -2029,11 +2049,13 @@ ismom
 iso
 isof
 isogonik
+isoh
 isohi
 isok
 isol
 isolem
 isom
+ison
 isopl
 isopropilfenol
 isora
@@ -2119,6 +2141,7 @@ jordania
 jos
 judikatif
 juh
+jui
 juj
 juki
 jukkan
@@ -2328,6 +2351,7 @@ krakatau
 krinologi
 kroatia
 krong
+krus
 krustacea
 ksa
 ksis
@@ -2388,6 +2412,7 @@ kutatan
 kutemukan
 kutunggangbalikkan
 kuy
+kwan
 kwart
 kwintet
 labah
@@ -2514,6 +2539,7 @@ limannum
 limbad
 limfad
 limfop
+limfositop
 limi
 limin
 limon
@@ -2599,6 +2625,7 @@ maani
 mab
 mabrasi
 mac
+macacus
 macrobium
 macrocladus
 macrophygia
@@ -2713,7 +2740,9 @@ mengkomersialisasikan
 mengkomersialkan
 mengomentar
 mengusapi
+ment
 menusuki
+meny
 menyelidikkan
 meo
 merakus
@@ -2724,11 +2753,13 @@ merenjisi
 meritrix
 meso
 mesometereologi
+metafor
 meu
 mez
 mia
 microlaser
 microscelis
+microsperma
 microwaving
 midiurnal
 mieayam
@@ -2765,6 +2796,7 @@ miscommunicating
 mispers
 mit
 mne
+mno
 mobilis
 mod
 modesta
@@ -2787,6 +2819,8 @@ mpah
 mpak
 mpel
 muahid
+muan
+muangthai
 muatilah
 mudahlah
 mudi
@@ -2800,6 +2834,7 @@ muli
 mulsi
 multi
 multiperspektif
+mum
 mumia
 mumpungisme
 mun
@@ -2887,6 +2922,7 @@ nasutus
 nat
 nati
 nauclea
+naucleiflorus
 naucrates
 naucratus
 nazarnya
@@ -2956,6 +2992,7 @@ neroma
 nervosa
 nes
 nesis
+neti
 nett
 network
 neurocarpum
@@ -3001,6 +3038,7 @@ ngap
 ngar
 ngari
 ngas
+ngat
 ngatai
 ngati
 ngatupkan
@@ -3258,6 +3296,7 @@ nondiskriminasi
 nondiskriminatif
 noninti
 nonjolkan
+nonkonv
 nonlegitimacy
 nonmetalik
 nonnominatif
@@ -3296,6 +3335,7 @@ ntah
 ntak
 ntar
 nter
+nti
 ntia
 ntik
 ntil
@@ -3357,6 +3397,7 @@ nyawer
 nyayat
 nyctalopia
 nycticorax
+nyebelin
 nyediakan
 nyeh
 nyek
@@ -3397,6 +3438,7 @@ obliqua
 oblongifolia
 oblongifolium
 obotani
+obrak
 observative
 obtusifolia
 oby
@@ -3475,6 +3517,7 @@ oligofr
 oligofremia
 oligos
 olim
+olimpik
 olin
 olisasi
 olit
@@ -3682,6 +3725,7 @@ pigraf
 pigrafi
 pih
 pik
+piki
 piko
 pikotil
 piks
@@ -3716,6 +3760,8 @@ plok
 pluit
 poa
 poaceae
+poc
+poh
 poi
 poikilot
 poksi
@@ -3729,7 +3775,9 @@ portret
 portulaca
 poskrip
 poti
+pra
 prad
+pri
 prodemocracy
 prolatif
 pseudociaena
@@ -3741,6 +3789,7 @@ psikol
 psikon
 psin
 ptabilitas
+ptah
 ptum
 pua
 pubercens
@@ -3761,6 +3810,7 @@ purpurescens
 pusuh
 put
 putauw
+putaw
 putr
 pygeum
 qadar
@@ -3782,6 +3832,7 @@ rabbiyal
 rabindranath
 racikannya
 racunkan
+radicant
 raf
 rafflesia
 rafflesiaceae
@@ -3874,6 +3925,7 @@ ren
 renalis
 rentakkan
 renunglah
+reo
 rep
 repi
 repro
@@ -3953,6 +4005,7 @@ rioskl
 riost
 riostatik
 ripah
+rir
 risasi
 risida
 riskiness
@@ -4035,6 +4088,7 @@ roxburghii
 roy
 royco
 rpg
+rsc
 rsik
 rsil
 rtil
@@ -4145,6 +4199,7 @@ sectorally
 secubitan
 seekstensif
 segerai
+seintensif
 sejawatnya
 sekaliannya
 sekomunikatif
@@ -4294,6 +4349,7 @@ spu
 sputatrix
 sriwijaya
 sta
+stag
 stagninum
 star
 stat
@@ -4385,6 +4441,7 @@ tabahnya
 tabernaemontana
 tabernasia
 tabligh
+tabolik
 tabolisme
 tabulum
 tad
@@ -4503,6 +4560,7 @@ tero
 terodin
 terodoks
 teroklitus
+teros
 terotrof
 terpisahnya
 ters
@@ -4538,6 +4596,7 @@ tikh
 tiki
 tikong
 tikul
+tikusan
 tikut
 til
 tilu
@@ -4583,6 +4642,7 @@ tokardiografi
 tokc
 tokoan
 tokopedia
+toks
 toksifikasi
 toli
 tonasi
@@ -4630,6 +4690,7 @@ trigonopleura
 triklorida
 trinervia
 trionyx
+triplek
 tris
 tro
 troaktif
@@ -4735,6 +4796,7 @@ ukurlah
 ula
 ulamas
 ulil
+uljanati
 ulmaceae
 ulmifolia
 ult
@@ -4911,6 +4973,7 @@ verdancy
 verde
 vereegnide
 vernonia
+vers
 vil
 vilatase
 vilex
@@ -4951,6 +5014,7 @@ wakunya
 wal
 wala
 wales
+wallahu
 wanagari
 wangian
 want
