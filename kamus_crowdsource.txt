@@ -35,7 +35,9 @@ add
 adeasamaturuseng
 ademsi
 aden
+adenitis
 adenostemma
+adep
 adili
 adimisibilitas
 adimisme
@@ -43,14 +45,17 @@ adimuda
 adin
 adipose
 adis
+aditus
 adj
 adjektivisasi
 adk
 adoh
 adonara
 adr
+adrahi
 adrenokortikotopik
 adrenokortikotropik
+adukit
 adularia
 adularisasi
 adup
@@ -77,6 +82,8 @@ afung
 agadang
 agalimpuyung
 agallocha
+agapiuga
+agarose
 agavaceae
 agihkan
 agilis
@@ -100,6 +107,7 @@ ahim
 ahis
 ahistorisme
 ahlian
+ahliwaris
 ahliyah
 ahloten
 ahlul
@@ -170,6 +178,7 @@ akin
 akordion
 akrobatika
 aksensuasi
+aksesories
 aktans
 aktansi
 aktifis
@@ -231,6 +240,7 @@ alukan
 alus
 amabilis
 amagat
+amandem
 amanua
 amara
 amarta
@@ -274,6 +284,7 @@ anakkunci
 analogis
 anam
 anamn
+ananas
 ananassae
 anap
 anar
@@ -346,6 +357,7 @@ antam
 antangin
 antarabangsa
 antaranggotanya
+antarbank
 antarcabang
 antarda
 antaretnik
@@ -368,7 +380,10 @@ antartokoh
 antaruniversitas
 antidialogic
 antidialogis
+antidiskriminasi
 antig
+antiimperialis
+antiintegrasi
 antikekerasan
 antiketombe
 antinov
@@ -400,6 +415,7 @@ apat
 apdeling
 apektrograf
 aper
+aphodius
 aphroditois
 apian
 apiko
@@ -468,6 +484,7 @@ aromaticum
 arrogancy
 ars
 arse
+arsika
 arthostoma
 arthropoda
 artikulat
@@ -501,6 +518,7 @@ asketis
 askorbat
 asortim
 asp
+asper
 aspidomorpha
 aspirasinya
 asram
@@ -512,6 +530,7 @@ ast
 astagfirullahalazim
 astcichtyes
 astig
+astina
 astr
 asum
 asumptif
@@ -547,6 +566,7 @@ ator
 atosis
 atpokat
 atr
+atra
 atri
 atrinuchalis
 atropurpurea
@@ -696,6 +716,7 @@ caesalpiniaceae
 caesia
 caf
 cafetaria
+cahpo
 cai
 calcarifer
 canangium
@@ -717,6 +738,7 @@ chebula
 chequers
 chrysalidocarpus
 chx
+ciawi
 ciki
 ciliaris
 cilincing
@@ -786,6 +808,7 @@ demensi
 deng
 deni
 dentis
+der
 diadakanlah
 diadukkan
 diagih
@@ -807,6 +830,7 @@ dih
 dikabarkan
 dikan
 dikarunia
+dikebelakangkan
 dikeduk
 dikesampingkan
 diki
@@ -822,6 +846,7 @@ dilukai
 dimanterai
 dimarginalisasi
 dinasnya
+dinetralisasikan
 ding
 dio
 dip
@@ -849,6 +874,7 @@ ditemu
 ditenung
 ditohokkan
 ditoleh
+diudarakan
 diupam
 doaku
 dod
@@ -895,11 +921,14 @@ ekletisisme
 eko
 ekosentris
 eksek
+eksibisionism
 ekslusif
 ekso
 eksploitif
+ekspresionis
 eksteritorial
 ekstrusif
+elacocarpus
 elaeocarpus
 elah
 elanus
@@ -984,7 +1013,9 @@ erumpens
 erup
 ervatamia
 erythrogaster
+erythropsis
 erythropterus
+erythroxylium
 erythroxylon
 esah
 escalative
@@ -1158,6 +1189,7 @@ gasi
 gask
 gasporofil
 gastroenterologis
+gastrologi
 gat
 gatif
 gativisme
@@ -1175,6 +1207,8 @@ gemonisme
 gemoy
 general
 genetif
+genggamkan
+geni
 geo
 geodesik
 geofisik
@@ -1280,6 +1314,7 @@ gulang
 gularisasi
 gulash
 gulatif
+gumpa
 guni
 gurameh
 gurinda
@@ -1315,12 +1350,14 @@ hami
 han
 handi
 handphone
+hangusan
 hani
 hanifah
 hannah
 hanoi
 hapuskanlah
 har
+hardnose
 harima
 hasanlah
 hasselti
@@ -1410,6 +1447,7 @@ histeri
 histog
 historikal
 hitaman
+hitamanan
 hitler
 hitman
 hok
@@ -1423,6 +1461,7 @@ hong
 hongaria
 hongkong
 hor
+hospita
 house
 hubaya
 hudi
@@ -1532,6 +1571,7 @@ imo
 imoral
 imp
 imparsialitas
+imperalis
 imperata
 imperfektif
 impetus
@@ -1540,10 +1580,12 @@ imsakyih
 imu
 imunosupr
 inau
+incang
 incissus
 ind
 indahkan
 indeterminan
+indische
 indomaret
 indon
 indonesianizing
@@ -1556,6 +1598,7 @@ inesif
 infark
 infeksilah
 infiltrom
+infl
 infra
 ingatkanlah
 inggang
@@ -1591,6 +1634,7 @@ instrumentatif
 int
 inta
 integralisme
+inteligensinya
 intelpam
 intenden
 intensifkan
@@ -1603,6 +1647,7 @@ interlokusi
 intermolekul
 internasionalisme
 inters
+intert
 interv
 intestinalis
 intestinum
@@ -1758,10 +1803,12 @@ kalsif
 kamikaz
 kampunganlah
 kanabinol
+kanagurta
 kanak
 kanc
 kandasnya
 kangkangannya
+kangkangi
 kani
 kanik
 kanin
@@ -1789,12 +1836,14 @@ kasr
 kat
 katang
 kateklisme
+katistiwa
 kaubanggakan
 kaubunuh
 kaudapatkan
 kauhubungkan
 kaukebatkanlah
 kaukutuk
+kaulilitkanlah
 kaupatahkan
 kauperoleh
 kausukai
@@ -1874,6 +1923,7 @@ kof
 koklimatologi
 koko
 koksi
+kolusif
 kompletif
 kon
 kong
@@ -1903,6 +1953,7 @@ ksis
 ksit
 ksn
 ksp
+kuan
 kuartiner
 kuatif
 kubat
@@ -1916,6 +1967,7 @@ kuharapkan
 kuhi
 kuhidupi
 kuhlii
+kuisisi
 kuivokasi
 kujual
 kukira
@@ -1947,6 +1999,7 @@ kutemukan
 kutunggangbalikkan
 kuy
 kwart
+kwintet
 labah
 labbaika
 labelization
@@ -2027,6 +2080,7 @@ libanon
 libr
 lida
 lieberkuhn
+liebig
 lif
 lifebuoy
 lig
@@ -2128,6 +2182,7 @@ maj
 majah
 major
 maker
+makram
 makrogam
 maks
 maksa
@@ -2139,6 +2194,7 @@ manandai
 manasi
 mancing
 manganat
+mangkunegara
 mangosteen
 manif
 manikd
@@ -2209,8 +2265,10 @@ menginstitusionalisasikan
 mengintensif
 mengkomersialisasikan
 mengkomersialkan
+mengomentar
 meo
 merakus
+meraldin
 merasul
 mereferensi
 merenjisi
@@ -2239,6 +2297,8 @@ minallah
 minasysyaitanirrajim
 ming
 minibask
+minin
+minisme
 mint
 minuta
 mio
@@ -2408,6 +2468,7 @@ nengok
 nens
 neo
 neokapitalisme
+neolitsea
 nep
 nepak
 nephottotix
@@ -2420,6 +2481,7 @@ nerasi
 neratif
 neriifolia
 nerima
+nerium
 nerjang
 nerka
 neroma
@@ -2484,6 +2546,7 @@ ngedangkan
 ngegombal
 ngeh
 ngejapkan
+ngejos
 ngek
 ngeki
 ngel
@@ -2493,10 +2556,12 @@ ngeles
 ngeliat
 ngem
 ngemasi
+ngemis
 ngemplang
 ngen
 ngenanam
 ngenangkan
+ngendon
 ngeng
 ngeni
 ngentut
@@ -2505,6 +2570,7 @@ ngepakkan
 ngepal
 ngepalkan
 ngepang
+ngeper
 nger
 ngerasa
 ngerat
@@ -2558,6 +2624,7 @@ ngisap
 ngiseng
 ngit
 ngitung
+ngkar
 ngki
 ngli
 ngo
@@ -2679,6 +2746,7 @@ njang
 nob
 nobel
 nobilis
+nodosa
 nodule
 noglosia
 nograf
@@ -2693,12 +2761,15 @@ nombok
 nomin
 nominalizing
 nonagr
+nonagression
 nonblock
+nondemokratis
 nondiscriminative
 nondiskriminasi
 nondiskriminatif
 noninti
 nonjolkan
+nonlegitimacy
 nonmetalik
 nonnominatif
 nonretroaktif
@@ -2752,6 +2823,7 @@ numpuk
 nunda
 nunduk
 nunggu
+nusia
 nussaenda
 nusukkan
 nut
@@ -2772,6 +2844,7 @@ nyangka
 nyangkut
 nyangkutkan
 nyanjung
+nyantol
 nyap
 nyapu
 nyar
@@ -2881,6 +2954,7 @@ olin
 olit
 olo
 ologis
+ologisasi
 olokal
 olong
 omansi
@@ -2908,6 +2982,7 @@ onyah
 onyak
 oog
 ooh
+oost
 ope
 opec
 opel
@@ -2963,10 +3038,12 @@ osteoglossum
 oten
 otip
 otipologi
+otobis
 otop
 otoriterianisme
 ouratea
 ovalifolia
+overdramatize
 overinflated
 oxidate
 oxleyanum
@@ -3011,6 +3088,7 @@ pasca
 pascakemerdekaan
 patrilin
 pau
+pauknya
 pautannya
 pay
 payena
@@ -3025,6 +3103,7 @@ pengefisienan
 penginternasionalisasian
 pengorder
 perkembangbiakannya
+perlengketan
 pestapora
 peyoratif
 pezazz
@@ -3061,6 +3140,7 @@ pisiotomi
 pisonia
 pistaksis
 pitaf
+pithecollobium
 piu
 pizootik
 plaks
@@ -3094,6 +3174,7 @@ pua
 pubian
 puh
 pui
+puk
 pukulkanlah
 pulchella
 puli
@@ -3222,6 +3303,7 @@ retrokardiak
 retrospektif
 retuculata
 rgik
+rhapis
 rhizomys
 rhizothera
 rhododendrifolia
@@ -3298,6 +3380,7 @@ ritopelagik
 ritorialitas
 ritorium
 ritroblas
+rium
 rivaskul
 rivatif
 riya
@@ -3309,6 +3392,7 @@ robotisasi
 robusta
 roc
 rod
+rodinamika
 rof
 rofilia
 roftalmia
@@ -3343,6 +3427,7 @@ rosa
 rosasinensis
 rosen
 rosi
+rositas
 rostratula
 rot
 rotundifolia
@@ -3388,6 +3473,7 @@ sabitmerah
 sabitmu
 sabrang
 sagir
+sagor
 sahul
 sailboarding
 sain
@@ -3407,6 +3493,7 @@ samb
 sambu
 samiall
 sampe
+samuderaatlantik
 samuderahindia
 samuderaindonesia
 sanadnya
@@ -3417,6 +3504,7 @@ sank
 sant
 santannya
 santi
+santiria
 sao
 sapindus
 sarcodactylis
@@ -3436,6 +3524,7 @@ scarlett
 schizostachyum
 scleronema
 scorpio
+sdri
 sea
 seboleh
 sectorally
@@ -3448,10 +3537,12 @@ sem
 semar
 semaraknya
 seobjektif
+seorganisasi
 separably
 sepasif
 sepersekian
 sepersepuluh
+seraum
 serebri
 ses
 sesatif
@@ -3493,6 +3584,7 @@ siloid
 simal
 simbolisasi
 simp
+simpangnya
 simpleness
 simplicifolia
 simponi
@@ -3504,6 +3596,7 @@ sinai
 sind
 sindirin
 sinf
+singaporeana
 singk
 sinisisme
 sinkronus
@@ -3513,6 +3606,7 @@ sintaks
 sintaksisnya
 sintaktisnya
 sinusoidal
+sinyalem
 siolog
 siom
 sion
@@ -3523,9 +3617,11 @@ sionis
 siran
 sireh
 sist
+sistans
 sitti
 siu
 sium
+siurnya
 skalina
 ske
 skil
@@ -3537,6 +3633,7 @@ smilax
 soar
 sod
 soekarno
+soen
 sof
 soi
 sokap
@@ -3574,6 +3671,7 @@ stof
 stomoxys
 stopl
 stor
+strategik
 strigiformes
 stro
 strob
@@ -3586,6 +3684,7 @@ subclassification
 subduction
 subirmerbius
 subjenis
+sublitoral
 subminiata
 subordinatif
 suborganization
@@ -3605,6 +3704,7 @@ sule
 sulfodikloroamidobenzoat
 suluhnya
 sumsi
+sunblock
 sung
 superba
 superinf
@@ -3682,6 +3782,7 @@ tart
 tarwiah
 tase
 tasi
+tasir
 tastasis
 tat
 tatabahasa
@@ -3708,9 +3809,11 @@ temen
 temerang
 ten
 tenagakerja
+tenderer
 tenggorokku
 teo
 teracuni
+terangterangan
 terberikan
 terdengaran
 tergetarnya
@@ -3718,6 +3821,7 @@ tergulat
 terimakasih
 terkecundang
 terkesamping
+terkurang
 terlaporkan
 terlikuidasi
 tero
@@ -3730,6 +3834,7 @@ tertanggungjawabkan
 tertiban
 terw
 test
+testudinidae
 tet
 tgl
 tia
@@ -3754,6 +3859,7 @@ til
 tilu
 timbullah
 timidness
+timologi
 timologis
 timorensis
 timu
@@ -3798,6 +3904,7 @@ tori
 torik
 torika
 toris
+torm
 torp
 tortilla
 tosa
@@ -3829,6 +3936,7 @@ tris
 tro
 troaktif
 trologi
+tromamal
 trop
 troya
 tru
@@ -3904,6 +4012,7 @@ ukh
 ukhu
 ukod
 ukofit
+ukoma
 ukonisia
 ukop
 ukopenia
@@ -3943,6 +4052,7 @@ umonia
 umpah
 uncaria
 undangundang
+undershorts
 unduk
 undung
 unek
@@ -3954,6 +4064,7 @@ unggat
 ungguh
 ungi
 ungkang
+unguan
 unguiculata
 unia
 unieropa
@@ -3962,6 +4073,7 @@ unionis
 unis
 univ
 unival
+universit
 unpreparedness
 unril
 unskillfulness
@@ -4175,6 +4287,7 @@ yeh
 yeng
 yer
 yes
+yet
 ygmencakupi
 yib
 yik
