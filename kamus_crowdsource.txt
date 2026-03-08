@@ -358,6 +358,7 @@ anastetis
 anat
 anatropus
 ancangannya
+ancar
 and
 andaikata
 andeng
@@ -599,6 +600,7 @@ artot
 artrogularis
 arundinacea
 arundinaceae
+arundisiaceus
 arvensis
 arytera
 asaan
@@ -822,6 +824,7 @@ bilmal
 bily
 bim
 bing
+bininya
 bio
 biof
 birdcalling
@@ -924,6 +927,7 @@ cauliflora
 caw
 ceh
 cem
+cengir
 centropus
 chalcococyx
 chebula
@@ -1073,6 +1077,7 @@ diimbaukan
 diinjeksikan
 dikabarkan
 dikafani
+dikam
 dikan
 dikarunia
 dike
@@ -1126,6 +1131,7 @@ dipersonanongratakan
 dipungli
 dir
 diramalkan
+diraup
 direkonfirmasi
 direntak
 dis
@@ -1207,6 +1213,7 @@ ectoprocta
 edarannya
 edi
 edison
+efe
 efisiennya
 efo
 eforia
@@ -1672,6 +1679,7 @@ god
 gog
 goh
 goi
+goisme
 gok
 gokart
 goki
@@ -1789,6 +1797,7 @@ hani
 hanifah
 hannah
 hanoi
+hapusbukukan
 hapuskanlah
 har
 hardnose
@@ -1796,6 +1805,7 @@ harengas
 haribu
 harima
 harkatnya
+harken
 harpodon
 harya
 hasanlah
@@ -2265,6 +2275,7 @@ jau
 jauhi
 javanizing
 jaw
+jay
 jayawardana
 jazz
 jeans
@@ -2684,6 +2695,7 @@ legak
 legitimatif
 legokan
 leguminoceae
+leh
 leha
 leiden
 leiognathus
@@ -2800,6 +2812,7 @@ ltor
 lua
 lud
 luh
+luhi
 lui
 luki
 luloid
@@ -2997,6 +3010,7 @@ miller
 milletia
 milyuner
 mimiknya
+minah
 minallah
 minasysyaitanirrajim
 mine
@@ -3624,6 +3638,7 @@ nuti
 nutri
 nutritif
 nuvo
+nya
 nyab
 nyadran
 nyahlah
@@ -3723,6 +3738,7 @@ odokolonye
 odor
 odoratum
 odorifera
+ofen
 officinale
 officinalis
 officinarum
@@ -4161,6 +4177,7 @@ ramiflorum
 ran
 rancourous
 rangannya
+rangi
 rangifer
 rangk
 rango
@@ -4411,6 +4428,7 @@ rsil
 rtil
 rub
 ruba
+rubella
 rubescens
 rubi
 rubiginosum
@@ -4486,6 +4504,7 @@ sandai
 sandfly
 sandoricum
 sandyakalaning
+sanggaan
 sangganya
 sank
 sant
@@ -4798,6 +4817,7 @@ tabligh
 tabolik
 tabolisme
 tabulum
+tacu
 tad
 tag
 tahayul
@@ -5249,6 +5269,7 @@ uraria
 urasia
 urasil
 urast
+urbain
 ure
 urena
 uret
