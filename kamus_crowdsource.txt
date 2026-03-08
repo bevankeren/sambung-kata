@@ -873,6 +873,7 @@ brah
 brai
 brak
 bral
+bram
 brama
 bras
 brawijaya
@@ -1111,6 +1112,7 @@ dikam
 dikan
 dikarungi
 dikarunia
+dikat
 dike
 dikebelakangkan
 dikecambahkan
@@ -1397,6 +1399,7 @@ eskalatif
 eskrim
 eslandia
 eso
+esoterik
 esotopnya
 etawa
 ete
@@ -1597,6 +1600,7 @@ galop
 galosit
 galu
 galunggung
+gambirnya
 games
 gandan
 gandarussa
@@ -1764,6 +1768,7 @@ gorong
 gos
 gotongan
 gotongroyong
+gra
 gracilis
 gracils
 grafi
@@ -1844,6 +1849,7 @@ hamburannya
 hamd
 hamengku
 hami
+hampas
 hampirilah
 han
 handi
@@ -2370,6 +2376,7 @@ jis
 jit
 jiz
 joh
+johannes
 jol
 jom
 jonathan
@@ -3007,6 +3014,7 @@ matograf
 matografi
 matologi
 matr
+matrik
 maui
 maw
 mawa
@@ -3135,6 +3143,7 @@ misah
 misaminensis
 miscommunicating
 misformed
+misivitas
 mispers
 mit
 mium
@@ -3681,6 +3690,7 @@ nonkonv
 nonlegitimacy
 nonmetalik
 nonnominatif
+nonpatog
 nonpertanian
 nonrasional
 nonreferensial
@@ -3825,6 +3835,7 @@ nyolong
 nyub
 nyuling
 nyung
+nyusahin
 nyusul
 oai
 oal
@@ -5081,6 +5092,7 @@ tehempas
 tek
 tekno
 telekom
+teli
 telkomsel
 telon
 tembusannya
