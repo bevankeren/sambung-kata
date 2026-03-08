@@ -114,6 +114,7 @@ agalimpuyung
 agallocha
 agap
 agapiuga
+agaragar
 agarose
 agavaceae
 ageng
@@ -296,6 +297,7 @@ altissima
 alukan
 alus
 alv
+alyxia
 amabilis
 amagat
 amanahnya
@@ -790,6 +792,7 @@ beh
 beirut
 beki
 bekl
+belarus
 benjamina
 berafiks
 berdongkol
@@ -846,6 +849,7 @@ bohemia
 boid
 bok
 bolakbalik
+bonc
 boni
 borneensia
 bortrytis
@@ -1031,6 +1035,7 @@ dames
 damri
 dangal
 dangi
+daong
 dapatlah
 dapi
 datuknya
@@ -1513,6 +1518,7 @@ formalisme
 formicidae
 formosum
 fors
+fortuna
 fos
 fosbury
 fotoelektrik
@@ -1585,6 +1591,7 @@ gapl
 garakan
 garcinia
 garcinioides
+gardenia
 garm
 gasi
 gasingnya
@@ -1708,6 +1715,7 @@ goncangnya
 gondas
 gondongan
 gongi
+gongs
 gonia
 goniothalamus
 gono
@@ -1858,6 +1866,7 @@ heli
 helianthus
 helicopus
 helizoa
+hello
 helopeltis
 hematnya
 hemidactylus
@@ -1955,6 +1964,7 @@ hongkong
 hor
 hordeum
 hospita
+host
 hotong
 house
 hubaya
@@ -2503,6 +2513,7 @@ kilapan
 kilen
 kill
 kilowat
+kimat
 kimi
 kimiawinya
 kinestetis
@@ -2942,6 +2953,7 @@ matr
 maui
 maw
 mawa
+mawai
 maxima
 maximalist
 maximum
@@ -2964,6 +2976,7 @@ meh
 mela
 melalophos
 melan
+melania
 melanochaeta
 melet
 meli
@@ -3015,6 +3028,7 @@ metraliur
 meu
 mez
 mia
+mias
 micaria
 michelia
 microlaser
@@ -3228,6 +3242,7 @@ ndok
 ndon
 ndora
 nduk
+ndum
 ndurna
 ndurung
 ndus
@@ -4119,7 +4134,9 @@ poskrip
 poti
 pra
 prad
+pras
 pri
+privity
 prodemocracy
 prolatif
 pseudociaena
@@ -4222,6 +4239,7 @@ ranium
 ranking
 ranograf
 rans
+rant
 raoult
 raphia
 raptor
@@ -4400,6 +4418,8 @@ riya
 rizophora
 rizotrop
 rma
+rman
+rmas
 rmis
 robah
 robak
@@ -4583,6 +4603,7 @@ secubitan
 seekstensif
 segerai
 seintensif
+seismology
 sejawatnya
 sekaliannya
 sekandung
@@ -4698,6 +4719,7 @@ sipilisasi
 siprok
 siran
 sireh
+sirkel
 sisian
 sisipi
 sist
@@ -4748,6 +4770,7 @@ sor
 sosiol
 sot
 sotoraks
+sparsity
 sphenisciformes
 sphyraena
 spicata
@@ -4771,6 +4794,7 @@ stenochlaena
 stenostachys
 ster
 stercula
+stesia
 sti
 stial
 stif
@@ -4933,6 +4957,7 @@ tatabahasa
 tatacara
 tati
 tatif
+taty
 tauk
 taula
 tautologis
@@ -5142,6 +5167,7 @@ tromaks
 tromamal
 tromini
 trop
+tropia
 tropidia
 troya
 tru
