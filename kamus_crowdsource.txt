@@ -278,6 +278,7 @@ aloevera
 alogi
 alogis
 alohtonus
+alol
 alom
 alomorfis
 alop
@@ -2405,6 +2406,7 @@ kaubunuh
 kaudapatkan
 kaugantung
 kauhubungkan
+kaui
 kaukebatkanlah
 kaukutuk
 kaulilitkanlah
@@ -5067,6 +5069,7 @@ tokopedia
 toks
 toksifikasi
 toli
+tolog
 tome
 tonasi
 tonimi
@@ -5427,6 +5430,7 @@ viu
 viverrividae
 voacanga
 voadzeia
+vod
 voi
 vol
 voltam
