@@ -726,6 +726,7 @@ awali
 awanan
 awarima
 awik
+awu
 axecelsum
 axelrodi
 axillaris
@@ -1911,6 +1912,7 @@ hitamanan
 hitler
 hitman
 hok
+hokben
 holacanthus
 holanda
 holigan
