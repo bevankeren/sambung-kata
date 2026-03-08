@@ -1246,6 +1246,7 @@ doks
 domi
 dompl
 dors
+doti
 dracontomelum
 drik
 dring
@@ -2067,6 +2068,7 @@ hudi
 huf
 hui
 hul
+hula
 hum
 humi
 hummus
@@ -2438,6 +2440,7 @@ joh
 johannes
 jol
 jom
+jon
 jonathan
 joni
 jor
@@ -2680,6 +2683,7 @@ kons
 konst
 konstalasi
 konstriktif
+konsum
 konsumeristis
 kont
 kontinyuitas
@@ -2703,6 +2707,7 @@ kovalen
 kow
 krakatau
 krinologi
+kris
 kroatia
 krong
 krosis
@@ -3051,6 +3056,7 @@ malabathricum
 malabirica
 malaya
 mamadai
+manan
 manandai
 manasi
 mancik
@@ -3134,6 +3140,7 @@ melo
 melonjakkan
 membiasanya
 memetaforkan
+memi
 memilki
 memperkira
 memperseturukan
@@ -4434,6 +4441,7 @@ ralis
 rallus
 ramahan
 ramailah
+ramb
 rambatannya
 rambo
 ramiflorum
@@ -4652,6 +4660,7 @@ roc
 rod
 rodinamika
 rof
+rofil
 rofilia
 rofisiologi
 roftalmia
@@ -4663,6 +4672,7 @@ rografi
 rogram
 rohaniwati
 rohm
+roin
 roj
 rokanonika
 roko
@@ -4973,6 +4983,7 @@ siurnya
 siutan
 sivitas
 skader
+skak
 skalina
 skapisme
 ske
@@ -5287,6 +5298,7 @@ tertiban
 teru
 terw
 tesa
+tesi
 test
 testudinidae
 tet
@@ -5777,6 +5789,7 @@ warni
 wasa
 washington
 wat
+wata
 wati
 wattase
 wearability
