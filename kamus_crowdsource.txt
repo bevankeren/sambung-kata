@@ -1771,6 +1771,7 @@ glamourizing
 glamourous
 glaucus
 gleichemia
+gli
 glif
 gloriosa
 glr
@@ -4062,6 +4063,7 @@ ome
 omelet
 omik
 ommastreephes
+ommezijde
 omorfologi
 ompr
 oms
@@ -5278,6 +5280,7 @@ ters
 terseretnya
 tersubstitusikannya
 tersusahkan
+tertanamnya
 tertanggungjawabkan
 terterangkan
 tertiban
