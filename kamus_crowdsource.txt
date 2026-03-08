@@ -1248,6 +1248,7 @@ echineis
 echinocactus
 echinometra
 ectoprocta
+eda
 edarannya
 edi
 edison
@@ -1495,6 +1496,7 @@ fiks
 fiksional
 fil
 filamentosum
+filat
 filetik
 filol
 filu
@@ -1755,6 +1757,7 @@ gongs
 gonia
 goniothalamus
 gono
+gonor
 gonorrhea
 gonta
 gontokan
@@ -2073,6 +2076,7 @@ ihi
 ihit
 iho
 ihuk
+iii
 ijuknya
 ika
 ikanlah
@@ -5629,6 +5633,7 @@ wardah
 warkatpos
 warni
 wasa
+washington
 wat
 wati
 wattase
