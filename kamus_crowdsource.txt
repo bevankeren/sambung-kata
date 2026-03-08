@@ -198,6 +198,7 @@ aitoto
 aitowa
 aiwahui
 aiwonai
+ajari
 ajima
 ajin
 ajisai
@@ -795,6 +796,7 @@ bilhaj
 bilhal
 billahil
 billing
+bily
 bim
 bing
 bio
@@ -839,6 +841,7 @@ buh
 buhan
 buhi
 bukl
+bul
 bula
 bulbosa
 buleleng
@@ -4201,6 +4204,7 @@ ristek
 ristem
 riston
 rita
+ritik
 ritis
 ritisme
 riton
@@ -5343,6 +5347,7 @@ yoh
 yomi
 yona
 yong
+yor
 yorasi
 yosef
 young
