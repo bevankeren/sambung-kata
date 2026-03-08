@@ -2346,6 +2346,7 @@ irja
 irlandiautara
 iro
 irpolda
+iru
 irvingia
 isarus
 isasi
@@ -2757,6 +2758,7 @@ kueh
 kuf
 kufuracea
 kuh
+kuha
 kuharapkan
 kuhi
 kuhidupi
@@ -2948,6 +2950,7 @@ limin
 limon
 limulus
 lincahnya
+liner
 linimasa
 linnacus
 linnaeus
@@ -4296,6 +4299,7 @@ penginternasionalisasian
 pengorder
 pengurusannya
 penyorong
+peo
 percikkanlah
 perekacipta
 pericardium
@@ -4497,6 +4501,7 @@ ranking
 ranograf
 rans
 rant
+rao
 raoult
 raphia
 raptor
