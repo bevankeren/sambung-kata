@@ -934,6 +934,7 @@ canangium
 canavalia
 cancelling
 cangkoreh
+cani
 cannaeformis
 canus
 capainya
@@ -1356,6 +1357,7 @@ equisetifolia
 eracta
 eratnya
 erek
+erfpacht
 eri
 erianthus
 erigo
@@ -1722,6 +1724,7 @@ gleichemia
 glif
 gloriosa
 glr
+glu
 glumaceum
 goal
 goang
@@ -1877,6 +1880,7 @@ hau
 hausy
 havesy
 hawai
+hawaii
 hayal
 hayalan
 hayam
@@ -2312,6 +2316,7 @@ ixora
 izrail
 jabangbayi
 jabotabek
+jack
 jackia
 jaculator
 jacuzzi
@@ -2810,6 +2815,7 @@ liebig
 lif
 lifebuoy
 lig
+lightbulb
 ligina
 lih
 lihatan
@@ -3153,6 +3159,7 @@ moti
 motong
 mouldiness
 moult
+mouse
 mpah
 mpak
 mpel
@@ -3818,6 +3825,7 @@ nyolong
 nyub
 nyuling
 nyung
+nyusul
 oai
 oal
 oantropologi
@@ -3841,6 +3849,7 @@ occidentalis
 oceania
 oceanology
 ochamostachys
+ochanostachys
 ocl
 odal
 odalisme
@@ -4084,6 +4093,7 @@ pant
 pao
 paok
 pap
+papaya
 papilionaceae
 paradiseus
 paradoseurus
@@ -4582,8 +4592,10 @@ rugosa
 ruhi
 rui
 ruk
+rukh
 ruki
 rul
+rumphii
 run
 rung
 rungkad
@@ -5371,6 +5383,7 @@ ult
 ultimog
 ultrakonservatif
 ultraliberal
+ultralight
 ultramod
 ultraorthodox
 ultraortodoks
