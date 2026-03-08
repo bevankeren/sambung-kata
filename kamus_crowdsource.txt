@@ -284,12 +284,14 @@ aliyyil
 alk
 alkalam
 alkolhol
+alkulub
 all
 allahuakbar
 allamanda
 allessandro
 alocasia
 aloevera
+alofonis
 alogi
 alogis
 aloh
@@ -303,6 +305,7 @@ alpabet
 alpanumerik
 alpen
 alpinia
+alseodaphne
 alshopila
 alsodeia
 alternanthera
@@ -466,6 +469,7 @@ antarbaris
 antarcabang
 antarda
 antaretnik
+antargen
 antarglasial
 antarhubungan
 antarkata
@@ -477,6 +481,7 @@ antarklausanya
 antarmereka
 antarpartai
 antarpelaku
+antarpenduduk
 antarpendukung
 antarpengusaha
 antarperseorangan
@@ -485,6 +490,7 @@ antarpramuka
 antarpria
 antars
 antarsesama
+antarspesies
 antartik
 antartokoh
 antaruniversitas
@@ -492,6 +498,7 @@ antarunsur
 anthozoa
 anthracis
 anthurium
+antidesma
 antidialogic
 antidialogis
 antidiskriminasi
@@ -675,11 +682,13 @@ asram
 asrogularis
 assalamu
 assertedly
+asset
 assignability
 assimilis
 ast
 astagfirullahalazim
 astcichtyes
+asterik
 astig
 astina
 astinapura
@@ -890,6 +899,7 @@ bok
 bolakbalik
 bonc
 boni
+bori
 borneensia
 bortrytis
 bougainvellaea
@@ -914,6 +924,7 @@ bubi
 buceros
 budhisme
 buf
+bug
 bugi
 buh
 buhan
@@ -1066,6 +1077,7 @@ daf
 dafik
 dafologi
 dagun
+daha
 dahrian
 daidaru
 daitai
@@ -1086,6 +1098,8 @@ dans
 daong
 dapatlah
 dapi
+darwin
+database
 datuknya
 dau
 dawa
@@ -1152,6 +1166,7 @@ dikat
 dike
 dikebelakangkan
 dikecambahkan
+dikecualikan
 dikeduk
 dikembangi
 dikesampingkan
@@ -1164,12 +1179,14 @@ dikonstruksikan
 diks
 dikur
 dilabuh
+dilagakan
 dilalui
 dilantiknya
 dilap
 dileleh
 dili
 dilisankan
+dilonggarkan
 dilukai
 dilumat
 dimalamkan
@@ -1200,12 +1217,14 @@ dipekerjakan
 diperami
 diperbaiki
 diperbarui
+diperhitungkan
 diperjelas
 diperjuangkan
 diperlengkapkan
 diperlihatan
 diperoleh
 dipersonanongratakan
+dipulaskan
 dipungli
 dir
 diramalkan
@@ -1284,6 +1303,7 @@ duoitus
 dupl
 duria
 dussumiera
+dussumieri
 dustai
 duswanta
 dut
@@ -1400,6 +1420,7 @@ enterobius
 enu
 enuk
 enumeratif
+eok
 epen
 eperlanus
 epi
@@ -1423,6 +1444,7 @@ erit
 erithacus
 erlangga
 ero
+erobik
 eropabarat
 eropatimur
 erosiveness
@@ -1556,6 +1578,7 @@ filetik
 filol
 filu
 fim
+fimbristylis
 fin
 finitif
 fiqih
@@ -1891,6 +1914,7 @@ habilitatif
 habitualis
 habituatif
 habsi
+hada
 hadeh
 hadits
 hadjar
@@ -1946,6 +1970,7 @@ hasskarliana
 hastinapura
 hasyim
 hat
+hatian
 hatinurani
 haturkan
 hau
@@ -1999,6 +2024,7 @@ heteroprylla
 hevea
 hexagonolepis
 hiasilah
+hiatal
 hiataman
 hib
 hiburkanlah
@@ -2020,6 +2046,7 @@ hil
 hila
 hili
 hilicteres
+hilo
 him
 himi
 hing
@@ -2095,6 +2122,7 @@ hung
 hunting
 hur
 hura
+huri
 huru
 husada
 husain
@@ -2110,6 +2138,7 @@ hypopthalmichthys
 hypoxanthus
 iah
 iambik
+ian
 iat
 iata
 ibadatnya
@@ -2133,6 +2162,7 @@ idoskopis
 idotomi
 idup
 ien
+ifa
 iffah
 ifthari
 iftirasy
@@ -2232,6 +2262,7 @@ indonesianizing
 indrianya
 indulgen
 indus
+industrial
 inerme
 inermis
 iners
@@ -2409,6 +2440,7 @@ jaculator
 jacuzzi
 jad
 jaelani
+jag
 jahi
 jai
 jajat
@@ -2620,6 +2652,7 @@ kese
 kesem
 kesih
 keso
+kesugihan
 ket
 ketaatannya
 keterputusan
@@ -2688,13 +2721,16 @@ knip
 kno
 kob
 kof
+kog
 kohi
+kokat
 koklimatologi
 koko
 koksi
 kolog
 koloh
 kolusif
+komat
 kompletif
 komunikatornya
 kon
@@ -2716,6 +2752,7 @@ korasi
 koratif
 korator
 kordinator
+koro
 kors
 kosak
 kosi
@@ -2775,9 +2812,11 @@ kulawan
 kulihat
 kulkul
 kultuskan
+kulumnya
 kulunasi
 kum
 kuma
+kumaksudkan
 kumkum
 kumpulkanlah
 kunang
@@ -2949,6 +2988,7 @@ limi
 limin
 limon
 limulus
+lina
 lincahnya
 liner
 linimasa
@@ -2988,6 +3028,7 @@ loa
 lod
 loe
 logamisasi
+logaritme
 logop
 loko
 loks
@@ -3036,12 +3077,14 @@ lusi
 lusia
 lusian
 lusif
+lusitanica
 lustre
 luther
 lutra
 lutriasi
 luvium
 lychee
+lycopersicum
 lycothrissa
 lyncornis
 lysan
@@ -3073,6 +3116,7 @@ maj
 majah
 majeure
 major
+makani
 makedonia
 maker
 makram
@@ -3289,6 +3333,7 @@ mon
 mona
 monik
 monstratif
+morat
 mos
 mosit
 moti
@@ -3305,6 +3350,7 @@ muan
 muangthai
 muanya
 muatilah
+mucronatus
 mudahlah
 mudi
 muf
@@ -3317,6 +3363,7 @@ mukulnya
 muli
 mulsi
 multi
+multikompl
 multiperspektif
 multiplisitas
 mum
@@ -3419,6 +3466,7 @@ nauclea
 naucleiflorus
 naucrates
 naucratus
+naus
 naut
 navalis
 navis
@@ -4270,7 +4318,9 @@ parvifolia
 pasca
 pascakemerdekaan
 pasriflora
+past
 pat
+pate
 patria
 patrilin
 pau
@@ -4368,6 +4418,7 @@ pleks
 pler
 ploceidae
 plok
+plonga
 pluit
 poa
 poaceae
@@ -4723,6 +4774,7 @@ rohaniwati
 rohm
 roin
 roj
+roka
 rokanonika
 roko
 roll
@@ -4774,6 +4826,7 @@ rubella
 rubescens
 rubi
 rubiginosum
+rud
 ruf
 rufa
 ruffia
@@ -4785,6 +4838,7 @@ rui
 ruk
 rukh
 ruki
+rukunnya
 rul
 rumphii
 run
@@ -4825,6 +4879,7 @@ sain
 saintpaulia
 sakaguru
 sakaratul
+sakh
 sakralisme
 sakriligi
 salad
@@ -4854,6 +4909,7 @@ sandyakalaning
 sanggaan
 sangganya
 sangkanya
+sanit
 sank
 sant
 santannya
@@ -4923,6 +4979,7 @@ serund
 ses
 sesan
 sesatif
+sessilifolia
 sestrategis
 setaman
 setipinnataty
@@ -4955,6 +5012,7 @@ sifik
 sifikasi
 sifoid
 sig
+siga
 siganidae
 sigeger
 signoid
@@ -5018,6 +5076,7 @@ sipilisasi
 siprok
 siran
 sireh
+siria
 sirkel
 sisian
 sisipi
@@ -5028,6 +5087,7 @@ sistansi
 sistol
 sitina
 sitophila
+sitronela
 sitti
 siu
 sium
@@ -5135,6 +5195,7 @@ subj
 subjenis
 sublitoral
 subminiata
+suboptimum
 subordinatif
 suborganization
 subterranea
@@ -5172,6 +5233,7 @@ superman
 suport
 supramolekul
 sur
+surd
 sushi
 susp
 suspens
@@ -5220,6 +5282,7 @@ takang
 takasiri
 takbersambung
 takbiat
+taklifi
 takom
 taks
 taktransitif
@@ -5260,6 +5323,7 @@ taraweh
 tarek
 taria
 tarmuzi
+taro
 tarrietia
 tart
 taruknya
@@ -5334,6 +5398,7 @@ terlaporkan
 terlibas
 terlikuidasi
 termengah
+ternispina
 tero
 terodin
 terodoks
@@ -5371,6 +5436,8 @@ tifosi
 tig
 tigaperempat
 tih
+tiha
+tiis
 tikal
 tikasnya
 tiketcom
@@ -5434,6 +5501,7 @@ tokopedia
 toks
 toksifikasi
 toli
+tolo
 tolog
 tome
 tonasi
@@ -5478,9 +5546,13 @@ trichiuridae
 trid
 tridaceal
 trif
+triflorum
+trifolia
 trifurcum
 trigonopleura
+trika
 triklorida
+trimeresurus
 trims
 trin
 trinervia
@@ -5522,6 +5594,7 @@ tunjangnya
 tunulisis
 tup
 tupi
+turbelaria
 turbo
 turbog
 turboj
@@ -5529,7 +5602,9 @@ turiceelaria
 turing
 turkimenistan
 turn
+turnera
 turvy
+tusa
 tust
 tuti
 tutsnya
@@ -5584,6 +5659,7 @@ ukau
 ukelele
 ukh
 ukhu
+uko
 ukod
 ukofit
 ukoma
@@ -5624,6 +5700,7 @@ umbaran
 umbatrile
 umbellata
 umbian
+umbinya
 umbutnya
 umker
 umonia
@@ -5701,6 +5778,7 @@ urotransmiter
 ursinus
 ursulin
 urticaciae
+uru
 uruguay
 urusi
 urusy
@@ -5803,6 +5881,7 @@ virgatus
 viridula
 visionis
 vit
+vitae
 vitex
 viu
 viverrividae
