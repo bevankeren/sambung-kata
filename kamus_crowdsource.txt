@@ -80,6 +80,7 @@ adup
 adv
 advan
 adversitas
+aedes
 aee
 aekanis
 aeki
@@ -533,6 +534,7 @@ apungkan
 apunsia
 apur
 aqil
+aquilaria
 arabia
 arabica
 arabsaudi
@@ -799,6 +801,7 @@ berumbaian
 bervariatif
 bes
 betulnya
+bha
 biala
 biarkankah
 biasis
@@ -1139,6 +1142,7 @@ disori
 dista
 disukai
 dit
+ditabel
 ditahbiskan
 ditakdirkan
 ditandai
@@ -1848,6 +1852,7 @@ hes
 hetero
 heteroprylla
 hiasilah
+hiataman
 hib
 hiburkanlah
 hid
@@ -2656,6 +2661,7 @@ lates
 lati
 lativa
 lator
+laukpauk
 laurifolia
 lautcinaselatan
 lautkuning
@@ -2828,6 +2834,7 @@ macrophygia
 madraspatanum
 mae
 maf
+mahabarata
 mahabesar
 mahad
 mahamurah
@@ -2849,6 +2856,7 @@ maks
 maksa
 maksimalisasi
 malabar
+malabaricusis
 malabirica
 mamadai
 manandai
@@ -2991,6 +2999,7 @@ ming
 minibask
 minin
 minisme
+minister
 minit
 mint
 minuta
@@ -3361,6 +3370,7 @@ ngisap
 ngiseng
 ngit
 ngitung
+ngkak
 ngkar
 ngki
 ngli
@@ -4163,6 +4173,7 @@ rasbora
 rastafara
 rasterize
 rasy
+ratabasa
 ratanya
 ratapannya
 rati
@@ -4244,6 +4255,7 @@ ribonukleat
 ribuginosum
 ricu
 rid
+ridwan
 rif
 rifi
 rifikasi
