@@ -967,6 +967,7 @@ coronarium
 corpulency
 coryphya
 cos
+craula
 croissant
 crotalaria
 ctenopharyngodon
@@ -2872,6 +2873,7 @@ manikd
 maninya
 manjangkan
 manoeuvrability
+manoeuvrable
 mans
 mansuh
 mantis
@@ -2970,6 +2972,7 @@ metraliur
 meu
 mez
 mia
+micaria
 microlaser
 microscelis
 microsperma
@@ -4768,6 +4771,7 @@ supramolekul
 sur
 sushi
 susp
+suspens
 susunlah
 susutnya
 suti
@@ -5299,6 +5303,7 @@ utriculania
 utrino
 utrofikasi
 utron
+utuhkan
 utuskan
 utuslah
 uvu
