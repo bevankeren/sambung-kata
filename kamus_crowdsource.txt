@@ -1189,6 +1189,7 @@ domi
 dompl
 dors
 dracontomelum
+drik
 dring
 dromedaris
 duaan
@@ -1576,6 +1577,7 @@ gandarussa
 gandengkan
 gandengnya
 gandhi
+gandrik
 gangi
 gangraena
 gangsterism
@@ -2420,6 +2422,7 @@ kateklisme
 katistiwa
 kaubanggakan
 kaubunuh
+kauceraikan
 kaudapatkan
 kaugantung
 kauhubungkan
@@ -3404,6 +3407,7 @@ ngg
 nggak
 nggang
 nggar
+nggol
 nggong
 nggor
 ngi
@@ -3761,6 +3765,7 @@ oap
 oat
 obatkan
 obawo
+obe
 obituari
 obj
 obligator
@@ -3795,6 +3800,7 @@ officinalis
 officinarum
 ofi
 ofisika
+ofisikawan
 ogak
 ognosis
 ogo
@@ -4064,6 +4070,7 @@ phalanger
 phascoloides
 phaseolus
 pho
+phobia
 phyllagathis
 pia
 picidae
@@ -4573,6 +4580,7 @@ santi
 santiria
 sao
 sapindus
+sappan
 sarcodactylis
 sardinella
 sarimi
@@ -4784,6 +4792,7 @@ sriwijaya
 sta
 stag
 stagninum
+stam
 stanplas
 star
 stat
@@ -4824,6 +4833,7 @@ suaeda
 subclassification
 subduction
 subirmerbius
+subj
 subjenis
 sublitoral
 subminiata
@@ -4881,6 +4891,7 @@ tabahkanlah
 tabahnya
 tabernaemontana
 tabernasia
+tabernemontana
 tabligh
 tabolik
 tabolisme
@@ -5636,3 +5647,4 @@ zonk
 zugzwang
 zuketo
 zusanli
+zwijplicht
