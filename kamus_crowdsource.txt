@@ -2624,6 +2624,7 @@ krakatau
 krinologi
 kroatia
 krong
+krosis
 krus
 krustacea
 ksa
@@ -4103,6 +4104,7 @@ pay
 payena
 paz
 pazazz
+ped
 pee
 peh
 pelamis
@@ -4221,6 +4223,7 @@ psikon
 psin
 ptabilitas
 ptah
+pto
 ptum
 pua
 pubercens
@@ -5547,6 +5550,7 @@ verde
 vereegnide
 vernonia
 vers
+ves
 vil
 vilatase
 vilex
