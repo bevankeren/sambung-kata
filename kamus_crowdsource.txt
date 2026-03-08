@@ -277,6 +277,7 @@ alocasia
 aloevera
 alogi
 alogis
+aloh
 alohtonus
 alol
 alom
@@ -864,6 +865,7 @@ bro
 bromid
 bualkan
 bub
+bubi
 buceros
 budhisme
 buf
@@ -1220,6 +1222,7 @@ edarannya
 edi
 edison
 efe
+efi
 efisiennya
 efo
 eforia
@@ -1436,6 +1439,7 @@ fau
 faz
 federalistic
 fek
+fel
 felasio
 fem
 feminimus
@@ -2110,6 +2114,7 @@ infra
 ingatkanlah
 inggang
 inggil
+inggrisraya
 ingi
 ingkaran
 ingr
@@ -2264,6 +2269,7 @@ jaculator
 jacuzzi
 jad
 jaelani
+jahi
 jai
 jajat
 jak
@@ -2274,6 +2280,7 @@ jamadilakhir
 jamb
 jambulnya
 jamesonii
+jamet
 jampang
 jan
 jang
@@ -2523,6 +2530,7 @@ knidoblas
 knip
 kno
 kof
+kohi
 koklimatologi
 koko
 koksi
@@ -2550,6 +2558,7 @@ kordinator
 kors
 kosak
 kosi
+kosmik
 kost
 kotakota
 kotangens
@@ -2797,6 +2806,7 @@ livistona
 lman
 loa
 lod
+loe
 logamisasi
 logop
 loko
@@ -2955,6 +2965,7 @@ mela
 melalophos
 melan
 melanochaeta
+melet
 meli
 meliosmifolia
 melo
@@ -3673,6 +3684,7 @@ nyalon
 nyamai
 nyambi
 nyambung
+nyan
 nyangka
 nyangkut
 nyangkutkan
@@ -4474,6 +4486,7 @@ run
 rung
 rungkad
 rungkat
+runi
 runjungnya
 runsing
 runtang
@@ -5320,6 +5333,7 @@ uroblastoma
 uroglia
 urolinguistik
 urolitiasis
+uros
 urotik
 urotransmiter
 ursinus
