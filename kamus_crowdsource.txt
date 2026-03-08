@@ -2,6 +2,7 @@ abango
 abbasiyah
 abbreviata
 abc
+abdurrahman
 abeat
 abelia
 abesif
@@ -69,6 +70,7 @@ adj
 adjektivisasi
 adjudikatif
 adk
+adl
 adoh
 adolf
 adom
@@ -296,6 +298,7 @@ alol
 alom
 alomorfis
 alop
+alp
 alpabet
 alpanumerik
 alpen
@@ -365,6 +368,7 @@ anaesthesiology
 anaesthetic
 anai
 anakemas
+anakkan
 anakkunci
 analogis
 anam
@@ -897,6 +901,7 @@ bral
 bram
 brama
 bras
+brau
 brawijaya
 braya
 brazil
@@ -975,6 +980,7 @@ cathartica
 cauliflora
 caw
 ceh
+cel
 cem
 cengir
 centropus
@@ -1076,6 +1082,7 @@ dames
 damri
 dangal
 dangi
+dans
 daong
 dapatlah
 dapi
@@ -1104,6 +1111,7 @@ diadakanlah
 diadukkan
 diagih
 dial
+dialang
 diamanatkan
 diamandemen
 diamat
@@ -1167,6 +1175,7 @@ dilumat
 dimalamkan
 dimalui
 dimanterai
+dimanusiakan
 dimarginalisasi
 dimasalahkan
 dinasnya
@@ -1177,6 +1186,7 @@ dio
 diobat
 diobati
 diobrak
+diodol
 diombang
 diomedediae
 diorkestrasi
@@ -1324,6 +1334,7 @@ elanus
 elas
 elastica
 elateriospermum
+elatum
 elbagai
 ele
 elek
@@ -1343,6 +1354,7 @@ elueuthering
 ema
 emakulasi
 eman
+emasan
 embelia
 embriyo
 eme
@@ -1736,6 +1748,7 @@ gibl
 gid
 gideon
 giga
+gigantes
 gigantochloa
 gigas
 gih
@@ -1758,6 +1771,7 @@ girl
 gis
 gislasi
 gislatif
+gislator
 gister
 gistrasi
 gisur
@@ -1825,6 +1839,7 @@ grafi
 gramedia
 granala
 granatum
+grang
 granndis
 graptophyllum
 greenia
@@ -1933,6 +1948,7 @@ hat
 hatinurani
 haturkan
 hau
+haula
 hausy
 havesy
 hawai
@@ -2057,6 +2073,7 @@ honestness
 hong
 hongaria
 hongkong
+hooc
 hor
 hordeum
 hospita
@@ -2359,6 +2376,7 @@ isosintagmis
 isotonis
 isotopnya
 isp
+ispida
 israfil
 istemewa
 istiadatnya
@@ -2422,6 +2440,7 @@ jekpot
 jeluknya
 jembatani
 jenahak
+jend
 jermangnya
 jerusalem
 jesus
@@ -2534,6 +2553,7 @@ kat
 katang
 kateklisme
 katistiwa
+kauambil
 kaubanggakan
 kaubunuh
 kauceraikan
@@ -2705,10 +2725,12 @@ kotil
 kotr
 kovalen
 kow
+krail
 krakatau
 krinologi
 kris
 kroatia
+krologi
 krong
 krosis
 krus
@@ -2790,6 +2812,7 @@ labiod
 labiov
 labisia
 lablab
+labnun
 labora
 laborasi
 labouring
@@ -2873,6 +2896,7 @@ leiden
 leiognathus
 lekak
 leks
+lemb
 lemi
 lenca
 lengk
@@ -2988,6 +3012,7 @@ ltoid
 ltor
 lua
 lud
+luge
 luh
 luhi
 lui
@@ -3025,6 +3050,7 @@ mach
 macrobium
 macrocladus
 macrophygia
+madan
 madraspatanum
 mae
 maf
@@ -3061,6 +3087,7 @@ manandai
 manasi
 mancik
 mancing
+mand
 mandang
 manganat
 mangkunegara
@@ -3126,6 +3153,7 @@ mburs
 measliest
 meb
 mecah
+medi
 meh
 mela
 melalophos
@@ -3255,6 +3283,7 @@ mom
 momordica
 mon
 mona
+monik
 monstratif
 mos
 mosit
@@ -3517,6 +3546,7 @@ ngatain
 ngati
 ngatupkan
 ngatur
+ngau
 ngayal
 ngb
 nge
@@ -3862,6 +3892,7 @@ numpuk
 nunda
 nunduk
 nunggu
+nurtanio
 nusia
 nussaenda
 nusukkan
@@ -3910,6 +3941,7 @@ nyebelin
 nyediakan
 nyeh
 nyek
+nyel
 nyeling
 nyeluduk
 nyen
@@ -3935,6 +3967,7 @@ nyinggung
 nyir
 nyodorkan
 nyok
+nyol
 nyolok
 nyolong
 nyot
@@ -4025,6 +4058,7 @@ okrasi
 okratis
 okronologi
 oksias
+oksid
 oksidental
 oksig
 oksit
@@ -4035,6 +4069,7 @@ oktanoat
 okul
 ola
 olahlah
+olahragawati
 olan
 olang
 olar
@@ -4153,6 +4188,7 @@ osin
 osinkronis
 ositas
 ositosis
+osmom
 osmotiknya
 osofi
 osofis
@@ -4275,6 +4311,7 @@ pho
 phobia
 phyllagathis
 pia
+pib
 picidae
 pid
 piddly
@@ -4299,6 +4336,7 @@ pilem
 piliang
 pilipina
 pilog
+pim
 pinasti
 ping
 pingin
@@ -4351,6 +4389,7 @@ pri
 privity
 prodemocracy
 prolatif
+psa
 pseudociaena
 pseudoscarus
 psia
@@ -4501,6 +4540,7 @@ recharacterizing
 red
 refleksif
 reformatif
+reg
 regia
 regimentasi
 regosol
@@ -4553,6 +4593,7 @@ rhododendrifolia
 rhodophyceae
 rhombifolia
 rhynchoporus
+rialis
 rialisme
 rialistis
 riatrik
@@ -4569,6 +4610,7 @@ rifikatur
 rifrasa
 rig
 rigidness
+rigidula
 rigour
 rih
 rihatnya
@@ -4593,6 +4635,7 @@ rikso
 rikus
 ril
 rileksasi
+rilisasi
 rimau
 rimi
 rin
@@ -4700,6 +4743,7 @@ roplankton
 roplastik
 ror
 roris
+rorisme
 roro
 rosa
 rosasinensis
@@ -4769,6 +4813,7 @@ sabuni
 sagir
 sagor
 sahul
+sahwi
 sailboarding
 sain
 saintpaulia
@@ -4815,6 +4860,7 @@ saranya
 sarcodactylis
 sardinella
 sarimi
+sario
 sarkan
 sas
 sasrabahu
@@ -5009,6 +5055,7 @@ sokap
 solaria
 sold
 solekan
+solit
 solitik
 sommiferum
 sompr
@@ -5033,8 +5080,10 @@ sriwijaya
 sta
 stag
 stagninum
+stal
 stam
 stanplas
+stap
 star
 stat
 statif
@@ -5362,6 +5411,7 @@ titusnya
 tiupannya
 tiv
 tko
+tnan
 tnograf
 toa
 toap
@@ -5438,6 +5488,7 @@ trologi
 tromaks
 tromamal
 tromini
+tron
 trop
 tropia
 tropidia
@@ -5809,6 +5860,7 @@ william
 willughbeia
 willughbera
 win
+wina
 windah
 wini
 wintery
