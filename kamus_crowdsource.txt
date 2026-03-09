@@ -111,6 +111,7 @@ afin
 afir
 afiun
 afo
+aforehand
 afotropisme
 afro
 afta
@@ -289,6 +290,8 @@ all
 allahuakbar
 allamanda
 allessandro
+alnilam
+alnitak
 alocasia
 aloevera
 alofonis
@@ -296,6 +299,7 @@ alogi
 alogis
 aloh
 alohtonus
+alok
 alol
 alom
 alomorfis
@@ -338,6 +342,7 @@ ambifiks
 ambisilabis
 ambluycarpa
 amboinesis
+amboinicuas
 ambreng
 ambrengan
 ambungkan
@@ -347,6 +352,7 @@ amerikanus
 amerikaserikat
 amerikatengah
 amf
+amfi
 amig
 aminah
 amm
@@ -376,6 +382,7 @@ anakkunci
 analogis
 anam
 anamn
+anana
 ananas
 ananassae
 anap
@@ -389,6 +396,7 @@ ancangannya
 ancar
 and
 andaikata
+ande
 andeng
 andenostemma
 andon
@@ -451,6 +459,7 @@ anoks
 anologi
 anomik
 anona
+anop
 anor
 anos
 anplectrum
@@ -502,6 +511,7 @@ antidesma
 antidialogic
 antidialogis
 antidiskriminasi
+antidota
 antig
 antiimperialis
 antiintegrasi
@@ -741,6 +751,7 @@ atropurpureus
 atrosanguinea
 attaqwa
 atter
+atu
 atuu
 audi
 auditif
@@ -842,6 +853,7 @@ beki
 bekl
 belarus
 benjamina
+ber
 berafiks
 berdongkol
 berhektar
@@ -899,6 +911,7 @@ bok
 bolakbalik
 bonc
 boni
+bop
 bori
 borneensia
 bortrytis
@@ -1019,6 +1032,7 @@ ciridipunctatus
 citrifolia
 clostridium
 coa
+cod
 coh
 cohh
 coki
@@ -1062,6 +1076,7 @@ cyclea
 cyclocheilichthys
 cyclophorus
 cylindrica
+cymbopogon
 cyminum
 cymosa
 cyprus
@@ -1082,6 +1097,7 @@ dagun
 daha
 dahrian
 daidaru
+daik
 daitai
 dak
 dalbergia
@@ -1097,6 +1113,7 @@ damri
 dangal
 dangi
 dans
+daok
 daong
 dapatlah
 dapi
@@ -1291,6 +1308,7 @@ dug
 dugd
 duhi
 dui
+dukah
 dukaria
 dukatif
 duki
@@ -1340,6 +1358,7 @@ ekonomian
 ekosentris
 ekplorasi
 eksek
+eksekutip
 eksibisionism
 eksibisionisme
 ekskresinya
@@ -1433,6 +1452,7 @@ epis
 equisetifolia
 eracta
 eratnya
+ere
 erek
 erep
 erfpacht
@@ -1569,6 +1589,7 @@ fet
 fia
 fibraurea
 ficus
+fid
 figmen
 fih
 fiks
@@ -1660,6 +1681,7 @@ fungs
 fus
 fusarium
 fusca
+fusuh
 futbal
 fuz
 gab
@@ -1822,8 +1844,10 @@ gloriosa
 glr
 glu
 glumaceum
+gma
 goal
 goang
+goat
 gobius
 god
 gog
@@ -1991,6 +2015,7 @@ hayam
 hcooh
 header
 heb
+hectare
 hed
 hedychium
 hegemonizing
@@ -2008,6 +2033,7 @@ helizoa
 hello
 helopeltis
 hematnya
+hemi
 hemichordate
 hemidactylus
 hemigyrosa
@@ -2017,6 +2043,7 @@ hemisphaerica
 hemoptera
 hendaki
 hendakkan
+heo
 heptadactylus
 her
 heritiera
@@ -2107,6 +2134,7 @@ honestness
 hong
 hongaria
 hongkong
+honosfer
 hooc
 hor
 hordeum
@@ -2142,6 +2170,7 @@ hylobateslar
 hypoleucus
 hypopthalmichthys
 hypoxanthus
+iab
 iah
 iambik
 ian
@@ -2156,6 +2185,7 @@ icak
 icdi
 icterus
 idaeus
+idang
 idellus
 iden
 idhuladha
@@ -2438,6 +2468,7 @@ itas
 ite
 iter
 iti
+itung
 ixora
 izrail
 jabangbayi
@@ -2566,6 +2597,8 @@ kanin
 kanisasi
 kanisme
 kanit
+kanjut
+kanola
 kanonisasi
 kant
 kanter
@@ -2588,7 +2621,9 @@ kart
 karta
 kartini
 kasak
+kasekten
 kasik
+kasiogami
 kasr
 kastany
 kat
@@ -2707,6 +2742,7 @@ kinr
 kintamani
 kinya
 kiofit
+kipat
 kirakan
 kiralah
 kirghizia
@@ -2728,6 +2764,7 @@ knidosit
 knip
 kno
 kob
+kod
 kof
 kog
 kohi
@@ -2739,6 +2776,7 @@ kolog
 koloh
 kolusif
 komat
+komp
 kompletif
 komunikatornya
 kon
@@ -2760,6 +2798,7 @@ korasi
 koratif
 korator
 kordinator
+kornia
 koro
 kors
 kosak
@@ -2774,6 +2813,7 @@ kovalen
 kow
 krail
 krakatau
+krasak
 krinologi
 kris
 kroatia
@@ -2876,6 +2916,7 @@ lag
 lagah
 lagenaria
 laguh
+laha
 lahapan
 lahi
 lakarang
@@ -2960,6 +3001,7 @@ lesbo
 leschenault
 lessertianus
 lessor
+lesuh
 letah
 letihnya
 leucaena
@@ -3021,6 +3063,7 @@ lirium
 lisa
 lisasi
 lisi
+lisik
 lisk
 lisme
 litchi
@@ -3032,6 +3075,7 @@ litografik
 litosf
 liu
 lium
+lividus
 livistona
 lman
 loa
@@ -3040,6 +3084,7 @@ loe
 logamisasi
 logaritme
 logop
+loid
 loko
 loks
 lol
@@ -3120,6 +3165,7 @@ mahapenting
 maharajal
 mahi
 mail
+maison
 maitake
 maiz
 maj
@@ -3174,6 +3220,7 @@ masing
 maskawinnya
 maskop
 masokis
+masri
 massoia
 mast
 matai
@@ -3266,6 +3313,7 @@ meraldin
 merasul
 mereferensi
 merenjisi
+merit
 meritrix
 meso
 mesometereologi
@@ -3282,6 +3330,7 @@ microlaser
 microscelis
 microsperma
 microwaving
+mid
 midiurnal
 mieayam
 mig
@@ -3306,6 +3355,7 @@ minah
 minallah
 minan
 minasysyaitanirrajim
+mindah
 mine
 ming
 minibask
@@ -3326,6 +3376,7 @@ misformed
 misivitas
 mispers
 mit
+mita
 mium
 mne
 mno
@@ -3336,6 +3387,7 @@ mof
 mofilia
 moh
 mohi
+mohs
 mokin
 moldavia
 mom
@@ -3417,6 +3469,7 @@ naja
 nakh
 nakho
 naki
+nakib
 nakik
 nakir
 nakit
@@ -3443,6 +3496,7 @@ nanga
 nanggroe
 nangis
 nangkupkan
+nani
 nans
 nanya
 nap
@@ -3566,6 +3620,7 @@ new
 nga
 ngab
 ngabarkan
+ngaceng
 ngacir
 ngacirkan
 ngaco
@@ -3600,6 +3655,7 @@ ngangkut
 ngani
 ngantre
 ngap
+ngapa
 ngar
 ngari
 ngas
@@ -3848,12 +3904,14 @@ nobile
 nobilis
 nodosa
 nodule
+noe
 noglosia
 nograf
 nografi
 noh
 noi
 noid
+noidal
 nokrasi
 noks
 nolak
@@ -3886,6 +3944,7 @@ nonmetalik
 nonnominatif
 nonpatog
 nonpertanian
+nonpr
 nonrasional
 nonreferensial
 nonretroactive
@@ -3937,6 +3996,7 @@ ntt
 ntuk
 nuasi
 nucifera
+nug
 nugget
 nuk
 nukleusnya
@@ -3967,6 +4027,7 @@ nutritif
 nuvo
 nya
 nyab
+nyad
 nyadran
 nyahlah
 nyaki
@@ -4117,6 +4178,7 @@ oklasisme
 oklimatologi
 oknya
 okolonialisme
+okor
 okrasi
 okratis
 okronologi
@@ -4166,6 +4228,7 @@ ombakan
 ombang
 ome
 omelet
+omen
 omik
 ommastreephes
 ommezijde
@@ -4191,6 +4254,7 @@ onid
 oniscomorpha
 ono
 ontran
+onu
 onyah
 onyak
 oog
@@ -4212,6 +4276,8 @@ oponik
 opr
 ops
 optisnya
+opu
+opung
 oran
 orangtua
 orangtuanya
@@ -4245,8 +4311,10 @@ orthomus
 oryctes
 oryza
 oryzivora
+osa
 osaka
 osi
+osik
 osin
 osinkronis
 ositas
@@ -4337,6 +4405,7 @@ patria
 patrilin
 pau
 pauknya
+paunsterling
 pautannya
 pay
 payena
@@ -4377,6 +4446,7 @@ phaseolus
 pho
 phobia
 phyllagathis
+phytopathology
 pia
 pib
 picidae
@@ -4411,6 +4481,7 @@ pini
 pio
 pirasa
 piri
+piroks
 pirot
 pisces
 pisi
@@ -4570,6 +4641,7 @@ raphia
 raptor
 rar
 rara
+raraban
 rarium
 rarki
 rasbora
@@ -4783,6 +4855,7 @@ rogoni
 rografi
 rogram
 rohaniwati
+rohku
 rohm
 roin
 roj
@@ -4852,6 +4925,7 @@ rukh
 ruki
 rukunnya
 rul
+rumahlah
 rumphii
 run
 rung
@@ -5008,6 +5082,7 @@ sialisasi
 sialistis
 siamea
 siamensis
+siana
 sianisasi
 sianok
 siasi
@@ -5135,6 +5210,7 @@ sold
 solekan
 solit
 solitik
+sollen
 sommiferum
 sompr
 sond
@@ -5188,6 +5264,7 @@ stopl
 stor
 stramonium
 strategik
+stri
 strigatus
 strigiformes
 strik
@@ -5277,6 +5354,7 @@ tabolisme
 tabulum
 tacu
 tad
+tada
 tag
 tagalan
 tahayul
@@ -5318,6 +5396,7 @@ tanakan
 taneh
 tangaeunga
 tangalunga
+tangg
 tanggalkanlah
 tanggerang
 tanggulangilah
@@ -5366,6 +5445,7 @@ tebanglah
 tebece
 tectonia
 tectorius
+ted
 tehempas
 tek
 tekno
@@ -5411,6 +5491,7 @@ terlaporkan
 terlibas
 terlikuidasi
 termengah
+ternanti
 ternispina
 tero
 terodin
@@ -5541,6 +5622,7 @@ totaliterianisme
 toti
 tow
 toxicaria
+toxicatia
 toxicoria
 trachy
 trachycoleus
@@ -5572,6 +5654,7 @@ trinervia
 trionyx
 triplek
 tris
+tritus
 tro
 troaktif
 trodolar
@@ -5635,6 +5718,7 @@ ucapara
 ucapnya
 uci
 udah
+udahan
 udarakan
 udiklah
 udokata
@@ -5702,6 +5786,7 @@ ultraorthodox
 ultraortodoks
 ultraringan
 umaiah
+umam
 umang
 umar
 umatika
@@ -5861,6 +5946,7 @@ varilux
 varis
 varius
 vaseline
+vat
 vea
 vei
 veks
@@ -5906,6 +5992,8 @@ vol
 voltam
 volum
 von
+vot
+vul
 vulcanology
 vulgaris
 vulp
@@ -5913,6 +6001,7 @@ vulpes
 waalaikumsalam
 waarnemend
 wabi
+wad
 wadaru
 waf
 wag
@@ -5950,6 +6039,8 @@ wen
 wer
 wes
 westwardly
+wiah
+wid
 wif
 wik
 wil
@@ -5966,6 +6057,7 @@ wir
 wirataparwa
 wis
 wiw
+wod
 wom
 wongateleng
 wonocolo
@@ -5976,6 +6068,7 @@ wto
 wuf
 wuh
 wul
+wur
 wuri
 wurudu
 wuruk
@@ -6023,6 +6116,7 @@ yet
 ygke
 ygmencakupi
 yib
+yid
 yik
 ying
 yir
@@ -6038,6 +6132,7 @@ yong
 yor
 yorasi
 yosef
+yosi
 young
 yub
 yugoslavia
