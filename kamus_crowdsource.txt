@@ -911,6 +911,7 @@ bral
 bram
 brama
 bras
+brat
 brau
 brawijaya
 braya
@@ -1098,6 +1099,7 @@ dans
 daong
 dapatlah
 dapi
+daru
 darwin
 database
 datuknya
@@ -2805,6 +2807,7 @@ kuisisi
 kuivokasi
 kujual
 kukira
+kukua
 kul
 kulatif
 kulator
