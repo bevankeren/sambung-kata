@@ -221,6 +221,7 @@ aitoto
 aitowa
 aiwahui
 aiwonai
+aiyao
 ajari
 ajima
 ajin
@@ -544,6 +545,7 @@ antras
 antropom
 antropos
 antukkan
+antum
 anui
 anuiti
 anur
@@ -669,6 +671,7 @@ asek
 asep
 asetilsalisilat
 asfiksiasi
+asgar
 asiabarat
 asiatenggara
 asiatica
@@ -997,6 +1000,7 @@ cani
 cannaeformis
 canus
 capainya
+capi
 capsularis
 carcharias
 cardamomum
@@ -1889,6 +1893,7 @@ gonta
 gontokan
 gonystylus
 goo
+goodby
 goods
 gop
 gopay
@@ -2393,9 +2398,11 @@ intermidius
 intermolekul
 internasioanl
 internasionalisme
+interp
 interpretif
 inters
 intert
+interuptus
 interv
 intestinalis
 intestinum
@@ -2740,6 +2747,7 @@ ketuarentaan
 keu
 keuatan
 kew
+keyboard
 khai
 khan
 kharismatis
@@ -2914,6 +2922,7 @@ kuserahkan
 kutanggung
 kutatan
 kutemukan
+kuterima
 kutunggangbalikkan
 kuy
 kwan
@@ -3015,6 +3024,7 @@ leiden
 leiognathus
 lekak
 leks
+lelangs
 lemb
 lemi
 lenca
@@ -3177,6 +3187,7 @@ mabrasi
 mac
 macacus
 mach
+machaerhamphus
 macrobium
 macrocladus
 macrophygia
@@ -3340,6 +3351,7 @@ meo
 merakus
 meraldin
 merasul
+merd
 mereferensi
 merenjisi
 merit
@@ -3704,6 +3716,7 @@ ngb
 nge
 ngebon
 ngec
+ngecap
 ngecas
 ngedangkan
 ngegombal
@@ -4472,6 +4485,7 @@ perekacipta
 pericardium
 perkembangbiakannya
 perlengketan
+peroleh
 pertamina
 pestapora
 peyoratif
@@ -5052,6 +5066,7 @@ sapindus
 sappan
 saranya
 sarcodactylis
+sard
 sardinella
 sarimi
 sario
@@ -5106,6 +5121,7 @@ seragi
 seraum
 serebri
 serotong
+serp
 serulah
 serund
 ses
