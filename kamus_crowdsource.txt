@@ -4,6 +4,7 @@ abbreviata
 abc
 abdurrahman
 abeat
+abel
 abelia
 abesif
 abetalipoproteinemia
@@ -29,6 +30,7 @@ abutai
 aca
 acacia
 acai
+acalolepta
 acalyoha
 acalypha
 accu
@@ -544,6 +546,7 @@ antukkan
 anui
 anuiti
 anur
+anwar
 anyamannya
 anye
 anyih
@@ -1214,6 +1217,7 @@ dimalui
 dimanterai
 dimanusiakan
 dimarginalisasi
+dimas
 dimasalahkan
 dinasnya
 dinetralisasikan
@@ -1336,6 +1340,7 @@ ebook
 echineis
 echinocactus
 echinometra
+echiroidea
 ectoprocta
 eda
 edarannya
@@ -1491,6 +1496,7 @@ escalative
 escherichia
 esculenta
 ese
+eseh
 esif
 eskalatif
 eskrim
@@ -1530,6 +1536,7 @@ facsimile
 factionalization
 facto
 faeroe
+fag
 fagaceae
 fagraea
 fagraera
@@ -1924,6 +1931,7 @@ gularisasi
 gulash
 gulasi
 gulatif
+gulu
 gumpa
 guni
 gunieesis
@@ -2041,6 +2049,7 @@ hemipiraclodus
 hemiramphus
 hemisphaerica
 hemoptera
+hemuramphus
 hendaki
 hendakkan
 heo
@@ -2077,6 +2086,7 @@ hijinks
 hik
 hil
 hila
+hilai
 hili
 hilicteres
 hilo
@@ -2142,6 +2152,7 @@ hospita
 host
 hotong
 house
+hua
 hubaya
 hudi
 huf
@@ -2178,6 +2189,7 @@ iat
 iata
 ibadatnya
 ibar
+ibek
 ibodan
 ibuku
 ibumu
@@ -2391,6 +2403,7 @@ intrav
 intravaskul
 introj
 intsia
+inu
 inuria
 inv
 inventarisir
@@ -2472,6 +2485,7 @@ itung
 ixora
 izrail
 jabangbayi
+jabi
 jabotabek
 jack
 jackia
@@ -2496,6 +2510,7 @@ jampang
 jan
 jang
 janti
+japa
 jar
 jasmania
 jasmaninya
@@ -2667,6 +2682,7 @@ kefasihannya
 kegagahberanian
 keh
 kehi
+kei
 kej
 kejerahan
 kel
@@ -2919,6 +2935,7 @@ laguh
 laha
 lahapan
 lahi
+laj
 lakarang
 lakilah
 laks
@@ -3156,6 +3173,7 @@ madan
 madraspatanum
 mae
 maf
+magn
 mahabarata
 mahabesar
 mahad
@@ -3535,6 +3553,7 @@ naus
 naut
 navalis
 navis
+nawafil
 nazarkan
 nazarnya
 nazilah
@@ -3905,6 +3924,7 @@ nobilis
 nodosa
 nodule
 noe
+nog
 noglosia
 nograf
 nografi
@@ -4436,6 +4456,7 @@ perekacipta
 pericardium
 perkembangbiakannya
 perlengketan
+pertamina
 pestapora
 peyoratif
 pezazz
@@ -4520,6 +4541,7 @@ porandakan
 portret
 portulaca
 poskrip
+potek
 poti
 pra
 prad
@@ -4537,6 +4559,7 @@ psiko
 psikol
 psikon
 psin
+pta
 ptabilitas
 ptah
 pto
@@ -4890,6 +4913,7 @@ rorisme
 roro
 rosa
 rosasinensis
+rose
 rosen
 rosi
 rositas
@@ -5095,6 +5119,7 @@ sid
 sidivisme
 sidratul
 sidu
+sie
 sifik
 sifikasi
 sifoid
@@ -5301,6 +5326,7 @@ suffruticosa
 sugestinya
 suhi
 suis
+suj
 sukai
 sukarelawati
 sukarno
@@ -5598,6 +5624,7 @@ toli
 tolo
 tolog
 tome
+tomi
 tonasi
 tonimi
 tonuria
@@ -5976,6 +6003,7 @@ vinci
 violaceum
 vipera
 vir
+virat
 virgatus
 viridula
 visionis
@@ -6036,6 +6064,7 @@ wedelia
 wek
 wel
 wen
+weo
 wer
 wes
 westwardly
@@ -6107,6 +6136,7 @@ yasinan
 yat
 yati
 yau
+yaya
 yech
 yeh
 yeng
