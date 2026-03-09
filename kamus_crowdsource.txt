@@ -99,6 +99,7 @@ aerofilateli
 aeroterapia
 afak
 afar
+afd
 afe
 aferitif
 aff
@@ -1271,6 +1272,7 @@ disingkan
 disintegratif
 disisihkannya
 disori
+disproportionally
 dista
 disukai
 dit
@@ -1719,6 +1721,7 @@ galunggung
 gambirnya
 games
 gancet
+gand
 gandan
 gandarussa
 gandengkan
@@ -2266,10 +2269,12 @@ ilicifolius
 illa
 illah
 ilmuwati
+ilok
 ilokusi
 ilokusioner
 ilom
 iloni
+ilung
 ilus
 ilustrasikan
 ima
@@ -2295,6 +2300,7 @@ implora
 imsakyih
 imu
 imunosupr
+inaktif
 inapkan
 inau
 incang
@@ -2657,6 +2663,7 @@ kauhubungkan
 kaui
 kaukebatkanlah
 kaukutuk
+kaule
 kaulilitkanlah
 kaupatahkan
 kauperlihatkan
@@ -2781,6 +2788,7 @@ knidoblas
 knidosit
 knip
 kno
+koagr
 kob
 kod
 kof
@@ -3362,6 +3370,7 @@ mikordat
 mikropon
 mikropros
 mikros
+mila
 mileu
 mili
 miliaris
@@ -3393,6 +3402,7 @@ mis
 misah
 misaminensis
 miscommunicating
+misf
 misformed
 misivitas
 mispers
@@ -3480,6 +3490,7 @@ nafilah
 naft
 nagasaki
 nagih
+naha
 nahan
 nahar
 nahdatul
@@ -4017,6 +4028,7 @@ ntir
 ntol
 ntt
 ntuk
+nuang
 nuasi
 nucifera
 nug
@@ -4222,6 +4234,7 @@ olan
 olang
 olar
 ole
+olea
 oleac
 oleaceae
 olehseluruh
@@ -4646,6 +4659,7 @@ ralis
 rallus
 ramahan
 ramailah
+ramang
 ramb
 rambatannya
 rambo
@@ -4805,6 +4819,7 @@ rikus
 ril
 rileksasi
 rilisasi
+rimang
 rimau
 rimi
 rin
@@ -4948,6 +4963,7 @@ rufonigra
 rug
 rugosa
 ruhi
+ruhun
 rui
 ruk
 rukh
@@ -4987,6 +5003,7 @@ sabre
 sabuni
 sagir
 sagor
+saha
 sahul
 sahwi
 sailboarding
@@ -5553,6 +5570,8 @@ textilia
 tgl
 tia
 tiah
+tiapia
+tiau
 tif
 tifoid
 tifon
@@ -5870,6 +5889,7 @@ untas
 untingan
 untukmenangkal
 untungan
+unu
 update
 upe
 upgrade
