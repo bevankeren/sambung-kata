@@ -971,6 +971,7 @@ callus
 calypso
 camelia
 camelopardalis
+can
 canangium
 canavalia
 cancelling
@@ -1575,6 +1576,7 @@ fiksional
 fil
 filam
 filamentosum
+filantrofi
 filat
 filetik
 filol
@@ -1671,6 +1673,7 @@ gal
 galaktik
 galaktom
 galant
+galer
 galgulus
 galibnya
 galik
@@ -1685,6 +1688,7 @@ galu
 galunggung
 gambirnya
 games
+gancet
 gandan
 gandarussa
 gandengkan
@@ -2186,6 +2190,7 @@ ika
 ikanlah
 ikatnya
 ike
+ikea
 ikh
 ikhlilaf
 ikhtiarnya
@@ -2225,6 +2230,7 @@ ilus
 ilustrasikan
 ima
 imaginasi
+imah
 imaj
 imajin
 imaterial
@@ -3012,6 +3018,7 @@ lipsom
 liran
 liri
 lirium
+lisa
 lisasi
 lisi
 lisk
@@ -3289,6 +3296,7 @@ mileu
 mili
 miliaris
 milih
+milim
 milit
 miller
 milletia
@@ -4268,6 +4276,7 @@ overabundantly
 overdramatize
 overinflated
 overinflating
+ovi
 oxalidaceae
 oxidate
 oxidating
@@ -5133,6 +5142,7 @@ song
 sor
 sosialisasikan
 sosiol
+soso
 sot
 sotoraks
 sparsity
