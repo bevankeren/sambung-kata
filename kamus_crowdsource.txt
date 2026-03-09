@@ -441,6 +441,7 @@ angropoid
 anguilla
 anguillaris
 angustifolia
+anik
 anilin
 aning
 aniscia
@@ -546,8 +547,10 @@ antropom
 antropos
 antukkan
 antum
+anubis
 anui
 anuiti
+anuk
 anur
 anwar
 anyamannya
@@ -1140,6 +1143,7 @@ deka
 dekafinat
 deks
 dektrosa
+delak
 delegitimacy
 demensi
 deng
@@ -1581,6 +1585,7 @@ fasciatus
 fasenya
 faso
 fat
+fata
 fatis
 fau
 faz
@@ -2345,6 +2350,7 @@ ingkaran
 ingr
 ingresi
 inh
+inim
 inisiatip
 inium
 injili
@@ -2419,6 +2425,7 @@ intravaskul
 introj
 intsia
 inu
+inuk
 inuria
 inv
 inventarisir
@@ -3128,6 +3135,7 @@ loks
 lol
 loli
 loma
+lompa
 lon
 lonccolata
 london
@@ -3510,6 +3518,7 @@ nahdlatul
 nai
 naiki
 naja
+nakan
 nakh
 nakho
 naki
@@ -3536,6 +3545,8 @@ nambahkan
 nampakkan
 nampang
 nampar
+nampol
+nana
 nanga
 nanggroe
 nangis
@@ -4272,6 +4283,7 @@ olokal
 olokkan
 olong
 olus
+omah
 omansi
 ombakan
 ombang
@@ -5672,6 +5684,7 @@ tora
 torabika
 torakikus
 toredo
+toren
 tori
 torik
 torika
