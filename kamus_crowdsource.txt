@@ -43,6 +43,7 @@ aclisia
 acronychia
 acrossocheilus
 actinochytis
+acuannya
 acuminatum
 acutangula
 adaan
@@ -173,6 +174,7 @@ ahong
 ahsani
 ahsanu
 ahu
+ahuk
 ahyan
 ahyok
 ahza
@@ -250,9 +252,11 @@ akuad
 akuar
 akui
 akuif
+akuilah
 akul
 akunan
 akuntabilitasnya
+akunting
 akusisi
 akustis
 aladin
@@ -367,6 +371,7 @@ amper
 amphibius
 amphiphrion
 ampulla
+ampullacea
 ampullaria
 amul
 anabantidae
@@ -383,6 +388,7 @@ anai
 anakemas
 anakkan
 anakkunci
+analogic
 analogis
 anam
 anamn
@@ -566,6 +572,7 @@ apatisme
 apdeling
 apektrograf
 aper
+aph
 aphodius
 aphroditois
 apian
@@ -699,6 +706,7 @@ aspidomorpha
 aspirasikan
 aspirasinya
 asram
+asrea
 asrogularis
 assalamu
 assertedly
@@ -862,6 +870,7 @@ beirut
 beki
 bekl
 belarus
+beng
 benjamina
 ber
 berafiks
@@ -890,6 +899,7 @@ bib
 bibik
 bih
 bihus
+bii
 bikonv
 bil
 bilhaj
@@ -912,6 +922,7 @@ biseks
 bismilah
 bitorquata
 bitum
+biv
 bivittatus
 boaja
 bohay
@@ -1066,6 +1077,7 @@ coronarium
 corpulency
 coryphya
 cos
+cosmos
 craula
 croissant
 crotalaria
@@ -1083,6 +1095,7 @@ cuy
 cyanus
 cyathea
 cyathocalyx
+cycas
 cyclea
 cyclocheilichthys
 cyclophorus
@@ -1138,6 +1151,7 @@ dayacipta
 dea
 def
 defacto
+defakto
 deflektor
 deka
 dekafinat
@@ -1152,6 +1166,7 @@ dentis
 der
 deri
 diab
+diabadikan
 diabstrakkan
 diadakanlah
 diadukkan
@@ -1180,6 +1195,7 @@ didekapnya
 didikannya
 didiskwalifikasikan
 didorongkan
+die
 diem
 diescorea
 dif
@@ -1300,7 +1316,9 @@ diulurkannya
 diundangnya
 diupam
 diuruknya
+dll
 doaku
+dobe
 dobl
 dod
 dodonaea
@@ -1309,7 +1327,10 @@ doks
 domi
 dompl
 dors
+dorsiah
 doti
+dow
+download
 dracontomelum
 drik
 dring
@@ -1485,6 +1506,7 @@ erlangga
 ero
 erobik
 eropabarat
+eropah
 eropatimur
 erosiveness
 erosus
@@ -1524,6 +1546,7 @@ eulia
 euphoria
 eurostopodus
 eurycoma
+eustachius
 eusyderoxylon
 eva
 ever
@@ -1611,6 +1634,7 @@ ficus
 fid
 figmen
 fih
+fii
 fiks
 fiksional
 fil
@@ -1676,6 +1700,7 @@ fors
 fortuna
 fos
 fosbury
+fosg
 fotoelektrik
 fotosintetis
 fov
@@ -1710,6 +1735,7 @@ gaf
 gahi
 gaimana
 gajahan
+gakr
 gal
 galaktik
 galaktom
@@ -1755,6 +1781,7 @@ garcinia
 garcinioides
 gardenia
 garm
+gase
 gasi
 gasingnya
 gask
@@ -1980,6 +2007,7 @@ haematuria
 haemorroid
 haf
 hah
+haha
 hairbrained
 hajjah
 halai
@@ -2096,9 +2124,11 @@ hidroskopik
 hig
 higi
 hih
+hij
 hijaulah
 hijinks
 hik
+hikmatnya
 hil
 hila
 hilai
@@ -2278,6 +2308,7 @@ ilicifolia
 ilicifolius
 illa
 illah
+illallah
 ilmuwati
 ilok
 ilokusi
@@ -2316,6 +2347,7 @@ inau
 incang
 incarpus
 incertus
+incii
 incissus
 incompetency
 ind
@@ -2458,6 +2490,7 @@ iser
 iskandar
 isl
 islamicization
+islamicizing
 islamlah
 isme
 ismik
@@ -2565,6 +2598,7 @@ jirim
 jis
 jit
 jiz
+jln
 joh
 johannes
 jol
@@ -2610,6 +2644,7 @@ kaledonia
 kalifornia
 kalik
 kalkulatif
+kalongw
 kals
 kalsif
 kalsiumnya
@@ -2652,6 +2687,7 @@ kardiovaskuler
 kare
 karis
 karisti
+karl
 karminat
 karp
 kart
@@ -2708,6 +2744,7 @@ kehi
 kei
 kej
 kejerahan
+keka
 kel
 kela
 kelabut
@@ -2764,6 +2801,7 @@ kho
 khoz
 khususnnya
 khz
+kicauannya
 kif
 kiki
 kikihan
@@ -2855,6 +2893,7 @@ kow
 krail
 krakatau
 krasak
+krasi
 krinologi
 kris
 kroatia
@@ -3129,6 +3168,7 @@ loe
 logamisasi
 logaritme
 logop
+loi
 loid
 loko
 loks
@@ -3144,6 +3184,7 @@ longispiculatum
 loni
 lont
 lontang
+lopaknya
 lorb
 loro
 lorosae
@@ -3163,6 +3204,7 @@ luh
 luhi
 lui
 luki
+lull
 luloid
 luluknya
 lumba
@@ -3246,6 +3288,7 @@ mangkunegara
 mangostana
 mangosteen
 manif
+manifold
 manikd
 maninya
 manjangkan
@@ -3371,6 +3414,7 @@ metik
 metraliur
 meu
 mez
+mhs
 mia
 mias
 micaria
@@ -3905,6 +3949,7 @@ nigma
 nigra
 nigrafasciata
 nigrociliata
+nii
 nika
 nikh
 nikulum
@@ -4206,6 +4251,7 @@ officinarum
 ofi
 ofisika
 ofisikawan
+ofs
 ogak
 ognosis
 ogo
@@ -4264,6 +4310,7 @@ oleaceae
 olehseluruh
 olein
 oleosa
+oleracea
 oliberalisme
 oligarkis
 oligofr
@@ -4362,6 +4409,7 @@ orit
 ork
 ormosia
 ornam
+ornateness
 ornop
 oro
 orograf
@@ -4399,6 +4447,7 @@ otipologi
 otobis
 otop
 otoriterianisme
+otos
 ouratea
 ovalifolia
 overabundantly
@@ -4459,6 +4508,7 @@ parvifolia
 pasca
 pascakemerdekaan
 pasriflora
+password
 past
 pat
 pate
@@ -4472,6 +4522,7 @@ pay
 payena
 paz
 pazazz
+pdf
 ped
 pee
 peh
@@ -4581,6 +4632,7 @@ ponnetia
 porak
 poranda
 porandakan
+porousness
 portret
 portulaca
 poskrip
@@ -4644,6 +4696,7 @@ quesadilla
 quetzal
 quiche
 qurani
+quranisme
 rabai
 rabasnya
 rabbiyal
@@ -4715,6 +4768,7 @@ raru
 rasbora
 rastafara
 rasterize
+rasullulah
 rasy
 ratabasa
 ratanya
@@ -4725,6 +4779,7 @@ ratih
 ratin
 ratitis
 rato
+rator
 ratufa
 ratusannya
 raunglah
@@ -4747,6 +4802,7 @@ recah
 recalcitrancy
 recharacterizing
 red
+reflek
 refleksif
 reformatif
 reg
@@ -5049,6 +5105,7 @@ salvator
 salvinia
 sam
 samb
+sambao
 sambu
 samiall
 samp
@@ -5068,6 +5125,7 @@ sanggaan
 sangganya
 sangkanya
 sanit
+sanitariness
 sank
 sant
 santannya
@@ -5102,10 +5160,12 @@ schizostachyum
 scleronema
 scorpio
 sdri
+sdt
 sea
 seboleh
 sectorally
 secubitan
+see
 seekstensif
 segerai
 seintensif
@@ -5143,10 +5203,12 @@ sessilifolia
 sestrategis
 setaman
 setipinnataty
+sfer
 sfig
 shakespeare
 shalt
 sherif
+shg
 shio
 siaan
 siaganya
@@ -5162,6 +5224,7 @@ sianok
 siasi
 siatif
 sib
+sibayak
 siberia
 siberutang
 sibthorpioides
@@ -5265,6 +5328,7 @@ skiam
 skil
 skis
 skotlandia
+skriptif
 sku
 skuamasi
 sle
@@ -5514,6 +5578,7 @@ tautologis
 taw
 taz
 tazoa
+tcd
 tea
 team
 teb
@@ -5706,6 +5771,7 @@ toxicatia
 toxicoria
 trachy
 trachycoleus
+trai
 trak
 traks
 tral
@@ -5748,6 +5814,7 @@ tropia
 tropidia
 troya
 tru
+tsa
 tsam
 ttg
 tti
@@ -5784,6 +5851,7 @@ tusa
 tust
 tuti
 tutsnya
+type
 typhlops
 typis
 uarkan
@@ -5825,6 +5893,7 @@ uidagang
 uigur
 uii
 uing
+uinsa
 uinsi
 uinsu
 uir
@@ -5910,6 +5979,7 @@ unival
 universit
 unjukrasa
 unpreparedness
+unreadiness
 unril
 unskillfulness
 untaiannya
@@ -6048,6 +6118,7 @@ vereegnide
 vernonia
 vers
 ves
+vie
 vil
 vilatase
 vilex
@@ -6060,6 +6131,7 @@ vir
 virat
 virgatus
 viridula
+vis
 visionis
 vit
 vitae
@@ -6096,6 +6168,7 @@ wakunya
 wal
 wala
 wales
+waljamaah
 wallahu
 wanagari
 wangian
@@ -6125,6 +6198,7 @@ westwardly
 wiah
 wid
 wif
+wiff
 wik
 wil
 wilangan
@@ -6141,6 +6215,7 @@ wirataparwa
 wis
 wiw
 wod
+wolf
 wom
 wongateleng
 wonocolo
