@@ -505,6 +505,7 @@ anisogam
 anisophyllea
 anisum
 anita
+anjuk
 anjungnya
 anl
 anna
@@ -630,6 +631,7 @@ anui
 anuiti
 anuk
 anur
+anvil
 anwar
 anyamannya
 anye
@@ -679,6 +681,7 @@ apunsia
 apur
 aqi
 aqil
+aqiqah
 aquilaria
 arabia
 arabica
@@ -831,6 +834,7 @@ atasilah
 atawa
 atelana
 aten
+atena
 atenian
 atentif
 atep
@@ -881,6 +885,7 @@ auksamom
 aumkan
 aumur
 aun
+auni
 aurantifolia
 aurantiola
 aurantium
@@ -1292,6 +1297,7 @@ dali
 dalikan
 dalilnya
 damaikanlah
+damarnya
 damarwulan
 damaskus
 damasyik
@@ -1557,6 +1563,7 @@ dograf
 doks
 dola
 domi
+dompe
 dompl
 done
 dongi
@@ -2468,6 +2475,7 @@ hiburkanlah
 hid
 hida
 hidatid
+hidra
 hidrocera
 hidrolik
 hidrolis
@@ -2484,6 +2492,7 @@ hijaulah
 hijinks
 hik
 hikmatnya
+hiks
 hil
 hila
 hilai
@@ -2535,6 +2544,7 @@ hitaman
 hitamanan
 hitler
 hitman
+hitu
 hlm
 hok
 hokben
@@ -2934,6 +2944,7 @@ isotopnya
 isp
 ispida
 israfil
+istanbul
 istemewa
 istiadatnya
 istim
@@ -5217,6 +5228,7 @@ paedophilia
 pahamnya
 pahi
 pahlawati
+paid
 paki
 paks
 pakualaman
@@ -5751,6 +5763,7 @@ riost
 riostatik
 ripah
 rir
+riri
 risasi
 risida
 risipelas
@@ -5909,6 +5922,7 @@ runtang
 runtutan
 rup
 rupi
+ruqyah
 rur
 rus
 ruselli
@@ -6891,6 +6905,7 @@ ufonium
 uforia
 uforian
 ugal
+ugalan
 uha
 uhaloa
 uhat
