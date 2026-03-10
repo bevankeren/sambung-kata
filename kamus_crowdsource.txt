@@ -651,6 +651,7 @@ argyratum
 arheis
 aridifolia
 arin
+arini
 aristrokat
 aristrokratis
 aritnya
@@ -758,6 +759,7 @@ atheresia
 atif
 atifikasi
 atik
+atim
 atisme
 atit
 ativitas
@@ -1208,6 +1210,7 @@ dibui
 dicairkan
 dicantumkan
 diciptakan
+dicukai
 did
 diddly
 didekapnya
@@ -1813,6 +1816,7 @@ gasi
 gasingnya
 gask
 gasporofil
+gastr
 gastroenterologis
 gastrologi
 gat
@@ -2085,6 +2089,7 @@ hasskarliana
 hastinapura
 hasyim
 hat
+hatam
 hatian
 hatinurani
 haturkan
@@ -2238,6 +2243,7 @@ hubaya
 hudi
 huf
 hui
+hujam
 hul
 hula
 hum
@@ -2676,6 +2682,7 @@ kabu
 kacoa
 kaempferia
 kag
+kaham
 kahf
 kahi
 kai
@@ -2719,6 +2726,7 @@ kanter
 kanting
 kantungi
 kao
+kapitil
 kapolrestro
 kapolwiltabes
 kapuri
@@ -3064,6 +3072,7 @@ lamb
 lami
 lamiaceae
 lampuyangan
+lanak
 lanceolata
 langerstroemia
 langitan
@@ -4721,6 +4730,7 @@ poti
 ppp
 pra
 prad
+prai
 pras
 pri
 privity
@@ -5797,6 +5807,7 @@ tinakulum
 tinctoria
 tindasnya
 tine
+tingwe
 tinimbang
 tinitis
 tio
@@ -6110,6 +6121,7 @@ urena
 uret
 urg
 urihalin
+urim
 urinala
 urinaria
 uringan
