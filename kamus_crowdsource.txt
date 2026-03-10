@@ -246,6 +246,7 @@ akrobatika
 akrom
 aksensuasi
 aksesories
+aksial
 aktans
 aktansi
 aktifis
@@ -862,6 +863,7 @@ bant
 bantahannya
 baraandi
 barbaria
+barcelona
 baretnya
 baringtoniaspicata
 barunawali
@@ -1118,6 +1120,7 @@ cylindrica
 cymbopogon
 cyminum
 cymosa
+cyprinus
 cyprus
 cyptopterus
 daag
@@ -1831,6 +1834,7 @@ gehi
 gelianisme
 gelidiopsisigida
 gem
+gemalai
 gembalakanlah
 gemborkan
 gembrang
@@ -2010,6 +2014,7 @@ gurameh
 gurinda
 guruan
 gurui
+gusang
 gut
 gutsiness
 guttatus
@@ -2201,6 +2206,7 @@ hitaman
 hitamanan
 hitler
 hitman
+hlm
 hok
 hokben
 holacanthus
@@ -2808,6 +2814,7 @@ kesarjanaannya
 kese
 kesem
 kesih
+kesirikan
 keso
 kesugihan
 ket
@@ -2914,6 +2921,7 @@ kontinyuitas
 kontraktif
 konveksitas
 konvulsif
+kopat
 korang
 korasi
 koratif
@@ -3196,6 +3204,7 @@ liri
 lirium
 lisa
 lisasi
+lisensiat
 lisi
 lisik
 lisk
@@ -4922,6 +4931,7 @@ revegetate
 reverification
 rgik
 rhapis
+rhei
 rheidae
 rhibatis
 rhizomys
@@ -5327,6 +5337,7 @@ sikh
 siki
 siklonal
 silahturahmi
+silakanlah
 silaturrahim
 sili
 silikatnya
@@ -5884,6 +5895,7 @@ trims
 trin
 trinervia
 trionyx
+triphasia
 triplek
 tris
 tritus
@@ -6193,6 +6205,7 @@ vaseline
 vat
 vea
 vei
+veitehia
 veks
 velg
 veloper
@@ -6386,6 +6399,7 @@ yorasi
 yosef
 yosi
 young
+yth
 yub
 yugoslavia
 yuh
