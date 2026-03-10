@@ -250,6 +250,7 @@ akadkan
 akalkan
 akaran
 aker
+akhimya
 akiat
 akin
 akir
@@ -413,6 +414,7 @@ ampulla
 ampullacea
 ampullaria
 amul
+amun
 amus
 anabantidae
 anabas
@@ -1323,6 +1325,7 @@ diabadikan
 diabstrakkan
 diadakanlah
 diadaptasikan
+diadu
 diadukkan
 diagih
 diakarkan
@@ -1461,6 +1464,7 @@ diperjuangkan
 diperlancar
 diperlengkapkan
 diperlihatan
+diperluas
 dipermulus
 diperoleh
 dipersekutui
@@ -1532,6 +1536,7 @@ dod
 dodo
 dodonaea
 doe
+dograf
 doks
 dola
 domi
@@ -1572,6 +1577,7 @@ dungi
 duoitus
 dupl
 duria
+dusseldorf
 dussumiera
 dussumieri
 dustai
@@ -1586,6 +1592,7 @@ ebo
 ebook
 echineis
 echinocactus
+echinodermata
 echinometra
 echiroidea
 ectoprocta
@@ -1642,6 +1649,7 @@ elateriospermum
 elatum
 elbagai
 ele
+eleison
 elek
 elektoral
 elektriknya
@@ -2000,6 +2008,7 @@ fuz
 gab
 gabungkannya
 gaca
+gadaianku
 gadjah
 gaf
 gahi
@@ -2084,6 +2093,7 @@ gecko
 gedungbundar
 geh
 gehi
+gei
 gelianisme
 gelidiopsisigida
 gem
@@ -2325,6 +2335,7 @@ hamburannya
 hamd
 hamengku
 hami
+hamidah
 hampas
 hampirilah
 han
@@ -2662,6 +2673,7 @@ iloni
 ilung
 ilus
 ilustrasikan
+ilut
 ima
 image
 imaginasi
@@ -2870,6 +2882,7 @@ ismik
 ismograf
 ismogram
 ismolog
+ismologi
 ismom
 iso
 isob
@@ -3188,6 +3201,7 @@ kesalingbergantungan
 kesarjanaannya
 kese
 kesem
+kesembunyian
 kesih
 kesirikan
 keso
@@ -3288,6 +3302,7 @@ koloh
 kolusif
 komat
 kominis
+komisif
 komp
 kompletif
 komunikatornya
@@ -3356,6 +3371,7 @@ ktal
 kuadr
 kuadris
 kuajarkan
+kualami
 kuan
 kuantitatifnya
 kuartern
@@ -3467,6 +3483,7 @@ lakilah
 lakka
 laks
 laktom
+lakulah
 lakunar
 lal
 lalaikan
@@ -3573,6 +3590,7 @@ lib
 libanon
 liberica
 libr
+licuala
 lida
 lieberkuhn
 liebig
@@ -3742,6 +3760,8 @@ mab
 mabrasi
 mac
 macacus
+macaranga
+macaranya
 mach
 machaerhamphus
 macrobium
@@ -4196,6 +4216,7 @@ naucleiflorus
 naucrates
 naucratus
 naus
+nauseam
 naut
 navalis
 navis
@@ -4319,6 +4340,7 @@ ngalor
 ngam
 ngambilin
 ngamen
+ngamok
 ngan
 ngandang
 ngandidat
@@ -4771,6 +4793,7 @@ nyatri
 nyau
 nyawalah
 nyawer
+nyawit
 nyayat
 nyctalopia
 nyctanthes
@@ -4950,6 +4973,7 @@ ole
 olea
 oleac
 oleaceae
+oleat
 olehseluruh
 olein
 oleosa
@@ -5080,6 +5104,7 @@ oryza
 oryzivora
 osa
 osaka
+oseani
 osi
 osik
 osin
@@ -5139,6 +5164,7 @@ pacchyrhirus
 pacifica
 pacificies
 pad
+padahannya
 padahi
 paedofilia
 paedophilia
@@ -5249,6 +5275,7 @@ pia
 pib
 picidae
 pid
+pida
 piddly
 piezo
 pifora
@@ -5511,6 +5538,7 @@ rder
 rdigris
 reactional
 reactualize
+realitalah
 reb
 rebungnya
 recah
@@ -6294,6 +6322,8 @@ suks
 sukukata
 sul
 sule
+sulf
+sulfit
 sulfodikloroamidobenzoat
 sulihan
 suluhnya
@@ -6313,6 +6343,7 @@ suport
 supramolekul
 supratman
 sur
+surak
 surd
 sushi
 susp
@@ -6511,7 +6542,9 @@ ternispina
 tero
 terodin
 terodoks
+terof
 terogami
+terograf
 teroklitus
 teronimi
 teros
@@ -6712,6 +6745,7 @@ tritus
 tro
 troaktif
 trodolar
+trof
 trologi
 tromaks
 tromamal
@@ -6736,6 +6770,7 @@ tuberculosis
 tuberosum
 tubifera
 tujui
+tukan
 tuki
 tuks
 tul
@@ -6771,6 +6806,7 @@ typis
 uarkan
 ubal
 ubannya
+ubas
 ubrak
 ubu
 ubun
@@ -7174,6 +7210,7 @@ wiw
 wod
 wolf
 wom
+woman
 wongateleng
 wonocolo
 woodfordia
