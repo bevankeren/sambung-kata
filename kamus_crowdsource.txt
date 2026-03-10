@@ -787,6 +787,7 @@ ask
 asketis
 askorbat
 asmaradana
+asok
 asortim
 asp
 aspeknya
@@ -966,6 +967,7 @@ barynotus
 bask
 basri
 bataknya
+batam
 bateri
 batipelagis
 batir
@@ -992,6 +994,7 @@ bergurat
 berhektar
 berjala
 berk
+berkonfiks
 berlilitkan
 bermasakan
 bermuasal
@@ -1064,6 +1067,7 @@ brachirus
 brachynotopterus
 brah
 brai
+brail
 brak
 bral
 bram
@@ -1428,6 +1432,7 @@ dileleh
 dili
 dilimpahi
 dilisankan
+dillenia
 dilokalisasi
 dilonggarkan
 dilubanginya
@@ -1492,6 +1497,7 @@ direalisasi
 direkonfirmasi
 diremuk
 direntak
+dirma
 diruncingkan
 diruntas
 dis
@@ -1553,6 +1559,7 @@ dola
 domi
 dompl
 done
+dongi
 dors
 dorsiah
 doti
@@ -2050,6 +2057,7 @@ galop
 galosit
 galu
 galunggung
+gamba
 gambirnya
 games
 gancet
@@ -2067,6 +2075,7 @@ gangsur
 ganjalnya
 ganjel
 gant
+ganten
 gantu
 ganua
 gaohm
@@ -2301,6 +2310,7 @@ gulasi
 gulatif
 gulu
 gumpa
+gundai
 guni
 gunieesis
 gunungapi
@@ -2514,6 +2524,7 @@ hiru
 hirudinae
 hisbiscus
 hispanis
+hist
 histamin
 hister
 histeri
@@ -3319,6 +3330,7 @@ kolusif
 komat
 kominis
 komisif
+komitatif
 komp
 kompletif
 kompr
@@ -3812,6 +3824,7 @@ maj
 majah
 majeure
 major
+makadamia
 makani
 makedonia
 maker
@@ -4081,6 +4094,7 @@ mofilia
 moh
 mohi
 mohs
+mokel
 mokin
 moldavia
 mom
@@ -4234,6 +4248,7 @@ nasuhah
 nasuta
 nasutus
 nat
+nata
 nati
 natium
 nauclea
@@ -4665,6 +4680,7 @@ nolisis
 nologi
 nolong
 noma
+nomania
 nombok
 nomin
 nominalized
@@ -5228,6 +5244,7 @@ paradiseus
 paradoseurus
 paraguay
 parashorea
+parkia
 parpolisasi
 parvifelia
 parvifolia
@@ -5286,6 +5303,7 @@ periophthalmus
 perkembangbiakannya
 perlengketan
 perluasannya
+permansif
 peroleh
 persetujui
 persija
@@ -5380,6 +5398,7 @@ poksi
 poli
 polim
 politk
+pometia
 pong
 ponir
 ponjen
@@ -5436,6 +5455,7 @@ puni
 punitif
 puraan
 purpurescens
+pusi
 pusuh
 put
 putauw
@@ -5615,6 +5635,7 @@ repro
 reptans
 republikdominika
 republikserbiabosnia
+reqia
 rer
 rerum
 resampled
@@ -5660,6 +5681,7 @@ rib
 ribonukleat
 ribuginosum
 riche
+richmondia
 ricinus
 ricu
 rid
@@ -5970,6 +5992,7 @@ sapada
 sape
 sapindus
 sappan
+sarah
 saranya
 sarcodactylis
 sarcoptes
