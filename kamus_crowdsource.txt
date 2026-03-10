@@ -831,6 +831,7 @@ atawa
 atelana
 aten
 atenian
+atentif
 atep
 ater
 atha
@@ -893,6 +894,7 @@ australi
 australis
 austromelanesoid
 aut
+autentifikasi
 autobiografinya
 autocritic
 autog
@@ -1355,6 +1357,7 @@ diastinum
 diataskan
 dibajui
 dibantahnya
+dibasah
 dibatasi
 dibestel
 dibodohi
@@ -1718,6 +1721,7 @@ engulata
 enhalus
 enicurus
 enig
+enjinering
 enkaliptol
 eno
 enoch
@@ -1941,6 +1945,7 @@ flam
 flareup
 flavalus
 flavourful
+flavouring
 fleks
 flektif
 flip
@@ -3125,6 +3130,7 @@ kasr
 kastany
 kasuistis
 kat
+katal
 katang
 kateb
 kateklisme
@@ -3339,6 +3345,7 @@ korang
 korasi
 koratif
 korator
+kord
 kordinator
 kore
 korn
@@ -4062,6 +4069,7 @@ mispers
 mit
 mita
 mium
+miun
 mne
 mno
 mobilis
@@ -5058,6 +5066,7 @@ onyah
 onyak
 oog
 ooh
+oolong
 oost
 ope
 opec
@@ -5158,6 +5167,7 @@ otoriterianisme
 otos
 ouratea
 outwardness
+ova
 ovalifolia
 overabundantly
 overdramatize
@@ -5165,6 +5175,7 @@ overinflated
 overinflating
 overkomp
 ovi
+ovo
 oxalidaceae
 oxidate
 oxidating
@@ -5226,6 +5237,7 @@ pasriflora
 password
 past
 pat
+patan
 pate
 patria
 patrilin
@@ -5862,6 +5874,7 @@ rulus
 rumahlah
 rumahtangga
 rumphii
+rumputan
 run
 rung
 rungi
@@ -5946,6 +5959,7 @@ sangsaka
 sanit
 sanitariness
 sank
+sansakerta
 sant
 santannya
 santi
@@ -6801,6 +6815,7 @@ tuki
 tuks
 tul
 tulisi
+tumbuhtumbuhan
 tumpangilah
 tumpuhan
 tunagiri
