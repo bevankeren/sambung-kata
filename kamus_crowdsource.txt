@@ -16,6 +16,7 @@ abin
 abio
 abisekanama
 abisinia
+abl
 ablutofilia
 ablutofobia
 ablutomania
@@ -119,6 +120,7 @@ afiun
 afo
 aforehand
 afotropisme
+afp
 afro
 afta
 afu
@@ -420,6 +422,7 @@ ane
 aneilema
 anek
 anekaragam
+aneks
 aner
 anes
 ang
@@ -1359,6 +1362,7 @@ duki
 duksi
 duksionisme
 duktif
+dul
 dulces
 dullah
 dumerili
@@ -1390,6 +1394,7 @@ edison
 efe
 efi
 efisiennya
+efluks
 efo
 eforia
 eichornia
@@ -1739,6 +1744,7 @@ futbal
 fuz
 gab
 gabungkannya
+gaca
 gadjah
 gaf
 gahi
@@ -2454,6 +2460,7 @@ internasionalisme
 interp
 interpretif
 inters
+interseks
 intert
 interuptus
 interv
@@ -3095,6 +3102,7 @@ leiden
 leiognathus
 lekak
 leks
+lel
 lelangs
 lemb
 lemi
@@ -4682,6 +4690,7 @@ portulaca
 poskrip
 potek
 poti
+ppp
 pra
 prad
 pras
