@@ -1183,6 +1183,7 @@ celosia
 cem
 cengir
 centropus
+ceres
 chailettia
 chalcococyx
 chcl
@@ -1830,6 +1831,7 @@ etawa
 ete
 etext
 eto
+etu
 eucaliptus
 eulia
 euphoria
@@ -1879,6 +1881,7 @@ faksmile
 faktitif
 fakto
 fal
+fala
 falia
 faliker
 falitis
@@ -4256,6 +4259,7 @@ nar
 narapidananya
 narcissus
 nardus
+nare
 nari
 narik
 nario
@@ -4265,6 +4269,7 @@ nasa
 nasalis
 nase
 nasgor
+nash
 nasihatilah
 nasionalismenya
 nasomaculata
@@ -5201,6 +5206,7 @@ ostatika
 ostensif
 osteochilus
 osteoglossum
+otan
 oten
 otheletus
 otip
@@ -5945,6 +5951,7 @@ runi
 runjungnya
 runsing
 runtang
+runtu
 runtutan
 rup
 rupi
@@ -6250,6 +6257,7 @@ siprok
 siran
 sireh
 siria
+siris
 sirkel
 sisalana
 sisian
@@ -7147,6 +7155,7 @@ uwa
 uwita
 uwung
 uyah
+uyup
 vador
 vai
 vaiegata
