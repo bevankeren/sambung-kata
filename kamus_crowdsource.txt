@@ -398,6 +398,7 @@ amf
 amfi
 amig
 aminah
+aminonya
 amm
 amma
 amon
@@ -428,6 +429,7 @@ anai
 anakemas
 anakkan
 anakkunci
+anaktiri
 analogic
 analogis
 anam
@@ -501,6 +503,7 @@ anita
 anjungnya
 anl
 anna
+annelida
 annuliris
 annuum
 annya
@@ -584,6 +587,7 @@ antiintegrasi
 antikekerasan
 antiketombe
 antikons
+antilop
 antimat
 antinov
 antipartikelnya
@@ -610,6 +614,7 @@ antiteroris
 antiterorisme
 antr
 antras
+antrofobia
 antropom
 antropos
 antu
@@ -755,6 +760,7 @@ asek
 asembler
 asemetri
 asep
+asesoris
 asetilsalisilat
 asfiksiasi
 asgar
@@ -942,6 +948,7 @@ bantahannya
 bantosunggu
 baraandi
 barbaria
+barbatus
 barcelona
 baretnya
 baringtoniaspicata
@@ -1053,6 +1060,7 @@ brak
 bral
 bram
 brama
+bran
 bras
 brat
 brau
@@ -1182,6 +1190,7 @@ clo
 clostridium
 coa
 cod
+coe
 coh
 cohh
 cokceri
@@ -1378,6 +1387,7 @@ dikarungi
 dikarunia
 dikat
 dikatif
+dikawini
 dike
 dikebelakangkan
 dikecambahkan
@@ -1469,6 +1479,7 @@ direkonfirmasi
 diremuk
 direntak
 diruncingkan
+diruntas
 dis
 disabarkan
 disabit
@@ -1480,6 +1491,7 @@ diselundupkan
 disemaikan
 disenyawakan
 diserahterimakan
+disesaki
 disfavoritism
 disi
 disia
@@ -1517,6 +1529,7 @@ doaku
 dobe
 dobl
 dod
+dodo
 dodonaea
 doe
 doks
@@ -1639,6 +1652,7 @@ elephas
 elettaria
 elik
 elikser
+elin
 elitisme
 elixer
 elliptica
@@ -1780,6 +1794,7 @@ eurostopodus
 eurycoma
 eustachius
 eusyderoxylon
+euthynus
 eva
 ever
 evi
@@ -1953,6 +1968,7 @@ fotosintetis
 fov
 frag
 fragaria
+fragm
 frak
 framboesia
 fre
@@ -2213,6 +2229,7 @@ gos
 gosi
 gotongan
 gotongroyong
+gourinae
 gra
 gracilis
 gracils
@@ -2532,6 +2549,7 @@ hur
 hura
 huri
 huru
+hurung
 husada
 husain
 husen
@@ -2767,6 +2785,7 @@ intenden
 intensifkan
 interaksinya
 interbranch
+interdep
 interdepartem
 interdisiplin
 interf
@@ -2898,6 +2917,7 @@ iter
 iti
 itung
 ixora
+iyan
 izrail
 jabangbayi
 jabi
@@ -3037,6 +3057,7 @@ kancatel
 kand
 kandasnya
 kandulnya
+kandungi
 kangkangannya
 kangkangi
 kani
@@ -3370,6 +3391,7 @@ kulkul
 kultuskan
 kulumnya
 kulunasi
+kulupnya
 kum
 kuma
 kumaksudkan
@@ -3451,6 +3473,7 @@ lalaikan
 lalui
 lalulintas
 lamb
+lambaran
 lami
 lamiaceae
 lampuyangan
@@ -3660,6 +3683,7 @@ lorb
 loro
 lorosae
 lositas
+losm
 loz
 lpiji
 lpj
@@ -3986,6 +4010,7 @@ mint
 minuta
 mio
 miosen
+mipil
 mir
 mirage
 mis
@@ -4098,6 +4123,7 @@ nahdlatul
 nai
 naiki
 naja
+najiskan
 nakan
 nakh
 nakho
@@ -4135,6 +4161,7 @@ nangkupkan
 nani
 nans
 nanya
+nanyan
 nap
 napan
 naper
@@ -4386,6 +4413,7 @@ ngi
 ngib
 ngibas
 ngibaskan
+ngibau
 ngibrit
 ngide
 ngidealis
@@ -4531,6 +4559,7 @@ nio
 nior
 nioritas
 nipa
+nipiskan
 nipon
 nir
 nirai
@@ -4784,6 +4813,7 @@ nyimpan
 nyimpanan
 nyin
 nyinggung
+nyingkap
 nyir
 nyis
 nymphaca
@@ -5020,6 +5050,7 @@ ord
 ordin
 ore
 oregon
+orellana
 organiknya
 organisasiperdagangandunia
 orgen
@@ -5088,6 +5119,7 @@ overabundantly
 overdramatize
 overinflated
 overinflating
+overkomp
 ovi
 oxalidaceae
 oxidate
@@ -5127,6 +5159,7 @@ panenlah
 panenmu
 pang
 pangsanya
+pangsius
 pani
 pansi
 pant
@@ -5233,6 +5266,7 @@ piks
 pikuk
 pikulnya
 pikuris
+pila
 pilannya
 pilasi
 piledrive
@@ -5299,6 +5333,7 @@ portret
 portulaca
 poskrip
 potek
+pothoina
 poti
 pouzolzia
 ppp
@@ -5496,6 +5531,7 @@ regularis
 reh
 rehydrated
 rehydration
+reimpose
 reinspect
 reinspected
 reinspection
@@ -5521,6 +5557,7 @@ republikserbiabosnia
 rer
 rerum
 resampled
+resintel
 resisten
 resmilah
 restructurization
@@ -5768,6 +5805,7 @@ ruk
 ruka
 rukh
 ruki
+rukunkan
 rukunnya
 rul
 rulus
@@ -5852,7 +5890,9 @@ sandoricum
 sandyakalaning
 sanggaan
 sangganya
+sangkamu
 sangkanya
+sangsaka
 sanit
 sanitariness
 sank
@@ -5934,6 +5974,7 @@ senor
 sens
 seobjektif
 seorganisasi
+sepandir
 separably
 separtai
 sepasif
@@ -5961,6 +6002,7 @@ sestrategis
 setaman
 setipinnataty
 seturunan
+sfe
 sfer
 sfig
 shakespeare
@@ -6039,11 +6081,13 @@ simpl
 simpleness
 simplicifolia
 simponi
+simptom
 simsalabin
 simulfaktif
 simulfix
 sinagog
 sinai
+sincusis
 sind
 sindirin
 sindraf
@@ -6151,6 +6195,7 @@ sphenisciformes
 sphyraena
 spicata
 spinifex
+spinosum
 spo
 sponsif
 sporobolus
@@ -6263,6 +6308,7 @@ superbintang
 superinf
 superintend
 superman
+suplay
 suport
 supramolekul
 supratman
@@ -6799,6 +6845,7 @@ uljanati
 ulmaceae
 ulmifolia
 ult
+ulti
 ultimog
 ultrahalus
 ultrakonservatif
