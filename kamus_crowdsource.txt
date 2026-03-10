@@ -573,6 +573,8 @@ anyamannya
 anye
 anyih
 aor
+aos
+apah
 apart
 apartem
 aparth
@@ -677,6 +679,7 @@ arthostoma
 arthropoda
 artikulat
 artikulatoris
+artois
 artot
 artrogularis
 arundinacea
@@ -1149,6 +1152,7 @@ dalbergia
 dalbergioides
 dali
 dalikan
+dalilnya
 damaikanlah
 damarwulan
 damaskus
@@ -1186,6 +1190,7 @@ deni
 dentis
 der
 deri
+destarnya
 diab
 diabadikan
 diabstrakkan
@@ -1729,6 +1734,7 @@ fos
 fosbury
 fosg
 fotoelektrik
+fotolistrik
 fotosintetis
 fov
 frag
@@ -2289,6 +2295,7 @@ idang
 idellus
 iden
 idhuladha
+idih
 idiol
 idiosinkratis
 ido
@@ -2296,6 +2303,7 @@ idoi
 idoskop
 idoskopis
 idotomi
+idung
 idup
 ien
 ifa
@@ -2415,6 +2423,7 @@ infark
 infeksilah
 infiltrom
 infl
+informil
 infortunatus
 infra
 ingatkanlah
@@ -2906,6 +2915,7 @@ kokat
 koklimatologi
 koko
 koksi
+kolang
 kolo
 kolog
 koloh
@@ -3035,6 +3045,7 @@ kwan
 kwantitatif
 kwart
 kwintet
+kworum
 labah
 labbaika
 labelization
@@ -3060,10 +3071,12 @@ laguh
 laha
 lahapan
 lahi
+lainan
 laj
 lakarang
 lakilah
 laks
+lakunar
 lal
 lalaikan
 lalui
@@ -3335,6 +3348,7 @@ major
 makani
 makedonia
 maker
+makeup
 makram
 makrogam
 maks
@@ -3476,10 +3490,12 @@ menyodel
 meo
 merakus
 meraldin
+merapunkan
 merasul
 merd
 mereferensi
 merenjisi
+mereta
 merit
 meritrix
 meso
@@ -3750,6 +3766,7 @@ nederland
 nef
 nefaktif
 neg
+nego
 neh
 nei
 neighbouring
@@ -3880,6 +3897,7 @@ ngengi
 ngeni
 ngentut
 ngep
+ngepak
 ngepakkan
 ngepal
 ngepalkan
@@ -4011,6 +4029,7 @@ ngunyah
 ngunyahnya
 ngup
 ngur
+ngurusi
 ngurusin
 ngus
 ngusi
@@ -4123,6 +4142,7 @@ nondiskriminasi
 nondiskriminatif
 noninti
 nonjolkan
+nonkombroid
 nonkonv
 nonlegitimacy
 nonmetalik
@@ -4276,11 +4296,14 @@ nyimpanan
 nyin
 nyinggung
 nyir
+nyobek
 nyodorkan
+nyoh
 nyok
 nyol
 nyolok
 nyolong
+nyontek
 nyot
 nyub
 nyuk
@@ -4314,6 +4337,7 @@ oceanology
 ochamostachys
 ochanostachys
 ocl
+odading
 odal
 odalisme
 odalistis
@@ -4533,6 +4557,7 @@ otheletus
 otip
 otipikal
 otipologi
+otis
 otobis
 otop
 otoriterianisme
@@ -4669,6 +4694,7 @@ piko
 pikotil
 piks
 pikuk
+pikulnya
 pilannya
 pilasi
 piledrive
@@ -4858,6 +4884,7 @@ rarki
 raru
 rasbora
 rastafara
+rastafari
 rasterize
 rasullulah
 rasy
@@ -4922,6 +4949,7 @@ reo
 rep
 repi
 repro
+reptans
 republikdominika
 republikserbiabosnia
 rer
@@ -5151,6 +5179,7 @@ rumahlah
 rumphii
 run
 rung
+rungi
 rungkad
 rungkat
 runi
@@ -5844,6 +5873,7 @@ tokoan
 tokopedia
 toks
 toksifikasi
+tokyo
 toli
 tolo
 tolog
@@ -5852,6 +5882,7 @@ tomi
 tompa
 tonasi
 tonimi
+tono
 tonuria
 tora
 torabika
@@ -6064,6 +6095,7 @@ umbutnya
 umker
 umonia
 umpah
+unama
 uncaria
 undangundang
 undershorts
@@ -6320,6 +6352,7 @@ wiff
 wik
 wil
 wilangan
+wili
 william
 willughbeia
 willughbera
@@ -6384,6 +6417,7 @@ yat
 yati
 yau
 yaya
+yayay
 yech
 yeh
 yeng
