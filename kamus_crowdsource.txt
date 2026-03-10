@@ -68,6 +68,7 @@ adenanthera
 adenitis
 adenostemma
 adep
+adikia
 adili
 adimisibilitas
 adimisme
@@ -4970,11 +4971,13 @@ odor
 odoratum
 odorifera
 oer
+oerst
 ofen
 offeror
 officinale
 officinalis
 officinarum
+officio
 ofi
 ofisika
 ofisikawan
@@ -4989,6 +4992,7 @@ ografi
 ografis
 ogram
 ohagi
+ohaguro
 ohan
 ohi
 ohidrologi
@@ -5429,6 +5433,7 @@ porak
 poranda
 porandakan
 porousness
+porphyrio
 portret
 portulaca
 poskrip
@@ -6281,6 +6286,7 @@ smilax
 soar
 socrates
 sod
+soeharto
 soekarno
 soen
 sof
