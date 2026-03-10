@@ -3077,6 +3077,7 @@ kaaba
 kaan
 kabahasa
 kabahasawan
+kaban
 kabang
 kabayan
 kabihu
@@ -3462,6 +3463,7 @@ kumaksudkan
 kumimpikan
 kumkum
 kumpulkanlah
+kunai
 kunang
 kunar
 kunc
@@ -5584,6 +5586,7 @@ ratanya
 ratapannya
 ratapnya
 rate
+ratel
 rati
 ratif
 ratih
