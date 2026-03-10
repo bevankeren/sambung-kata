@@ -687,6 +687,7 @@ asami
 asasnya
 ascaris
 asek
+asemetri
 asep
 asetilsalisilat
 asfiksiasi
@@ -808,6 +809,7 @@ australis
 austromelanesoid
 aut
 autobiografinya
+autocritic
 autog
 autorisasi
 auzu
@@ -1447,6 +1449,7 @@ elixer
 elliptica
 ellipticum
 eloknya
+elong
 elueuthering
 ema
 emakulasi
@@ -1759,6 +1762,7 @@ gal
 galaktik
 galaktom
 galant
+galeatus
 galer
 galgulus
 galibnya
@@ -1928,6 +1932,7 @@ gokart
 goki
 goks
 goli
+golo
 golongannya
 golzii
 gomania
@@ -2207,6 +2212,7 @@ holothusia
 hom
 homalium
 hombroniana
+hon
 honco
 honda
 honestness
@@ -2303,6 +2309,7 @@ ikanlah
 ikatnya
 ike
 ikea
+iken
 ikh
 ikhlilaf
 ikhtiarnya
@@ -3384,6 +3391,7 @@ maximus
 mayu
 maz
 mazaz
+mbai
 mbalase
 mban
 mbar
@@ -3499,6 +3507,7 @@ minallah
 minan
 minasysyaitanirrajim
 mindah
+minded
 mine
 ming
 minibask
@@ -3548,6 +3557,7 @@ motong
 mouldiness
 moult
 mouse
+moyak
 mpah
 mpak
 mpel
@@ -5620,11 +5630,13 @@ tanus
 taog
 taok
 tapeinochilus
+tapem
 tapong
 tarafnya
 taraweh
 tarek
 taria
+tarkam
 tarmuzi
 taro
 tarrietia
@@ -5997,6 +6009,7 @@ ukul
 ukurlah
 ula
 ulamas
+uleg
 ulil
 uljanati
 ulmaceae
