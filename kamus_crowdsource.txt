@@ -950,6 +950,7 @@ baf
 bahama
 bahasnya
 bahi
+baia
 baitul
 bakalaur
 bakbak
@@ -1339,6 +1340,7 @@ deni
 dentis
 depdiknas
 der
+dere
 deri
 derungan
 desakkan
@@ -1734,6 +1736,7 @@ enfield
 eng
 engak
 engap
+enge
 engels
 engema
 england
@@ -3616,6 +3619,7 @@ leks
 lel
 lelangs
 lemb
+leme
 lemi
 lenca
 lenggangnya
@@ -4266,6 +4270,7 @@ nasionalismenya
 nasomaculata
 nastar
 nasturtium
+nasu
 nasuhah
 nasuta
 nasutus
@@ -5152,6 +5157,7 @@ orid
 orientale
 originalness
 oriolus
+oris
 orisasi
 orit
 ork
@@ -5473,6 +5479,7 @@ pubian
 puh
 pui
 puk
+puku
 pukulkanlah
 pulchella
 puli
@@ -7392,6 +7399,7 @@ yosef
 yosi
 young
 yth
+yua
 yub
 yudistira
 yugoslavia
