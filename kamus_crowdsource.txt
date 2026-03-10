@@ -1040,6 +1040,7 @@ bim
 bing
 bininya
 bio
+bioenergy
 biof
 biogenetik
 birdcalling
@@ -1217,6 +1218,7 @@ cokceri
 coki
 col
 cola
+collectability
 cologne
 coloknya
 coloured
@@ -1240,6 +1242,7 @@ corypha
 coryphya
 cos
 cosmos
+craniology
 craula
 croissant
 crotalaria
@@ -1429,6 +1432,7 @@ diks
 dikur
 dilabuh
 dilagakan
+dilahirkan
 dilaku
 dilalui
 dilantiknya
@@ -1666,6 +1670,7 @@ ekuipolen
 elacocarpus
 elaeocarpus
 elah
+elamus
 elanus
 elas
 elastica
@@ -1914,6 +1919,7 @@ fermi
 ferrience
 ferruginea
 fes
+festiva
 fet
 fia
 fibraurea
@@ -3676,6 +3682,7 @@ linnaeus
 linoleat
 liofit
 liofob
+liofobi
 liograf
 liom
 lioma
@@ -4099,6 +4106,7 @@ mno
 mobilis
 mochitsuki
 mod
+modernality
 modesta
 mof
 mofilia
@@ -5448,6 +5456,7 @@ psin
 pta
 ptabilitas
 ptah
+ptif
 pto
 ptualisasi
 ptum
@@ -5651,6 +5660,7 @@ reqia
 rer
 rerum
 resampled
+reseh
 resintel
 resisten
 resmilah
@@ -5659,6 +5669,7 @@ resufle
 resupplied
 resupply
 resurgency
+retai
 retally
 retrobulbar
 retrokardiak
@@ -7394,6 +7405,7 @@ yusticia
 yustisial
 yuti
 zaaksvorming
+zaakwarneming
 zahar
 zaken
 zayi
