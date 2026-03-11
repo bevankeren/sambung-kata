@@ -1390,6 +1390,7 @@ dianugerahkannya
 dianyam
 diapungkan
 diarung
+diasi
 diasimilasikan
 diastinum
 diataskan
@@ -2643,6 +2644,7 @@ hunting
 hur
 hura
 huri
+hurt
 huru
 hurung
 husada
@@ -3057,6 +3059,7 @@ japa
 jar
 jasmania
 jasmaninya
+jatidiri
 jatiwangi
 jau
 jauhi
@@ -3543,6 +3546,7 @@ kuru
 kurusetra
 kurvalini
 kurzii
+kusangka
 kusat
 kuserahkan
 kusewa
@@ -4046,6 +4050,7 @@ memeset
 memetaforkan
 memi
 memilki
+memperdulikan
 memperkira
 memperseturukan
 mempiramida
@@ -4220,6 +4225,7 @@ mpah
 mpak
 mpati
 mpel
+mper
 mpi
 muahid
 muan
@@ -5015,6 +5021,7 @@ nyontek
 nyor
 nyot
 nyub
+nyuci
 nyuh
 nyuk
 nyuling
@@ -5372,6 +5379,7 @@ paraguay
 parashorea
 parkia
 parpolisasi
+parto
 parvifelia
 parvifolia
 pasca
@@ -5531,6 +5539,7 @@ pong
 ponir
 ponjen
 ponnetia
+popcorn
 porak
 poranda
 porandakan
@@ -5943,6 +5952,7 @@ rof
 rofil
 rofilia
 rofisiologi
+rofit
 roftalmia
 rog
 rogatif
@@ -5963,6 +5973,7 @@ roksisom
 roll
 rolog
 rologi
+rolpr
 rom
 romagn
 romania
@@ -6398,6 +6409,7 @@ sku
 skuamasi
 slan
 sle
+slop
 smaragdina
 smasher
 smerisme
@@ -6803,6 +6815,7 @@ tet
 tetradactylum
 tetragonia
 tetrahidro
+teu
 textilia
 teylandica
 tgl
@@ -6982,6 +6995,7 @@ tro
 troaktif
 trodolar
 trof
+trol
 trologi
 tromaks
 tromamal
