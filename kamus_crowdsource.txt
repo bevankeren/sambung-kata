@@ -47,6 +47,7 @@ acidemia
 acikan
 acinya
 acipiter
+acir
 aclisia
 acmella
 acronychia
@@ -150,6 +151,7 @@ agaragar
 agarose
 agate
 agavaceae
+agd
 ageng
 ageratum
 agihkan
@@ -478,6 +480,7 @@ aneu
 ang
 angankan
 angannya
+angat
 angelesia
 angelika
 angelisia
@@ -948,6 +951,7 @@ axolotl
 aya
 ayaman
 ayang
+ayomi
 aza
 azasi
 azaz
@@ -7562,6 +7566,7 @@ yap
 yapi
 yar
 yari
+yaru
 yas
 yasinan
 yat
