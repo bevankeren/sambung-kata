@@ -2358,6 +2358,7 @@ ginog
 gins
 gio
 gion
+gional
 gionalisme
 gip
 giraffa
@@ -2476,6 +2477,7 @@ guaan
 guadeloupe
 guajava
 guardian
+guargum
 gub
 gud
 gudangkan
@@ -3233,6 +3235,7 @@ jemunya
 jen
 jenahak
 jend
+jeni
 jentara
 jermangnya
 jerusalem
@@ -4434,6 +4437,7 @@ mpati
 mpel
 mper
 mpi
+mpu
 muahid
 muan
 muangthai
@@ -4478,6 +4482,7 @@ musculus
 muslimah
 mut
 mutabile
+mutag
 mutar
 muti
 muwalat
@@ -5105,6 +5110,7 @@ nti
 ntia
 ntik
 ntil
+ntim
 ntin
 ntir
 ntol
@@ -5185,6 +5191,7 @@ nyayat
 nyctalopia
 nyctanthes
 nycticorax
+nye
 nyebarkan
 nyebelin
 nyebut
@@ -6554,6 +6561,7 @@ siden
 sidivis
 sidivisme
 sidivistis
+sidna
 sidratul
 sidu
 sie
@@ -6741,6 +6749,8 @@ sporobolus
 spu
 sputatrix
 squarrosus
+sra
+sre
 sriwijaya
 sta
 stag
@@ -6893,6 +6903,7 @@ tabernaemontana
 tabernasia
 tabernemontana
 tabligh
+tabola
 tabolik
 tabolisme
 tabulum
@@ -7113,6 +7124,7 @@ tetrahidro
 teu
 textilia
 teylandica
+tge
 tgl
 tia
 tiah
@@ -7186,6 +7198,7 @@ titul
 titusnya
 tiupannya
 tiv
+tje
 tko
 tnan
 tnograf
@@ -7466,6 +7479,7 @@ umker
 umonia
 umpah
 unama
+uncal
 uncaria
 undangundang
 undershorts
