@@ -2627,6 +2627,7 @@ iab
 iah
 iambik
 ian
+iang
 iat
 iata
 iau
@@ -3829,6 +3830,7 @@ mach
 machaerhamphus
 macrobium
 macrocladus
+macronocanthus
 macrophygia
 madan
 madraspatanum
@@ -4435,6 +4437,7 @@ ngati
 ngatupkan
 ngatur
 ngau
+ngaw
 ngawah
 ngayal
 ngb
@@ -6020,6 +6023,7 @@ sandai
 sandfly
 sandoricum
 sandyakalaning
+sange
 sanggaan
 sangganya
 sangkamu
@@ -6270,6 +6274,7 @@ sistemik
 sistol
 sitina
 sitophila
+sitosin
 sitronela
 sitti
 siu
@@ -6478,6 +6483,7 @@ tabacum
 tabahasa
 tabahkanlah
 tabahnya
+tabar
 tabernaemontana
 tabernasia
 tabernemontana
