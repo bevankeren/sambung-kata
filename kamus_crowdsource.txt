@@ -710,6 +710,7 @@ aqil
 aqiqah
 aquea
 aquilaria
+arabi
 arabia
 arabica
 arabsaudi
@@ -1315,6 +1316,7 @@ cylindrica
 cymbopogon
 cyminum
 cymosa
+cynara
 cyprinus
 cyprus
 cyptopterus
@@ -1884,6 +1886,7 @@ esculentus
 ese
 eseh
 esif
+esio
 eskalatif
 eskrim
 eslandia
@@ -1937,6 +1940,7 @@ fahomb
 fahrenh
 faisal
 faitisme
+faja
 fak
 fakfor
 faksional
@@ -2518,6 +2522,7 @@ hegemonizing
 hehe
 hei
 heid
+heimii
 hek
 heks
 heksa
@@ -4750,6 +4755,7 @@ ngumpet
 ngumpul
 ngumpulkan
 ngun
+ngundang
 ngungun
 ngungut
 nguni
@@ -5441,6 +5447,7 @@ paradiseus
 paradoseurus
 paraguay
 parashorea
+parat
 parkia
 parpolisasi
 parto
@@ -5593,6 +5600,7 @@ poaceae
 pobia
 poc
 poh
+pohi
 poi
 poikilot
 poka
@@ -6700,6 +6708,7 @@ tahayul
 tahbiskan
 tahbiskanlah
 tahiyat
+taho
 tahui
 tahyul
 taibah
@@ -7433,6 +7442,7 @@ vers
 verticillata
 ves
 vesica
+vid
 vie
 vign
 vii
