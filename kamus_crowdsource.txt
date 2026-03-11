@@ -1687,6 +1687,7 @@ ekologinya
 ekonomian
 ekosentris
 ekplorasi
+eksa
 eksek
 eksekutip
 eksibisionism
@@ -6086,6 +6087,7 @@ sabitmu
 sabrang
 sabre
 sabuni
+sada
 sadat
 sae
 sagir
@@ -6483,6 +6485,7 @@ statif
 ste
 steak
 stei
+stel
 stenochlaena
 stenostachys
 ster
