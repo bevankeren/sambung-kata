@@ -95,6 +95,7 @@ adr
 adrahi
 adrenokortikotopik
 adrenokortikotropik
+adrif
 adstring
 aduannya
 adukit
@@ -775,6 +776,7 @@ arytera
 asaan
 asahkan
 asami
+asang
 asasnya
 ascaris
 asek
@@ -1457,6 +1459,7 @@ dikomandoi
 dikomplikasi
 dikonstruksikan
 diks
+dikuliti
 dikur
 dilabuh
 dilagakan
@@ -1927,6 +1930,7 @@ familiaris
 fanfiksi
 fantastik
 far
+fara
 fark
 farmakop
 farmokologi
@@ -2429,6 +2433,7 @@ hanifah
 hannah
 hanoi
 hanu
+hao
 hapusbukukan
 hapuskanlah
 har
@@ -3506,6 +3511,7 @@ kuhlii
 kuinoks
 kuisisi
 kuivokasi
+kuiz
 kujual
 kukira
 kukua
@@ -6734,6 +6740,7 @@ temen
 temerang
 temi
 temp
+temulawak
 temurun
 ten
 tenagakerja
