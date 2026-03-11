@@ -253,6 +253,7 @@ ajin
 ajisai
 ajisesirep
 ajungan
+akademika
 akadkan
 akalkan
 akaran
@@ -539,6 +540,7 @@ ans
 anshor
 ant
 antagonistik
+antak
 antakusuma
 antam
 antangin
@@ -2098,6 +2100,7 @@ gabungkannya
 gaca
 gadaianku
 gadjah
+gadu
 gaf
 gahi
 gaimana
@@ -4534,6 +4537,7 @@ ngangkat
 ngangkut
 ngani
 ngantara
+nganto
 ngantre
 ngap
 ngapa
