@@ -108,6 +108,7 @@ adup
 adv
 advan
 adversitas
+adygea
 aedes
 aee
 aekanis
@@ -136,6 +137,7 @@ afo
 aforehand
 afotropisme
 afp
+aframa
 afro
 afta
 afu
@@ -429,6 +431,7 @@ ampullaria
 amul
 amun
 amus
+anab
 anabantidae
 anabas
 anacardium
@@ -702,6 +705,7 @@ apur
 aqi
 aqil
 aqiqah
+aquea
 aquilaria
 arabia
 arabica
@@ -1083,6 +1087,7 @@ bitorquata
 bitum
 biv
 bivittatus
+blumea
 bni
 boaja
 bohay
@@ -2213,6 +2218,7 @@ geni
 geo
 geodesik
 geofisik
+geometrika
 geopolitis
 george
 ger
@@ -2644,6 +2650,7 @@ hongaria
 hongkong
 honosfer
 hooc
+hopea
 hor
 hordeum
 hornbl
@@ -6579,6 +6586,7 @@ subtema
 subterranea
 subv
 subyektifitas
+sud
 sudirman
 sudorif
 sudunya
