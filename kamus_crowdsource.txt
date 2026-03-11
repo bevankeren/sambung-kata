@@ -2524,6 +2524,7 @@ hid
 hida
 hidatid
 hidra
+hidroalumunium
 hidrocera
 hidrolik
 hidrolis
@@ -3649,6 +3650,7 @@ lator
 laukpauk
 laurifolia
 laurina
+lautanhindia
 lautanteduh
 lautcinaselatan
 lautkuning
@@ -4164,6 +4166,7 @@ minit
 mint
 minuta
 mio
+miopik
 miosen
 mipil
 mir
@@ -4369,6 +4372,7 @@ navalis
 navis
 nawafil
 nawawi
+naya
 nazarkan
 nazarmu
 nazarnya
@@ -5532,6 +5536,7 @@ poranda
 porandakan
 porousness
 porphyrio
+porsel
 portret
 portulaca
 poskrip
@@ -6357,6 +6362,7 @@ sireh
 siria
 siris
 sirkel
+sirkumfl
 sisalana
 sisian
 sisipi
@@ -6475,6 +6481,7 @@ sting
 stip
 stipularis
 stir
+stis
 stof
 stomoxys
 stopl
@@ -6874,6 +6881,7 @@ tnan
 tnograf
 tnos
 toa
+toang
 toap
 tod
 toddalia
@@ -7183,6 +7191,7 @@ untingan
 untukmenangkal
 untungan
 unu
+upat
 update
 upe
 upgrade
