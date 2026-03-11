@@ -22,6 +22,7 @@ abl
 ablutofilia
 ablutofobia
 ablutomania
+abolmin
 abong
 abra
 abraham
@@ -47,6 +48,7 @@ acikan
 acinya
 acipiter
 aclisia
+acmella
 acronychia
 acronyclua
 acrossocheilus
@@ -587,6 +589,7 @@ antarunsur
 antedate
 anthozoa
 anthracis
+anthropoidea
 anthurium
 antidepresi
 antidesma
@@ -1029,6 +1032,7 @@ berpertolongan
 bersantun
 bersayat
 bersinggung
+bersipongang
 bersorakan
 bersulamkan
 berulangkali
@@ -1286,6 +1290,7 @@ cuy
 cyanus
 cyathea
 cyathocalyx
+cyathula
 cycas
 cyclea
 cyclocheilichthys
@@ -1312,6 +1317,7 @@ dafologi
 dagun
 daha
 dahrian
+dahuluan
 daidaru
 daik
 daitai
@@ -1383,6 +1389,7 @@ dialang
 dialatkan
 diamanatkan
 diamandemen
+diamandir
 diamat
 diambili
 diamuk
@@ -1507,6 +1514,7 @@ dioscorea
 dip
 dipampatkan
 dipandangnya
+dipanggillah
 dipangku
 dipantulkan
 diparaf
@@ -1621,6 +1629,7 @@ dromedaris
 druk
 duaan
 dud
+dudi
 duf
 dug
 dugd
@@ -2408,6 +2417,7 @@ haf
 hah
 haha
 hairbrained
+hajinya
 hajjah
 halai
 halalnya
@@ -2798,6 +2808,7 @@ impresionistis
 imsakyih
 imu
 imunosupr
+imunot
 inaktif
 inapkan
 inau
@@ -3152,6 +3163,7 @@ kahi
 kai
 kaidahnya
 kairo
+kaiser
 kakab
 kakitangan
 kaledonia
@@ -3637,6 +3649,7 @@ laot
 lapi
 lapori
 laps
+lapukan
 lariknya
 lasagne
 lasan
@@ -4036,6 +4049,7 @@ mecah
 mecahkan
 medi
 meh
+meki
 mela
 melalophos
 melan
@@ -4269,6 +4283,8 @@ muncak
 mundi
 muni
 munkar
+muraenesa
+murat
 murbaut
 murinus
 murjan
@@ -4374,12 +4390,14 @@ nat
 nata
 nati
 natium
+nato
 nauclea
 naucleiflorus
 naucrates
 naucratus
 naus
 nauseam
+nauseum
 naut
 nautis
 navalis
@@ -4833,6 +4851,7 @@ nondiscriminative
 nondiskriminasi
 nondiskriminatif
 noninti
+nonis
 nonjolkan
 nonkombroid
 nonkonv
@@ -5315,6 +5334,7 @@ otipikal
 otipologi
 otis
 otobis
+otofokus
 otolithoides
 otop
 otoriterianisme
@@ -5538,6 +5558,7 @@ poc
 poh
 poi
 poikilot
+poka
 poksi
 poli
 polim
@@ -5694,6 +5715,7 @@ rant
 rantah
 rao
 raoult
+raphanus
 raphia
 rapia
 raptor
@@ -5784,6 +5806,7 @@ renunglah
 reo
 rep
 repi
+repo
 repro
 reptans
 republikdominika
@@ -6101,6 +6124,7 @@ sain
 saintpaulia
 sakaguru
 sakaratul
+sakayu
 sakh
 sakralisme
 sakram
@@ -6134,6 +6158,7 @@ sanadnya
 sanang
 sanctum
 sandai
+sandak
 sandfly
 sandoricum
 sandyakalaning
@@ -6425,6 +6450,7 @@ smasher
 smerisme
 smi
 smilax
+smythea
 soar
 socrates
 sod
@@ -7167,6 +7193,7 @@ umatika
 umatismos
 umatofos
 umatokista
+umba
 umbalang
 umbaran
 umbatrile
@@ -7413,6 +7440,7 @@ vulp
 vulpes
 waalaikumsalam
 waarnemend
+waas
 wabi
 wad
 wadaru
@@ -7515,6 +7543,7 @@ yahi
 yahum
 yahw
 yahweh
+yakan
 yakult
 yal
 yalamlam
