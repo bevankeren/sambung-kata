@@ -296,6 +296,7 @@ alangi
 alari
 alasi
 alatif
+alautogami
 alb
 albaqarah
 albasir
@@ -572,6 +573,8 @@ antarkedua
 antarkesebelasan
 antarklausa
 antarklausanya
+antarkonco
+antarkonstituen
 antarmereka
 antarpartai
 antarpejabat
@@ -902,6 +905,7 @@ atu
 atuu
 aubergine
 audi
+audiom
 auditif
 auditive
 auditoris
@@ -1151,6 +1155,7 @@ bustrofedon
 butahuruf
 butan
 buti
+butnya
 caballus
 cabangkan
 cabarkan
@@ -1370,6 +1375,7 @@ defektif
 deflektor
 deka
 dekafinat
+dekr
 deks
 dektrosa
 delak
@@ -1423,6 +1429,7 @@ dibodohi
 dibubut
 dibui
 dicairkan
+dicancang
 dicantumkan
 diciptakan
 dicobagantikan
@@ -1676,6 +1683,7 @@ ebenaceum
 ebenum
 ebo
 ebook
+ebu
 echineis
 echinocactus
 echinodermata
@@ -2475,6 +2483,7 @@ harpodon
 harya
 hasanlah
 hashbrowns
+hassan
 hasselti
 hasseltii
 hassetti
@@ -2536,6 +2545,7 @@ heo
 hep
 heptadactylus
 her
+herendienst
 heritiera
 hermaphroditus
 herpestes
@@ -3011,6 +3021,7 @@ ismom
 iso
 isob
 isof
+isogam
 isogonik
 isoh
 isohi
@@ -3613,6 +3624,7 @@ labnun
 labora
 laborasi
 labouring
+labridae
 labuan
 laccifer
 lactarius
@@ -3678,6 +3690,7 @@ lastin
 lastis
 lastisitas
 lastom
+lasu
 lasungkawa
 latarbelakang
 lates
@@ -3781,6 +3794,7 @@ limi
 limin
 limn
 limon
+limonnum
 limulus
 lina
 lincahnya
@@ -3808,6 +3822,7 @@ lipoprot
 lips
 lipsis
 lipsom
+liquified
 liran
 liri
 lirium
@@ -3992,6 +4007,7 @@ mangulah
 manif
 manifold
 manikd
+manikuris
 maninya
 manjangkan
 manoeuvrability
@@ -4163,6 +4179,7 @@ mias
 micaria
 michelia
 microlaser
+microphis
 microscelis
 microsperma
 microwaving
@@ -4322,6 +4339,7 @@ nafakah
 nafilah
 naft
 nagasaki
+nagi
 nagih
 naha
 nahan
@@ -4753,6 +4771,7 @@ nicolaia
 nicolor
 nicotiana
 nidos
+nieuhofi
 nif
 nigma
 nigra
@@ -5341,6 +5360,7 @@ ostatika
 ostensif
 osteochilus
 osteoglossum
+otaku
 otan
 oten
 otheletus
@@ -5544,6 +5564,7 @@ pirot
 pisces
 pisi
 pisiotomi
+pisodik
 pisonia
 pistaksis
 pisum
@@ -6329,6 +6350,7 @@ siberutang
 sibthorpioides
 sid
 siden
+sidivis
 sidivisme
 sidivistis
 sidratul
@@ -6497,6 +6519,7 @@ sot
 sotoraks
 spag
 spak
+spalla
 sparsity
 sparus
 spektra
@@ -6567,6 +6590,7 @@ struktif
 struthio
 stu
 stud
+stupidness
 styrax
 suaeda
 suana
