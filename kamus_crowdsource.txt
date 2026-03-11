@@ -1825,6 +1825,7 @@ erithacus
 erlangga
 ero
 erobik
+erok
 eropabarat
 eropah
 eropatimur
@@ -6149,6 +6150,7 @@ sansakerta
 sant
 santannya
 santi
+santiago
 santiria
 sanusi
 sao
@@ -7029,6 +7031,7 @@ tuberculata
 tuberculosis
 tuberosum
 tubifera
+tuf
 tujui
 tukan
 tuki
@@ -7308,6 +7311,7 @@ uwa
 uwita
 uwung
 uyah
+uyang
 uyup
 vador
 vai
