@@ -1805,6 +1805,7 @@ ekplorasi
 eksa
 eksek
 eksekutip
+eksema
 eksibisionism
 eksibisionisme
 eksklusifisme
@@ -2868,6 +2869,7 @@ iden
 idhuladha
 idih
 idiol
+idiomatik
 idiosinkratis
 ido
 idoi
@@ -3683,6 +3685,7 @@ kosi
 kosist
 kosmetis
 kosmik
+kosp
 kost
 kot
 kotakota
@@ -6066,6 +6069,7 @@ rbarium
 rbia
 rbial
 rbis
+rbivor
 rcho
 rder
 rdigris
@@ -6953,6 +6957,7 @@ superbintang
 superinf
 superintend
 superman
+supl
 suplay
 suport
 supramolekul
@@ -7601,6 +7606,7 @@ unionis
 unirrigated
 unis
 unisovyet
+unitarian
 univ
 unival
 universit
