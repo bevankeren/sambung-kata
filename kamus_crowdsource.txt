@@ -22,6 +22,7 @@ abl
 ablutofilia
 ablutofobia
 ablutomania
+abolisionis
 abolmin
 abong
 abra
@@ -83,6 +84,7 @@ adimuda
 adin
 adina
 adipose
+adiposera
 adis
 aditus
 adj
@@ -166,6 +168,7 @@ agilis
 agisambat
 agkistrodon
 aglaia
+agrafestesia
 agro
 agroekosistim
 agrokultur
@@ -262,6 +265,7 @@ ajima
 ajin
 ajisai
 ajisesirep
+ajiwaka
 ajungan
 akademika
 akadkan
@@ -515,6 +519,7 @@ angkrang
 angkul
 angkutlah
 anglikan
+angnilidae
 ango
 angropoid
 anguilla
@@ -654,6 +659,7 @@ antr
 antras
 antrocarpus
 antrofobia
+antropologis
 antropom
 antropos
 antu
@@ -830,6 +836,7 @@ asip
 asis
 asisi
 asist
+asiswa
 asita
 ask
 asketis
@@ -1129,6 +1136,7 @@ bori
 borneensia
 bortrytis
 bougainvellaea
+bouraq
 brachirus
 brachynotopterus
 brah
@@ -1407,6 +1415,7 @@ datuknya
 dau
 dawa
 dayacipta
+dayagunakan
 dea
 def
 defacto
@@ -1431,6 +1440,7 @@ deri
 derungan
 desakkan
 destarnya
+desuskan
 diab
 diabadikan
 diabstrakkan
@@ -1451,6 +1461,7 @@ diamat
 diambili
 diamuk
 diana
+dianggarkan
 dianginkan
 diantari
 dianugerahkannya
@@ -1615,6 +1626,7 @@ dipulaskan
 dipungli
 dir
 diramalkan
+dirantingi
 dirasionalisasi
 diraup
 direalisasi
@@ -1801,6 +1813,7 @@ eksploitif
 ekspresionis
 eksteritorial
 ekstrayudisial
+ekstrovert
 ekstrusif
 eku
 ekuipolen
@@ -2114,6 +2127,7 @@ fla
 flabellifer
 flacourtia
 flagrasi
+flagrator
 flam
 flareup
 flava
@@ -2688,6 +2702,7 @@ hig
 higi
 higrom
 hih
+hii
 hij
 hijaukan
 hijaulah
@@ -2750,6 +2765,7 @@ hitler
 hitman
 hitu
 hlm
+hoin
 hok
 hokben
 holacanthus
@@ -2902,6 +2918,7 @@ ilam
 ilatan
 ilatif
 ile
+ileostomi
 ilhami
 ilicifolia
 ilicifolius
@@ -3040,6 +3057,7 @@ insul
 insurgensi
 int
 inta
+integralism
 integralisme
 intelegensinya
 intelejen
@@ -3059,6 +3077,7 @@ interinsul
 interiur
 interj
 interkoneksitas
+interkontin
 interlokusi
 intermedia
 intermedius
@@ -3100,6 +3119,7 @@ inventasi
 inventivitas
 iogami
 iol
+iomperfetta
 ionantha
 ionosf
 ionosfir
@@ -3472,6 +3492,7 @@ kelengkapannya
 kelo
 kelomb
 kem
+kembangnya
 kemendesakan
 kementrian
 kemintang
@@ -3483,6 +3504,7 @@ kenta
 kentongan
 keos
 kepecundangan
+kepelesiran
 ker
 keragamannya
 kerasulannya
@@ -3525,6 +3547,7 @@ ketokohannya
 ketuarentaan
 keu
 keuatan
+keuniforman
 kew
 kewaswasan
 keyboard
@@ -3543,6 +3566,7 @@ kicauannya
 kif
 kiki
 kikihan
+kikikan
 kil
 kilapan
 kilen
@@ -3617,6 +3641,7 @@ komutatif
 kon
 kong
 konif
+kono
 konomi
 kons
 konst
@@ -3639,6 +3664,7 @@ korator
 kord
 kordinator
 kore
+koreautara
 korn
 kornia
 koro
@@ -3756,6 +3782,7 @@ kuserahkan
 kusewa
 kustos
 kusumbangkan
+kusuruh
 kutanggung
 kutatan
 kutejeuses
@@ -4193,6 +4220,8 @@ marsdenia
 marsedenia
 marsep
 marta
+martin
+marumia
 masah
 masaman
 masang
@@ -4281,6 +4310,7 @@ memundi
 menahirkan
 mencipoa
 mencolekkan
+mendeking
 mendindingkan
 meng
 mengagresif
@@ -4569,6 +4599,7 @@ nangis
 nangkupkan
 nani
 nans
+nantaboga
 nanya
 nanyan
 nap
@@ -5146,6 +5177,7 @@ nudiflorum
 nug
 nugget
 nugini
+nuha
 nuk
 nukleusnya
 nul
@@ -5445,6 +5477,7 @@ onasme
 onatal
 onc
 onca
+oncoran
 oncosperma
 ond
 ondang
@@ -5518,6 +5551,7 @@ orit
 ork
 ormosia
 ornam
+ornata
 ornateness
 ornatus
 ornop
@@ -5660,6 +5694,7 @@ past
 pat
 patan
 pate
+patinya
 patria
 patrilin
 pau
@@ -5701,6 +5736,7 @@ penghebatan
 penghindar
 pengiman
 penginternasionalisasian
+pengkultusan
 pengorder
 pengunyahan
 pengurusannya
@@ -5781,6 +5817,7 @@ pirot
 pisces
 pisi
 pisiotomi
+piskopal
 pisodik
 pisonia
 pistaksis
@@ -6063,6 +6100,7 @@ rentetannya
 renunglah
 reo
 rep
+reperkusi
 rephanus
 repi
 repo
@@ -6274,6 +6312,7 @@ romantisme
 romanya
 romawai
 romb
+romov
 romp
 romusha
 ron
@@ -6380,6 +6419,7 @@ sae
 sagir
 sagor
 saha
+sahayanya
 sahul
 sahwi
 sailboarding
@@ -6390,6 +6430,7 @@ sakaguru
 sakaratul
 sakayu
 sakh
+sakralisasi
 sakralisme
 sakram
 sakriligi
@@ -6428,6 +6469,7 @@ sandak
 sandfly
 sandoricum
 sandyakalaning
+sangatnya
 sange
 sanggaan
 sangganya
@@ -6633,6 +6675,7 @@ simin
 simis
 simp
 simpangnya
+simpankanlah
 simpl
 simpleness
 simplicifolia
@@ -6851,6 +6894,7 @@ suborganization
 subtansi
 subtema
 subterranea
+subumbrans
 subv
 subyektifitas
 sud
@@ -6887,6 +6931,7 @@ sumsi
 sunblock
 suncus
 sung
+suntanning
 superba
 superberat
 superbintang
@@ -7124,6 +7169,7 @@ teros
 terotrof
 terp
 terpengaruhnya
+terpenjarakan
 terpisahnya
 terplester
 terplintir
@@ -7187,6 +7233,7 @@ tila
 tiliaceus
 tilu
 timangan
+timbangkan
 timbullah
 timidness
 timologi
@@ -7317,6 +7364,7 @@ triflora
 triflorum
 trifolia
 trifurcum
+trigonella
 trigonom
 trigonopleura
 trika
@@ -7355,6 +7403,7 @@ tuaan
 tualah
 tuangi
 tub
+tubectomy
 tuberculata
 tuberculosis
 tuberosum
@@ -7502,6 +7551,7 @@ umbalang
 umbaran
 umbatrile
 umbellata
+umbellatum
 umbian
 umbinya
 umbutnya
@@ -7534,6 +7584,7 @@ unilin
 unionis
 unirrigated
 unis
+unisovyet
 univ
 unival
 universit
@@ -7731,6 +7782,7 @@ viu
 viverrividae
 voacanga
 voadzeia
+vocalness
 vod
 voi
 vokabul
@@ -7749,6 +7801,7 @@ voyage
 vul
 vulcanology
 vulgaris
+vulkanisme
 vulp
 vulpes
 vur
