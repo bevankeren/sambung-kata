@@ -626,6 +626,7 @@ antiketombe
 antikons
 antilop
 antimat
+antin
 antinov
 antipartikelnya
 antipasif
@@ -871,6 +872,7 @@ asyhadu
 asyikan
 asyikkan
 asyu
+atab
 atah
 atai
 atasi
@@ -2563,6 +2565,7 @@ hannah
 hanoi
 hanu
 hao
+hapa
 hapusbukukan
 hapuskanlah
 har
@@ -4474,6 +4477,7 @@ mun
 muncak
 mundi
 muni
+munik
 munkar
 muraenesa
 murat
@@ -7007,6 +7011,7 @@ tati
 tatif
 tatisme
 tator
+tatu
 taty
 tauk
 taula
