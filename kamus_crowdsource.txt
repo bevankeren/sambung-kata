@@ -378,6 +378,7 @@ alternifolium
 altingia
 altissim
 altissima
+alua
 aluan
 alukan
 alunya
@@ -801,6 +802,7 @@ artocarpus
 artois
 artot
 artrogularis
+arul
 arundinacea
 arundinaceae
 arundisiaceus
@@ -976,6 +978,7 @@ awanan
 awarima
 awik
 awu
+awul
 axecelsum
 axelrodi
 axillaris
@@ -1416,6 +1419,7 @@ dau
 dawa
 dayacipta
 dayagunakan
+dayan
 dea
 def
 defacto
@@ -1858,6 +1862,7 @@ emasan
 embelia
 embriyo
 eme
+emel
 emen
 emergensi
 emi
@@ -1889,6 +1894,7 @@ engap
 enge
 engels
 engema
+engga
 engket
 england
 engulata
@@ -1966,6 +1972,7 @@ erythroxylum
 erytropterus
 esah
 esal
+esaro
 escalative
 escherichia
 esculenta
@@ -2223,6 +2230,7 @@ gadaianku
 gadjah
 gadu
 gaf
+gago
 gahi
 gaimana
 gajahan
@@ -2307,6 +2315,7 @@ gea
 gebyah
 gecko
 gedungbundar
+gege
 geh
 gehi
 gei
@@ -4475,6 +4484,7 @@ monomorium
 monosp
 monstratif
 morat
+more
 mos
 mosit
 moti
@@ -4810,6 +4820,7 @@ ngedangkan
 ngegombal
 ngeh
 ngejapkan
+ngejer
 ngejos
 ngek
 ngeki
@@ -5678,6 +5689,7 @@ paradoseurus
 paraguay
 parashorea
 parat
+park
 parkia
 paroksismal
 parpolisasi
@@ -6606,6 +6618,7 @@ shorea
 siaan
 siaganya
 siakah
+siala
 sialis
 sialisasi
 sialistis
@@ -6735,6 +6748,7 @@ sistansi
 sistemik
 sistol
 sitina
+sito
 sitophila
 sitosin
 sitronela
@@ -6910,6 +6924,7 @@ suhi
 suis
 suj
 sukai
+sukam
 sukarelawati
 sukarno
 sukem
@@ -7193,6 +7208,7 @@ tesi
 test
 testudinidae
 tet
+tete
 tetradactylum
 tetragonia
 tetrahidro
