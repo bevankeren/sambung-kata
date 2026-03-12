@@ -3616,6 +3616,7 @@ kontinyuitas
 kontraktif
 konveksitas
 konvulsif
+koor
 kopat
 kopengarang
 korang
@@ -4413,6 +4414,7 @@ modernality
 modesta
 mof
 mofilia
+mog
 moh
 mohi
 mohs
