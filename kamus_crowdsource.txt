@@ -826,6 +826,7 @@ asim
 asimetrik
 asind
 asingan
+asip
 asis
 asisi
 asist
@@ -865,6 +866,7 @@ astrafitum
 astron
 asum
 asumptif
+asus
 asusah
 asy
 asye
@@ -1950,6 +1952,7 @@ erythroxylon
 erythroxylum
 erytropterus
 esah
+esal
 escalative
 escherichia
 esculenta
@@ -2132,6 +2135,7 @@ flynn
 fob
 foetus
 fok
+fokal
 fokim
 fol
 folk
@@ -2234,6 +2238,7 @@ gamba
 gambier
 gambirnya
 games
+ganan
 gancet
 gand
 gandan
@@ -2496,6 +2501,8 @@ gulash
 gulasi
 gulatif
 gulu
+guman
+gumi
 gumpa
 gundai
 guni
@@ -2682,6 +2689,7 @@ higi
 higrom
 hih
 hij
+hijaukan
 hijaulah
 hijinks
 hik
@@ -3175,6 +3183,7 @@ iswahyudi
 isy
 isytihar
 ita
+itak
 itali
 itar
 itas
@@ -3302,6 +3311,7 @@ kabahasawan
 kaban
 kabang
 kabayan
+kabe
 kabihu
 kabliah
 kabu
@@ -3334,6 +3344,7 @@ kams
 kanabinol
 kanagurta
 kanak
+kanana
 kanari
 kanc
 kancatel
@@ -4405,6 +4416,7 @@ mismanajemen
 mispers
 mit
 mita
+mitis
 mium
 miun
 mne
@@ -6407,6 +6419,7 @@ samu
 samuderaatlantik
 samuderahindia
 samuderaindonesia
+sanaan
 sanadnya
 sanang
 sanctum
@@ -6562,6 +6575,7 @@ sianok
 siasi
 siatif
 sib
+siba
 sibayak
 siberhutang
 siberia
@@ -6750,6 +6764,7 @@ sparus
 spektra
 sphenisciformes
 sphyraena
+spi
 spicata
 spinifex
 spinosum
@@ -6934,6 +6949,7 @@ taho
 tahui
 tahyul
 taibah
+taif
 tail
 tailan
 tailand
