@@ -51,6 +51,7 @@ acipiter
 acir
 aclisia
 acmella
+acrochordus
 acronychia
 acronyclua
 acrossocheilus
@@ -914,6 +915,7 @@ atrosanguinea
 attaqwa
 atter
 atu
+atup
 atuu
 aubergine
 audi
@@ -3942,6 +3944,7 @@ limn
 limon
 limonnum
 limulus
+limus
 lina
 lincahnya
 liner
