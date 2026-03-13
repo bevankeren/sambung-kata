@@ -2463,6 +2463,7 @@ gonor
 gonorrhea
 gonta
 gontokan
+gony
 gonystylus
 goo
 goodby
@@ -3663,6 +3664,7 @@ konsumeristis
 kont
 kontinyuitas
 kontraktif
+kontrov
 konveksitas
 konvulsif
 koor
@@ -4546,6 +4548,7 @@ murjan
 muronatus
 musculus
 muslimah
+musy
 mut
 mutabile
 mutag
@@ -5881,6 +5884,7 @@ porandakan
 porousness
 porphyrio
 porsel
+porselin
 portret
 portulaca
 poskrip
@@ -6269,6 +6273,7 @@ riton
 ritonitis
 ritopelagik
 ritoplankton
+ritorial
 ritorialitas
 ritorium
 ritroblas
@@ -7883,6 +7888,7 @@ wiah
 wid
 wif
 wiff
+wij
 wik
 wil
 wilangan
