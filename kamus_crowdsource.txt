@@ -1682,6 +1682,7 @@ disintegratif
 disisihkannya
 disori
 disosialisasikan
+disproportionality
 disproportionally
 dissermurus
 dista
@@ -1726,6 +1727,7 @@ dokal
 doks
 dola
 domi
+domp
 dompe
 dompl
 done
@@ -1781,6 +1783,7 @@ duswanta
 dut
 dwitransitif
 eak
+earl
 ebamnya
 ebenaceum
 ebenum
@@ -2309,6 +2312,7 @@ gaol
 gapa
 gapi
 gapl
+gaproy
 garakan
 garcinia
 garcinioides
@@ -3500,6 +3504,7 @@ kauukirkan
 kawa
 kawani
 kayalah
+kayea
 kcb
 kea
 keabsolutan
@@ -3923,6 +3928,7 @@ lanud
 laot
 lapi
 lapori
+laportea
 laps
 lapukan
 laridae
@@ -5848,6 +5854,7 @@ peo
 pepo
 peranjauan
 percikkanlah
+perd
 perekacipta
 pericardium
 peringati
@@ -5971,6 +5978,7 @@ poranda
 porandakan
 porousness
 porphyrio
+porsea
 porsel
 porselin
 portret
@@ -6466,6 +6474,7 @@ roxburghii
 roy
 royco
 rpg
+rpl
 rpul
 rsc
 rsik
@@ -6913,6 +6922,7 @@ solit
 solitik
 sollen
 sommiferum
+somp
 sompr
 sond
 song
@@ -7052,6 +7062,7 @@ sulf
 sulfit
 sulfodikloroamidobenzoat
 sulihan
+sultanea
 suluhnya
 sumatranus
 sumbal
@@ -7289,6 +7300,7 @@ terlibas
 terlikuidasi
 termengah
 ternanti
+ternatea
 ternispina
 tero
 terodin
@@ -7448,6 +7460,7 @@ tongk
 tonimi
 tono
 tonuria
+topsy
 tora
 torabika
 torakikus
@@ -7584,6 +7597,7 @@ tutsnya
 type
 typhlops
 typis
+tyre
 tzu
 uarkan
 ubal
