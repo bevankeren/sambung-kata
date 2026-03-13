@@ -257,6 +257,7 @@ aisten
 aisyah
 aitoto
 aitowa
+aiwaar
 aiwahui
 aiwonai
 aiyao
@@ -720,6 +721,7 @@ aporosa
 apos
 aposiop
 apost
+apostrop
 apot
 apr
 aprindo
@@ -2887,6 +2889,7 @@ icak
 icdi
 icterus
 idaeus
+idain
 idang
 idellus
 iden
@@ -3031,6 +3034,7 @@ indulgen
 indus
 indusamen
 industrial
+industril
 inerme
 inermis
 iners
@@ -3185,6 +3189,7 @@ irvingia
 isarus
 isasi
 iser
+isik
 iskandar
 isl
 islamicization
@@ -3387,6 +3392,7 @@ kai
 kaidahnya
 kairo
 kaiser
+kajut
 kakab
 kakitangan
 kaledonia
@@ -3562,6 +3568,7 @@ kerubang
 kesalingbergantungan
 kesarjanaannya
 kese
+kesegeraan
 kesem
 kesembilannya
 kesembunyian
@@ -3590,6 +3597,7 @@ ketidakterkendalian
 ketidaktransparanan
 ketigalah
 ketinggalannya
+ketirisan
 ketokohannya
 ketuarentaan
 keu
@@ -3753,6 +3761,7 @@ krosis
 krus
 krustacea
 ksa
+ksam
 ksis
 ksit
 ksn
@@ -4295,6 +4304,7 @@ massoia
 mast
 mastocembelus
 masu
+masy
 matai
 matakuliah
 mater
@@ -4307,6 +4317,7 @@ matografi
 matologi
 matr
 matrik
+matrolla
 matuk
 maui
 maw
@@ -5171,6 +5182,7 @@ nonbaku
 nonblock
 nonbudgeter
 nonconsent
+nonconventional
 noncooperation
 noncriticalness
 nondasar
@@ -5412,6 +5424,7 @@ oblongifolium
 obok
 obotani
 obrak
+obros
 observative
 obstulen
 obtusifolia
@@ -5622,6 +5635,7 @@ organiknya
 organisasional
 organisasiperdagangandunia
 orgen
+orgil
 oriantalis
 orid
 orientale
@@ -5810,6 +5824,7 @@ peme
 pemeritah
 pemitigasian
 pemungkinan
+penang
 pendakyahan
 pendewa
 pendidihan
@@ -6169,6 +6184,7 @@ recharacterized
 recharacterizing
 red
 redaktor
+refiling
 reflek
 refleksif
 reformatif
@@ -7077,6 +7093,7 @@ syat
 syeh
 syiah
 syis
+taa
 taatilah
 tab
 tabacum
@@ -7246,6 +7263,7 @@ teratung
 terbengong
 terberikan
 terbuktilah
+tercantel
 tercedok
 terdapatnya
 terdengaran
@@ -7289,6 +7307,7 @@ terpisahnya
 terplester
 terplintir
 ters
+tersentral
 terseretnya
 tersubstitusikannya
 tersumbur
