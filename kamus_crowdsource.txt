@@ -1233,6 +1233,7 @@ capainya
 capi
 capsularis
 capsulizing
+carbonit
 carcharias
 cardamomum
 carnegica
@@ -1311,6 +1312,7 @@ combro
 comifolia
 commersonia
 comosum
+comp
 comphon
 compo
 componatus
@@ -1887,6 +1889,7 @@ enceng
 endapkan
 endivia
 endoktrin
+endoprocta
 endospermum
 ener
 enerjik
@@ -2136,6 +2139,7 @@ fktif
 fla
 flabellifer
 flacourtia
+flagellaria
 flagrasi
 flagrator
 flam
@@ -2234,6 +2238,7 @@ gadjah
 gadu
 gaf
 gago
+gaha
 gahi
 gaimana
 gajahan
@@ -3349,6 +3354,7 @@ kabe
 kabihu
 kabliah
 kabu
+kac
 kacoa
 kacua
 kaempferia
@@ -3538,6 +3544,7 @@ kesih
 kesirikan
 keso
 kesugihan
+kesusuburan
 ket
 ketaatannya
 kete
@@ -3554,6 +3561,7 @@ ketidaksiapan
 ketidaksudian
 ketidaksukaan
 ketidaktaatan
+ketidakterkendalian
 ketidaktransparanan
 ketigalah
 ketinggalannya
@@ -4083,6 +4091,7 @@ longiceps
 longifolia
 longiracemosum
 longispiculatum
+longs
 loni
 lont
 lontang
@@ -4421,6 +4430,7 @@ mila
 mileu
 mili
 miliacea
+miliamp
 miliaris
 milih
 milim
@@ -4437,6 +4447,7 @@ minan
 minar
 minasysyaitanirrajim
 mindah
+mindahkan
 minded
 mine
 ming
@@ -5090,6 +5101,7 @@ nog
 noglosia
 nograf
 nografi
+nogram
 noh
 noi
 noid
@@ -5123,10 +5135,12 @@ nondemokratis
 nondiscriminative
 nondiskriminasi
 nondiskriminatif
+noninterv
 noninti
 nonis
 nonjolkan
 nonkombroid
+nonkomunis
 nonkonv
 nonlegitimacy
 nonmetalik
@@ -5512,6 +5526,7 @@ ongol
 onid
 oniscomorpha
 ono
+ontin
 ontran
 onu
 onyah
@@ -5672,6 +5687,7 @@ paki
 paks
 pakualaman
 pakuan
+pallidus
 pam
 pametia
 pancargas
@@ -5972,6 +5988,7 @@ racikannya
 racunkan
 radicant
 radiog
+radiologis
 radiom
 radiot
 raf
@@ -6010,6 +6027,7 @@ ramailah
 ramang
 ramb
 rambatannya
+rambing
 rambo
 ramiflorum
 ramisin
@@ -6071,6 +6089,7 @@ rayunya
 razak
 rba
 rbal
+rbalisan
 rbalisme
 rbaneka
 rbarium
@@ -6736,6 +6755,7 @@ sintaks
 sintaksisnya
 sintaktisnya
 sintangense
+sinte
 sinusoidal
 sinyalem
 siolog
@@ -6875,6 +6895,7 @@ stesia
 sti
 stial
 stialitas
+stibula
 stif
 stigasi
 stigatif
@@ -7386,6 +7407,7 @@ translatif
 transplanter
 traumatology
 trav
+tray
 treycinetia
 tria
 trichiuridae
@@ -7433,6 +7455,7 @@ tsam
 ttg
 tti
 tuaan
+tuaku
 tualah
 tuangi
 tub
