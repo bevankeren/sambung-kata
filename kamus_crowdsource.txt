@@ -1141,6 +1141,7 @@ bohemia
 boid
 bok
 bolakbalik
+bolam
 bombay
 bonc
 boni
@@ -1161,6 +1162,7 @@ bral
 bram
 brama
 bran
+brang
 bras
 brat
 brau
@@ -4316,6 +4318,7 @@ masy
 matai
 matakuliah
 mater
+matika
 matikawan
 matis
 matite
@@ -7508,6 +7511,7 @@ trav
 tray
 treycinetia
 tria
+triandra
 trichiuridae
 trid
 tridaceal
@@ -7546,6 +7550,7 @@ trop
 tropia
 tropidia
 tropolis
+troragia
 troya
 tru
 tsa
