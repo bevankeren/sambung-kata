@@ -4249,6 +4249,7 @@ longs
 loni
 lont
 lontang
+loong
 lopa
 lopaknya
 lope
