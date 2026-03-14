@@ -2686,6 +2686,7 @@ hani
 hanifah
 hannah
 hanoi
+hante
 hanu
 hao
 hapa
@@ -2929,6 +2930,7 @@ hura
 huri
 hurt
 huru
+huruhara
 hurung
 husada
 husain
@@ -3825,6 +3827,7 @@ kordinator
 kore
 koreautara
 koreo
+kori
 korn
 kornia
 koro
@@ -4014,6 +4017,7 @@ lalulintas
 lamalera
 lamb
 lambaran
+lambi
 lami
 lamiaceae
 lampuyangan
@@ -4225,6 +4229,7 @@ liu
 lium
 lividus
 livistona
+liwar
 lman
 loa
 lod
@@ -4321,6 +4326,7 @@ lutianus
 lutra
 lutriasi
 luvium
+luya
 lychee
 lycopersicum
 lycothrissa
@@ -4618,6 +4624,7 @@ milletia
 milo
 milyuner
 mimiknya
+mimpin
 minah
 minallah
 minan
@@ -4844,6 +4851,7 @@ nasihatilah
 nasionalismenya
 naso
 nasomaculata
+naspad
 nastar
 nasturtium
 nasu
@@ -5014,6 +5022,7 @@ ngapa
 ngar
 ngari
 ngas
+ngasa
 ngasu
 ngat
 ngatai
@@ -6194,6 +6203,7 @@ pum
 pungtiliar
 puni
 punitif
+pup
 puraan
 purpurescens
 pusi
@@ -6905,6 +6915,7 @@ sestrategis
 setaman
 setipinnataty
 seturunan
+seu
 sfe
 sfer
 sfi
@@ -7228,6 +7239,7 @@ sudirman
 sudorif
 sudunya
 sued
+suer
 suey
 suez
 suffruticosa
@@ -7582,6 +7594,7 @@ timangan
 timbangkan
 timbullah
 timidness
+timo
 timologi
 timologis
 timorensis
@@ -7623,6 +7636,7 @@ titul
 titusnya
 tiupannya
 tiv
+tiwas
 tje
 tko
 tnan
@@ -7971,6 +7985,7 @@ upe
 upgrade
 upihnya
 uprak
+upus
 ural
 uralgia
 uran
@@ -8338,6 +8353,7 @@ yosef
 yosi
 yot
 young
+yoy
 yth
 yua
 yub
