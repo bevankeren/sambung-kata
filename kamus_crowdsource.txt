@@ -571,6 +571,7 @@ anshor
 ansos
 ant
 antagonistik
+antai
 antak
 antakusuma
 antam
@@ -758,6 +759,7 @@ aranjer
 arb
 arbit
 arbitr
+arborea
 arbortrisis
 archoviella
 arctomys
@@ -825,6 +827,7 @@ arvensis
 arytera
 asaan
 asahkan
+asaki
 asami
 asang
 asasnya
@@ -945,6 +948,7 @@ atrosanguinea
 attaqwa
 atter
 atu
+atum
 atup
 atuu
 aubergine
@@ -1007,6 +1011,7 @@ axolotl
 aya
 ayaman
 ayang
+ayen
 ayomi
 aza
 azasi
@@ -1310,6 +1315,7 @@ cilincing
 cimanuk
 cin
 cind
+cinerea
 cingcong
 cinguk
 cint
@@ -1317,6 +1323,7 @@ cipt
 ciridipunctatus
 citrifolia
 citrus
+cleo
 clo
 clostridium
 coa
@@ -1398,6 +1405,7 @@ cynara
 cyprinus
 cyprus
 cyptopterus
+cyras
 daag
 dabi
 dabraccio
@@ -1458,6 +1466,7 @@ defacto
 defakto
 defektif
 deflektor
+deha
 deka
 dekafinat
 dekr
@@ -1514,6 +1523,7 @@ dibaktikan
 dibantahnya
 dibasah
 dibatasi
+dibeo
 dibestel
 dibodohi
 dibubut
@@ -1541,6 +1551,7 @@ diem
 diescorea
 dif
 difaks
+difungsikan
 digalaki
 digegaskan
 digelapkan
@@ -1801,6 +1812,7 @@ dustai
 duswanta
 dut
 dwitransitif
+eabagar
 eak
 earl
 ebamnya
@@ -1857,6 +1869,7 @@ eksperwira
 eksploitif
 ekspresionis
 eksteritorial
+ekstrateritorial
 ekstrayudisial
 ekstrovert
 ekstrusif
@@ -2587,6 +2600,7 @@ gulu
 guman
 gumi
 gumpa
+gunai
 gundai
 guni
 gunieesis
@@ -2674,6 +2688,7 @@ harken
 harn
 harpodon
 harya
+hasa
 hasanlah
 hashbrowns
 hassan
@@ -2722,6 +2737,7 @@ helianthus
 helicopus
 helizoa
 hello
+helo
 helopeltis
 hematnya
 hemi
@@ -2822,6 +2838,7 @@ hirosima
 hirsutum
 hiru
 hirudinae
+hisa
 hisbiscus
 hispanis
 hist
@@ -3216,6 +3233,7 @@ ipoh
 ipomoea
 ipornoea
 ipu
+ipur
 iqa
 iradah
 irah
@@ -3301,6 +3319,7 @@ itung
 ixora
 iyan
 iycopersicum
+iyo
 izrail
 jabangbayi
 jabatnya
@@ -3453,6 +3472,7 @@ kalsiumnya
 kamatra
 kamikaz
 kampong
+kampucea
 kampunganlah
 kams
 kanabinol
@@ -3737,9 +3757,11 @@ kolog
 koloh
 kolusif
 komat
+komi
 kominis
 komisif
 komitatif
+komo
 komp
 kompletif
 kompr
@@ -3785,6 +3807,7 @@ kosi
 kosist
 kosmetis
 kosmik
+koso
 kosp
 kost
 kot
@@ -3794,6 +3817,7 @@ kotil
 kotr
 kovalen
 kow
+koy
 koyakan
 kozona
 kra
@@ -4161,6 +4185,7 @@ liti
 litograf
 litografik
 litosf
+littorea
 liu
 lium
 lividus
@@ -4505,6 +4530,7 @@ merekonfigurasi
 merenjisi
 merentakkan
 mereta
+meria
 meriakan
 merit
 meritrix
@@ -4517,6 +4543,7 @@ meu
 mez
 mhs
 mia
+miani
 mias
 micaria
 michelia
@@ -4648,6 +4675,7 @@ muj
 muja
 muji
 mukh
+muko
 mukul
 mukulnya
 muli
@@ -4772,6 +4800,7 @@ nasgor
 nash
 nasihatilah
 nasionalismenya
+naso
 nasomaculata
 nastar
 nasturtium
@@ -4889,6 +4918,7 @@ netrasi
 nett
 network
 neurocarpum
+neuroendoskopi
 neurologik
 neut
 nevis
@@ -5287,6 +5317,7 @@ nonton
 nontransparency
 nonuniformity
 nonya
+noo
 nop
 nopause
 nopia
@@ -5462,6 +5493,7 @@ nyol
 nyolok
 nyolong
 nyontek
+nyony
 nyor
 nyot
 nyub
@@ -5758,6 +5790,7 @@ ostatika
 ostensif
 osteochilus
 osteoglossum
+ostrea
 otaku
 otan
 oten
@@ -5798,6 +5831,7 @@ oxyhyncus
 oxypetalum
 oxyphylla
 oxyris
+oyi
 oyo
 oyos
 ozo
@@ -5824,8 +5858,10 @@ paki
 paks
 pakualaman
 pakuan
+paleoanthropologist
 pallidus
 pam
+pameo
 pametia
 pancargas
 pancunya
@@ -5839,6 +5875,7 @@ pangalasan
 pangsanya
 pangsius
 pani
+pano
 pansi
 pant
 pao
@@ -6288,6 +6325,7 @@ reinspect
 reinspected
 reinspection
 rekakan
+reko
 rekonsiliatif
 rekonsiliatoris
 rekreasional
@@ -6462,6 +6500,7 @@ ritorial
 ritorialitas
 ritorium
 ritroblas
+ritrosit
 rituling
 rium
 rius
@@ -6519,6 +6558,7 @@ romantisme
 romanya
 romawai
 romb
+romeo
 romov
 romp
 romusha
@@ -6789,6 +6829,7 @@ sepokok
 seradikal
 seragi
 seraum
+serb
 serebri
 serembah
 serotong
@@ -6882,6 +6923,7 @@ silty
 silurus
 silvertris
 silvi
+simaksi
 simal
 simbolisasi
 simburan
@@ -7014,6 +7056,7 @@ sond
 song
 sonn
 sor
+sorai
 soro
 sosialisasikan
 sosiol
@@ -7289,6 +7332,7 @@ taria
 tarkam
 tarmuzi
 taro
+tarok
 tarrietia
 tart
 taruknya
@@ -7501,6 +7545,7 @@ tipografis
 tiq
 tira
 tirisnya
+tiroidektomi
 tisasi
 tisisme
 tisiu
@@ -7543,6 +7588,7 @@ tolongan
 tolonganlah
 tome
 tomi
+tomp
 tompa
 tonasi
 tonator
@@ -7570,6 +7616,7 @@ torquing
 tortilla
 tosa
 toskop
+toso
 tostatika
 tot
 totaliterianisme
@@ -7668,6 +7715,7 @@ tungst
 tunia
 tunjangnya
 tunulisis
+tuo
 tup
 tupi
 turan
@@ -7761,6 +7809,7 @@ ukositom
 ukositosis
 uku
 ukul
+ukung
 ukurlah
 ula
 ulamas
