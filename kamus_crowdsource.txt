@@ -1877,6 +1877,7 @@ elong
 elpigi
 eluan
 elueuthering
+elum
 ema
 emakulasi
 emali
@@ -1924,6 +1925,7 @@ engket
 england
 engulata
 enhalus
+eni
 enicurus
 enig
 enjinering
@@ -2350,6 +2352,7 @@ gege
 geh
 gehi
 gei
+gele
 gelianisme
 gelidiopsisigida
 gem
@@ -2991,6 +2994,7 @@ imajin
 imanlah
 imas
 imaterial
+imba
 imbangannya
 imf
 iming
@@ -3632,9 +3636,11 @@ kikihan
 kikikan
 kil
 kilapan
+kilay
 kilen
 kill
 kilowat
+kimak
 kimat
 kimi
 kimiawinya
@@ -3886,6 +3892,7 @@ labuan
 laccifer
 lactarius
 ladaan
+laer
 laf
 lag
 lagah
@@ -4149,6 +4156,7 @@ lontang
 lopa
 lopaknya
 lope
+lopi
 lorb
 loro
 lorosae
@@ -4862,6 +4870,7 @@ ngak
 ngakalin
 ngal
 ngalamin
+ngali
 ngalor
 ngam
 ngambilin
@@ -6096,6 +6105,7 @@ rahwana
 raj
 rajahan
 rakaatnya
+rakam
 raki
 rakib
 rakota
@@ -6130,6 +6140,7 @@ ranograf
 rans
 rant
 rantah
+ranu
 rao
 raoult
 raparnas
@@ -8011,6 +8022,7 @@ wat
 wata
 wati
 wattase
+wawan
 wearability
 weatherability
 wedelia
