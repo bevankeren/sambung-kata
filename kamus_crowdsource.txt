@@ -18,6 +18,7 @@ abin
 abio
 abisekanama
 abisinia
+abituri
 abl
 ablutofilia
 ablutofobia
@@ -261,6 +262,7 @@ aiwaar
 aiwahui
 aiwonai
 aiyao
+ajam
 ajari
 ajima
 ajin
@@ -273,6 +275,7 @@ akadkan
 akalkan
 akane
 akaran
+aken
 aker
 akhimya
 akiat
@@ -282,6 +285,7 @@ akord
 akordion
 akrobatika
 akrom
+aksel
 aksensuasi
 aksesories
 aksial
@@ -407,6 +411,7 @@ amaurornis
 amazone
 amb
 ambarawa
+ambe
 ambifiks
 ambili
 ambisilabis
@@ -780,6 +785,7 @@ arin
 arini
 aristrokat
 aristrokratis
+aritm
 aritnya
 arius
 arizona
@@ -787,6 +793,7 @@ ark
 arkifon
 armatus
 armeria
+armi
 armijn
 arnoldii
 aro
@@ -882,6 +889,7 @@ asto
 astr
 astrafitum
 astron
+asuk
 asum
 asumptif
 asus
@@ -975,6 +983,7 @@ autocritic
 autog
 autorisasi
 autoritas
+autoritatif
 auzu
 ava
 aver
@@ -1039,6 +1048,7 @@ baraandi
 barbaria
 barbatus
 barcelona
+bare
 baretnya
 baringtoniaspicata
 barunawali
@@ -1174,12 +1184,14 @@ brazil
 bre
 bri
 bria
+bring
 bro
 bromid
 bualkan
 bub
 bubi
 buceros
+bud
 budhisme
 buf
 bug
@@ -1816,6 +1828,7 @@ efisiennya
 efluks
 efo
 eforia
+egak
 eichornia
 eiger
 ein
@@ -1964,6 +1977,7 @@ equational
 equimus
 equisetifolia
 eracta
+eran
 eratnya
 ere
 erek
@@ -2077,6 +2091,7 @@ faksionalisasi
 faksmile
 faktitif
 fakto
+faktorisasi
 fal
 fala
 falia
@@ -2266,6 +2281,7 @@ gadaianku
 gadjah
 gadu
 gaf
+gafu
 gago
 gaha
 gahi
@@ -2358,6 +2374,7 @@ gege
 geh
 gehi
 gei
+gek
 gele
 gelianisme
 gelidiopsisigida
@@ -2460,6 +2477,7 @@ glerycidea
 gli
 glif
 glikog
+glo
 gloriosa
 glr
 glu
@@ -2577,6 +2595,7 @@ gurameh
 gurinda
 guruan
 gurui
+gusa
 gusang
 gut
 gutsiness
@@ -2631,6 +2650,7 @@ handi
 handiplas
 handphone
 handuki
+hane
 hangusan
 hani
 hanifah
@@ -2720,6 +2740,7 @@ heo
 hep
 heptadactylus
 her
+hera
 herendienst
 heritiera
 hermaphroditus
@@ -2844,9 +2865,11 @@ hongaria
 hongkong
 honosfer
 hooc
+hope
 hopea
 hor
 hordeum
+horison
 hornbl
 hospita
 host
@@ -2859,6 +2882,7 @@ hudi
 huf
 hui
 hujam
+huk
 hul
 hula
 hum
@@ -2909,6 +2933,7 @@ idain
 idang
 idellus
 iden
+ideolog
 idhuladha
 idih
 idiol
@@ -2940,6 +2965,7 @@ ihit
 iho
 ihuk
 iii
+ije
 ijuknya
 ika
 ikanlah
@@ -3023,6 +3049,7 @@ imsakyih
 imu
 imunosupr
 imunot
+inak
 inaktif
 inapkan
 inau
@@ -3079,6 +3106,7 @@ inh
 inim
 inisiatip
 inium
+injektif
 injili
 inka
 inkarnasinya
@@ -3651,6 +3679,7 @@ kill
 kilowat
 kimak
 kimat
+kimchi
 kimi
 kimiawinya
 kinabalu
@@ -3864,8 +3893,10 @@ kurvalini
 kurzii
 kusangka
 kusat
+kuse
 kuserahkan
 kusewa
+kusi
 kustos
 kusumbangkan
 kusuruh
@@ -3996,6 +4027,7 @@ layangku
 lban
 lea
 leary
+leas
 leb
 lece
 lector
@@ -4259,6 +4291,7 @@ mahapenting
 mahaperkasa
 maharajal
 mahi
+maik
 mail
 maison
 maitake
@@ -4311,6 +4344,7 @@ mansuh
 mant
 mantis
 mao
+maok
 marajo
 marantifolium
 marginellus
@@ -4769,6 +4803,7 @@ nazarkan
 nazarmu
 nazarnya
 nazilah
+nci
 nda
 ndak
 ndal
@@ -5244,6 +5279,7 @@ nonreferensial
 nonreligi
 nonretroactive
 nonretroaktif
+nons
 nonsen
 nonsynchronization
 nont
@@ -5320,6 +5356,7 @@ nunduk
 nunggu
 nungi
 nurtanio
+nurut
 nusia
 nussaenda
 nusukkan
@@ -5525,6 +5562,7 @@ oisom
 oka
 okarpi
 okimia
+oklahoma
 oklasik
 oklasisme
 oklimatologi
@@ -5734,6 +5772,7 @@ otodebet
 otofokus
 otolithoides
 otolithus
+oton
 otop
 otoriterianisme
 otos
@@ -5751,6 +5790,7 @@ ovo
 ovumnya
 oxalidaceae
 oxidate
+oxidated
 oxidating
 oxleyanum
 oxyeleotris
@@ -5758,6 +5798,7 @@ oxyhyncus
 oxypetalum
 oxyphylla
 oxyris
+oyo
 oyos
 ozo
 ozok
@@ -6010,6 +6051,8 @@ porsel
 porselin
 portret
 portulaca
+posan
+posi
 poskrip
 potek
 pothoina
@@ -6057,6 +6100,7 @@ pulchella
 puli
 pulogadung
 puls
+pulu
 pum
 pungtiliar
 puni
@@ -6120,6 +6164,7 @@ rahmatilah
 rahwana
 raj
 rajahan
+rajak
 rakaatnya
 rakam
 raki
@@ -6142,6 +6187,7 @@ ramiflorum
 ramisin
 ran
 rancourous
+random
 rangannya
 rangi
 rangifer
@@ -6456,6 +6502,7 @@ rohm
 roik
 roin
 roj
+rojak
 roka
 rokanonika
 roko
@@ -6483,6 +6530,7 @@ rondah
 rondih
 rongg
 roni
+ront
 rontologi
 rop
 roplankton
@@ -6707,6 +6755,7 @@ sejawatnya
 sejinjing
 sekaliannya
 sekandung
+seke
 sekilogram
 sekomunikatif
 selandiabaru
@@ -6760,6 +6809,7 @@ setipinnataty
 seturunan
 sfe
 sfer
+sfi
 sfig
 shakespeare
 shalt
@@ -6843,6 +6893,7 @@ simis
 simp
 simpangnya
 simpankanlah
+simpans
 simpl
 simpleness
 simplicifolia
@@ -7089,6 +7140,7 @@ sukarno
 sukem
 sukeman
 sukh
+suko
 sukomoyo
 suks
 sukukata
@@ -7159,6 +7211,7 @@ tabulum
 tacu
 tad
 tada
+taferil
 tafkur
 taforis
 tag
@@ -7250,6 +7303,7 @@ tasy
 tat
 tatabahasa
 tatacara
+tatakrama
 tatalaksana
 tati
 tatif
