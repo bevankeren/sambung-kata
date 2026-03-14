@@ -285,6 +285,7 @@ akrom
 aksensuasi
 aksesories
 aksial
+aksid
 aktans
 aktansi
 aktifis
@@ -1018,6 +1019,7 @@ babirusa
 badia
 baduy
 baf
+baha
 bahama
 bahasnya
 bahi
@@ -1457,6 +1459,7 @@ deni
 dentis
 depdiknas
 der
+deralis
 dere
 deri
 derungan
@@ -1982,6 +1985,7 @@ erok
 eropabarat
 eropah
 eropatimur
+eros
 erosiveness
 erosus
 erotkan
@@ -3560,6 +3564,7 @@ kembangnya
 kemendesakan
 kementrian
 kemintang
+kemp
 kemuakan
 kemungilan
 kenaan
@@ -3744,6 +3749,7 @@ koreautara
 korn
 kornia
 koro
+koros
 kors
 kosak
 kosi
@@ -3898,6 +3904,7 @@ lactarius
 ladaan
 laer
 laf
+lafas
 lag
 lagah
 lagenaria
@@ -3918,6 +3925,7 @@ lakulah
 lakunar
 lal
 lalaikan
+lalo
 lalui
 lalulintas
 lamalera
@@ -6026,6 +6034,7 @@ psia
 psik
 psiko
 psikol
+psikom
 psikon
 psin
 pta
@@ -6095,6 +6104,7 @@ rafflesiaceae
 rafiah
 rafinasi
 rafinering
+rafl
 rafting
 rag
 ragaan
@@ -6627,6 +6637,7 @@ sangganya
 sangkamu
 sangkanya
 sangsaka
+sanguinea
 sanit
 sanitariness
 sank
@@ -6952,6 +6963,7 @@ sond
 song
 sonn
 sor
+soro
 sosialisasikan
 sosiol
 sosiopolitik
@@ -7166,6 +7178,7 @@ tailand
 taipei
 taiwan
 taj
+takai
 takang
 takasiri
 takbersambung
