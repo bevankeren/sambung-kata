@@ -1419,6 +1419,7 @@ damaskus
 damasyik
 dames
 damri
+danfort
 dangal
 dangi
 daniel
@@ -1601,6 +1602,7 @@ dimanusiakan
 dimarginalisasi
 dimas
 dimasalahkan
+dimensia
 dinafikan
 dinasnya
 dinetralisasikan
@@ -3566,6 +3568,7 @@ kent
 kenta
 kentongan
 keos
+kepantasan
 kepecundangan
 kepelesiran
 ker
@@ -3573,6 +3576,7 @@ keragamannya
 kerasulannya
 kerembesan
 kerenjanaan
+keriat
 kericuan
 kern
 kertajasa
@@ -5258,6 +5262,7 @@ notochelys
 notopterus
 nov
 novaesseelandiae
+novalhokadia
 novarum
 novus
 nsa
@@ -6008,6 +6013,7 @@ prad
 prai
 pras
 pratijangkit
+prav
 pre
 pri
 privity
@@ -6183,6 +6189,7 @@ rayfish
 rayunya
 rayyan
 razak
+razzia
 rba
 rbal
 rbalisan
@@ -6817,6 +6824,7 @@ silvi
 simal
 simbolisasi
 simburan
+simia
 simil
 similaritas
 simin
