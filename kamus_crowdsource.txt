@@ -36,6 +36,7 @@ abutai
 aca
 acacia
 acai
+acaknid
 acalolepta
 acalyoha
 acalypha
@@ -390,6 +391,7 @@ altissima
 alua
 aluan
 alukan
+alunkan
 alunya
 alus
 alv
@@ -601,6 +603,7 @@ antarklausanya
 antarkonco
 antarkonstituen
 antarmereka
+antarorang
 antarpartai
 antarpejabat
 antarpelaku
@@ -749,6 +752,7 @@ araceae
 arachis
 arahi
 arahkanlah
+arakian
 arakidat
 aralia
 aramea
@@ -1095,6 +1099,7 @@ berkonfiks
 berlilitkan
 bermasakan
 bermuasal
+berpancung
 berpantul
 berpekik
 berpermadani
@@ -1300,6 +1305,7 @@ chcl
 chebula
 chelmon
 chequers
+chilopoda
 chiorso
 chirocentrus
 chorinemusu
@@ -1460,6 +1466,7 @@ dayacipta
 dayagunakan
 dayan
 dea
+dear
 dede
 def
 defacto
@@ -1610,6 +1617,7 @@ dilap
 dilego
 dileleh
 dilembapkan
+dilengkapkan
 dili
 dilimpahi
 dilisankan
@@ -1781,6 +1789,7 @@ druk
 dtulis
 duaan
 duabelas
+duapuluh
 dud
 dudi
 duf
@@ -2067,6 +2076,7 @@ euthynus
 eva
 ever
 evi
+evolutif
 excellency
 excelsa
 excelsum
@@ -2155,6 +2165,7 @@ ferruginea
 fes
 festiva
 fet
+fey
 fia
 fibraurea
 ficus
@@ -2521,6 +2532,7 @@ golongannya
 golzii
 gomania
 gon
+gona
 goncangnya
 gondas
 gondongan
@@ -2987,6 +2999,7 @@ ijuknya
 ika
 ikanlah
 ikatnya
+ikau
 ike
 ikea
 iken
@@ -3153,6 +3166,7 @@ insolv
 insp
 inspektif
 install
+instink
 instrum
 instrumentalitas
 instrumentatif
@@ -3235,6 +3249,7 @@ ipornoea
 ipu
 ipur
 iqa
+irab
 iradah
 irah
 irahan
@@ -3387,6 +3402,8 @@ jermangnya
 jerusalem
 jesus
 jid
+jigrak
+jijikkan
 jik
 jimmy
 jing
@@ -3573,6 +3590,7 @@ keabsolutan
 keabu
 keakbaran
 keambisian
+keat
 kebasaan
 kebengalan
 keberakhiran
@@ -3580,6 +3598,7 @@ kebertanggapan
 kebertidakpengalamanan
 kebinalan
 kebiru
+kebiusan
 kecarutan
 kecembungan
 kecepai
@@ -3763,6 +3782,7 @@ kominis
 komisif
 komitatif
 komo
+komok
 komp
 kompletif
 kompr
@@ -3798,6 +3818,7 @@ kord
 kordinator
 kore
 koreautara
+koreo
 korn
 kornia
 koro
@@ -4056,6 +4077,7 @@ leas
 leb
 lece
 lector
+leea
 leersia
 legak
 legitimatif
@@ -4088,6 +4110,7 @@ leran
 lerator
 lerek
 lerom
+leru
 lesbo
 leschenault
 lesia
@@ -4187,6 +4210,7 @@ liti
 litograf
 litografik
 litosf
+litsea
 littorea
 liu
 lium
@@ -4203,6 +4227,7 @@ logop
 logram
 loi
 loid
+loir
 loko
 loks
 lol
@@ -4352,6 +4377,7 @@ mancik
 mancing
 mand
 mandang
+mande
 manganat
 mangkunegara
 mangostana
@@ -4369,6 +4395,7 @@ manom
 mans
 mansuh
 mant
+mante
 mantis
 mao
 maok
@@ -4638,12 +4665,14 @@ mom
 momordica
 mon
 mona
+monalisa
 monde
 monet
 monik
 monomorium
 monosp
 monstratif
+morale
 morat
 more
 mos
@@ -4874,6 +4903,7 @@ neg
 nego
 neh
 nei
+neighbourhood
 neighbouring
 neighbourly
 nekan
@@ -4974,6 +5004,7 @@ ngapa
 ngar
 ngari
 ngas
+ngasu
 ngat
 ngatai
 ngatain
@@ -5329,6 +5360,7 @@ nopol
 nor
 noragia
 noreh
+norek
 norrisia
 nos
 nosediving
@@ -5372,6 +5404,7 @@ nug
 nugget
 nugini
 nuha
+nui
 nuk
 nukleusnya
 nul
@@ -5547,6 +5580,7 @@ odading
 odal
 odalisme
 odalistis
+oden
 oder
 odi
 odimium
@@ -5592,6 +5626,7 @@ oholu
 ohong
 oht
 oiknologi
+oikofobia
 oil
 oimpr
 oisom
@@ -6756,6 +6791,7 @@ sarimi
 sario
 sarkan
 sas
+sasimi
 sasrabahu
 satan
 satanik
@@ -6784,6 +6820,7 @@ sdr
 sdri
 sdt
 sea
+seak
 sebarannya
 sebetapapun
 seboleh
@@ -6914,6 +6951,7 @@ silahturahmi
 silakanlah
 silaturrahim
 sildenafil
+silhuet
 sili
 silikatnya
 siliter
@@ -7306,6 +7344,7 @@ tami
 tamorf
 tamp
 tampa
+tampol
 tamsilnya
 tanakan
 taneh
@@ -7431,6 +7470,7 @@ terkacaukan
 terkecundang
 terkesamping
 terkonvergensi
+terkuasa
 terkurang
 terkurus
 terlafal
@@ -7516,6 +7556,7 @@ tikusan
 tikut
 til
 tila
+tilem
 tiliaceus
 tilu
 timangan
@@ -7837,6 +7878,7 @@ ultranasionalis
 ultraorthodox
 ultraortodoks
 ultraringan
+ultras
 ultraviol
 umaiah
 umam
@@ -8157,6 +8199,7 @@ wedelia
 wedung
 wek
 wel
+welsbach
 wen
 weo
 wer
