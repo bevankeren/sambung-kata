@@ -425,6 +425,7 @@ amboinesis
 amboinicuas
 ambreng
 ambrengan
+ambrok
 ambungkan
 ame
 ameilena
@@ -1708,6 +1709,7 @@ diselekeh
 diselundupkan
 disemaikan
 disenyawakan
+disepih
 diserahterimakan
 disesaki
 disfavoritism
@@ -1751,6 +1753,7 @@ diundangnya
 diupam
 diupgrade
 diuruknya
+divisualkan
 dll
 doaku
 dob
@@ -2391,6 +2394,7 @@ gautama
 gawatt
 gawe
 gea
+geb
 gebyah
 gecko
 gedungbundar
@@ -3598,6 +3602,7 @@ kebertanggapan
 kebertidakpengalamanan
 kebinalan
 kebiru
+kebisuan
 kebiusan
 kecarutan
 kecembungan
@@ -3753,6 +3758,7 @@ kling
 klinting
 kliptis
 klo
+klong
 klusif
 knidoblas
 knidosit
@@ -4021,6 +4027,7 @@ languk
 lanka
 lankolia
 lannea
+lanod
 lans
 lant
 lantari
@@ -4048,6 +4055,7 @@ lastisitas
 lastom
 lasu
 lasungkawa
+lasy
 latarbelakang
 lates
 lati
@@ -4159,6 +4167,7 @@ limfop
 limfositop
 limi
 limin
+liminir
 limn
 limon
 limonnum
@@ -5400,6 +5409,7 @@ ntuk
 nuang
 nuasi
 nucifera
+nudasi
 nudiflorum
 nug
 nugget
@@ -5974,6 +5984,7 @@ pembicaran
 peme
 pemeritah
 pemitigasian
+pemuai
 pemungkinan
 penang
 pendakyahan
@@ -6036,6 +6047,7 @@ piezo
 pifora
 pig
 piggishness
+pigling
 pigraf
 pigrafi
 pih
@@ -6630,10 +6642,12 @@ rosol
 rostratula
 rot
 rotaceae
+rotisisme
 rotundifolia
 roxburghii
 roy
 royco
+royem
 rpg
 rpl
 rpul
@@ -6836,6 +6850,7 @@ seismology
 sejawatnya
 sejinjing
 sekaliannya
+sekambu
 sekandung
 seke
 sekilogram
@@ -6993,6 +7008,7 @@ sinai
 sincusis
 sind
 sindirin
+sindora
 sindraf
 sindroma
 sinesis
@@ -7393,6 +7409,7 @@ tatabahasa
 tatacara
 tatakrama
 tatalaksana
+tatanegara
 tati
 tatif
 tatisme
@@ -7444,6 +7461,7 @@ tenuifolium
 teo
 tep
 tepibarat
+teracun
 teracuni
 terangbulan
 teranggar
@@ -7640,6 +7658,7 @@ tonasi
 tonator
 tongi
 tongk
+tongp
 tonimi
 tono
 tonuria
@@ -8017,6 +8036,7 @@ uter
 uterina
 uteron
 uti
+utika
 utilis
 utilisasi
 utilissima
