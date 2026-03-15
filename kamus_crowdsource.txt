@@ -1463,6 +1463,7 @@ database
 datuknya
 dau
 dawa
+daweh
 dayacipta
 dayagunakan
 dayan
@@ -3184,6 +3185,7 @@ integralism
 integralisme
 intelegensinya
 intelejen
+intelektualistik
 inteligensinya
 intelpam
 inten
@@ -8293,6 +8295,7 @@ xenoglosofilia
 xenologi
 xenopobia
 xiaomi
+xiaoren
 xifisternum
 xilofonis
 xilomansi
