@@ -311,6 +311,7 @@ akunting
 akusisi
 akustis
 aladin
+alal
 alangi
 alari
 alasi
@@ -714,6 +715,7 @@ aph
 aphodius
 aphroditois
 apian
+apikan
 apiko
 apip
 apis
@@ -1160,6 +1162,7 @@ birma
 biruan
 biseks
 bismilah
+bitah
 bitgula
 bitor
 bitorquata
@@ -2690,6 +2693,7 @@ gunai
 gundai
 guni
 gunieesis
+gunti
 gunungapi
 gurameh
 gurinda
@@ -3121,6 +3125,7 @@ ilokusi
 ilokusioner
 ilom
 iloni
+ilum
 ilung
 ilus
 ilustrasikan
@@ -3159,6 +3164,7 @@ imunosupr
 imunot
 inak
 inaktif
+inal
 inapkan
 inau
 incang
@@ -3488,6 +3494,7 @@ jid
 jigrak
 jijikkan
 jik
+jikin
 jimmy
 jing
 jinggaan
@@ -4114,6 +4121,7 @@ lamiaceae
 lampuyangan
 lanak
 lanceolata
+lanci
 landskap
 langerstroemia
 langgengkan
@@ -4712,6 +4720,7 @@ mieayam
 mielitis
 mig
 mih
+miji
 mikir
 mikirkan
 mikordat
@@ -5370,6 +5379,7 @@ nio
 nior
 nioritas
 nipa
+nipi
 nipiskan
 nipon
 nir
@@ -6102,6 +6112,7 @@ pdf
 ped
 pee
 peh
+peju
 pelamis
 pele
 peli
@@ -6229,6 +6240,7 @@ pisum
 pitaf
 pithecellobium
 pithecollobium
+piti
 pituas
 piu
 pizazz
@@ -7855,6 +7867,7 @@ torp
 torquing
 tortilla
 tosa
+tosi
 toskop
 toso
 tostatika
@@ -8115,6 +8128,7 @@ unggat
 ungguh
 ungi
 ungkang
+ungker
 unguan
 unguiculata
 unia
@@ -8246,6 +8260,7 @@ vai
 vaiegata
 vaigilusis
 vaiqiensis
+vakin
 vakuasi
 val
 valens
