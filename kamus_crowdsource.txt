@@ -1386,6 +1386,7 @@ compo
 componatus
 compositae
 compr
+comuszeylanicus
 cong
 congkelan
 conneropsis
@@ -2740,6 +2741,7 @@ halley
 halusan
 halusi
 halusinog
+hamas
 hambal
 hamburannya
 hamd
@@ -6563,6 +6565,7 @@ reseh
 resintel
 resisten
 resmilah
+responsibilitas
 restructurization
 resufle
 resupplied
@@ -7533,8 +7536,10 @@ tama
 tamansari
 tamarindus
 tamatuk
+tamba
 tambeng
 tami
+tamiya
 tamorf
 tamp
 tampa
