@@ -5509,6 +5509,7 @@ azedarach
 azemat
 azeotrop
 azerbaijan
+azeri
 azi
 aziana
 azim
@@ -14706,6 +14707,7 @@ diusir
 diusulkan
 diutamakan
 diutarakan
+div
 diva
 divalidasi
 divaricata
@@ -20494,6 +20496,7 @@ gratifikasi
 gratin
 gratis
 gratisan
+grav
 gravel
 graver
 gravi
