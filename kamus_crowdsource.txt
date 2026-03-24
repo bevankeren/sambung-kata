@@ -725,6 +725,7 @@ aerodinamik
 aerodinamika
 aerodinamis
 aerodine
+aeroelastisitas
 aerofiarologi
 aerofilateli
 aerofisika
@@ -857,6 +858,7 @@ afp
 aframa
 aframax
 afrasia
+africaselatan
 afrika
 afrikans
 afrikat
@@ -9500,6 +9502,7 @@ biologisme
 biologiwan
 bioluminesensi
 bioma
+biomagnifikasi
 biomaterial
 biomedis
 biomekanika
@@ -13567,6 +13570,7 @@ didengarnya
 didepak
 didepaknya
 didesain
+didesentralisasikan
 dideskripsikan
 didi
 didiagnosa
@@ -13581,6 +13585,7 @@ didinding
 didinginkan
 didis
 didisain
+didiskualifikasikan
 didiskusikan
 didiskwalifikasikan
 didistorsikan
@@ -13627,6 +13632,7 @@ difitnah
 difluens
 difluensi
 difokuskan
+diformulasikan
 difoto
 difraksi
 difteri
@@ -15617,6 +15623,7 @@ eksistensi
 eksistensial
 eksistensialis
 eksistensialisme
+eksistensialistis
 eksit
 eksitasi
 eksitus
@@ -29864,6 +29871,7 @@ ketidaksudian
 ketidaksukaan
 ketidaktaatan
 ketidakterkendalian
+ketidakterterimaan
 ketidaktetapan
 ketidaktransparanan
 ketidakwajaran
@@ -29981,6 +29989,7 @@ kewanitaan
 kewarasan
 kewargaan
 kewarganegaraan
+kewarganegaraannya
 kewarisan
 kewartawanan
 kewaskitaan
@@ -31878,6 +31887,7 @@ kualitatif
 kualon
 kuan
 kuang
+kuanggarkankan
 kuangkiut
 kuangwung
 kuanta
@@ -37737,6 +37747,7 @@ mempersiapkan
 mempersilakan
 mempersisipkan
 mempersolek
+mempersonanongratakan
 mempersuakan
 mempersuami
 mempersuamikan
@@ -40376,6 +40387,7 @@ mentransformasi
 mentransformasikan
 mentranskripsikan
 mentransmigrasikan
+mentransmigrasilokalkan
 mentransmisikan
 mentranspor
 mentri
@@ -63743,6 +63755,7 @@ terkisah
 terkisruh
 terkisut
 terkiuk
+terklasifikasikan
 terklimis
 terkobar
 terkobarkan
@@ -64977,6 +64990,7 @@ timbullah
 timbulnya
 timbun
 timbunan
+timbunilah
 timburu
 timbus
 timi
@@ -65698,6 +65712,7 @@ transformator
 transfusi
 transgender
 transgenerasional
+transgenerational
 transgenik
 transien
 transisi
@@ -67440,6 +67455,7 @@ uvula
 uvular
 uwa
 uwak
+uwan
 uwar
 uwete
 uwita
@@ -69195,6 +69211,7 @@ zigogami
 zigomatik
 zigomorf
 zigospora
+zigosporangium
 zigot
 zigote
 zigzag
@@ -69264,6 +69281,7 @@ zoobiotik
 zoodomatia
 zooekologi
 zoofag
+zoofamakologi
 zoofili
 zoofilia
 zoofilik
