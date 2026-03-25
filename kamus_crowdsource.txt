@@ -5536,6 +5536,7 @@ azoikum
 azonal
 azoologi
 azoospermia
+azos
 azosp
 azospermi
 azotemia
@@ -6404,6 +6405,7 @@ batubara
 batui
 batuk
 batun
+batunya
 batuori
 batur
 baturbenua
@@ -6714,6 +6716,7 @@ bemper
 bena
 benah
 benak
+benaknya
 benakut
 benalu
 benam
@@ -8701,6 +8704,7 @@ bersilaju
 bersilangan
 bersilap
 bersilaturahmi
+bersilet
 bersilih
 bersiluet
 bersilutu
@@ -11195,6 +11199,7 @@ cemuit
 cemuk
 cemukiran
 cena
+cenah
 cenak
 cenangau
 cenangga
@@ -11472,6 +11477,7 @@ chartacea
 charterer
 chauvinisme
 chcl
+chcoo
 chebula
 chek
 chelmon
@@ -11513,6 +11519,7 @@ cicah
 cicak
 cicer
 cicero
+cichorium
 cici
 cicih
 cicik
@@ -11903,6 +11910,7 @@ craula
 crede
 crescendo
 crew
+cri
 criping
 crispum
 crit
@@ -11991,6 +11999,7 @@ cukupan
 cukupi
 cukupkah
 cukuplah
+cukur
 cukuran
 cul
 cula
@@ -13470,6 +13479,7 @@ diastinum
 diastole
 diastolik
 diastropisme
+diasuh
 diasumsikan
 diat
 diatas
@@ -13544,6 +13554,7 @@ dibujuk
 dibujurkan
 dibukanya
 dibuktikan
+dibundarkan
 dibungkus
 dibunuh
 dibunuhnya
@@ -13571,6 +13582,7 @@ dicongkel
 dicukai
 dicungkil
 did
+didadahkan
 didaftar
 didaktik
 didaktikus
@@ -13733,6 +13745,7 @@ dihilangkannya
 dihimbau
 dihimpun
 dihina
+dihindarkannya
 dihisap
 dihitamkan
 dihkan
@@ -15787,6 +15800,7 @@ eksteroseptor
 ekstin
 ekstorsi
 ekstra
+ekstrabesar
 ekstradisi
 ekstrafusal
 ekstrak
@@ -20158,6 +20172,7 @@ globe
 globofobia
 globulin
 globus
+glochidion
 glodok
 glokalisasi
 glokidium
@@ -27038,6 +27053,7 @@ kaskado
 kaskas
 kaskaya
 kasmaran
+kasmir
 kasmutik
 kaso
 kaspe
@@ -29258,6 +29274,7 @@ keroncang
 keroncong
 keroncongan
 keroncot
+kerong
 keronggengan
 kerongkongan
 kerongsang
@@ -30815,6 +30832,7 @@ kolar
 kolase
 kolateral
 kolbu
+kole
 kolega
 kolegial
 kolegialitas
@@ -31256,6 +31274,7 @@ konsom
 konsonan
 konsonansi
 konsonantal
+konsonantis
 konsorsium
 konspirasi
 konspiratif
@@ -31477,6 +31496,7 @@ kordon
 korduroi
 kore
 korea
+koreaselatan
 koreautara
 koreferensialitas
 koregistrasi
@@ -32417,6 +32437,7 @@ kusa
 kusal
 kusala
 kusam
+kusang
 kusangka
 kusanin
 kusat
@@ -34661,6 +34682,7 @@ loba
 lobak
 loban
 lobang
+lobat
 lobatum
 loberci
 lobi
@@ -36390,6 +36412,7 @@ maui
 mauizah
 maujud
 maujudat
+mauk
 maukah
 maukhid
 maukif
@@ -36775,6 +36798,7 @@ melengkungi
 melengser
 melengserkan
 melentang
+melentik
 melentukkan
 melentung
 melenturkan
@@ -40111,6 +40135,7 @@ mengusa
 mengusaikan
 mengusang
 mengusapi
+mengusik
 mengusir
 mengusrukkan
 mengusuli
@@ -45453,6 +45478,7 @@ ooglea
 oogonia
 oogonium
 ooh
+ooi
 ookinesis
 oolit
 oologi
@@ -47662,6 +47688,7 @@ pembeban
 pembebanan
 pembebasan
 pembeberan
+pembeda
 pembedahan
 pembedolan
 pembekal
@@ -47979,6 +48006,7 @@ pemuntahan
 pemuntalan
 pemupukan
 pemupuran
+pemuput
 pemure
 pemurnian
 pemurtadan
@@ -49729,6 +49757,7 @@ perak
 peraka
 perakaran
 peraketiring
+perakit
 perakunan
 perakuntanan
 perakyatan
@@ -51518,6 +51547,7 @@ pound
 poundal
 pouzolzia
 poyon
+ppak
 ppbm
 ppd
 pph
@@ -51589,6 +51619,7 @@ praremaja
 pras
 prasangka
 prasasti
+prasawya
 prasejahtera
 prasejarah
 prasekolah
@@ -53252,6 +53283,7 @@ regresi
 regresif
 regu
 reguk
+regular
 regularis
 regularisasi
 regulasi
@@ -56326,6 +56358,7 @@ sediakala
 sediakan
 sedianya
 sedih
+sedihlah
 sedihnya
 sedikit
 sedikitnya
@@ -59100,6 +59133,7 @@ sirostratus
 sirsak
 sirsaker
 siru
+siruk
 sirup
 sirus
 sis
@@ -59256,6 +59290,7 @@ skala
 skalanya
 skalator
 skalina
+skan
 skandal
 skandanavia
 skandinavia
@@ -64155,6 +64190,7 @@ ternate
 ternatea
 ternganga
 terngiang
+terniat
 ternikmat
 ternilai
 terninabobo
@@ -66479,6 +66515,7 @@ tur
 tura
 turaes
 turah
+turak
 turam
 turan
 turang
@@ -67646,6 +67683,7 @@ valour
 valuasi
 valuatif
 valuta
+vam
 vampir
 vampirisme
 van
@@ -68017,6 +68055,7 @@ vitrifikasi
 vitrikofobia
 vitrin
 vitriol
+vittatum
 vittatus
 viu
 viudata
@@ -68711,6 +68750,7 @@ wiraniaga
 wirasat
 wirasuara
 wiraswasta
+wiraswastawan
 wirataparwa
 wirausaha
 wirawan
