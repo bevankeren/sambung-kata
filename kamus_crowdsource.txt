@@ -47763,6 +47763,7 @@ pembedahan
 pembedolan
 pembekal
 pembekalan
+pembekuan
 pembekukan
 pembelahan
 pembelajaran
@@ -50348,6 +50349,7 @@ persani
 persarafan
 persataian
 persatelitan
+persatuan
 persaudaraan
 persawahan
 persawangan
