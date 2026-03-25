@@ -5391,6 +5391,7 @@ awak
 awakutu
 awal
 awalan
+awalembap
 awalengas
 awali
 awalnya
@@ -9884,6 +9885,7 @@ borak
 boraks
 borang
 borat
+bord
 bordeaux
 bordir
 bordiran
@@ -13155,6 +13157,7 @@ dermatologi
 dermatom
 dermawan
 dermis
+dermochelys
 dermoskop
 dermoskopi
 dern
@@ -14175,6 +14178,7 @@ diperdomi
 diperdulikan
 dipergoki
 diperhamba
+diperhambakannyalah
 diperhitungkan
 diperiksa
 diperiksakan
@@ -19161,6 +19165,7 @@ gelundang
 gelundung
 gelung
 gelungan
+gelup
 gelupur
 gelut
 gelutak
@@ -19861,6 +19866,7 @@ gibas
 gibi
 gibl
 giblet
+gibon
 gibsit
 gibtah
 gibung
@@ -22291,6 +22297,7 @@ hitungkan
 hitunglah
 hiu
 hiv
+hiwan
 hiwang
 hiyayat
 hizib
@@ -26630,6 +26637,7 @@ kapasitans
 kapasitas
 kapasitif
 kapasitor
+kapat
 kapauku
 kapauri
 kape
@@ -33285,6 +33293,7 @@ laung
 laur
 laurifolia
 laurina
+laurus
 laut
 lautan
 lautanhindia
@@ -34950,6 +34959,7 @@ luding
 ludlow
 ludo
 lues
+luffacylindrica
 lugas
 luge
 lugu
@@ -34990,6 +35000,7 @@ luli
 lull
 lulo
 luloid
+lulosa
 lulu
 lulub
 luluh
@@ -36497,6 +36508,7 @@ megawatt
 megibung
 mego
 meh
+mehilangkan
 mei
 mein
 meiobentos
@@ -41467,7 +41479,9 @@ metropolis
 metropolisasi
 metropolitan
 metroragia
+metroseksual
 meu
+meunasah
 mev
 mewacanakan
 mewadahi
@@ -45030,6 +45044,7 @@ oklokrasi
 oklusi
 oklusif
 oknum
+oknumisasi
 oknya
 oko
 okofobia
@@ -46231,6 +46246,7 @@ paleontologi
 paleooseanografi
 paleopalinologi
 paleornitologi
+paleosen
 paleosoenosis
 paleotsunami
 palepai
@@ -46984,6 +47000,7 @@ patologis
 patolopolis
 patos
 patra
+patrem
 patri
 patria
 patrian
@@ -47137,6 +47154,7 @@ pehoki
 pehong
 pehumor
 pei
+peimbuh
 pejabat
 pejagalan
 pejaka
@@ -51605,6 +51623,7 @@ prioritas
 pripih
 priser
 prit
+priv
 privatisasi
 prive
 privity
@@ -54427,6 +54446,7 @@ rongkongan
 rongos
 rongot
 rongrong
+rongrongan
 rongseng
 rongsok
 rongsokan
@@ -55728,6 +55748,7 @@ sarkoma
 sarkopenia
 sarkoplasma
 sarkotesta
+sarmentosa
 sarmi
 sarok
 sarolangun
@@ -55982,6 +56003,7 @@ seaman
 seamanah
 seamatir
 seambisi
+seaminess
 seampuh
 seampul
 seandainya
@@ -59900,6 +59922,7 @@ stereografi
 stereoisomer
 stereoisomerisme
 stereokimia
+stereokomparator
 stereometri
 stereomorf
 stereoskop
@@ -59945,6 +59968,7 @@ stileto
 stilir
 stilistika
 stilograf
+stilus
 stimulan
 stimulans
 stimulasi
@@ -62260,6 +62284,7 @@ teklek
 teklok
 teknifon
 teknik
+teknikalitas
 teknikus
 teknis
 teknisi
@@ -64872,6 +64897,7 @@ tidakkah
 tidaklah
 tidaknya
 tidakpatuhan
+tidakserasian
 tidologi
 tidur
 tiduran
@@ -68384,6 +68410,7 @@ water
 watermantel
 watermark
 waterpas
+waterpoken
 waterpruf
 waterway
 wati
@@ -68672,6 +68699,7 @@ wongateleng
 wonocolo
 wonogiri
 wonosobo
+wonti
 wonton
 wonuwo
 woodfordia
