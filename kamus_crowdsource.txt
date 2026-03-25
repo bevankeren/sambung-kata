@@ -3410,6 +3410,7 @@ anofel
 anofeles
 anoftalmus
 anografi
+anoi
 anok
 anoks
 anoksemia
@@ -5001,6 +5002,7 @@ asyik
 asyikan
 asyikkan
 asyiknya
+asytor
 asytoret
 asyu
 asyura
@@ -5555,6 +5557,7 @@ bab
 baba
 babad
 babah
+babai
 babak
 babakan
 babal
@@ -9367,6 +9370,7 @@ bilateral
 bilateralisme
 bilatung
 bilau
+bilek
 bilga
 bilhaj
 bilhak
@@ -9908,6 +9912,7 @@ bordir
 bordiran
 boreh
 borek
+borgol
 borhan
 bori
 borjuasi
@@ -14315,6 +14320,7 @@ direntak
 direparasi
 direpresentasikan
 diresapi
+direstui
 direuey
 direvisi
 direvitalisasi
@@ -16997,6 +17003,7 @@ evi
 eviden
 eviserasi
 evlap
+evo
 evokasi
 evokatif
 evolusi
@@ -17029,6 +17036,7 @@ eyang
 eyd
 eyel
 ezele
+ezra
 faal
 faali
 faba
@@ -18758,6 +18766,7 @@ gastr
 gastrektomi
 gastrin
 gastritis
+gastro
 gastrodiplomasi
 gastroenteritis
 gastroenterolog
@@ -21027,6 +21036,7 @@ hajim
 hajinya
 hajis
 hajjah
+hajo
 hak
 haka
 hakaik
@@ -22368,6 +22378,7 @@ hoisem
 hok
 hokah
 hokben
+hoke
 hoki
 hoko
 hol
@@ -23000,6 +23011,7 @@ ikigai
 ikilahagasogo
 ikioko
 ikip
+iklab
 iklan
 iklanan
 iklankan
@@ -25018,6 +25030,7 @@ jeans
 jeb
 jebah
 jebai
+jebak
 jebakan
 jebakannya
 jebang
@@ -26438,6 +26451,7 @@ kamitua
 kamka
 kamkama
 kamla
+kamo
 kamomil
 kamomoose
 kamp
@@ -26965,6 +26979,7 @@ karsinoma
 karst
 kart
 karta
+kartap
 karteker
 kartel
 karti
@@ -27384,6 +27399,7 @@ keanekaragaman
 keanggotaan
 keanggunan
 keanginan
+keangkat
 keangkeran
 keanjalan
 keantikan
@@ -28760,6 +28776,7 @@ kendayakan
 kendayang
 kendeka
 kendi
+kendil
 kendit
 kendo
 kendoka
@@ -29739,6 +29756,7 @@ ketapak
 ketapakan
 ketapang
 ketapek
+ketapel
 ketapik
 ketar
 ketat
@@ -30023,6 +30041,7 @@ keu
 keuangan
 keuatan
 keugaharian
+keuletan
 keumatan
 keunggulan
 keunguan
@@ -31576,6 +31595,7 @@ korup
 korupsi
 koruptif
 koruptor
+korut
 korvet
 korvus
 korwar
@@ -31842,6 +31862,7 @@ kritikan
 kritikus
 kritis
 kritografi
+kriuk
 kriya
 krn
 kro
@@ -31984,6 +32005,7 @@ kuartil
 kuartiner
 kuartir
 kuarto
+kuarts
 kuarza
 kuas
 kuasa
@@ -34781,6 +34803,7 @@ lokia
 lokika
 lokio
 lokiofobia
+lokit
 loklok
 loko
 lokomobil
@@ -36553,6 +36576,7 @@ medusoid
 mega
 megabit
 megabita
+megabyte
 megadosis
 megaflop
 megafon
@@ -40360,6 +40384,7 @@ menjustifikasikan
 menkimpraswil
 menkominfo
 menkopolsoskam
+menofobia
 menogelkan
 menohok
 menohokkan
@@ -42316,6 +42341,7 @@ motekar
 motel
 moti
 motif
+motion
 motivasi
 motivator
 moto
@@ -42351,6 +42377,7 @@ mpur
 mrt
 msl
 mtq
+mts
 mua
 muadin
 muadzin
@@ -42684,6 +42711,7 @@ murninya
 murofobia
 muronatus
 murop
+murotal
 mursal
 mursyid
 murtad
@@ -42931,6 +42959,7 @@ nakalnya
 nakan
 nakara
 nakas
+naker
 nakes
 nakfa
 nakh
@@ -44195,6 +44224,7 @@ noja
 nok
 nokdiak
 noken
+noki
 nokrasi
 noks
 noktah
@@ -44982,6 +45012,7 @@ odarwinisme
 ode
 odekolonye
 oden
+odeng
 oder
 odi
 odimium
@@ -45056,6 +45087,7 @@ ogak
 ogam
 ogan
 ogel
+ognosi
 ognosis
 ogo
 ogok
@@ -45293,6 +45325,7 @@ ologisasi
 ologiwan
 oloh
 olohok
+oloi
 olok
 olokal
 olokan
@@ -47568,6 +47601,7 @@ pemancingan
 pemancung
 pemandang
 pemandangan
+pemandi
 pemandian
 pemandu
 pemanduan
@@ -52648,6 +52682,7 @@ ramainya
 ramal
 ramalan
 ramalannya
+raman
 ramanda
 ramang
 ramania
@@ -54359,6 +54394,7 @@ roa
 rob
 robah
 robak
+roban
 robatik
 robeh
 robek
@@ -57311,6 +57347,7 @@ semudik
 semufakat
 semujur
 semukabalah
+semula
 semunding
 semunian
 semuntu
@@ -58318,6 +58355,7 @@ sherif
 sherry
 shg
 shi
+shiah
 shinto
 shio
 sholat
@@ -58411,6 +58449,7 @@ sibi
 sibilan
 sibir
 sibiran
+sibodoh
 sibofobia
 sibolga
 siborg
@@ -59416,6 +59455,7 @@ smilax
 smithiana
 smok
 smokel
+smoking
 smp
 smythea
 snatch
@@ -59750,6 +59790,7 @@ spanduk
 spaning
 spanram
 spanyol
+spar
 sparing
 sparsity
 spartan
@@ -60324,6 +60365,7 @@ subtema
 subterranea
 subtes
 subtil
+subtipe
 subtonik
 subtropik
 subuco
@@ -60878,6 +60920,7 @@ suul
 suun
 suuzan
 suvenir
+suwandi
 suwarnabumi
 suwarnadwipa
 suwawa
@@ -61969,9 +62012,11 @@ taog
 taoge
 taok
 taoke
+taori
 taosi
 tap
 tapa
+tapaan
 tapah
 tapahosut
 tapai
@@ -63043,6 +63088,7 @@ teran
 teranalisis
 teranas
 terancam
+terancang
 terancu
 terandal
 terandalkan
@@ -65809,6 +65855,7 @@ tradisionalis
 tradisionalisme
 tradisionalitas
 tradisionil
+tradisonal
 trafo
 tragedi
 tragik
