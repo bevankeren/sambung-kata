@@ -785,6 +785,7 @@ afanitik
 afanoplasmodium
 afantasia
 afantobion
+afaoplasmodium
 afar
 afara
 afasia
@@ -827,6 +828,7 @@ afik
 afiks
 afiksasi
 afiliasi
+afiliasikan
 afiliator
 afin
 afinitas
@@ -838,6 +840,7 @@ afiun
 afk
 afkir
 afkofor
+aflatoksikosis
 aflatoksin
 afluen
 afluks
@@ -926,6 +929,7 @@ agapiuga
 agar
 agaragar
 agarikola
+agarofit
 agarosa
 agarose
 agas
@@ -2087,6 +2091,7 @@ allargando
 allegretto
 allessandro
 alleteratus
+alletteratus
 allettratus
 almakbud
 almaktub
@@ -4031,6 +4036,7 @@ apastia
 apat
 apatah
 apatate
+apathyism
 apati
 apatis
 apatisme
@@ -4314,6 +4320,7 @@ arbuskul
 arbutin
 arca
 arcas
+archaeologic
 archeologic
 archictis
 archoviella
@@ -4467,6 +4474,7 @@ armatus
 armed
 armel
 armenia
+armeniaca
 armeria
 armi
 armijn
@@ -5770,6 +5778,7 @@ bais
 bait
 baitnya
 baitul
+baitulharam
 baitullah
 baitulmakdis
 baitulmakmur
@@ -11894,6 +11903,7 @@ corypha
 coryphaena
 coryphya
 cos
+cosmopolites
 cosmos
 cosy
 cote
@@ -12132,6 +12142,7 @@ cyprus
 cyptopterus
 cyras
 cyrtostachys
+cyslocheilichtys
 daag
 daangeluu
 daayah
@@ -13744,6 +13755,7 @@ dihasilkannya
 dihebohkan
 dihedral
 dihempaskan
+dihibridakan
 dihidroksil
 dihijrahi
 dihilangkannya
@@ -13977,6 +13989,7 @@ dilatometri
 dilayang
 dilayangkan
 dildo
+dilegalisasi
 dilegalisir
 dilego
 dilekatkan
@@ -14213,6 +14226,7 @@ diperdulikan
 dipergoki
 diperhamba
 diperhambakannyalah
+diperhati
 diperhitungkan
 diperiksa
 diperiksakan
@@ -14374,6 +14388,7 @@ disandera
 disanggul
 disangka
 disangkanya
+disangkutkan
 disania
 disanjung
 disantap
@@ -15828,6 +15843,7 @@ ekstraserbasif
 ekstraterestrial
 ekstrateritorial
 ekstrateritorialitas
+ekstratinggi
 ekstrauterin
 ekstravaganza
 ekstraversi
@@ -15956,6 +15972,7 @@ elektrolitik
 elektromagnet
 elektromagnetik
 elektromagnetisme
+elektromagnit
 elektromerisme
 elektrometalurgi
 elektrometer
@@ -17684,6 +17701,7 @@ flavin
 flavon
 flavonoid
 flavoprotein
+flavoured
 flavourful
 flavouring
 flebitis
@@ -17765,6 +17783,8 @@ fobia
 fobofobia
 fobos
 fodak
+foenumgraecum
+foetal
 foetus
 fofa
 fohn
@@ -19983,6 +20003,7 @@ gimbang
 gimbap
 gimik
 gimme
+gimmie
 gimnasium
 gimnastik
 gimnospermae
@@ -22487,6 +22508,7 @@ hongeroedeem
 hongkong
 honje
 honji
+honkey
 honor
 honorarium
 honorer
@@ -22513,6 +22535,7 @@ hor
 hora
 horak
 horas
+horay
 hordeng
 hordeum
 hore
@@ -26244,6 +26267,7 @@ kalar
 kalas
 kalase
 kalat
+kalatida
 kalau
 kalaupun
 kalawang
@@ -26265,6 +26289,7 @@ kalebas
 kaledioskop
 kaledo
 kaledonia
+kaledoniabaru
 kaleidoskop
 kaleidoskopis
 kaleles
@@ -27729,6 +27754,7 @@ kedaruratan
 kedasih
 kedatangan
 kedatanganku
+kedataran
 kedatuan
 kedaulatan
 kedaung
@@ -30798,6 +30824,7 @@ kokaina
 kokainisasi
 kokainisme
 kokam
+kokamla
 kokang
 kokarde
 kokarsinogen
@@ -34696,6 +34723,7 @@ liwat
 liwet
 liyan
 lman
+lmintik
 loa
 loak
 loakan
@@ -37120,6 +37148,7 @@ mematrikan
 mematukan
 mematung
 mematungkan
+mematut
 memaui
 memaut
 memayahkan
@@ -38370,6 +38399,7 @@ mencuplik
 mencurahi
 mencurangi
 mencuri
+mend
 mendabung
 mendacin
 mendada
@@ -42245,6 +42275,7 @@ monopiletik
 monoploid
 monopod
 monopoli
+monopolisasi
 monopolistik
 monopsoni
 monosakarida
@@ -43489,6 +43520,7 @@ neologisme
 neolokal
 neon
 neonatal
+neonationalism
 neonatus
 neonisasi
 neontologi
@@ -44289,6 +44321,7 @@ nonantipasif
 nonassociation
 nonbaku
 nonbank
+nonbasic
 nonbendawi
 nonblock
 nonblok
@@ -45618,6 +45651,7 @@ optika
 optikal
 optimal
 optimalisasi
+optimalization
 optimalkan
 optimasi
 optimis
@@ -46351,6 +46385,7 @@ paleografis
 paleoikonologi
 paleokomunitas
 paleolimnologi
+paleolithic
 paleolitik
 paleolitikum
 paleomagnetisme
@@ -47022,6 +47057,7 @@ pasiva
 paskah
 paskibraka
 paslon
+pasm
 pasmat
 pasmen
 pasmina
@@ -49857,6 +49893,7 @@ perbahanan
 perbahasa
 perbahasaan
 perbahasan
+perbaiki
 perbalahan
 perban
 perbandaran
@@ -53112,6 +53149,7 @@ razzia
 rba
 rbal
 rbalisan
+rbalisasi
 rbalisme
 rbalistis
 rbaneka
@@ -55292,6 +55330,7 @@ salada
 salaf
 salafi
 salah
+salahgunakan
 salahku
 salahnya
 salai
@@ -56088,6 +56127,7 @@ scanner
 scanning
 scarlett
 sceptic
+scepticism
 schadenfreude
 schizostachyum
 schutzstaffel
@@ -56333,6 +56373,7 @@ secomel
 secongkak
 secorak
 secorong
+sectarianist
 sectorally
 secubit
 secubitan
@@ -57549,6 +57590,7 @@ sensoran
 sensorik
 sensorimotor
 sensoris
+sensualism
 sensualisme
 sensualitas
 sensur
@@ -58896,6 +58938,7 @@ sinergetik
 sinergi
 sinergis
 sinergisitas
+sinergism
 sinergisme
 sinesis
 sineskop
@@ -60182,12 +60225,14 @@ stratigrafi
 strato
 stratokumulus
 stratopause
+stratosf
 stratosfer
 stratovolkano
 stratum
 stratus
 streptokokus
 streptomisin
+streptomyces
 stres
 stri
 striasi
@@ -60569,6 +60614,7 @@ suluhnya
 suluk
 sulung
 sulungnya
+sulungnyalah
 sulup
 sulur
 sulurnya
@@ -62024,6 +62070,7 @@ tapaian
 tapak
 tapakan
 tapal
+tapalbatas
 tapan
 tapang
 tapanuli
@@ -63682,6 +63729,7 @@ teriakan
 teriakannya
 teriba
 teridentifikasi
+teridentifikasikan
 terigau
 terigu
 terijuk
@@ -64267,6 +64315,7 @@ terograf
 teroklitus
 terolah
 terombol
+teromp
 terompah
 terompet
 terondol
@@ -66153,6 +66202,7 @@ trofoterapi
 troi
 trokanter
 trokea
+trokimia
 troklea
 trol
 troli
@@ -68193,6 +68243,7 @@ vrahoto
 vrijdenker
 vug
 vul
+vulcanism
 vulcanology
 vulgar
 vulgaris
@@ -69441,6 +69492,7 @@ zina
 zinah
 zinak
 zindik
+zine
 zingiberen
 zink
 zinkografi
@@ -69525,6 +69577,7 @@ zoozigosfer
 zorbing
 zoroaster
 zoster
+zpt
 zuadah
 zuama
 zubur
