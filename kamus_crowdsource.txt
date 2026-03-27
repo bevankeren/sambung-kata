@@ -4137,6 +4137,7 @@ apokalips
 apokaliptik
 apokdim
 apoking
+apokop
 apokope
 apokrifa
 apokrin
@@ -5456,6 +5457,7 @@ awonkat
 awonkup
 awota
 awu
+awuhu
 awul
 awur
 awuran
@@ -6481,6 +6483,7 @@ bca
 bcc
 bcg
 bea
+beata
 beatifikasi
 beau
 bebali
@@ -8185,6 +8188,7 @@ berlimpah
 berlimpahan
 berlimpap
 berlindung
+berlingkungan
 berlipat
 berlistrik
 berliturgi
@@ -9332,6 +9336,7 @@ bijaksananya
 bijaksanawan
 bijan
 biji
+bijian
 bijih
 bik
 bika
@@ -11496,6 +11501,7 @@ chcoo
 chebula
 chek
 chelmon
+cheng
 chequers
 chi
 chili
@@ -12653,6 +12659,7 @@ debirokratisasi
 debitase
 debitor
 debitur
+debone
 debonnaire
 debris
 debu
@@ -13377,6 +13384,7 @@ diadang
 diadaptasi
 diadaptasikan
 diadem
+diadilum
 diadopsi
 diadu
 diadukan
@@ -13443,6 +13451,7 @@ diamagnetisme
 diamanatkan
 diamandemen
 diamandir
+diamankan
 diamat
 diambak
 diambili
@@ -13724,6 +13733,7 @@ digodok
 digoncang
 digoreng
 digores
+digoreskan
 digoyah
 digoyang
 digoyangkan
@@ -14330,6 +14340,7 @@ direktris
 direktur
 direkturnya
 diremuk
+direndahkan
 direnggut
 direntak
 direparasi
@@ -14405,6 +14416,7 @@ discus
 disdiadokokinesia
 disdrometer
 disdukcapil
+disebalkan
 disebar
 disebarkan
 diseberangi
@@ -15249,6 +15261,7 @@ duopsoni
 dup
 dupa
 dupak
+dupe
 dupet
 dupi
 dupl
@@ -16557,6 +16570,7 @@ eofil
 eok
 eolit
 eon
+eonisme
 eosen
 eosin
 eosofobia
@@ -17321,6 +17335,7 @@ feb
 febrifobia
 febrin
 februari
+feco
 federal
 federalis
 federalisme
@@ -18431,6 +18446,7 @@ galit
 galitarian
 galitarianisme
 galitarisme
+galitas
 galitikum
 galium
 galiung
@@ -18830,6 +18846,7 @@ gau
 gauk
 gaukang
 gaul
+gaulkan
 gaun
 gaung
 gaungnya
@@ -18964,6 +18981,7 @@ gegala
 gegaman
 gegana
 gegaokan
+gegar
 gegara
 gegares
 gegas
@@ -19417,6 +19435,7 @@ genealogis
 genegin
 geneng
 geneologi
+geneologis
 general
 generalis
 generalisasi
@@ -19810,6 +19829,7 @@ gerontokrasi
 gerontol
 gerontologi
 geronyot
+gerop
 geropes
 geropyok
 geros
@@ -21098,6 +21118,7 @@ halasa
 halau
 halazon
 halba
+halcyon
 haldap
 hale
 haleluya
@@ -23158,6 +23179,7 @@ iluh
 ilum
 iluminans
 iluminasi
+iluminati
 iluminometer
 ilung
 ilus
@@ -23438,6 +23460,7 @@ indig
 indigenos
 indigesti
 indigo
+indigofera
 indik
 indikan
 indikasi
@@ -26266,6 +26289,7 @@ kalap
 kalapia
 kalar
 kalas
+kalasau
 kalase
 kalat
 kalatida
@@ -27540,6 +27564,7 @@ kebercukupan
 keberdayaan
 keberengsekan
 keberesan
+kebergantungan
 keberhargaan
 keberhasilan
 keberhasilannya
@@ -27704,6 +27729,7 @@ kecimpring
 kecimpung
 kecindan
 kecintaan
+kecipak
 kecipratan
 kecipuk
 kecipul
@@ -27846,6 +27872,7 @@ keenergian
 keengganan
 keesaan
 keesokan
+keesokannya
 keevolusian
 kefaedahan
 kefakiran
@@ -30716,6 +30743,7 @@ koagulator
 koak
 koaks
 koaksi
+koaksial
 koaktivasi
 koala
 koalisi
@@ -30747,6 +30775,7 @@ kobra
 koc
 kocak
 kocek
+koci
 kocilembik
 kocoh
 kocok
@@ -32718,6 +32747,7 @@ lagipula
 lago
 lagoko
 lagonder
+lagopodioides
 lagra
 lagu
 laguan
@@ -32991,6 +33021,7 @@ lamtoro
 lamtoronisasi
 lamun
 lamunan
+lamunannya
 lamunting
 lamur
 lamusa
@@ -34320,6 +34351,7 @@ likuidator
 likuiditas
 likuidus
 likuifaksi
+likunya
 likur
 likuran
 likut
@@ -34904,6 +34936,7 @@ loneng
 long
 longak
 longan
+longasi
 longbot
 longdres
 longgar
@@ -35182,6 +35215,7 @@ lumut
 lumutan
 lumutnya
 lun
+luna
 lunak
 lunar
 lunas
@@ -35444,6 +35478,7 @@ magenta
 mager
 magersari
 magetan
+magha
 maghrib
 magi
 magik
@@ -35484,10 +35519,12 @@ magnifiken
 magnitudo
 magnum
 magobi
+magogis
 magori
 magrib
 magribi
 magun
+magur
 mah
 maha
 mahabah
@@ -35541,6 +35578,7 @@ mahasiswanya
 mahasiswi
 mahasuci
 mahatahu
+mahatinggi
 mahatma
 mahayana
 mahbub
@@ -36164,6 +36202,7 @@ mapl
 mapolda
 mapolsekta
 mapolwil
+mapolwiltabes
 mapras
 mapur
 maquis
@@ -42162,6 +42201,7 @@ moke
 mokel
 mokin
 moko
+mokrasi
 moksa
 moksibasi
 moksu
@@ -42191,6 +42231,7 @@ molungudu
 moluska
 mom
 momang
+mombum
 momen
 momentum
 momok
@@ -42502,6 +42543,7 @@ mujadalah
 mujahadat
 mujahid
 mujahidin
+mujahir
 mujair
 mujarab
 mujarad
@@ -42849,6 +42891,7 @@ mutasawif
 mutasi
 mutasikan
 mutasyabihat
+mutator
 mutatus
 mutawif
 mute
@@ -43260,6 +43303,7 @@ nativisme
 nativistik
 nato
 natolokal
+nator
 natrium
 natrix
 natron
@@ -43602,6 +43646,7 @@ netrasi
 netropause
 netrosfer
 nett
+nettapus
 netting
 netto
 network
@@ -45030,6 +45075,7 @@ oceanology
 oceh
 ocehan
 ocehkan
+ocelatus
 ochamostachys
 ochanostachys
 ochlocratie
@@ -45074,6 +45120,7 @@ odoran
 odoratum
 odorifera
 odorometer
+odorum
 oedipus
 oer
 oerst
@@ -46403,6 +46450,7 @@ pales
 palestina
 palet
 pali
+paliat
 paliatif
 palihun
 palik
@@ -52329,6 +52377,7 @@ putauw
 putaw
 puter
 putera
+puteramahkota
 puteran
 puteri
 puti
@@ -53173,6 +53222,7 @@ reactualizing
 reagen
 reagensia
 reak
+reakreasi
 reaksi
 reaksinya
 reaksioner
@@ -54557,6 +54607,7 @@ rombak
 rombeng
 rombengan
 rombik
+romboh
 rombohedral
 rombohedron
 romboid
@@ -55815,6 +55866,7 @@ saponaria
 saponin
 saporifor
 sappan
+sapran
 saprofili
 saprofit
 saprogen
@@ -58482,6 +58534,7 @@ sibakan
 sibalaya
 sibar
 sibayak
+sibela
 siber
 siberfobia
 siberhutang
@@ -60430,6 +60483,7 @@ subyektif
 subyektifitas
 subyektivisme
 suc
+succirubra
 suceng
 suci
 sucinya
@@ -61422,6 +61476,7 @@ takadil
 takaditif
 takaful
 takah
+takahanada
 takahli
 takai
 takak
