@@ -6764,6 +6764,7 @@ bendrat
 bendungan
 benefaktif
 bener
+beneran
 benet
 beng
 benga
@@ -7097,6 +7098,7 @@ berboyong
 berbuah
 berbual
 berbudaya
+berbudi
 berbugil
 berbuih
 berbulan
@@ -14219,6 +14221,7 @@ dipencarkan
 dipendamkannya
 dipengapakan
 dipenggal
+dipenjara
 dipeptida
 diperami
 diperangkap
