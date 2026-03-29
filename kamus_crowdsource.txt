@@ -41423,6 +41423,7 @@ merestorasi
 merestrukturisasi
 merestui
 mereta
+meretek
 meretur
 merevaluasi
 merevitalisasi
