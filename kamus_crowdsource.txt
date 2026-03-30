@@ -7043,6 +7043,7 @@ berbekas
 berbelahan
 berbelalai
 berbelanja
+berbelas
 berbelaskasihan
 berbelasungkawa
 berbelian
@@ -17208,6 +17209,7 @@ famplet
 fan
 fana
 fanatik
+fanatisisme
 fanatisme
 fandango
 fandom
@@ -24240,6 +24242,7 @@ irim
 iring
 iringan
 iringi
+iringnya
 iris
 irisan
 irisasi
@@ -63983,6 +63986,7 @@ terkedik
 terkedip
 terkehel
 terkejam
+terkejar
 terkejut
 terkekang
 terkelap
