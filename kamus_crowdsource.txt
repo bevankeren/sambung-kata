@@ -2371,6 +2371,7 @@ amatir
 amatiran
 amatirisme
 amatkan
+amatlah
 amato
 amatofit
 amatofobia
@@ -4191,6 +4192,7 @@ apotema
 apotheosis
 apotik
 appetizer
+apportioner
 appositifiola
 apr
 apraksi
@@ -5627,6 +5629,7 @@ bacik
 bacin
 backhand
 baco
+bacok
 bacokan
 bacot
 bacul
@@ -5856,6 +5859,7 @@ baksi
 baksis
 bakso
 baksos
+bakt
 baktau
 bakteremia
 bakteri
@@ -5981,6 +5985,7 @@ baluran
 balusu
 balususung
 balut
+bam
 bama
 bamayo
 bambam
@@ -8741,6 +8746,7 @@ bersimpangan
 bersimpati
 bersimpuh
 bersimpul
+bersin
 bersinar
 bersinergi
 bersinetron
@@ -9885,6 +9891,7 @@ boncol
 boncong
 bondol
 bondres
+bonea
 boneka
 bonekanya
 bonen
@@ -11703,6 +11710,7 @@ cit
 cita
 citah
 citak
+citakan
 citra
 citraan
 citraleka
@@ -13566,6 +13574,7 @@ diberkas
 diberondong
 dibestel
 dibiasakan
+dibilang
 dibimbing
 dibisikkan
 diblokir
@@ -13783,6 +13792,7 @@ dihisap
 dihitamkan
 dihkan
 dihubungkan
+dihukum
 dihuni
 dihunjamkan
 diijinkan
@@ -13790,6 +13800,7 @@ diijonkan
 diikhlaskan
 diimbaukan
 diimpitkan
+diimpor
 diinapkan
 diindang
 diindeks
@@ -13954,6 +13965,7 @@ dikte
 dikti
 diktum
 dikualifikasi
+dikuasai
 dikuasainya
 dikuatirkan
 dikuatkan
@@ -14289,6 +14301,7 @@ dipo
 dipojokkan
 dipotong
 dipresentasikan
+diprioritaskan
 diproduseri
 diprogram
 diprogramkan
@@ -14300,6 +14313,7 @@ diptotos
 dipulaskan
 dipungli
 dipupuk
+dipusat
 dipusatkan
 diputarkan
 diputer
@@ -16737,6 +16751,7 @@ erioglossum
 erioglosum
 eriopetala
 eriopetalum
+eris
 erisipelas
 erit
 eritadenin
@@ -18398,6 +18413,7 @@ galaktometer
 galaktopiknometer
 galaktopiranosa
 galaktorea
+galaktos
 galaktosa
 galaktosamina
 galaktose
@@ -19279,6 +19295,7 @@ gemar
 gemari
 gemarkan
 gemas
+gemasnya
 gemaung
 gemawan
 gemawang
@@ -20644,6 +20661,7 @@ gresik
 gressi
 grewia
 greyed
+greyish
 griffithia
 griffithiana
 griffithii
@@ -20732,6 +20750,7 @@ gue
 guerdion
 gufasa
 gufra
+guga
 gugah
 gugahan
 gugat
@@ -27338,6 +27357,7 @@ kausal
 kausalitas
 kausar
 kausatif
+kauselami
 kaustik
 kaustiksoda
 kausucikan
@@ -27371,6 +27391,7 @@ kawasan
 kawasannya
 kawat
 kawatir
+kawi
 kawih
 kawijayan
 kawin
@@ -27747,6 +27768,7 @@ kecirian
 kecoa
 kecoak
 kecocokan
+kecohan
 kecokelatan
 kecolongan
 kecong
@@ -28397,6 +28419,7 @@ kelesa
 kelesah
 keleseh
 kelesek
+kelesot
 kelestarian
 kelestariannya
 keletang
@@ -28997,6 +29020,7 @@ kepenatan
 kepencong
 kependekaran
 kependem
+kependetaan
 kependiaman
 kependidikan
 kependudukan
@@ -29227,6 +29251,7 @@ kerawitan
 kerb
 kerbang
 kerbau
+kerbuk
 kercing
 kercup
 kerdak
@@ -29633,6 +29658,8 @@ kesripahan
 kestabilan
 kestagnasian
 kesterilan
+kesting
+kesu
 kesuburan
 kesucian
 kesudahan
@@ -31080,6 +31107,7 @@ komisioner
 komisura
 komit
 komitatif
+komiti
 komitmen
 komix
 komjenpol
@@ -31410,6 +31438,7 @@ kontaktor
 kontaminan
 kontaminasi
 kontan
+kontano
 konte
 konteks
 konteksnya
@@ -32187,6 +32216,7 @@ kuin
 kuing
 kuinina
 kuinoks
+kuinol
 kuintal
 kuintesens
 kuintet
@@ -32441,6 +32471,7 @@ kupnat
 kupola
 kupon
 kupron
+kuproprot
 kuproprotein
 kuproy
 kuprum
@@ -32572,6 +32603,7 @@ kutat
 kutatan
 kutbah
 kutejeuses
+kutek
 kuteks
 kutemukan
 kuteri
@@ -32731,6 +32763,7 @@ ladu
 ladung
 lae
 laer
+laeris
 laesa
 laf
 lafal
@@ -34959,6 +34992,7 @@ longicandatus
 longicauda
 longiceps
 longifalius
+longiflorum
 longifolia
 longiracemosum
 longispiculatum
@@ -35796,6 +35830,7 @@ maksila
 maksilaris
 maksim
 maksimal
+maksimalis
 maksimalisasi
 maksimum
 maksud
@@ -38237,6 +38272,7 @@ menarungkan
 menarupi
 menasbihkan
 menasdikkan
+menasehatkan
 menasihati
 menasikhkan
 menasionalisasi
@@ -39026,6 +39062,7 @@ menganjung
 menganjungkan
 menganjur
 menganjuri
+menganjurkan
 mengantamir
 mengantapkan
 mengantar
@@ -41955,6 +41992,7 @@ minderwaardig
 mindi
 mindit
 mindo
+mindoan
 mindring
 mindringan
 mine
@@ -45767,6 +45805,7 @@ orbit
 orbita
 orbital
 orbitnya
+orbotristis
 orchestrater
 orchidaceae
 ord
@@ -46722,6 +46761,7 @@ panjing
 panjul
 panjut
 pankreas
+pankreatektomi
 pankreatitis
 pankromatis
 pankronis
@@ -47188,6 +47228,7 @@ patil
 patiman
 patin
 patina
+pating
 patinya
 patirasa
 patiri
@@ -47279,6 +47320,7 @@ paz
 pazazz
 pbsi
 pdf
+pdi
 pdt
 peang
 pebangkai
@@ -47424,6 +47466,7 @@ pelacak
 pelacakan
 pelacur
 peladangan
+peladen
 peladofobia
 pelafalan
 pelaga
@@ -47519,6 +47562,7 @@ pelebur
 peleburan
 peleceh
 pelecok
+peledak
 peledakan
 pelegiran
 pelejang
@@ -47553,6 +47597,7 @@ pelepasan
 pelepasliaran
 pelepuhan
 peleraian
+peles
 pelesapan
 pelesat
 pelesetan
@@ -47918,6 +47963,7 @@ pemborgolan
 pemborong
 pemborongan
 pembotolan
+pemboyong
 pembriketan
 pembuaian
 pembualan
@@ -50514,6 +50560,7 @@ pertanian
 pertanyaan
 pertapaan
 pertaruhan
+pertautan
 perteduhan
 pertegasan
 pertekstilan
@@ -51629,6 +51676,7 @@ posfor
 posi
 posibilisme
 posisi
+posisinya
 posita
 positif
 positivisasi
@@ -52207,6 +52255,7 @@ puma
 pumpun
 pumpunan
 pun
+puna
 punah
 punai
 punakawan
@@ -53312,6 +53361,7 @@ recikan
 recitativo
 reclassing
 recok
+reconciliative
 reconventie
 recup
 red
@@ -61112,9 +61162,11 @@ sya
 syabah
 syaban
 syabas
+syad
 syaf
 syafaat
 syafakat
+syafat
 syafei
 syafii
 syagar
@@ -61155,6 +61207,7 @@ syamas
 syamsiah
 syamsiat
 syamsir
+syan
 syantung
 syapaat
 syar
@@ -61299,6 +61352,7 @@ taburi
 taburkan
 tabut
 tabzir
+tachysurus
 taci
 taco
 tacu
@@ -61955,6 +62009,7 @@ tandak
 tandan
 tandang
 tandanya
+tandas
 tandatangan
 tandatangani
 tandaya
@@ -62586,6 +62641,7 @@ teknonimi
 teknopreneur
 teko
 tekoh
+tekong
 tekonologi
 tekor
 tekoran
@@ -62607,6 +62663,7 @@ tekuk
 tekukan
 tekukur
 tekun
+tekung
 tekup
 tekur
 tekwan
