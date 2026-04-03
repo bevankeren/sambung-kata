@@ -42451,6 +42451,7 @@ mony
 monyet
 monyong
 monyos
+mooi
 mop
 moparuja
 moped
@@ -57474,6 +57475,7 @@ sememeh
 semen
 semena
 semenan
+semenang
 semenanjung
 semenarik
 semenda
@@ -60392,6 +60394,7 @@ stis
 stm
 stockpile
 stof
+stoi
 stoikiom
 stoikiometri
 stoikiometrik
@@ -61250,6 +61253,7 @@ swis
 swiss
 switer
 sya
+syaaban
 syabah
 syaban
 syabas
