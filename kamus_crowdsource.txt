@@ -17324,6 +17324,7 @@ falsifikasi
 falzata
 fam
 famai
+faman
 famili
 familia
 familiar
@@ -27466,6 +27467,7 @@ katut
 katvanga
 katwal
 kau
+kauajarkan
 kauambil
 kaubanggakan
 kaubawa
@@ -31711,6 +31713,7 @@ konvulsan
 konvulsi
 konvulsif
 konyak
+konyan
 konyol
 konyungsi
 koompassia
@@ -32616,6 +32619,7 @@ kundur
 kunduran
 kung
 kungfu
+kungi
 kungkang
 kungki
 kungkum
@@ -33964,6 +33968,7 @@ lektovegetarian
 lektris
 lektur
 leku
+lekuh
 lekuk
 lekukan
 lekuknya
@@ -34410,6 +34415,7 @@ letum
 letung
 letup
 letupan
+letupkan
 letur
 letus
 letusan
@@ -37217,6 +37223,7 @@ meligih
 melihat
 melihatkan
 melilah
+melima
 melimaui
 melimbaikan
 melimpah
@@ -37588,6 +37595,7 @@ membelalak
 membelalang
 membelalangkan
 membelandakan
+membelandang
 membelandangkan
 membelanjai
 membelanjakan
@@ -38529,6 +38537,7 @@ menasionalisasi
 menasionalkan
 menasrifkan
 menasyrihkan
+menat
 menata
 menatah
 menatu
@@ -48113,6 +48122,7 @@ pemangsaan
 pemanipulasi
 pemanis
 pemanjaan
+pemanjang
 pemanjangan
 pemantapan
 pemantas
@@ -51122,6 +51132,7 @@ petugas
 petuk
 petunia
 petunjuk
+petus
 petuturan
 peu
 peubah
@@ -58722,6 +58733,7 @@ seskopol
 sesobek
 sesoca
 sesorang
+sespan
 sespri
 sessilifolia
 seston
