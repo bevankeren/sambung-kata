@@ -27964,6 +27964,7 @@ kebudayaan
 kebudul
 kebujangan
 kebujanggaan
+kebuk
 kebulaian
 kebulatan
 kebuli
@@ -33096,6 +33097,7 @@ labuan
 labuda
 labuh
 labuhan
+labun
 labur
 labut
 lacak
@@ -36975,6 +36977,7 @@ maulaya
 maulhayat
 maulid
 maulidurasul
+maulua
 mauludan
 maung
 maunya
@@ -42589,6 +42592,7 @@ miopia
 miopik
 miosen
 mioset
+miosin
 miosis
 miositis
 miotendenitis
@@ -47127,6 +47131,7 @@ pallacalyx
 pallawa
 pallidus
 palm
+palma
 palmarosa
 palmin
 palmistri
@@ -49290,6 +49295,7 @@ pengakuratan
 pengalahan
 pengalaman
 pengalamatan
+pengalang
 pengalasan
 pengalengan
 pengalih
@@ -51594,6 +51600,7 @@ pilek
 pilem
 pilempehan
 pilengketan
+pileren
 pileus
 pilgrim
 piliang
@@ -52125,6 +52132,7 @@ poligenetik
 poligenik
 poligenisme
 poligini
+poliglot
 poliglotisme
 poligonal
 poligraf
@@ -52886,6 +52894,7 @@ pukas
 pukat
 pukau
 pukauan
+puket
 puki
 pukis
 puknes
@@ -61413,6 +61422,7 @@ suite
 suiya
 suj
 suja
+sujadah
 sujan
 sujana
 sujau
