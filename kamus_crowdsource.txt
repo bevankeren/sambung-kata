@@ -6427,6 +6427,7 @@ batari
 batas
 batasnya
 batavia
+bateh
 batek
 batekeng
 batela
