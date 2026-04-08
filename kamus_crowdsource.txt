@@ -330,6 +330,7 @@ acida
 acidemia
 acik
 acikan
+acing
 acingara
 acintia
 acinya
@@ -359,6 +360,7 @@ acuhan
 acuhkan
 aculeata
 acum
+acuman
 acuminata
 acuminatum
 acung
@@ -439,6 +441,7 @@ adelo
 adem
 ademan
 ademaraja
+ademkan
 adempauze
 ademsi
 aden
@@ -562,6 +565,7 @@ adisiswa
 adit
 aditama
 aditi
+aditia
 aditif
 aditokoh
 aditorium
@@ -1014,6 +1018,7 @@ agnyana
 ago
 agogo
 agoh
+agoi
 agok
 agolog
 agometer
@@ -1428,6 +1433,7 @@ akarurit
 akas
 akasa
 akasia
+akatal
 akatalasemia
 akatalepsia
 akatopi
@@ -1515,6 +1521,7 @@ akomodir
 akompanimen
 akon
 akondroplasia
+akong
 akonitase
 akor
 akord
@@ -1767,6 +1774,7 @@ alaika
 alaikum
 alak
 alakrima
+alaksa
 alal
 alalia
 alam
@@ -1916,6 +1924,7 @@ alergen
 alergenik
 alergi
 alergis
+ales
 aletofili
 aletofit
 aleurites
@@ -2383,6 +2392,7 @@ amarylidaceae
 amastampawang
 amat
 amatan
+amaterasu
 amati
 amatinya
 amatir
@@ -3023,6 +3033,7 @@ anderak
 anderik
 andes
 andesit
+andesite
 andewi
 andi
 andik
@@ -3040,6 +3051,7 @@ andok
 andon
 andong
 andorra
+andosol
 andostorang
 andradit
 andragogi
@@ -3171,6 +3183,7 @@ anggerka
 anggi
 anggip
 anggir
+anggis
 anggit
 anggitan
 angglap
@@ -3515,6 +3528,7 @@ antap
 antar
 antara
 antarabangsa
+antarakan
 antaraksi
 antaralinea
 antaramu
@@ -4147,6 +4161,7 @@ aplikasi
 aplikasikan
 aplikatif
 aplikator
+aplonis
 aplus
 aplusan
 apn
@@ -4378,6 +4393,7 @@ arem
 aren
 arena
 areng
+arenga
 areografi
 areola
 areometer
@@ -4387,6 +4403,7 @@ ares
 arestasi
 areta
 areui
+arfvedson
 arg
 argari
 argentata
@@ -4804,6 +4821,7 @@ asik
 asiklik
 asil
 asilabis
+asilasi
 asim
 asimetri
 asimetrik
@@ -5099,6 +5117,7 @@ atelofobia
 atelokolagen
 aten
 atena
+ateng
 atenian
 atensi
 atentif
@@ -5403,6 +5422,7 @@ availabilitas
 avalans
 avatar
 ave
+aven
 aver
 averoisme
 averrhoa
@@ -5410,6 +5430,7 @@ aversi
 avertebrata
 avesta
 avgas
+avi
 aviari
 aviasi
 aviatofobia
@@ -5431,6 +5452,7 @@ avolisi
 avon
 avontur
 avonturir
+avonturisme
 avtur
 avun
 avunkulokal
@@ -5448,6 +5470,7 @@ awah
 awahama
 awai
 awak
+awakode
 awakutu
 awal
 awalan
@@ -5554,6 +5577,7 @@ ayuman
 ayun
 ayunan
 ayunda
+ayung
 ayunkan
 ayunkanlah
 ayurweda
@@ -5575,6 +5599,7 @@ azemat
 azeotrop
 azerbaijan
 azeri
+azhar
 azi
 aziana
 azim
@@ -5585,6 +5610,7 @@ aziz
 azmat
 azoi
 azoikum
+azolla
 azonal
 azoologi
 azoospermia
@@ -5807,6 +5833,7 @@ baiduri
 baik
 baikan
 baiklah
+baiknya
 baikulino
 bail
 bailau
@@ -5946,6 +5973,7 @@ balandong
 balang
 balangan
 balangkep
+balanocarpus
 balans
 balap
 balapak
@@ -5980,6 +6008,7 @@ baligh
 baliho
 balik
 baliklah
+baliknya
 balikpapan
 balim
 baling
@@ -5999,6 +6028,7 @@ balneowisata
 balo
 balobas
 balobe
+baloh
 balok
 baloki
 balon
@@ -6022,6 +6052,7 @@ balungan
 balungka
 balur
 baluran
+baluse
 balusu
 balususung
 balut
@@ -6186,6 +6217,7 @@ bansekower
 bansos
 bant
 banta
+bantae
 bantah
 bantahan
 bantahannya
@@ -6236,6 +6268,7 @@ baper
 baperan
 bapet
 bapindo
+bappeda
 bappenas
 bapra
 baptis
@@ -6333,6 +6366,7 @@ baronsai
 baros
 baroskop
 barotermograf
+barringtomia
 barso
 bartender
 barter
@@ -6562,6 +6596,7 @@ bebekel
 bebel
 bebenah
 bebenjit
+beber
 beberapa
 bebersih
 bebesaran
@@ -6595,10 +6630,12 @@ bedondotan
 bedor
 beduk
 bedungan
+beelzebub
 bega
 begal
 begandering
 begandring
+begar
 begawan
 begeng
 begimana
@@ -6639,6 +6676,7 @@ bekasi
 bekat
 bekatul
 bekel
+beken
 bekerja
 bekerjasama
 bekerling
@@ -6675,6 +6713,7 @@ belajar
 belak
 belakang
 belakangan
+belakangnya
 belalah
 belalai
 belalakan
@@ -6716,6 +6755,7 @@ belebas
 beled
 beledang
 beleid
+belek
 belekek
 belel
 beleleng
@@ -6739,6 +6779,7 @@ beli
 belia
 belian
 beliau
+belibeh
 belibis
 belikan
 belilah
@@ -6782,6 +6823,7 @@ belugama
 beluk
 belukap
 belulang
+beluluk
 belum
 belungkang
 belungsing
@@ -6863,6 +6905,7 @@ bengkokkan
 bengkong
 bengkuang
 bengkudu
+bengkunang
 bengkung
 beni
 benih
@@ -6872,6 +6915,7 @@ benjang
 benjolan
 beno
 bensin
+bensol
 bentak
 bentang
 bentangan
@@ -6884,6 +6928,7 @@ bentes
 bentik
 bento
 bentol
+bentong
 bentopelagis
 bentos
 bentrok
@@ -6924,6 +6969,7 @@ beraerobatik
 berafiks
 berafiliasi
 beragam
+beragama
 beragi
 beragih
 beragitasi
@@ -6943,6 +6989,7 @@ berakidah
 berakikah
 berakreditasi
 berakrobat
+beraksa
 beraksara
 berakselerasi
 beraksi
@@ -6979,6 +7026,7 @@ beranda
 berandal
 berandalan
 berandang
+beraneka
 berang
 berangas
 berangasan
@@ -7150,6 +7198,7 @@ berbilang
 berbilas
 berbilik
 berbimbingan
+berbinar
 berbingkai
 berbini
 berbintik
@@ -7425,6 +7474,7 @@ berentang
 berentet
 berentetan
 berenyah
+bereo
 bereputasi
 bererakan
 berereksi
@@ -7877,6 +7927,7 @@ berkarir
 berkarpet
 berkartu
 berkaru
+berkarung
 berkarya
 berkas
 berkasih
@@ -7916,6 +7967,7 @@ berkecai
 berkecakapan
 berkecambah
 berkecamuk
+berkecandan
 berkecepatan
 berkeciak
 berkecibakan
@@ -7970,6 +8022,7 @@ berkeley
 berkeliaran
 berkelibang
 berkelibangan
+berkelijak
 berkelik
 berkeliling
 berkelim
@@ -7986,6 +8039,7 @@ berkelongsong
 berkeloyak
 berkeluaran
 berkeluarga
+berkelubung
 berkeluk
 berkelukur
 berkelumun
@@ -8053,9 +8107,11 @@ berkeroncongan
 berkerotak
 berkerubung
 berkerucut
+berkerudung
 berkeruh
 berkerumuk
 berkerumun
+berkerunyuk
 berkerunyut
 berkeruyuk
 berkesampaian
@@ -8143,6 +8199,7 @@ berkonfiks
 berkonfrontasi
 berkongkalikong
 berkonotasi
+berkonperensi
 berkonsentrasi
 berkonspirasi
 berkonsultasi
@@ -8187,6 +8244,7 @@ berkumpulnya
 berkumut
 berkurang
 berkurung
+berkusut
 berkutat
 berkuteks
 berkutik
@@ -8264,6 +8322,7 @@ berlimpah
 berlimpahan
 berlimpap
 berlindung
+berlingkar
 berlingkungan
 berlipat
 berlistrik
@@ -8273,12 +8332,14 @@ berlompatan
 berloncatan
 berlontaran
 berloreng
+berlorong
 berlubang
 berlucu
 berlumur
 berlumuran
 berlumutan
 berlunjur
+bermad
 bermagang
 bermagnet
 bermagnitudo
@@ -8323,6 +8384,7 @@ bermoncong
 bermongkok
 bermotif
 bermotifkan
+bermoto
 bermuamalah
 bermuasal
 bermuatan
@@ -8355,8 +8417,10 @@ bernubuat
 bernurani
 bernutrisi
 bernyanyi
+bero
 berobjektif
 beroblong
+berobsesi
 beroda
 berodi
 berok
@@ -8592,7 +8656,9 @@ berputra
 berputusan
 bersabun
 bersabung
+bersadai
 bersadau
+bersaf
 bersafari
 bersahut
 bersahutan
@@ -8790,6 +8856,7 @@ bersidang
 bersiduga
 bersigai
 bersigap
+bersih
 bersijengket
 bersijundai
 bersiku
@@ -8921,6 +8988,7 @@ bertablig
 bertablo
 bertabrakan
 bertabur
+bertaburka
 bertaburkan
 bertadah
 bertadarus
@@ -9011,6 +9079,7 @@ bertatahkan
 bertatap
 bertatapan
 bertatar
+bertatih
 bertato
 bertauhid
 bertaut
@@ -9194,6 +9263,7 @@ berunsur
 beruntaian
 berunting
 beruntung
+beruntungnya
 beruntus
 berupa
 berupaya
@@ -9266,6 +9336,7 @@ betang
 betapa
 betara
 betatron
+betau
 betawi
 beterbangan
 beterjunan
@@ -9278,11 +9349,13 @@ betina
 beting
 betis
 beton
+betong
 betot
 betul
 betulkah
 betulnya
 beunyeur
+bew
 bewepatawala
 bezit
 bha
@@ -9342,7 +9415,9 @@ bibi
 bibik
 bibimbap
 bibinda
+bibinya
 bibir
+bibirnya
 bibit
 bibliofili
 bibliofilia
@@ -9357,6 +9432,7 @@ bicaraan
 bicarakan
 bicaralah
 bicaramu
+bicaranya
 bicoh
 bicokok
 bid
@@ -9396,6 +9472,7 @@ bifasial
 bifida
 bifidobakteri
 bifokal
+bifurcatum
 bifurkasi
 big
 biga
@@ -9470,6 +9547,7 @@ bilateral
 bilateralisme
 bilatung
 bilau
+bilboard
 bilek
 bilga
 bilhaj
@@ -9502,6 +9580,7 @@ bim
 bima
 bimasakti
 bimbang
+bimbangkan
 bimbel
 bimbing
 bimbingan
@@ -9525,6 +9604,7 @@ binasalah
 binatak
 binatang
 binawas
+binayah
 bincacau
 bincangkan
 bincurang
@@ -9544,6 +9624,7 @@ bingka
 bingkah
 bingkai
 bingkainya
+bingkang
 bingkatak
 bingkis
 bingkisan
@@ -9733,6 +9814,7 @@ biseks
 biseksual
 biseksualitas
 bisektor
+bisektris
 bisep
 biseps
 bisi
@@ -9825,12 +9907,14 @@ blet
 bling
 blitz
 blitzkrieg
+bloboh
 bloedkoraal
 blog
 blok
 bloking
 blokiran
 bloknot
+blondo
 blondos
 blong
 blongkak
@@ -9845,6 +9929,7 @@ blusukan
 bni
 boa
 boaja
+boano
 bob
 boba
 bobar
@@ -9982,6 +10067,7 @@ bong
 bonga
 bongak
 bongeng
+bonggo
 bonggol
 bongkah
 bongkahan
@@ -10007,6 +10093,7 @@ bonto
 bontok
 bontot
 bonus
+boomzaken
 boorwater
 bop
 boplang
@@ -10052,6 +10139,7 @@ bosik
 bosiki
 bosman
 bosnia
+bosok
 bosongot
 bosot
 bostan
@@ -10125,6 +10213,7 @@ brangus
 brankas
 branwir
 bras
+braseri
 brasier
 brasil
 brat
@@ -10191,6 +10280,7 @@ brontosaurus
 bros
 brosur
 bruk
+brumbun
 brunei
 brunois
 bruselosis
@@ -10320,6 +10410,7 @@ bukanlah
 bukannya
 bukantah
 bukanya
+bukat
 bukau
 bukber
 buke
@@ -10335,6 +10426,7 @@ buktinya
 buku
 bukumu
 bukung
+bukunya
 bukur
 bukusentris
 bukut
@@ -10348,11 +10440,13 @@ bulanan
 bulang
 bulangan
 bulannya
+bulansing
 bular
 bulat
 bulatan
 bulbosa
 bulbul
+buldan
 buldog
 buldoser
 bule
@@ -10425,6 +10519,7 @@ bungah
 bungalan
 bungale
 bungan
+bunganya
 bungaran
 bungarus
 bungbang
@@ -10473,6 +10568,7 @@ bunuh
 bunuhan
 bunut
 bunyi
+bunyikan
 bunyinya
 buo
 buok
@@ -10486,7 +10582,9 @@ burahol
 burai
 burak
 burakah
+buraksa
 buram
+burang
 buras
 burat
 burda
@@ -10524,6 +10622,7 @@ buruj
 buruk
 burukan
 burukkan
+buruknya
 burulah
 burum
 burun
@@ -10557,6 +10656,7 @@ busuk
 busung
 busur
 busut
+busyet
 but
 buta
 butadiena
@@ -10580,6 +10680,7 @@ butirat
 butirnya
 butnya
 buton
+butong
 butongpai
 butuh
 butuhkan
@@ -10633,6 +10734,7 @@ cacap
 cacar
 cacat
 cacatan
+cacatkan
 cacatnya
 cacatua
 cacau
@@ -10668,6 +10770,7 @@ caeruleus
 caesalpinia
 caesalpiniaceae
 caesia
+caesio
 caesius
 caf
 cafetaria
@@ -10696,13 +10799,16 @@ cai
 cailah
 caima
 caing
+cainito
 cair
 cairan
+cairina
 cairkan
 cairnya
 cais
 caisim
 caisson
+cajan
 cak
 caka
 cakah
@@ -10752,6 +10858,7 @@ calecer
 caleg
 calempong
 calhaj
+calibre
 calincing
 calindris
 caling
@@ -10791,6 +10898,7 @@ camca
 camcao
 camcau
 camelia
+camellia
 camelopardalis
 camelus
 camer
@@ -10934,6 +11042,7 @@ cantum
 cantumkan
 canus
 cao
+caong
 caos
 cap
 capa
@@ -11027,6 +11136,7 @@ casuariarus
 cat
 cata
 catam
+catamite
 catan
 catang
 catapa
@@ -11088,6 +11198,7 @@ caya
 cebak
 cebakan
 ceban
+cebik
 cebikas
 cebil
 cebir
@@ -11615,6 +11726,7 @@ chauvinisme
 chcl
 chcoo
 chebula
+cheela
 chek
 chelmon
 cheng
@@ -11625,8 +11737,11 @@ chi
 chili
 chilopoda
 china
+chinensis
+ching
 chiorso
 chirocentrus
+chitala
 chlor
 chloropsis
 cho
@@ -11659,6 +11774,7 @@ cicah
 cicak
 cicer
 cicero
+cichlidae
 cichorium
 cici
 cicih
@@ -11671,6 +11787,7 @@ cicir
 cicit
 cidera
 cidiwacip
+cido
 cidomo
 cidra
 ciduk
@@ -11733,6 +11850,7 @@ cimpung
 cin
 cina
 cinabuta
+cinadaratan
 cinagan
 cinakompo
 cinaku
@@ -11775,6 +11893,7 @@ cinlok
 cint
 cinta
 cintakan
+cintakasih
 cintaku
 cintamani
 cintamu
@@ -11797,6 +11916,7 @@ cipta
 ciptaan
 ciptaannya
 ciptakan
+ciptanya
 cipuk
 ciput
 cir
@@ -11823,6 +11943,7 @@ cita
 citah
 citak
 citakan
+citanya
 citra
 citraan
 citraleka
@@ -11837,6 +11958,7 @@ ciut
 civic
 civilness
 civri
+clamourous
 claret
 clausea
 clausena
@@ -11849,6 +11971,7 @@ cling
 clitic
 clitoria
 clo
+closet
 clostridium
 cloze
 clurit
@@ -11880,6 +12003,7 @@ codet
 codo
 codot
 coe
+coecum
 coelostegia
 coffea
 cogah
@@ -12006,6 +12130,7 @@ conneropsis
 conquistador
 console
 consumeristic
+container
 contek
 conteng
 contoh
@@ -12014,6 +12139,7 @@ contok
 contong
 contreng
 coo
+cooh
 cop
 copet
 coplok
@@ -12025,6 +12151,7 @@ corak
 coraknya
 coran
 corbicula
+cordata
 corek
 coreng
 coret
@@ -12172,6 +12299,7 @@ culun
 cum
 cuma
 cuman
+cumanya
 cumbu
 cumbuan
 cumbul
@@ -12275,6 +12403,7 @@ cyminum
 cymnogrullus
 cymosa
 cynara
+cynogale
 cynometra
 cyperus
 cyphomandra
@@ -12291,6 +12420,7 @@ dab
 daba
 dabak
 dabal
+dabang
 dabat
 dabi
 dabih
@@ -12385,6 +12515,7 @@ dahiat
 dahina
 dahinya
 dahlia
+daho
 dahopi
 dahriah
 dahrian
@@ -12414,6 +12545,7 @@ dak
 daka
 dakah
 dakaik
+dakang
 dakar
 dakhil
 dakhineyo
@@ -12601,10 +12733,12 @@ dantonhar
 dantonhub
 dantor
 danu
+danudata
 danuh
 danur
 danus
 danwil
+danya
 danyang
 danyon
 danyuh
@@ -12728,6 +12862,7 @@ datar
 dataran
 datatamak
 datau
+datebook
 dati
 datif
 datin
@@ -12737,6 +12872,7 @@ datuk
 datuknya
 datum
 datung
+datura
 dau
 daud
 dauk
@@ -12903,6 +13039,7 @@ degos
 degradasi
 degradatif
 degresi
+deguk
 degum
 degung
 deh
@@ -12929,6 +13066,7 @@ deinstitusionalisasi
 deislamisasi
 deisme
 deito
+deiyai
 dejavu
 dek
 deka
@@ -12947,6 +13085,7 @@ dekalsifikasi
 dekam
 dekameter
 dekan
+dekanal
 dekanat
 dekantasi
 dekap
@@ -13237,6 +13376,7 @@ deoksidasi
 deoksigenasi
 deoksigula
 deontologi
+dep
 depa
 depak
 depakan
@@ -13384,6 +13524,7 @@ deserebrasi
 desersi
 desertir
 desibel
+desideratif
 desidua
 desigram
 desih
@@ -13429,6 +13570,7 @@ destroyer
 destruksi
 destruktif
 destruktor
+desuk
 desulfurisasi
 desup
 desur
@@ -13504,6 +13646,7 @@ dewanagari
 dewangga
 dewar
 dewas
+dewasa
 dewata
 dewi
 dha
@@ -13521,11 +13664,13 @@ diabetofobia
 diabolis
 diabolisme
 diaborsi
+diabsen
 diabstrakkan
 diacak
 diacu
 diacungkan
 diad
+diada
 diadakan
 diadakanlah
 diadakannya
@@ -13555,6 +13700,7 @@ diagonal
 diagonalisasi
 diagram
 diah
+diairi
 diajak
 diajar
 diajeng
@@ -13587,6 +13733,7 @@ dialektis
 dialektologi
 dialektometri
 dialih
+dialihbahasakan
 dialinguistik
 dialirkan
 dialisat
@@ -13604,12 +13751,14 @@ diamankan
 diamat
 diambak
 diambili
+diambilkan
 diambilnya
 diameter
 diameternya
 diametral
 diametris
 diamlah
+diamnya
 diamorf
 diamputasi
 diamuk
@@ -13619,6 +13768,7 @@ dianalisis
 diancam
 diang
 dianggarkan
+dianggit
 diangguk
 dianginkan
 diangkat
@@ -13641,6 +13791,7 @@ diar
 diaransemen
 diare
 diari
+diartikan
 diartikannya
 diarung
 diarungi
@@ -13659,6 +13810,7 @@ diasuh
 diasumsikan
 diat
 diatas
+diatasi
 diataskan
 diaterman
 diatermi
@@ -13673,6 +13825,7 @@ diatopik
 diaudit
 diawali
 diayah
+dib
 dibaca
 dibacakannya
 dibagikan
@@ -13684,6 +13837,7 @@ dibalas
 dibalsem
 dibanding
 dibangku
+dibanjir
 dibantahnya
 dibanting
 dibarengi
@@ -13707,6 +13861,7 @@ dibentangkan
 dibeo
 diberantas
 diberesi
+diberhentikan
 diberikan
 diberkas
 diberondong
@@ -13731,6 +13886,7 @@ dibui
 dibujuk
 dibujurkan
 dibukanya
+dibuking
 dibuktikan
 dibundarkan
 dibungkus
@@ -13742,6 +13898,7 @@ dicacah
 dicairkan
 dicampurkan
 dicancang
+dicangkok
 dicantumkan
 dicari
 dicarikan
@@ -13759,6 +13916,8 @@ diciptakan
 dicobagantikan
 dicolong
 dicongkel
+dicor
+dicucurkan
 dicukai
 dicungkil
 did
@@ -13779,6 +13938,7 @@ didekapnya
 didengarnya
 didepak
 didepaknya
+dideretkan
 didesain
 didesentralisasikan
 dideskripsikan
@@ -13858,11 +14018,13 @@ digairahkan
 digalaki
 digambarnya
 diganggu
+diganggunya
 diganjal
 digantikan
 digantung
 digantungan
 digapitkan
+digaruk
 digdaya
 digegaskan
 digelapkan
@@ -13870,6 +14032,7 @@ digelari
 digemari
 digembleng
 digembok
+digemburkan
 digenesis
 digerapai
 digergaji
@@ -13924,11 +14087,13 @@ dihantar
 dihapus
 dihargai
 dihasilkannya
+dihayatinya
 dihebohkan
 dihedral
 dihempas
 dihempaskan
 dihias
+dihiasi
 dihibridakan
 dihidroksil
 dihijrahi
@@ -13947,7 +14112,9 @@ dihunjamkan
 diijinkan
 diijonkan
 diikhlaskan
+diikuti
 diimbaukan
+diimpit
 diimpitkan
 diimpor
 diinapkan
@@ -13960,6 +14127,7 @@ diinjeksikan
 diintai
 diinterogasi
 diinterupsi
+diinterviu
 diintrodusir
 diiringi
 diiris
@@ -13974,6 +14142,7 @@ dijahit
 dijahitkan
 dijajah
 dijamah
+dijawab
 dijejalkan
 dijelaskan
 dijemput
@@ -14007,6 +14176,7 @@ dikandangkan
 dikandung
 dikandungnya
 dikapalkan
+dikapur
 dikara
 dikarbit
 dikarenakan
@@ -14027,6 +14197,7 @@ dikdasmen
 dikdasmil
 dike
 dikebelakangkan
+dikecam
 dikecambahkan
 dikecek
 dikecualikan
@@ -14034,6 +14205,7 @@ dikeduk
 dikefobia
 dikehendaki
 dikehendakinya
+dikejamkan
 dikejar
 dikejarnya
 dikejutkan
@@ -14049,6 +14221,7 @@ dikenakannya
 dikencingi
 dikendali
 dikendalikan
+dikepal
 dikepalai
 dikepruk
 dikeraskan
@@ -14066,6 +14239,7 @@ diki
 dikibarkan
 dikilahkan
 dikir
+dikirikan
 dikirim
 dikit
 diklantas
@@ -14075,6 +14249,7 @@ diklatjemen
 diklatpur
 diklorida
 dikmen
+dikodei
 dikomandani
 dikomando
 dikomandoi
@@ -14130,6 +14305,7 @@ dikunyah
 dikunyahnya
 dikur
 dikurung
+dikus
 dikutipi
 dil
 dila
@@ -14139,6 +14315,7 @@ dilacak
 diladai
 diladeni
 dilagakan
+dilagakkan
 dilah
 dilahap
 dilahirkan
@@ -14163,6 +14340,7 @@ dilap
 dilapah
 dilapih
 dilarang
+dilarung
 dilas
 dilatan
 dilatansi
@@ -14208,11 +14386,13 @@ dilimpahi
 dilindas
 dilindungi
 dilingkari
+dilintasi
 dilisankan
 dilisensikan
 dilitsus
 dillenia
 dilokalisasi
+diloloh
 dilompati
 dilonggarkan
 dilontari
@@ -14223,6 +14403,7 @@ diluen
 dilukai
 dilukis
 dilukiskan
+diluluri
 dilumat
 dilupakan
 dilusi
@@ -14233,6 +14414,7 @@ dimabuk
 dimahkotai
 dimakan
 dimakannya
+dimaklumi
 dimaksimalkan
 dimaksud
 dimaksudkan
@@ -14241,6 +14423,7 @@ dimalui
 dimana
 dimanapun
 dimanfaatkan
+dimanipulasikan
 dimanterai
 dimanusiakan
 dimarginalisasi
@@ -14255,12 +14438,14 @@ dimejahijaukan
 dimensi
 dimensia
 dimensional
+dimentahkan
 dimer
 dimerisasi
 dimetikona
 dimetikonol
 dimetilglisina
 dimilikinya
+diminimalisir
 diminum
 diminumnya
 diminutif
@@ -14276,9 +14461,11 @@ dimulainya
 dimunculkan
 dimundurkan
 dimuntahkan
+dimutilasi
 din
 dina
 dinafikan
+dinaiki
 dinaikkan
 dinaju
 dinamakan
@@ -14300,10 +14487,12 @@ dinasihatkannya
 dinasionalisasi
 dinasnya
 dinasti
+dinavigasi
 dinda
 dinding
 dindingnya
 dine
+dinetralisasi
 dinetralisasikan
 ding
 dingang
@@ -14320,10 +14509,13 @@ dini
 diniah
 diniatkan
 dinihari
+dinikahinya
 dinikmati
 dinitrobenzena
 dinobatkan
+dinochloa
 dinofobia
+dinomerduakan
 dinomori
 dinonpalukan
 dinosaurus
@@ -14354,6 +14546,8 @@ diopsida
 dioptase
 dioptri
 diorama
+diorbit
+diorder
 diorkestrasi
 dioscorea
 dioses
@@ -14362,6 +14556,7 @@ dipa
 dipadamkan
 dipakaikan
 dipaketkan
+dipakkan
 dipaksa
 dipaksakan
 dipalu
@@ -14394,6 +14589,7 @@ dipelihara
 dipelopori
 dipelototi
 dipencarkan
+dipenda
 dipendamkannya
 dipengapakan
 dipenggal
@@ -14416,6 +14612,7 @@ diperdomi
 diperdulikan
 dipergemukkan
 dipergoki
+dipergunjingi
 diperhamba
 diperhambakannyalah
 diperhati
@@ -14462,6 +14659,7 @@ diplomatika
 diplomatis
 dipo
 dipojokkan
+diponegoro
 dipotong
 dipresentasikan
 diprioritaskan
@@ -14474,6 +14672,7 @@ dipsomania
 diptera
 diptotos
 dipulaskan
+dipunggah
 dipungli
 dipupuk
 dipusat
@@ -14484,11 +14683,13 @@ dir
 diraba
 diracik
 diradiasi
+diragas
 diragikan
 diragukan
 dirah
 diraih
 diramalkan
+dirampingkan
 dirangka
 dirangkaikan
 dirangsang
@@ -14528,6 +14729,8 @@ diremuk
 direndahkan
 direnggut
 direntak
+direntangi
+direnyuk
 direparasi
 direpresentasikan
 diresapi
@@ -14552,7 +14755,9 @@ diriset
 dirjen
 dirma
 dirobohkan
+dirogoh
 dirubah
+dirugikan
 dirum
 diruncingkan
 dirundingkan
@@ -14588,6 +14793,7 @@ disanggul
 disangka
 disangkanya
 disangkutkan
+disangsikan
 disania
 disanjung
 disantap
@@ -14638,11 +14844,13 @@ disenyawakan
 disepih
 diserahterimakan
 diserakkan
+diserang
 diserap
 diserasikan
 disertakan
 disertasi
 disertasinya
+diseru
 disesaki
 disetorkan
 disetubuhi
@@ -14656,6 +14864,7 @@ disfonia
 disforia
 disfotik
 disfungsi
+disfungsionalisasi
 disgrafia
 dishabilifobia
 dishabituasi
@@ -14666,6 +14875,7 @@ disi
 disia
 disiagakan
 disiapkannya
+disidangkan
 disiden
 disifatkan
 disigai
@@ -14740,6 +14950,7 @@ dislalia
 disleksia
 dislipidemia
 dislokasi
+dism
 dismembrasio
 dismenorea
 dismorfia
@@ -14760,6 +14971,7 @@ disosiasi
 disosiatif
 dispareunia
 disparitas
+dispenda
 dispensasi
 dispenser
 dispepsia
@@ -14827,6 +15039,7 @@ disurvei
 disvitaminosis
 dit
 ditabel
+ditabik
 ditabrak
 ditabung
 ditaburkan
@@ -14866,12 +15079,14 @@ ditayang
 ditebang
 ditebarkan
 ditebuk
+diteguk
 diteisme
 ditekapkan
 ditekik
 ditel
 diteladani
 ditelannya
+ditelevisikan
 diteliti
 ditelitinya
 ditelusuri
@@ -14888,6 +15103,7 @@ ditendang
 ditendangi
 ditengahi
 ditenggelamkan
+ditengok
 ditentang
 ditenung
 diterangkan
@@ -14949,6 +15165,8 @@ ditunggu
 dituntaskan
 diturunkan
 ditutupnya
+ditziad
+diu
 diubah
 diucapkan
 diudarakan
@@ -14979,11 +15197,13 @@ div
 diva
 divalidasi
 divaricata
+divehi
 divergen
 divergensi
 diversifikasi
 diversitas
 divestasi
+divid
 dividen
 divinitas
 divisi
@@ -15234,6 +15454,8 @@ dosis
 dospem
 dot
 doti
+dotil
+dotu
 dou
 douche
 doula
@@ -15295,6 +15517,7 @@ dromedaris
 dromomania
 drop
 droping
+dropsi
 drosometer
 drs
 druk
@@ -15444,6 +15667,7 @@ dung
 dungas
 dungdung
 dungi
+dungk
 dungkelan
 dungkul
 dungu
@@ -15458,6 +15682,7 @@ duodenum
 duodesimal
 duodrama
 duoitus
+duong
 duopoli
 duopsoni
 dup
@@ -15497,6 +15722,7 @@ durias
 duriat
 durikras
 durinoda
+durio
 duripan
 durja
 durjana
@@ -15575,6 +15801,7 @@ dwiwasana
 dzalim
 dzat
 dzikir
+dzongkha
 dzuhur
 eabagar
 eak
@@ -15639,6 +15866,7 @@ edit
 editor
 editorial
 editorialisasi
+edo
 edu
 edukasi
 edukasional
@@ -15807,6 +16035,7 @@ ekologinya
 ekologis
 ekologisme
 ekolokasi
+ekomania
 ekon
 ekonom
 ekonometri
@@ -16025,6 +16254,7 @@ ekspresionistik
 ekspresivitas
 ekstase
 ekstasi
+ekstatik
 ekstemporan
 ekstensi
 ekstensif
@@ -16148,6 +16378,7 @@ elbagai
 ele
 elefantiasis
 elegan
+elegans
 elegansi
 elegi
 eleh
@@ -16284,6 +16515,7 @@ elud
 eluen
 elueuthering
 eluk
+elukan
 elum
 elung
 elurofobia
@@ -16352,6 +16584,7 @@ emboli
 embolik
 embolisme
 embolus
+embong
 embosur
 embrat
 embret
@@ -16378,6 +16611,7 @@ emeraldin
 emergensi
 emeri
 emeritus
+emes
 emetik
 emetina
 emetofobia
@@ -16386,6 +16620,7 @@ emfisema
 emi
 emigran
 emigrasi
+emik
 eminen
 eminensi
 eminser
@@ -16407,6 +16642,7 @@ emolien
 emolumen
 emong
 emosi
+emosian
 emosinya
 emosional
 emosionalisme
@@ -16445,6 +16681,7 @@ empirang
 empiri
 empiris
 empirisme
+empis
 emplasemen
 emplek
 emplekung
@@ -16509,6 +16746,7 @@ encing
 encit
 encok
 encot
+encu
 enda
 endah
 endal
@@ -16626,6 +16864,7 @@ engkar
 engkaras
 engkau
 engkaulah
+engkel
 engket
 engklek
 engkoh
@@ -16676,6 +16915,7 @@ enosiofobia
 enrekang
 ens
 ensaiak
+ensali
 ensambel
 ensefalitis
 ensefalitogen
@@ -16882,6 +17122,7 @@ epsom
 epulis
 equatable
 equational
+equative
 equimus
 equisetifolia
 era
@@ -17038,6 +17279,7 @@ esif
 esing
 esio
 esionom
+esir
 eska
 eskader
 eskadron
@@ -17046,6 +17288,8 @@ eskalatif
 eskalator
 eskalop
 eskan
+eskape
+eskapis
 eskapisme
 eskas
 eskatologi
@@ -17119,6 +17363,7 @@ eternet
 eternit
 etext
 ethanol
+ethika
 ethnocentricism
 eti
 etida
@@ -17139,6 +17384,7 @@ etiolin
 etiologi
 etiopia
 etis
+etit
 etmoid
 etnate
 etnik
@@ -17211,6 +17457,7 @@ europium
 eurosentris
 eurostopodus
 eurotofobia
+eurya
 eurycoma
 euseksual
 eusideroxylon
@@ -17264,6 +17511,7 @@ evolusinya
 evolusioner
 evolusionisme
 evolutif
+ewah
 eweai
 ewuh
 excavata
@@ -17289,6 +17537,7 @@ eyang
 eyd
 eyel
 ezele
+ezogelin
 ezra
 faal
 faali
@@ -17811,6 +18060,7 @@ finalisasi
 finansial
 finir
 finis
+finisi
 finit
 finitif
 finlandia
@@ -17922,6 +18172,7 @@ flacourtia
 flaf
 flagela
 flagellaria
+flagellaris
 flagrasi
 flagrator
 flakon
@@ -17970,6 +18221,7 @@ flip
 flis
 flite
 flo
+flocosus
 floem
 flofela
 flogopit
@@ -18053,6 +18305,7 @@ folat
 folder
 folfus
 foli
+folia
 folikel
 folio
 folk
@@ -18274,11 +18527,13 @@ frak
 fraksi
 fraksinasi
 fraksionasi
+fraktom
 fraktor
 fraktur
 fraktus
 framboesia
 frambos
+frambus
 frambusia
 fran
 franca
@@ -18374,6 +18629,7 @@ ful
 fulan
 fulgurit
 fuli
+fulica
 fulkrum
 fulminat
 fulus
@@ -18384,6 +18640,7 @@ fumigan
 fumigasi
 fumigator
 fun
+fundam
 fundamen
 fundamental
 fundamentalis
@@ -18411,6 +18668,7 @@ fungus
 funikulus
 funki
 fur
+furcifera
 furerak
 furfuracea
 furfural
@@ -18465,6 +18723,7 @@ gabon
 gabor
 gabpus
 gabrah
+gabriel
 gabro
 gabruk
 gabsi
@@ -18597,6 +18856,7 @@ gak
 gakang
 gakari
 gake
+gakgak
 gaki
 gakin
 gakkan
@@ -18692,6 +18952,7 @@ galoba
 galomania
 galomaniak
 galon
+galong
 galop
 galos
 galosit
@@ -18757,6 +19018,7 @@ gamitan
 gamma
 gamofobia
 gamon
+gamop
 gamopetal
 gamosepal
 gampang
@@ -18877,6 +19139,7 @@ ganjur
 gano
 ganoderma
 ganoid
+ganong
 ganrang
 gansai
 gant
@@ -18937,6 +19200,7 @@ gaple
 gaplek
 gaplok
 gaplokan
+gapong
 gaproy
 gaptek
 gapuk
@@ -19036,6 +19300,7 @@ gasometer
 gaspora
 gasporangium
 gasporofil
+gasrat
 gasrok
 gaster
 gastr
@@ -19138,6 +19403,7 @@ gaza
 gazal
 gazebo
 gazeter
+gazwah
 gea
 geb
 gebah
@@ -19171,12 +19437,14 @@ gebyah
 gebyar
 gebyur
 gebyuran
+gecak
 gecar
 gecek
 gecer
 gecik
 gecko
 geco
+gecok
 gecul
 ged
 gedabah
@@ -19249,6 +19517,7 @@ gehi
 gehu
 gei
 geiger
+geisa
 geiser
 geitonogami
 gejah
@@ -19461,6 +19730,7 @@ gelondong
 gelondongan
 gelondor
 geloneng
+gelong
 gelonggong
 gelonggongan
 gelongsong
@@ -20062,6 +20332,7 @@ gerojok
 gerojokan
 gerombol
 gerombolan
+gerombolannya
 gerombong
 gerombongan
 gerompal
@@ -20214,6 +20485,7 @@ giduh
 gig
 giga
 gigabita
+gigah
 gigahertz
 gigaku
 gigan
@@ -20331,6 +20603,7 @@ giok
 gion
 gional
 gionalisme
+giong
 gioza
 gip
 gips
@@ -20389,6 +20662,7 @@ giti
 gitik
 gitimaris
 gitimas
+gitimasi
 gitimitas
 giting
 gitir
@@ -20536,6 +20810,7 @@ gma
 gnasi
 gnemon
 gnetum
+gno
 gnomon
 goa
 goah
@@ -20603,6 +20878,7 @@ gohu
 goi
 goik
 goiku
+gois
 goisme
 goitrogen
 goj
@@ -20664,6 +20940,7 @@ goncang
 goncangan
 goncangnya
 gonciet
+gonda
 gondang
 gondas
 gondel
@@ -20675,6 +20952,7 @@ gondongan
 gondorukem
 gondrong
 gong
+gongan
 gonggang
 gonggo
 gonggok
@@ -20710,6 +20988,7 @@ gonopodium
 gonor
 gonore
 gonorrhea
+gonorrhoe
 gonrang
 gonrong
 gonta
@@ -20766,6 +21045,7 @@ gosong
 gospel
 gossypium
 got
+gota
 gotamasoka
 gotat
 gotes
@@ -20831,6 +21111,7 @@ gramatologi
 gramatologisentris
 grambyang
 gramedia
+gramineae
 gramofon
 granala
 granat
@@ -20857,6 +21138,7 @@ gratifikasi
 gratin
 gratis
 gratisan
+gratissima
 grav
 gravel
 graver
@@ -20894,6 +21176,8 @@ gressi
 grewia
 greyed
 greyish
+gri
+griff
 griffithia
 griffithiana
 griffithii
@@ -20907,6 +21191,7 @@ grip
 gripir
 gris
 griseus
+grit
 gritung
 griya
 gro
@@ -21004,12 +21289,14 @@ guil
 guillotine
 guilo
 guinea
+guis
 guit
 gujarat
 gujirak
 gujirat
 guk
 gukakas
+guker
 gukgel
 gukguk
 gul
@@ -21108,6 +21395,7 @@ gungseng
 guni
 gunieesis
 gunjai
+gunjainya
 gunjik
 gunjing
 gunjingan
@@ -21471,6 +21759,7 @@ hamdalah
 hamdu
 hamengku
 hami
+hamid
 hamidah
 hamik
 hamil
@@ -21536,6 +21825,7 @@ hanggar
 hanggasa
 hangit
 hangkang
+hangul
 hangus
 hangusan
 hanguskan
@@ -21607,6 +21897,7 @@ harakiri
 haram
 haramkan
 haramonting
+harang
 harangan
 harap
 harapan
@@ -21790,6 +22081,7 @@ hebras
 hebring
 hechtnietjes
 hectare
+hecythidaceae
 hed
 hedonis
 hedonisme
@@ -21846,6 +22138,7 @@ helaian
 helat
 heldentenor
 helektit
+heleocharis
 helferi
 heli
 helianthus
@@ -21864,6 +22157,7 @@ heliofobia
 heliograf
 heliogram
 heliometer
+heliopais
 heliosentrik
 heliosentris
 heliosfer
@@ -22054,6 +22348,7 @@ herveyana
 hes
 hesi
 hesperidin
+heta
 hetero
 heteroatom
 heterodin
@@ -22272,6 +22567,7 @@ hietografi
 hifa
 hifi
 hig
+higa
 higi
 higiene
 higienis
@@ -22529,6 +22825,7 @@ hipokinetik
 hipoklorhidria
 hipokondria
 hipokotil
+hipokrasi
 hipokrisi
 hipokrit
 hipokritis
@@ -22585,8 +22882,10 @@ hipui
 hir
 hira
 hiragana
+hirang
 hirap
 hirarki
+hiras
 hirau
 hirauan
 hiraukan
@@ -22615,6 +22914,7 @@ hisbiscus
 hiski
 hispanik
 hispanis
+hispida
 hist
 histamin
 histamina
@@ -22686,12 +22986,15 @@ hodofobia
 hodograf
 hodometer
 hodoskop
+hodot
+hoeveni
 hogor
 hohlraum
 hoho
 hoi
 hoiltom
 hoin
+hois
 hoisem
 hok
 hokah
@@ -22702,6 +23005,7 @@ hoko
 hol
 holacanthus
 holanda
+hole
 holi
 holigan
 holisme
@@ -22727,6 +23031,7 @@ holografis
 hologram
 holokarp
 holokrin
+holong
 holoplankton
 holoselulosa
 holosen
@@ -22789,7 +23094,9 @@ homosistein
 homosisteina
 homospora
 homospori
+homot
 homoterm
+homotipe
 homozigot
 hon
 hona
@@ -22840,6 +23147,7 @@ hordeum
 hore
 horee
 horenso
+hori
 horidus
 horison
 horisontal
@@ -23050,6 +23358,8 @@ hydroponic
 hygrophilus
 hylobateslar
 hymne
+hypercompetition
+hypogeae
 hypoleucus
 hypopthalmichthys
 hypoxanthus
@@ -23415,6 +23725,7 @@ ilatan
 ilatif
 ile
 ilegal
+ileng
 ileostomi
 ilep
 iler
@@ -23591,6 +23902,7 @@ import
 importasi
 importir
 imposisi
+impostor
 impot
 impoten
 impotensi
@@ -24049,6 +24361,7 @@ insani
 insanulkamil
 insar
 insecta
+insecureness
 insek
 insekta
 insektari
@@ -24214,6 +24527,7 @@ interetnik
 interf
 interfalangel
 interfase
+interfer
 interferens
 interferensi
 interferometer
@@ -24244,6 +24558,7 @@ interlokusi
 interlokutor
 interlud
 interlude
+interm
 intermedia
 intermediasi
 intermediat
@@ -24452,6 +24767,7 @@ ipeda
 ipekah
 ipemi
 iperindo
+ipetu
 iphone
 ipis
 ipit
@@ -24859,6 +25175,7 @@ ixora
 iya
 iyahala
 iyan
+iyar
 iycopersicum
 iyo
 izah
@@ -24981,6 +25298,7 @@ jais
 jaiz
 jaja
 jajaan
+jajag
 jajah
 jajahan
 jajahannya
@@ -25000,6 +25318,7 @@ jaka
 jakal
 jakan
 jakang
+jakannya
 jakarta
 jakas
 jakbar
@@ -25030,6 +25349,7 @@ jalan
 jalanan
 jalang
 jalangan
+jalangkot
 jalangkote
 jalangkung
 jalani
@@ -25344,6 +25664,7 @@ jawablah
 jawabnya
 jawang
 jawanisasi
+jawanya
 jawara
 jawat
 jawatan
@@ -25378,6 +25699,7 @@ jebak
 jebakan
 jebakannya
 jebang
+jebar
 jebat
 jebik
 jeblok
@@ -25424,6 +25746,7 @@ jejas
 jejawi
 jeje
 jejenang
+jejenangnya
 jejengkok
 jejer
 jejeran
@@ -25588,6 +25911,7 @@ jendol
 jendral
 jendrang
 jendul
+jendut
 jenela
 jeneng
 jeneponto
@@ -25783,6 +26107,7 @@ jetha
 jetis
 jetsam
 jetset
+jevon
 jewer
 jeweran
 jianja
@@ -25994,6 +26319,7 @@ jongjorang
 jongkah
 jongkang
 jongkar
+jongkat
 jongkeh
 jongki
 jongko
@@ -26019,6 +26345,7 @@ jorok
 jorong
 jos
 josna
+jot
 jota
 jotang
 joting
@@ -26046,6 +26373,7 @@ juandang
 juang
 juar
 juara
+juarai
 juat
 jub
 jubah
@@ -26359,6 +26687,7 @@ kadaluarsa
 kadaluwarsa
 kadaluwarsaan
 kadam
+kadambuku
 kadang
 kadapol
 kadar
@@ -26376,6 +26705,7 @@ kadensa
 kader
 kadera
 kaderisasi
+kadernya
 kades
 kadet
 kadha
@@ -26390,6 +26720,7 @@ kadiriah
 kadis
 kadispen
 kadit
+kaditserse
 kadiv
 kadmium
 kado
@@ -26419,6 +26750,7 @@ kafeinisme
 kafelate
 kafetaria
 kafeteria
+kaffah
 kafi
 kafil
 kafilah
@@ -26478,11 +26810,13 @@ kaing
 kainit
 kainnya
 kainofobia
+kaira
 kairo
 kairui
 kais
 kaisar
 kaiser
+kaisnya
 kaison
 kait
 kaitan
@@ -26539,6 +26873,7 @@ kakicak
 kakiku
 kakinya
 kakitangan
+kakodil
 kakofobia
 kakofoni
 kakofonofili
@@ -26700,6 +27035,7 @@ kalkun
 kalmodulin
 kalo
 kalobe
+kaloci
 kalomel
 kalompong
 kalong
@@ -26751,6 +27087,7 @@ kamar
 kamarban
 kamariah
 kamarmu
+kamarnya
 kamas
 kamat
 kamatan
@@ -26770,6 +27107,7 @@ kambilo
 kambing
 kambingan
 kambingnya
+kambis
 kambium
 kamboi
 kamboja
@@ -26831,6 +27169,7 @@ kampiun
 kampodang
 kampometer
 kampong
+kampos
 kampret
 kampucea
 kampuh
@@ -26866,11 +27205,13 @@ kanah
 kanak
 kanakan
 kanal
+kanalis
 kanalisasi
 kanan
 kanana
 kanang
 kanannya
+kanape
 kanari
 kanat
 kanayakan
@@ -26902,6 +27243,7 @@ kandasnya
 kandatel
 kandel
 kandela
+kandelar
 kandelir
 kandep
 kandet
@@ -27120,6 +27462,7 @@ kapsalon
 kapsel
 kapstan
 kapster
+kapstok
 kapsul
 kapten
 kapu
@@ -27252,6 +27595,7 @@ karedok
 karees
 karekeregalang
 karekteristik
+karel
 karela
 karembong
 karemos
@@ -27270,6 +27614,7 @@ karib
 karibia
 karibu
 karier
+kariernya
 karies
 karih
 karikatur
@@ -27314,6 +27659,7 @@ karnosin
 karnosina
 karo
 karon
+karong
 karos
 karoseri
 karosi
@@ -27329,6 +27675,7 @@ karpet
 karpopodil
 karpus
 karsa
+karsinog
 karsinogen
 karsinogenik
 karsinoid
@@ -27353,6 +27700,7 @@ kartonis
 kartotek
 kartu
 kartun
+kartunya
 karu
 karuan
 karuhun
@@ -27429,6 +27777,8 @@ kasmaran
 kasmir
 kasmutik
 kaso
+kasong
+kasor
 kaspe
 kasr
 kasrah
@@ -27500,6 +27850,7 @@ katalisator
 katalisis
 katalisit
 katalistik
+katalitis
 katalog
 kataloger
 katalogisasi
@@ -27572,6 +27923,7 @@ katode
 katok
 katolik
 katong
+katoppo
 katoptrofobia
 katrek
 katrij
@@ -27613,6 +27965,7 @@ kaukah
 kaukasoid
 kaukebatkanlah
 kauketahui
+kauki
 kaukus
 kaukutuk
 kaul
@@ -27631,6 +27984,7 @@ kaun
 kaunaiki
 kaung
 kaunteya
+kauolah
 kaupatahkan
 kauperlihatkan
 kauperoleh
@@ -27699,10 +28053,12 @@ kayau
 kayea
 kayo
 kayu
+kayuan
 kayuh
 kayuhnya
 kayumwungan
 kayung
+kayunya
 kazak
 kazakstan
 kazanah
@@ -27747,6 +28103,7 @@ keaksaraan
 keaktifan
 keaktoran
 keaktualan
+keakuan
 keakuran
 keakuratan
 kealahan
@@ -27783,10 +28140,12 @@ keasrian
 keastronomian
 keasyikan
 keat
+keateisan
 keatletan
 keawaman
 keawanan
 keawetan
+keawuran
 keayahan
 keayahbundaan
 keayapan
@@ -27802,6 +28161,7 @@ kebagusan
 kebah
 kebahagiaan
 kebaharian
+kebai
 kebaikan
 kebaikanku
 kebajikan
@@ -28058,6 +28418,7 @@ kecirian
 kecoa
 kecoak
 kecocokan
+kecoh
 kecohan
 kecokelatan
 kecolongan
@@ -28068,6 +28429,7 @@ kecrek
 kecu
 kecualinya
 kecubung
+kecuh
 kecukupan
 keculasan
 kecundang
@@ -28110,6 +28472,7 @@ kedaung
 kedayagunaan
 kedebong
 kedek
+kedekai
 kedeki
 kedekik
 kedekut
@@ -28144,6 +28507,7 @@ kedirgantaraan
 kediri
 kedisiplinan
 kedodoran
+kedogmatisan
 kedogolan
 kedok
 kedokteran
@@ -28183,12 +28547,14 @@ keelastikan
 keelastisan
 keeleganan
 keelektrikan
+keelokan
 keelokannya
 keemas
 keemasan
 keemiratan
 keemosian
 keempohan
+keempukan
 keenakan
 keenam
 keenergian
@@ -28333,6 +28699,7 @@ keibaan
 keibodan
 keibuan
 keik
+keikatan
 keikhlasan
 keiki
 keikliman
@@ -28448,6 +28815,7 @@ kekara
 kekarantinaan
 kekaras
 kekariban
+kekarutan
 kekaryaan
 kekas
 kekasapan
@@ -28477,6 +28845,7 @@ kekek
 kekekalan
 kekelaman
 kekeliruan
+kekelong
 kekeluargaan
 kekemben
 kekencangan
@@ -28490,6 +28859,7 @@ kekenyangan
 kekep
 keker
 kekerabatan
+kekerabatannya
 kekeramatan
 kekerapan
 kekerasan
@@ -28512,6 +28882,7 @@ kekinian
 kekisi
 kekisruhan
 kekitaan
+keklisean
 keklorinan
 kekodratan
 kekohesifan
@@ -28555,6 +28926,7 @@ kelabakan
 kelabang
 kelabangan
 kelabat
+kelabet
 kelabilan
 kelaburan
 kelabut
@@ -28564,6 +28936,7 @@ kelah
 kelahi
 kelahiran
 kelahiranku
+kelahirannya
 kelai
 kelaikan
 kelainan
@@ -28633,6 +29006,7 @@ kelayu
 kelayuan
 kelaziman
 kelazimannya
+kele
 kelebaran
 kelebat
 kelebatan
@@ -28704,6 +29078,7 @@ kelento
 kelentong
 kelentung
 kelenturan
+kelenung
 kelenyit
 kelep
 kelepai
@@ -28832,6 +29207,7 @@ keluarbiasaan
 keluarga
 keluargamu
 keluarlah
+keluarnya
 keluasan
 kelubung
 keluburan
@@ -28913,6 +29289,7 @@ kemandulan
 kemanfaatan
 kemang
 kemangkatan
+kemangkiran
 kemangkusan
 kemanisan
 kemanjaan
@@ -28935,6 +29312,7 @@ kemasabodohan
 kemasakan
 kemasan
 kemasannya
+kemasi
 kemasinan
 kemaslahatan
 kemasukan
@@ -29455,6 +29833,7 @@ kepunahan
 kepundung
 kepung
 kepungan
+kepunjulan
 kepunyaan
 kepunyaannya
 kepurbaan
@@ -29469,6 +29848,7 @@ keputusan
 keputusannya
 keputusasaan
 kepuyuh
+kepuyuk
 ker
 kera
 kerabang
@@ -29553,6 +29933,7 @@ keratoplasti
 keratosis
 kerau
 keraunofobia
+kerawai
 kerawanan
 kerawang
 kerawangan
@@ -29562,6 +29943,7 @@ kerb
 kerbang
 kerbau
 kerbuk
+kercap
 kercing
 kercup
 kerdak
@@ -29727,6 +30109,8 @@ kertang
 kertas
 kertasnya
 keruangan
+keruangangkasaan
+kerub
 kerubang
 kerubian
 kerubim
@@ -29766,6 +30150,7 @@ kerutan
 kerutinan
 kerutup
 keruwetan
+keruyuk
 kerwit
 kes
 kesa
@@ -29801,6 +30186,7 @@ kesamunan
 kesan
 kesana
 kesandung
+kesang
 kesangaran
 kesangatan
 kesanggupan
@@ -29837,6 +30223,7 @@ kesehatanmu
 kesehatian
 keseimbangan
 kesejahteraan
+kesejajaran
 kesejalanan
 kesejatian
 kesejukan
@@ -30333,6 +30720,7 @@ keti
 ketiadaan
 ketiak
 ketial
+ketiap
 ketibaan
 ketiban
 ketidakadilan
@@ -30455,8 +30843,10 @@ keu
 keuangan
 keuatan
 keugaharian
+keujian
 keuletan
 keumatan
+keungan
 keunggulan
 keunguan
 keuniforman
@@ -30493,6 +30883,7 @@ kewaswasan
 kewedanaan
 kewedukan
 kewenangan
+keweni
 kewer
 kewibawaan
 kewilayahan
@@ -30534,6 +30925,7 @@ khan
 khanjar
 kharab
 kharismatis
+khas
 khasanah
 khasiat
 khatam
@@ -30559,6 +30951,7 @@ khid
 khidmah
 khidmat
 khilaf
+khilafah
 khilafiah
 khimar
 khinzir
@@ -30614,6 +31007,7 @@ kiasmus
 kiat
 kiaupau
 kib
+kibang
 kibar
 kibaran
 kibas
@@ -30651,6 +31045,7 @@ kifarat
 kifayah
 kifosis
 kifoskaliosis
+kih
 kihanat
 kihiur
 kijag
@@ -30664,6 +31059,7 @@ kik
 kikan
 kikas
 kikav
+kikeng
 kiki
 kikih
 kikihan
@@ -30720,12 +31116,14 @@ kilohertz
 kilokalori
 kiloliter
 kilometer
+kilong
 kiloton
 kilovolt
 kilowat
 kilowatt
 kilowattjam
 kilt
+kilu
 kilus
 kim
 kima
@@ -30850,6 +31248,7 @@ kipar
 kiparat
 kipas
 kipasan
+kipasnya
 kipat
 kipe
 kiper
@@ -30888,6 +31287,8 @@ kirimanku
 kirimanmu
 kirimannya
 kirimi
+kirimkan
+kiring
 kirinya
 kirinyu
 kirinyuh
@@ -30967,6 +31368,7 @@ kla
 klabet
 kladistika
 kladodia
+klaf
 klaim
 klak
 klakklik
@@ -30982,6 +31384,7 @@ klarifikasi
 klarinet
 klarino
 klasemen
+klash
 klasifikasi
 klasik
 klasikal
@@ -30997,6 +31400,7 @@ klavikula
 klayu
 klebun
 kleder
+kledi
 kledofit
 kleidotomi
 klem
@@ -31043,6 +31447,7 @@ klin
 klinefelter
 kling
 klinik
+klining
 klinis
 klinisi
 klinometer
@@ -31151,6 +31556,7 @@ kocoh
 kocok
 kocokan
 kocolan
+kocong
 kod
 koda
 kodaeral
@@ -31168,17 +31574,20 @@ kodikologi
 kodok
 kodominan
 kodrat
+kodrati
 kodya
 koe
 koedukasi
 koefisien
 koeksistensi
+koersi
 koersif
 kof
 kofaktor
 kofein
 kofermen
 kofermentasi
+kofo
 kofte
 kog
 kogab
@@ -31211,6 +31620,7 @@ koipuk
 koit
 koitofobia
 koitus
+koiwai
 koja
 kojah
 kojang
@@ -31246,6 +31656,7 @@ kokol
 kokole
 kokolitofor
 kokon
+kokong
 kokop
 kokopandan
 kokopit
@@ -31271,6 +31682,7 @@ kolagenase
 kolah
 kolak
 kolaka
+kolalia
 kolam
 kolang
 kolano
@@ -31356,6 +31768,7 @@ kolonoskopi
 kolontong
 kolor
 kolorektal
+kolorim
 kolorimeter
 kolorimetri
 kolosal
@@ -31579,6 +31992,7 @@ kondiloma
 kondilus
 kondimen
 kondisi
+kondisinya
 kondisional
 kondisioner
 kondite
@@ -31656,6 +32070,7 @@ konif
 konifera
 koniogravimeter
 konis
+konjen
 konjugan
 konjugasi
 konjungsi
@@ -31667,6 +32082,7 @@ konjungtor
 konjungtur
 konkaf
 konkatenasi
+konklaf
 konklusif
 konkologi
 konkomitan
@@ -31782,6 +32198,7 @@ kontainer
 kontainerisasi
 kontak
 kontaktor
+kontal
 kontaminan
 kontaminasi
 kontan
@@ -31869,6 +32286,7 @@ konvulsif
 konyak
 konyan
 konyol
+konyong
 konyungsi
 koompassia
 kooperasi
@@ -31880,6 +32298,7 @@ kooptasi
 kooptatif
 koor
 koordinasi
+koordinasikan
 koordinat
 koordinatif
 koordinator
@@ -31902,6 +32321,7 @@ koper
 koperasi
 koperatif
 koperativisme
+koperku
 kopernya
 kopertais
 kopertis
@@ -31927,6 +32347,7 @@ kopor
 kopormu
 koppelriem
 koprafagia
+koprak
 koprakan
 kopral
 koprastasofobia
@@ -32023,6 +32444,7 @@ korporatisme
 korporatokrasi
 korpri
 korps
+korpul
 korpulensi
 korpus
 korpuskel
@@ -32046,6 +32468,7 @@ korupsi
 koruptif
 koruptor
 korut
+korv
 korvet
 korvus
 korwar
@@ -32068,6 +32491,7 @@ kosf
 kosi
 kosinus
 kosist
+kosm
 kosmetik
 kosmetis
 kosmetolog
@@ -32109,6 +32533,7 @@ kotak
 kotaklema
 kotakota
 kotaku
+kotama
 kotamara
 kotamobagu
 kotangens
@@ -32122,6 +32547,7 @@ koterek
 kotes
 kotil
 kotiledon
+kotipe
 koto
 kotok
 kotong
@@ -32141,6 +32567,7 @@ kovalensi
 kovenan
 kover
 kow
+kowa
 kowak
 kowal
 kowang
@@ -32205,6 +32632,7 @@ kreatina
 kreatinase
 kreatinin
 kreatinina
+kreativ
 kreativitas
 kreator
 krebo
@@ -32437,6 +32865,7 @@ kuanta
 kuantan
 kuantifikasi
 kuantisasi
+kuantita
 kuantitas
 kuantitasnya
 kuantitatif
@@ -32487,6 +32916,7 @@ kuba
 kubah
 kubang
 kubangan
+kubangun
 kubat
 kubatur
 kubeli
@@ -32516,11 +32946,13 @@ kucak
 kucam
 kucandan
 kucel
+kuching
 kucica
 kucil
 kucilkan
 kucindan
 kucing
+kucingnya
 kucir
 kucit
 kucium
@@ -32533,6 +32965,7 @@ kuda
 kudai
 kudang
 kudangan
+kudanya
 kudap
 kudapan
 kudet
@@ -32580,6 +33013,7 @@ kuintesens
 kuintet
 kuintil
 kuintiliun
+kuintupl
 kuintuplet
 kuir
 kuis
@@ -32587,12 +33021,14 @@ kuisioner
 kuisisi
 kuit
 kuitansi
+kuival
 kuivokasi
 kuiz
 kuja
 kujajing
 kujang
 kujarat
+kujawab
 kujual
 kujur
 kujut
@@ -32602,6 +33038,7 @@ kukai
 kukang
 kukar
 kuker
+kuketahui
 kuki
 kukila
 kukira
@@ -32641,6 +33078,7 @@ kulanter
 kulantir
 kulapai
 kulari
+kularisasi
 kulasentana
 kulat
 kulatif
@@ -32725,6 +33163,7 @@ kumico
 kumimpikan
 kuminta
 kumis
+kumisnya
 kumkum
 kumkuma
 kumlah
@@ -32820,6 +33259,7 @@ kupang
 kupanggil
 kupas
 kupat
+kupe
 kupel
 kuper
 kuperhadapkan
@@ -32827,6 +33267,7 @@ kupi
 kupil
 kupilih
 kuping
+kupl
 kuplet
 kupluk
 kupnat
@@ -32972,6 +33413,7 @@ kuteks
 kutemukan
 kuteri
 kuterima
+kutet
 kutetapkan
 kuti
 kutik
@@ -32986,6 +33428,7 @@ kutip
 kutipan
 kutipkan
 kutlet
+kutolong
 kutu
 kutuan
 kutub
@@ -33213,6 +33656,7 @@ lajat
 lajim
 lajing
 lajnah
+lajolo
 laju
 lajunya
 lajur
@@ -33320,6 +33764,7 @@ lali
 lalim
 lalin
 laliofobia
+lallygag
 lallygagged
 lallygagging
 lalo
@@ -33571,6 +34016,7 @@ langusei
 langut
 lanhir
 lani
+lanin
 lanja
 lanjai
 lanjak
@@ -33698,6 +34144,7 @@ laptop
 lapuan
 lapuk
 lapukan
+lapuknya
 lapun
 lapur
 lar
@@ -33756,6 +34203,7 @@ lasak
 lasan
 lasana
 lasang
+lasanya
 lasat
 lase
 laser
@@ -33893,6 +34341,7 @@ lawar
 lawas
 lawat
 lawatan
+lawati
 lawazim
 lawe
 lawean
@@ -33917,6 +34366,7 @@ layangku
 layangnya
 layani
 layanilah
+layap
 layar
 layari
 layarnya
@@ -34006,6 +34456,7 @@ ledes
 leding
 ledos
 ledre
+leduc
 leduk
 ledung
 leea
@@ -34085,6 +34536,7 @@ leja
 lejang
 lejar
 lejas
+lejit
 lejok
 lek
 leka
@@ -34102,9 +34554,12 @@ lekat
 lekatan
 lekemia
 leker
+lekih
 lekir
 lekit
+leko
 lekok
+lekong
 lekosit
 leks
 leksem
@@ -34157,6 +34612,7 @@ lelas
 lelat
 lelatu
 lelawa
+lelawak
 lele
 leleh
 lelehkan
@@ -34369,6 +34825,7 @@ lengset
 lenguh
 lenguhan
 lengung
+leni
 leniensi
 lening
 lenis
@@ -34445,6 +34902,7 @@ leper
 leperi
 lepes
 lepet
+lephura
 lepidokrosit
 lepik
 leping
@@ -34539,6 +34997,7 @@ lesuh
 lesung
 lesus
 lesut
+let
 leta
 letah
 letai
@@ -34936,6 +35395,7 @@ linggayuran
 linggi
 linggis
 linggisan
+lingi
 lingkap
 lingkar
 lingkaran
@@ -34961,6 +35421,7 @@ lingual
 linguini
 linguis
 linguistik
+linguistis
 lini
 linier
 linierisasi
@@ -35149,6 +35610,7 @@ litograf
 litografi
 litografik
 litologi
+litologis
 litometeor
 litoral
 litosf
@@ -35158,6 +35620,7 @@ litotomi
 litsea
 litsus
 litterer
+littoralis
 littorea
 lituania
 lituavi
@@ -35217,6 +35680,7 @@ lodoicea
 lodong
 loe
 loek
+lofan
 log
 logam
 logamisasi
@@ -35355,6 +35819,7 @@ loncer
 lonco
 loncong
 loncos
+londa
 londang
 londo
 londok
@@ -35381,6 +35846,7 @@ longifalius
 longiflorum
 longifolia
 longiracemosum
+longirostris
 longispiculatum
 longit
 longitudinal
@@ -35422,11 +35888,13 @@ lop
 lopa
 lopak
 lopaknya
+lopas
 lope
 lopek
 loper
 lopi
 lopis
+lopong
 lopor
 lor
 lora
@@ -35475,6 +35943,7 @@ lotre
 lotus
 lou
 love
+low
 lowong
 lowongan
 loya
@@ -35514,12 +35983,14 @@ luas
 luasa
 luasan
 luaskan
+luaslah
 luasnya
 luat
 luban
 lubang
 lubangi
 lubangnya
+lubdhaka
 luber
 luberan
 lubu
@@ -35546,6 +36017,7 @@ lues
 luffacylindrica
 lugas
 luge
+lugens
 lugu
 lugut
 luh
@@ -35909,6 +36381,7 @@ magana
 magandi
 magang
 magasin
+magasira
 mageirokofobia
 magel
 magelang
@@ -36089,6 +36562,7 @@ majah
 majakeling
 majal
 majalah
+majalahnya
 majalengka
 majang
 majapahit
@@ -36184,6 +36658,7 @@ makrifatullah
 makro
 makroangiopati
 makrobiotik
+makroekonomis
 makrofag
 makrofauna
 makrofil
@@ -36230,6 +36705,7 @@ maksimal
 maksimalis
 maksimalisasi
 maksimum
+maksimumnya
 maksud
 maksudkan
 maksudmu
@@ -36243,6 +36719,7 @@ makula
 makulat
 makurung
 makuta
+makyong
 makyung
 mal
 mala
@@ -36280,7 +36757,9 @@ malam
 malan
 malandau
 malang
+malangap
 malangbang
+malangge
 malangnya
 malanutrisi
 malap
@@ -36295,6 +36774,7 @@ malas
 malasia
 malasnya
 malasuai
+malat
 malatindak
 malau
 malaun
@@ -36328,6 +36808,7 @@ maljum
 malka
 mall
 malnutrisi
+maloh
 maloklusi
 malpraktek
 malpraktik
@@ -36347,6 +36828,7 @@ mamadai
 mamah
 mamai
 mamak
+mamaknya
 mamalia
 mamam
 maman
@@ -36357,9 +36839,11 @@ mamano
 mamar
 mamat
 mamata
+mambae
 mambang
 mambek
 mambo
+mamboru
 mambruk
 mambu
 mamduhah
@@ -36395,6 +36879,7 @@ manajerialisme
 manakah
 manakala
 manakan
+manakib
 manalagi
 manan
 manandai
@@ -36405,6 +36890,7 @@ manasik
 manasongo
 manasuka
 manau
+manbae
 manca
 mancadaya
 mancakrida
@@ -36416,6 +36902,7 @@ mancing
 mancis
 mancit
 mancitkan
+mancu
 mancung
 mancur
 mand
@@ -36487,6 +36974,7 @@ manggung
 manggusta
 manggut
 mangiferin
+mangino
 mangir
 mangkah
 mangkak
@@ -36700,6 +37188,7 @@ marginal
 marginalisasi
 marginalisme
 marginellus
+margriet
 margrit
 marhaban
 marhaen
@@ -36732,6 +37221,7 @@ marjinalisasi
 marjoram
 mark
 marka
+markah
 markas
 marketri
 marki
@@ -36775,6 +37265,7 @@ marun
 marus
 marwas
 marx
+maryam
 marzipan
 mas
 masa
@@ -36820,6 +37311,7 @@ maskanat
 maskapai
 maskara
 maskat
+maskawin
 maskawinnya
 masker
 maskodok
@@ -36861,6 +37353,7 @@ masuk
 masukan
 masuki
 masuklah
+masuknya
 masula
 masuliah
 masy
@@ -36920,6 +37413,7 @@ matikan
 matikawan
 matinya
 matis
+matisme
 matite
 matius
 matlak
@@ -36927,6 +37421,7 @@ matoa
 matofobia
 matograf
 matografi
+matografis
 matologi
 maton
 matorium
@@ -37054,6 +37549,7 @@ mbojo
 mbok
 mbolisme
 mbololo
+mbong
 mbps
 mbrasio
 mbrio
@@ -37087,6 +37583,7 @@ median
 mediasi
 mediastinum
 mediator
+medica
 medik
 medikamentosa
 medikasi
@@ -37154,6 +37651,7 @@ mek
 meka
 mekah
 mekan
+mekania
 mekanik
 mekanikgraha
 mekanis
@@ -37186,6 +37684,7 @@ melaini
 melais
 melaju
 melajukan
+melaka
 melakak
 melaknati
 melaknatkan
@@ -37245,6 +37744,7 @@ melangsungkan
 melangut
 melania
 melanin
+melanisme
 melanjar
 melanjutkan
 melankolis
@@ -37325,6 +37825,7 @@ meleceh
 melecehkan
 meledakkan
 meleding
+meledos
 melegalisasi
 melegam
 melegarkan
@@ -37342,6 +37843,7 @@ meleku
 melekukkan
 melelah
 meleleh
+melemah
 melemahkan
 melemaskan
 melembagakan
@@ -37366,8 +37868,10 @@ melenggong
 melenggor
 melengketkan
 melengkungi
+melengkungkan
 melengser
 melengserkan
+melenja
 melentang
 melentik
 melentukkan
@@ -37375,6 +37879,7 @@ melentung
 melenturkan
 melenyeh
 melepih
+melepoh
 melepoti
 melepuh
 melepuhkan
@@ -37420,6 +37925,7 @@ melimpas
 melimpaui
 melindangkan
 melindas
+melindung
 melindungi
 melindungkan
 melindur
@@ -37466,6 +37972,7 @@ melokalisasi
 meloloh
 melombakan
 melompat
+melompatkan
 melompong
 melon
 meloncatkan
@@ -37500,6 +38007,7 @@ melumpuhkan
 melumurkan
 melunakkan
 meluncungkan
+meluncur
 meluncurkan
 melungsung
 melungsurkan
@@ -37531,6 +38039,7 @@ memadatkan
 memadu
 memagari
 memagarkan
+memagutkan
 memaha
 memahalkan
 memahami
@@ -37557,6 +38066,7 @@ memaklumkan
 memakmumi
 memakmurkan
 memaknakan
+memaksa
 memaksakan
 memaksimalisasi
 memaksimalkan
@@ -37572,6 +38082,7 @@ memaliskan
 memalit
 memaloh
 memalsukan
+memalu
 memalui
 memalukan
 memalunkan
@@ -37687,6 +38198,7 @@ membagikan
 membagusi
 membaguskan
 membahagiakan
+membaham
 membahasakan
 membaiki
 membaikkan
@@ -37697,9 +38209,11 @@ membakari
 membakarkan
 membaktikan
 membakukan
+membalah
 membalak
 membalap
 membalapkan
+membalaskan
 membaliki
 membaling
 membalurkan
@@ -37794,6 +38308,7 @@ membelau
 membelendung
 membelenggu
 membelengketkan
+membelengkok
 membeli
 membeliakkan
 membelikan
@@ -37899,6 +38414,7 @@ membirukan
 membisiki
 membisikkan
 membisingkan
+membius
 memble
 memboboti
 membocorkan
@@ -37946,6 +38462,7 @@ membuka
 membukankan
 membuktikan
 membuktikannya
+membuku
 membukukan
 membulang
 membulatkan
@@ -38090,6 +38607,7 @@ memetabolisme
 memetaforkan
 memetalkan
 memeteraikan
+memetia
 memetiakan
 memetieskan
 memetik
@@ -38102,6 +38620,7 @@ memfahami
 memfanatiki
 memfantasikan
 memfasilitasi
+memfatwakan
 memfermentasi
 memfermentasikan
 memfestivalkan
@@ -38240,6 +38759,7 @@ memperbanyakkan
 memperbaurkan
 memperbedakan
 memperbelakangkan
+memperbenar
 memperbesar
 memperbincangkan
 memperbolehkan
@@ -38379,6 +38899,7 @@ mempermalukan
 mempermanis
 mempermanjakan
 mempermenangkan
+mempermodern
 mempermudah
 mempermulia
 memperolahkan
@@ -38389,6 +38910,7 @@ memperpanjang
 memperparah
 memperpendek
 mempersahabatkan
+mempersakiti
 mempersaksikan
 mempersalahkan
 mempersalini
@@ -38451,6 +38973,7 @@ mempertenggangkan
 mempertiadakan
 mempertidak
 mempertidakkan
+mempertiga
 mempertikaikan
 mempertimbang
 mempertimbangkan
@@ -38530,6 +39053,7 @@ memulihkan
 memulut
 memunahkan
 memuncak
+memuncaki
 memuncrat
 memunculkan
 memundi
@@ -38687,6 +39211,7 @@ menanggam
 menanggapi
 menanggar
 menangguhkan
+menangguk
 menanggung
 menanggungjawabi
 menanggungkan
@@ -38701,6 +39226,7 @@ menangkis
 menangkup
 menangkuptelentangkan
 menanjak
+menanjul
 menanjur
 menantang
 menantangnya
@@ -38731,6 +39257,7 @@ menarupi
 menasbihkan
 menasdikkan
 menasehatkan
+menashih
 menasihati
 menasikhkan
 menasionalisasi
@@ -38748,6 +39275,7 @@ menaup
 menautkan
 menavigasi
 menawakkan
+menawari
 menawarkan
 menayangkan
 menazarkan
@@ -38765,6 +39293,7 @@ mencagak
 mencahayai
 mencair
 mencak
+mencakah
 mencakapkan
 mencalak
 mencalang
@@ -38774,6 +39303,7 @@ mencampakkan
 mencampur
 mencampuri
 mencampurkan
+mencanangkan
 mencancang
 mencandui
 mencandukan
@@ -38810,7 +39340,9 @@ mencederakan
 mencedok
 mencedoki
 mencegat
+mencegati
 mencekak
+mencekoki
 mencekokkan
 mencekungkan
 mencekup
@@ -38848,6 +39380,7 @@ mencengut
 mencentang
 mencepat
 mencepatkan
+mencepit
 menceplok
 mencerabih
 menceracam
@@ -38902,6 +39435,7 @@ mencocok
 mencocokkan
 mencocol
 mencocolkan
+mencocor
 mencok
 mencokelatkan
 mencokolkan
@@ -38912,6 +39446,7 @@ mencomblangi
 mencomeli
 mencondongkan
 menconet
+mencong
 mencongakkan
 menconggokkan
 mencongkel
@@ -38920,6 +39455,7 @@ mencongkong
 mencongok
 mencongol
 mencontek
+menconteng
 mencontengkan
 mencontoh
 mencopot
@@ -38981,6 +39517,7 @@ mendalaminya
 mendalamkan
 mendalangi
 mendali
+mendalihkan
 mendalilkan
 mendamaikan
 mendamak
@@ -39029,6 +39566,7 @@ mendekap
 mendekapkan
 mendekati
 mendekatinya
+mendekatkan
 mendeking
 mendeklamasikan
 mendeklarasikan
@@ -39066,6 +39604,7 @@ mendeportasi
 mendeportasikan
 mendepositokan
 mendepun
+menderai
 menderaikan
 menderang
 menderas
@@ -39131,6 +39670,7 @@ mendompleng
 mendoncang
 mendonder
 mendondon
+mendong
 mendongak
 mendongeng
 mendongengkan
@@ -39203,6 +39743,7 @@ menelisik
 menelungkup
 menelungkupkan
 menelusuk
+menelusuri
 menembaga
 menembak
 menembakkan
@@ -39583,6 +40124,7 @@ mengarihkan
 mengarsir
 mengartikan
 mengartikelkan
+mengartikulasikan
 mengartukan
 mengaru
 mengarunia
@@ -39595,6 +40137,8 @@ mengasakan
 mengasalkan
 mengasapi
 mengasari
+mengasi
+mengasih
 mengasihi
 mengasimilasikan
 mengasing
@@ -39684,6 +40228,7 @@ mengedepankan
 mengedik
 mengedipkan
 mengeditorialisasi
+mengedot
 mengedraf
 mengedrop
 mengedub
@@ -40001,6 +40546,7 @@ menggantungi
 mengganyah
 mengganyang
 menggapil
+menggarah
 menggarami
 menggaramkan
 menggarang
@@ -40039,6 +40585,7 @@ menggelap
 menggelas
 menggelayut
 menggeleber
+menggelecik
 menggeledahi
 menggeledang
 menggeledek
@@ -40291,6 +40838,7 @@ menghambur
 menghamburi
 menghamburkan
 menghamili
+menghamilkan
 menghampiri
 menghampirkan
 menghamuni
@@ -40403,6 +40951,7 @@ mengikir
 mengikis
 mengikiskan
 mengiklankan
+mengiklimi
 mengikrarkan
 mengikuti
 mengikutinya
@@ -40562,6 +41111,7 @@ mengkondisikan
 mengkonferensikan
 mengkonfirmasi
 mengkonfrontasi
+mengkonsentrasikan
 mengkonservasi
 mengkonsolidasikan
 mengkonsultasikan
@@ -40621,6 +41171,7 @@ mengomputerisasikan
 mengomputerkan
 mengonan
 mengondensasikan
+mengondokkan
 mengonferensikan
 mengonfirmasi
 mengonggok
@@ -40665,6 +41216,7 @@ mengotes
 mengotomatiskan
 mengotomikan
 mengotonomikan
+mengotopsi
 mengotori
 mengotorkan
 menguahkan
@@ -40674,6 +41226,7 @@ mengualifikasikan
 menguangkan
 menguangkannya
 menguankan
+menguantifikasi
 menguap
 menguapkan
 menguar
@@ -40690,6 +41243,7 @@ mengucur
 mengucurkan
 mengudar
 mengudara
+mengudari
 mengudarkan
 mengudeta
 mengudungkan
@@ -40852,6 +41406,7 @@ menjambret
 menjaminkan
 menjampuk
 menjanda
+menjangankan
 menjangka
 menjangkang
 menjangkar
@@ -40870,6 +41425,7 @@ menjari
 menjaring
 menjatuhi
 menjatuhkan
+menjauh
 menjauhkan
 menjawab
 menjawakan
@@ -40896,6 +41452,7 @@ menjelengar
 menjelepok
 menjelihkan
 menjelijih
+menjelir
 menjelirkan
 menjelmakan
 menjelujur
@@ -41179,6 +41736,7 @@ menuntaskan
 menuntut
 menura
 menurbakan
+menuridae
 menuris
 menurun
 menuruni
@@ -41216,6 +41774,7 @@ menyakralkan
 menyaksikan
 menyakukan
 menyala
+menyalah
 menyalahkan
 menyalakan
 menyalang
@@ -41226,6 +41785,7 @@ menyalin
 menyalinkan
 menyalonkan
 menyaluti
+menyamadikan
 menyamai
 menyamainya
 menyamakan
@@ -41286,6 +41846,7 @@ menyanya
 menyanyi
 menyapu
 menyapukan
+menyara
 menyarangkan
 menyarankan
 menyarap
@@ -41660,6 +42221,7 @@ menyoroti
 menyortir
 menyosialisasi
 menyosialisasikan
+menyosoh
 menyosok
 menyosor
 menyuak
@@ -41718,6 +42280,7 @@ menyungkupi
 menyungkupkan
 menyuntik
 menyunting
+menyupiri
 menyurai
 menyuram
 menyurihkan
@@ -41788,6 +42351,7 @@ merambakkan
 merambatkan
 merambut
 merampai
+merampaikan
 merampak
 merampasi
 merampatkan
@@ -41832,6 +42396,7 @@ merapungkan
 merapunkan
 merapus
 merarai
+merarasi
 merasa
 merasai
 merasaikan
@@ -41882,6 +42447,7 @@ mereasuransi
 merebahkan
 merebak
 merebankan
+merebuk
 merebus
 merecak
 merecik
@@ -41896,6 +42462,7 @@ meregah
 meregas
 meregat
 meregenerasi
+mereguk
 merehabilitasi
 merejah
 merejahkan
@@ -41921,10 +42488,12 @@ merembetkan
 merembih
 merembukkan
 meremehkan
+meremoh
 merempa
 merempuh
 meremukkan
 merencanakan
+merenda
 merendahkan
 merendai
 merendamkan
@@ -41978,6 +42547,8 @@ mergul
 meri
 meria
 meriah
+meriahkan
+meriak
 meriakan
 meriam
 meriang
@@ -42032,11 +42603,14 @@ merkurium
 merkurius
 merkuro
 merkurokrom
+merkusii
 merobek
 merobot
 merodongkan
 meroepipelagik
+meroket
 meroma
+meromantisisme
 merombengkan
 merombong
 meromet
@@ -42053,7 +42627,9 @@ merongkok
 merongrong
 merongseng
 meronta
+meronyeh
 merops
+meroset
 merosokkan
 merosotkan
 merot
@@ -42071,6 +42647,7 @@ meruahkan
 meruang
 meruap
 merubu
+merudal
 merugikan
 meruing
 merujak
@@ -42274,6 +42851,7 @@ mid
 midi
 midik
 midiurnal
+midodar
 midodareni
 mie
 mieayam
@@ -42319,6 +42897,7 @@ mikro
 mikroalga
 mikroampere
 mikroanalisis
+mikroanatomi
 mikroangiopati
 mikrob
 mikroba
@@ -42447,6 +43026,7 @@ milim
 milimeter
 milimikron
 miling
+milion
 milioner
 milir
 milis
@@ -42494,6 +43074,7 @@ minallah
 minan
 minang
 minangkabau
+minannas
 minantu
 minar
 minaret
@@ -42575,6 +43156,7 @@ minus
 minuta
 minutering
 minyak
+minyakilah
 minyaknya
 mio
 mioelektrik
@@ -42708,6 +43290,7 @@ miyah
 mizab
 mizan
 mlata
+mlocoh
 mlondan
 mne
 mnemonik
@@ -42761,6 +43344,7 @@ moga
 mogao
 mogok
 moh
+moha
 mohair
 mohi
 mohon
@@ -42824,6 +43408,7 @@ mon
 mona
 monad
 monako
+monalia
 monalisa
 monarki
 monas
@@ -42854,6 +43439,7 @@ mongmong
 mongol
 mongolia
 mongolisme
+mongoloides
 mongoo
 moni
 monik
@@ -42953,6 +43539,7 @@ morat
 moratorium
 morbiditas
 morbili
+morbilli
 more
 morel
 moreng
@@ -43092,7 +43679,9 @@ mudigah
 mudik
 mudun
 mue
+muezzin
 muf
+mufaham
 mufakat
 mufarik
 mufasal
@@ -43154,6 +43743,7 @@ mukaku
 mukalaf
 mukalid
 mukamu
+mukang
 mukanya
 mukaram
 mukatabah
@@ -43332,9 +43922,11 @@ munjung
 munkar
 munkei
 muno
+munsyi
 muntaber
 muntah
 muntaha
+muntahan
 muntul
 munyuk
 mupus
@@ -43926,6 +44518,7 @@ nauclea
 naucleiflorus
 naucrates
 naucratus
+naulu
 naung
 naungan
 nauplius
@@ -44060,6 +44653,7 @@ neger
 negeri
 negeriku
 negerinya
+negin
 nego
 negoisasi
 negosi
@@ -44116,6 +44710,7 @@ nelpon
 nelumbium
 nelumbo
 nem
+nema
 nemagon
 nematoda
 nematologi
@@ -44170,6 +44765,7 @@ neologi
 neologisme
 neolokal
 neon
+neonasionalisme
 neonatal
 neonationalism
 neonatus
@@ -44215,6 +44811,7 @@ nerasi
 neratif
 nerator
 nereid
+nerifolia
 neriifolia
 nerima
 neritik
@@ -44369,6 +44966,7 @@ ngapak
 ngar
 ngarai
 ngarang
+ngarap
 ngarep
 ngaret
 ngari
@@ -44420,6 +45018,7 @@ ngeki
 ngel
 ngelamun
 ngelap
+ngeleng
 ngelepik
 ngeles
 ngelesin
@@ -44549,6 +45148,7 @@ ngluruk
 ngo
 ngobarkan
 ngobrol
+ngobyek
 ngoceh
 ngocok
 ngode
@@ -44559,6 +45159,7 @@ ngok
 ngoki
 ngoko
 ngol
+ngolo
 ngom
 ngomel
 ngomong
@@ -45112,6 +45713,7 @@ nonsynchronization
 nont
 nontarif
 nontax
+nontechnical
 nonteknis
 nontes
 nontol
@@ -45137,6 +45739,7 @@ nopause
 nopek
 nopember
 nopia
+noplace
 nopol
 noppen
 nor
@@ -45206,6 +45809,7 @@ novalhokadia
 novarum
 novasi
 novatie
+novation
 novel
 novela
 novelet
@@ -45273,6 +45877,7 @@ nugini
 nugraha
 nuh
 nuha
+nuhi
 nui
 nujum
 nujuman
@@ -45487,6 +46092,7 @@ nyebarkan
 nyebelin
 nyebur
 nyebut
+nyedang
 nyedangkan
 nyediakan
 nyegik
@@ -45504,6 +46110,7 @@ nyelekit
 nyeleneh
 nyeling
 nyelingkan
+nyelonong
 nyeluduk
 nyemek
 nyemplong
@@ -45533,6 +46140,7 @@ nyerocos
 nyerong
 nyerukan
 nyet
+nyetel
 nyetrika
 nyi
 nyiakan
@@ -45574,6 +46182,7 @@ nyolo
 nyolok
 nyolong
 nyoman
+nyon
 nyong
 nyongkolan
 nyontek
@@ -45596,12 +46205,14 @@ nyuk
 nyulam
 nyuling
 nyum
+nyumi
 nyung
 nyungsung
 nyunyut
 nyup
 nyur
 nyureng
+nyuruk
 nyusahin
 nyusul
 nyut
@@ -45719,6 +46330,7 @@ ode
 odekolonye
 oden
 odeng
+odep
 oder
 odi
 odimium
@@ -45777,6 +46389,7 @@ ofisikawan
 ofisis
 ofiukus
 ofm
+ofonik
 ofs
 ofset
 oftalmia
@@ -45872,6 +46485,7 @@ oknumisasi
 oknya
 oko
 okofobia
+okoh
 okok
 okol
 okolod
@@ -45964,6 +46578,7 @@ olan
 olanda
 olang
 olar
+olas
 ole
 olea
 oleac
@@ -46039,8 +46654,11 @@ olitik
 oliva
 olivin
 olo
+olog
+ologi
 ologis
 ologisasi
+ologisme
 ologiwan
 oloh
 olohok
@@ -46137,6 +46755,7 @@ oncen
 oncer
 oncoe
 oncom
+oncong
 oncor
 oncoran
 oncosperma
@@ -46167,11 +46786,13 @@ ongah
 ongahangih
 ongeh
 onggar
+ongget
 onggok
 onggokan
 ongji
 ongkang
 ongkek
+ongkilen
 ongkir
 ongko
 ongkok
@@ -46213,6 +46834,7 @@ ontam
 onteigening
 ontel
 ontin
+ontog
 ontogeni
 ontohod
 ontologi
@@ -46293,6 +46915,7 @@ opla
 oplag
 oplah
 oplas
+oplasma
 oplatonisme
 oplet
 oplichting
@@ -46306,6 +46929,7 @@ opod
 opon
 oponen
 oponik
+opop
 opor
 oportunis
 oportunisme
@@ -46402,6 +47026,7 @@ orbita
 orbital
 orbitnya
 orbotristis
+orcaella
 orchestrater
 orchidaceae
 ord
@@ -46479,6 +47104,7 @@ orientasinya
 origami
 original
 originalness
+oring
 oriolus
 orion
 oris
@@ -46557,6 +47183,7 @@ ortohidrogen
 ortoklas
 ortonormal
 ortonormalitas
+ortop
 ortopedagogik
 ortopedi
 ortopedis
@@ -46614,6 +47241,7 @@ osmom
 osmometer
 osmoregulasi
 osmoregulator
+osmosa
 osmose
 osmosi
 osmosis
@@ -46668,6 +47296,7 @@ otaknya
 otaku
 otalgia
 otan
+otang
 otar
 otda
 otek
@@ -46688,6 +47317,7 @@ otoaktivitas
 otobiografi
 otobis
 otobus
+otoda
 otodebet
 otodidak
 otofokus
@@ -46803,6 +47433,7 @@ owa
 owah
 owaha
 owara
+owe
 owel
 oxalidaceae
 oxidate
@@ -46814,7 +47445,9 @@ oxyhyncus
 oxypetalum
 oxyphylla
 oxyris
+oya
 oyak
+oyang
 oyek
 oyi
 oyo
@@ -46865,6 +47498,7 @@ pacecu
 pacek
 paceklik
 pacet
+pachyrrhizus
 pacifica
 pacificies
 pacih
@@ -46963,6 +47597,7 @@ pahi
 pahing
 pahinum
 pahit
+pahitnya
 pahlawan
 pahlawati
 pahter
@@ -47042,6 +47677,7 @@ pakualaman
 pakuan
 pakuh
 pakuk
+pakunya
 pakus
 pal
 pala
@@ -47174,12 +47810,14 @@ pameran
 pametia
 pamit
 pamitan
+pamona
 pamong
 pamor
 pampa
 pampan
 pampang
 pampas
+pampat
 pampiniform
 pamrih
 pamungkas
@@ -47297,6 +47935,7 @@ panganan
 pangandaran
 pangaraga
 pangasius
+pangdam
 pangeran
 panggak
 panggal
@@ -47322,6 +47961,7 @@ pangkas
 pangkasan
 pangkat
 pangkatku
+pangkoh
 pangkon
 pangkopkamtib
 pangkostrad
@@ -47337,6 +47977,7 @@ panglima
 pangling
 panglong
 pangolat
+pangolin
 pangonan
 pangonong
 pangot
@@ -47383,6 +48024,7 @@ pankreatektomi
 pankreatitis
 pankromatis
 pankronis
+panl
 panlektal
 panleukopenia
 panmus
@@ -47410,6 +48052,7 @@ pantar
 pantaran
 pantarlih
 pantas
+pantasnya
 pantat
 pantau
 pantauan
@@ -47457,6 +48100,7 @@ papar
 paparan
 paparegan
 paparisa
+paparkan
 papasak
 papasan
 papaverin
@@ -47467,6 +48111,7 @@ papi
 papikat
 papila
 papilionaceae
+papio
 papirofobia
 papras
 papua
@@ -47523,6 +48168,7 @@ parakletur
 paraklinik
 parako
 parakori
+parakrosis
 paraksiton
 paraksitonis
 paralaks
@@ -47554,12 +48200,14 @@ paran
 parang
 parangan
 paranoia
+paranoid
 paranormal
 paranosik
 paranpara
 parap
 parapagus
 parapalatal
+parapati
 parapet
 paraplasme
 paraplegia
@@ -47597,6 +48245,7 @@ parataksis
 parataktis
 paratesis
 paratifus
+paratipe
 paratiroid
 parau
 paravariasi
@@ -47648,6 +48297,7 @@ paroki
 parokial
 parokialisme
 paroksismal
+parolfaktori
 paron
 parondol
 paronomasia
@@ -47685,6 +48335,7 @@ parto
 parturifobia
 partus
 paru
+paruga
 paruh
 paruhan
 parung
@@ -47702,6 +48353,7 @@ pasak
 pasal
 pasalnya
 pasamidaan
+pasan
 pasang
 pasangan
 pasangannya
@@ -47727,6 +48379,7 @@ pascakawin
 pascakebenaran
 pascakemerdekaan
 pascakonsumsi
+pascakrisis
 pascal
 pascalarva
 pascalebaran
@@ -47765,6 +48418,7 @@ pasien
 pasif
 pasifik
 pasifikasi
+pasifis
 pasifisme
 pasik
 pasilan
@@ -47789,6 +48443,7 @@ paspor
 pasrah
 pasraman
 pasriflora
+passerina
 password
 past
 pasta
@@ -47819,6 +48474,7 @@ patabiontik
 patah
 patahan
 pataka
+patam
 patamon
 patan
 patapa
@@ -47897,6 +48553,7 @@ patron
 patronasi
 patronim
 patronimik
+pattae
 patu
 patuh
 patuk
@@ -47920,6 +48577,7 @@ pause
 paut
 pautan
 pautannya
+pautnya
 pawai
 pawak
 pawaka
@@ -47947,6 +48605,7 @@ pdf
 pdi
 pdt
 peang
+peastep
 pebangkai
 pebruari
 pecah
@@ -48021,8 +48680,10 @@ pegari
 pegas
 pegawai
 pegawainya
+pegawam
 pegelaran
 pego
+pegoh
 pegolf
 pegon
 pegowes
@@ -48042,6 +48703,7 @@ pejam
 pejasaboga
 pejatian
 pejihad
+pejilbab
 peju
 pejuang
 pek
@@ -48079,6 +48741,7 @@ pekong
 pekoro
 peksi
 pektai
+pektin
 pektoselulosa
 peku
 pekuk
@@ -48241,6 +48904,7 @@ peletan
 peletek
 peletik
 peleting
+peletup
 peletupan
 pelevelan
 peli
@@ -48281,6 +48945,7 @@ pelo
 pelog
 peloh
 pelokalan
+pelolos
 pelolosan
 pelombongan
 peloncatan
@@ -48318,6 +48983,7 @@ pelungpung
 pelupa
 pelupuk
 peluru
+pelurunya
 pelurusan
 pelus
 pem
@@ -48421,6 +49087,7 @@ pemasyarakatan
 pemasyhuran
 pematahan
 pematang
+pemati
 pematok
 pematokan
 pematri
@@ -48651,6 +49318,7 @@ pemelintiran
 pemelukan
 pememorian
 pemenang
+pemenangan
 pemengaruh
 pemenggalan
 pementas
@@ -48674,6 +49342,7 @@ pemercik
 pemercontoh
 pemerdeka
 pemerdekaan
+pemeretelan
 pemerhalus
 pemeriksa
 pemeriksaan
@@ -48904,6 +49573,7 @@ penanti
 penantian
 penanya
 penapaian
+penapisan
 penaplakan
 penarafan
 penarahan
@@ -49011,6 +49681,7 @@ pencopotan
 pencoreng
 pencorengan
 pencoretan
+pencu
 pencucian
 pencucuran
 pencukur
@@ -49581,6 +50252,7 @@ penggalangan
 penggalasan
 penggalian
 penggallah
+penggamakan
 penggamang
 penggambar
 pengganas
@@ -49628,6 +50300,7 @@ penggempuran
 penggemuk
 penggemukan
 penggenangan
+penggenapan
 penggeneralisasian
 penggenggam
 penggenjot
@@ -49776,6 +50449,7 @@ penghutanan
 pengiasan
 pengiba
 pengibaran
+pengibul
 pengibulan
 pengicu
 pengicuan
@@ -49839,6 +50513,7 @@ penginterpelasi
 penginterpretasi
 penginterpretasian
 pengintervensi
+penginterviu
 penginti
 pengintian
 pengintil
@@ -49869,10 +50544,12 @@ pengisi
 pengisolasi
 pengisolasian
 pengistilahan
+pengisyaratan
 pengitaban
 pengitaran
 pengkajian
 pengkang
+pengkategorian
 pengkhianat
 pengkhianatan
 pengkhususan
@@ -49906,6 +50583,7 @@ pengocok
 pengocokan
 pengodifikasian
 pengodolan
+pengoksida
 pengoksidanan
 pengoksidasi
 pengolahan
@@ -50040,6 +50718,7 @@ pengurusannya
 pengurut
 pengurutan
 pengusapan
+pengusir
 pengusiran
 pengusul
 pengusulan
@@ -50129,6 +50808,7 @@ penjarian
 penjaruman
 penjas
 penjatuhan
+penjawab
 penjebakan
 penjeblosan
 penjebolan
@@ -50148,6 +50828,7 @@ penjilidan
 penjinakan
 penjingu
 penjiplakan
+penjodoh
 penjor
 penjotos
 penjualan
@@ -50248,6 +50929,7 @@ penunjang
 penuntutan
 penurun
 penurut
+penusuk
 penusukan
 penutrisi
 penuturan
@@ -50477,6 +51159,7 @@ penyontek
 penyorong
 penyortir
 penyortiran
+penyosoh
 penyu
 penyuapan
 penyuaraan
@@ -50531,6 +51214,7 @@ penziarah
 peo
 peok
 peolahraga
+peong
 peot
 pep
 pepare
@@ -50605,6 +51289,7 @@ perancangan
 perancis
 perancit
 perancungan
+perandiri
 perang
 perangah
 perangai
@@ -50646,6 +51331,7 @@ perawan
 perawat
 perawi
 perayaan
+perazia
 perbahanan
 perbahasa
 perbahasaan
@@ -50756,6 +51442,7 @@ perenggutan
 perengkah
 perenial
 perenyak
+perenyuk
 peres
 peresapan
 peresensi
@@ -50925,6 +51612,7 @@ perkartuan
 perkasa
 perkasetan
 perkataan
+perkauman
 perkawanan
 perkawinan
 perkawinannya
@@ -51053,6 +51741,7 @@ pernyataan
 perobekan
 perobohan
 perogoh
+perohong
 peroi
 peroketan
 peroksisom
@@ -51081,6 +51770,7 @@ perpegangan
 perpelancongan
 perpeloncoan
 perpindahan
+perpintaan
 perpisahan
 perploncoan
 perpolitikan
@@ -51159,6 +51849,7 @@ persetujuannya
 persetujui
 perseus
 persia
+persiaran
 persiasatan
 persidangan
 persih
@@ -51232,6 +51923,7 @@ pertenunan
 pertepatan
 perteraan
 pertetanggaan
+pertiga
 pertikaian
 pertiketan
 pertina
@@ -51252,6 +51944,7 @@ pertuturan
 peru
 peruangan
 perubah
+perubahaan
 perubahan
 perubahannya
 perudang
@@ -51259,6 +51952,7 @@ peruis
 perukunan
 perulangan
 perumahan
+perumahtanggaan
 perumpamaan
 perumpung
 perumputan
@@ -51374,6 +52068,7 @@ petenteng
 petentengan
 peterseli
 peti
+petia
 petiduran
 petikan
 petilan
@@ -51405,10 +52100,12 @@ petsai
 petualang
 petualangan
 petualangannya
+petuding
 petugas
 petuk
 petunia
 petunjuk
+peturun
 petus
 petuturan
 peu
@@ -51436,6 +52133,7 @@ pezazz
 peziarah
 pezikir
 pezina
+phalacroraxidae
 phalaenopsisamabilis
 phalanger
 phalen
@@ -51721,6 +52419,7 @@ pintunya
 pinurim
 pinus
 pio
+piog
 piogen
 piogenik
 pion
@@ -51838,6 +52537,7 @@ pist
 pista
 pistaksis
 pistasio
+pistia
 pistol
 pistolnya
 pistom
@@ -51951,6 +52651,7 @@ pleomorf
 pleomorfisme
 pleonasme
 pler
+plered
 plerem
 plester
 plesteran
@@ -52212,6 +52913,7 @@ polkadot
 polkam
 pollster
 polmah
+polman
 polo
 polok
 polones
@@ -52271,6 +52973,7 @@ ponor
 ponpes
 pons
 ponsel
+pontang
 ponten
 ponti
 pontianak
@@ -52289,6 +52992,7 @@ popnas
 popo
 popok
 popokan
+popul
 popular
 popularisasi
 popularitas
@@ -52303,6 +53007,7 @@ poranan
 poranda
 porandakan
 porang
+porda
 poren
 porfiria
 porfirin
@@ -52371,7 +53076,9 @@ posko
 poskotis
 poskrip
 poso
+posoh
 posong
+pospak
 postar
 postel
 poster
@@ -52382,6 +53089,7 @@ postscriptum
 postugram
 postulat
 postur
+poswesel
 posyandu
 pot
 potamodrom
@@ -52450,6 +53158,7 @@ praktikum
 praktis
 praktisi
 prama
+pramboos
 pramuacara
 pramubakti
 pramubarang
@@ -52476,6 +53185,7 @@ prapalatal
 prapendapat
 prapensiun
 praprandial
+praproduksi
 prapubertas
 prapustaka
 praregistrasi
@@ -52511,6 +53221,7 @@ prediksikan
 prediktor
 predisposisi
 preeklamsia
+prefab
 preferensi
 prefiks
 prehistori
@@ -52620,6 +53331,7 @@ progeni
 progenitor
 progesteron
 prognatisme
+prognosis
 program
 programkan
 progresif
@@ -52649,6 +53361,7 @@ promiskuitas
 promontorium
 promosi
 promotif
+promov
 promovendus
 promoveren
 pron
@@ -52669,6 +53382,7 @@ propilena
 proporsional
 proposal
 propulsi
+prosa
 prosedur
 prosedural
 prosen
@@ -52721,6 +53435,7 @@ protozoa
 protraksi
 protrombin
 protuberansia
+prov
 provenans
 provinsialisme
 provokatif
@@ -52743,6 +53458,7 @@ pseudociaena
 pseudodemensia
 pseudoginekomastia
 pseudohipoparatiroidisme
+pseudokata
 pseudokista
 pseudomorf
 pseudonim
@@ -52797,6 +53513,7 @@ psikoseksual
 psikosis
 psikosomatik
 psikosomatika
+psikot
 psikoteknik
 psikoteknis
 psikoterapi
@@ -52812,10 +53529,12 @@ psilosibina
 psin
 psis
 psitakosis
+psl
 psm
 psoriasis
 psoriosis
 pssi
+psychotria
 pta
 ptabilitas
 ptagon
@@ -52827,7 +53546,10 @@ pterokauli
 pteromerhanofobia
 pteronofobia
 ptif
+ptn
 pto
+ptosis
+pts
 ptual
 ptualisasi
 ptum
@@ -52941,6 +53663,7 @@ pulsar
 pulsasi
 pulu
 puluh
+puluhan
 pulun
 pulung
 pulus
@@ -52960,6 +53683,7 @@ punat
 punca
 puncak
 puncek
+punch
 pundak
 pundaknya
 punden
@@ -53078,6 +53802,7 @@ purwakanti
 purwakarta
 purwapada
 purwarupa
+purwasuka
 purworejo
 pus
 pusa
@@ -53161,6 +53886,8 @@ putriditas
 putu
 putus
 putusan
+putusannya
+putusasa
 putusnya
 putz
 puumboto
@@ -53171,7 +53898,10 @@ puyu
 puyuh
 puyunghai
 pwi
+pyang
 pygeum
+pyrus
+pyu
 qada
 qadar
 qadim
@@ -53227,6 +53957,7 @@ rabasnya
 rabat
 rabbiyal
 rabeg
+rabeng
 rabet
 rabi
 rabies
@@ -53248,6 +53979,7 @@ rabut
 racak
 racau
 racauan
+racemosa
 racik
 racikan
 racikannya
@@ -53565,6 +54297,7 @@ rambusa
 rambut
 rambutan
 rambuti
+rambutku
 rambutmu
 rambutnya
 rame
@@ -53675,6 +54408,7 @@ rangkaikan
 rangkak
 rangkakan
 rangkam
+rangkan
 rangkang
 rangkanya
 rangkap
@@ -53787,6 +54521,7 @@ raphia
 rapi
 rapia
 rapiah
+rapido
 rapih
 rapik
 rapikan
@@ -54014,6 +54749,7 @@ realitalah
 realitas
 realokasi
 realpolitik
+reas
 reasuradur
 reasuransi
 reaumur
@@ -54062,6 +54798,7 @@ recehan
 recet
 recharacterized
 recharacterizing
+rechewing
 recik
 recikan
 recitativo
@@ -54200,6 +54937,7 @@ reich
 reideologisasi
 reifikasi
 reimpose
+reimposing
 reindoctrination
 reindoktrinasi
 reinforcer
@@ -54399,6 +55137,7 @@ remp
 rempa
 rempah
 rempahi
+rempahnya
 rempak
 rempan
 rempela
@@ -54501,6 +55240,7 @@ rengo
 rengreng
 rengrengan
 rengsa
+rengus
 rengut
 renik
 renin
@@ -54637,6 +55377,7 @@ reput
 reputasi
 reqia
 rer
+rerak
 reramuan
 rerangka
 reranting
@@ -54748,6 +55489,7 @@ respons
 responsi
 responsibilitas
 responsif
+responsorium
 restan
 restiformis
 restitusi
@@ -54791,6 +55533,7 @@ retensi
 retentivitas
 retet
 reti
+reticulatus
 retih
 retikuler
 retikulosit
@@ -54977,6 +55720,7 @@ rifler
 rifrasa
 rifrastis
 rig
+riga
 rigai
 rigi
 rigida
@@ -55126,6 +55870,7 @@ riodik
 riodisasi
 riodisme
 riodontium
+riofag
 riografi
 riol
 riola
@@ -55139,6 +55884,7 @@ riorbita
 riori
 riorisasi
 rioritas
+riosa
 rioskl
 riost
 riostatik
@@ -55148,6 +55894,7 @@ ripai
 riparian
 ripit
 ripta
+ripu
 ripuh
 ripuk
 rir
@@ -55257,6 +56004,7 @@ rmis
 rna
 roa
 rob
+roba
 robah
 robak
 roban
@@ -55264,6 +56012,7 @@ robatik
 robeh
 robek
 robekan
+robik
 roboh
 robohan
 robohkan
@@ -55296,6 +56045,7 @@ rodok
 rodolit
 rodong
 rodopsin
+rodot
 rof
 rofil
 rofilia
@@ -55367,6 +56117,7 @@ romaji
 roman
 romang
 romania
+romanika
 romanistik
 romannya
 romansa
@@ -55447,6 +56198,7 @@ rongos
 rongot
 rongrong
 rongrongan
+rongs
 rongseng
 rongsok
 rongsokan
@@ -55471,6 +56223,7 @@ ropak
 ropang
 roplankton
 roplastik
+ropoda
 ropoh
 ror
 rorehe
@@ -55546,6 +56299,7 @@ royong
 roystonea
 rpg
 rpl
+rpm
 rpul
 rrc
 rri
@@ -55625,6 +56379,7 @@ rug
 rugbi
 rugi
 rugikan
+ruginya
 rugosa
 rugul
 ruh
@@ -55767,6 +56522,7 @@ runtai
 runtak
 runtang
 runtas
+runtasan
 runti
 runtih
 runtu
@@ -55836,6 +56592,7 @@ rutenium
 ruter
 ruterfordium
 ruti
+ruticulatum
 rutin
 ruting
 rutinitas
@@ -55942,6 +56699,7 @@ sadei
 sadel
 sadelnya
 sadeu
+sadewa
 sadik
 sadin
 sading
@@ -55975,6 +56733,7 @@ safih
 safinah
 safinatunajah
 safir
+safo
 safrah
 safron
 safsaf
@@ -56052,6 +56811,7 @@ sailboarding
 sailo
 sailolof
 sain
+sainer
 saing
 saingan
 saingannya
@@ -56133,6 +56893,7 @@ sakral
 sakralisasi
 sakralisme
 sakralitas
+sakralkan
 sakram
 sakramen
 sakramental
@@ -56244,6 +57005,7 @@ salmonela
 salmonelosis
 salomon
 salon
+salong
 salosot
 salpeter
 salping
@@ -56283,6 +57045,7 @@ samanera
 samaneri
 samangat
 samaniah
+samanya
 samapta
 samar
 samara
@@ -56335,9 +57098,11 @@ samijaga
 samin
 samir
 samirana
+samit
 samkel
 samoa
 samoaamerika
+samos
 samosa
 samosir
 samovar
@@ -56438,6 +57203,7 @@ sandar
 sandaran
 sandarannya
 sandarkan
+sandarnya
 sandek
 sandel
 sandera
@@ -56680,6 +57446,7 @@ sara
 saraba
 sarabek
 saraf
+sarafnya
 saragan
 sarageni
 sarah
@@ -56696,6 +57463,7 @@ sarananya
 sarang
 sarangan
 sarangmu
+sarangnya
 sarannya
 saranya
 sarap
@@ -56890,6 +57658,7 @@ sauna
 saung
 saup
 saur
+sauri
 saurida
 sauropus
 saurus
@@ -56968,6 +57737,7 @@ sbianisme
 sbiopia
 sbit
 scabiei
+scandens
 scanner
 scanning
 scarlett
@@ -56982,6 +57752,7 @@ scleropages
 scomberomorus
 scorpaenidal
 scorpio
+scorpion
 scortechirii
 scratcher
 scuzz
@@ -57002,6 +57773,7 @@ seadegan
 seadil
 seafiliasi
 seagama
+seagenda
 seagresif
 seagung
 seajaib
@@ -57014,8 +57786,10 @@ seaktif
 seaktual
 seakun
 seakurat
+seal
 sealam
 sealamat
+sealim
 sealiran
 sealun
 sealur
@@ -57089,6 +57863,7 @@ sebambang
 sebandel
 sebanding
 sebandingkan
+sebang
 sebangsa
 sebangsanya
 sebangun
@@ -57100,6 +57875,7 @@ sebarang
 sebarannya
 sebarau
 sebaris
+sebarisan
 sebarkan
 sebaruk
 sebasah
@@ -57140,10 +57916,12 @@ sebesar
 sebetapapun
 sebetulnya
 sebidang
+sebih
 sebik
 sebilang
 sebilik
 sebintang
+sebisa
 sebisanya
 sebit
 seblak
@@ -57346,6 +58124,7 @@ sefasih
 sefavorit
 sefrustasi
 sefrustrasi
+sefungsi
 seg
 sega
 segabung
@@ -57415,24 +58194,31 @@ sehaja
 sehaluan
 sehamparan
 seharah
+seharga
 seharian
+seharum
 seharusnya
 seharusnyalah
 sehasta
 sehat
 sehati
+sehatnya
+seheboh
 sehelai
 seheroik
 sehilir
 sehimpunan
 sehina
+sehinga
 sehingga
 sehubungan
 sei
 seia
 seijinnya
+seikhlasnya
 seikhwan
 seilometer
+seilon
 seimbang
 seimbangan
 seimbangkan
@@ -57456,6 +58242,7 @@ seismonasti
 seismotropisme
 seistimewa
 seiyu
+seizin
 sejabat
 sejagad
 sejagat
@@ -57488,6 +58275,7 @@ sejibun
 sejimpit
 sejingkat
 sejinjing
+sejodoh
 sejonjot
 sejoreng
 sejuk
@@ -57603,6 +58391,7 @@ seketika
 seketil
 seketip
 seketul
+seketurunan
 sekh
 sekian
 sekibang
@@ -57640,6 +58429,7 @@ sekotah
 sekoteng
 sekpri
 sekrap
+sekresi
 sekret
 sekreta
 sekretariat
@@ -57762,10 +58552,12 @@ selapa
 selapan
 selapanan
 selapik
+selapis
 selaput
 selar
 selarak
 selarap
+selaras
 selarasan
 selaraskan
 selari
@@ -57809,6 +58601,7 @@ selejang
 selekasnya
 selekeh
 seleknas
+selekoh
 selekor
 seleksek
 seleksi
@@ -57850,6 +58643,7 @@ selentingan
 seleo
 selep
 selepa
+selepah
 selepang
 selepas
 selepat
@@ -57887,6 +58681,7 @@ selimbu
 selimpang
 selimpat
 selimut
+selimuti
 selimutnya
 selinap
 selincah
@@ -57895,6 +58690,7 @@ selindit
 selindung
 seling
 selingar
+selingkar
 selingkit
 selingkuh
 selingkuhan
@@ -57905,6 +58701,7 @@ selip
 selipan
 selipkan
 selir
+selira
 selirak
 selirat
 selirik
@@ -57915,6 +58712,7 @@ selisik
 selisip
 selisir
 selit
+seliu
 seliwen
 seliwer
 seliweran
@@ -57998,6 +58796,7 @@ sem
 sema
 semacam
 semacamnya
+semacan
 semafor
 semah
 semahal
@@ -58030,6 +58829,7 @@ semandang
 semandarasa
 semandarasah
 semandera
+semang
 semangat
 semangati
 semangatku
@@ -58198,6 +58998,7 @@ semir
 semisintetis
 semit
 semitablet
+semitism
 semitisme
 semitrailer
 semivokal
@@ -58247,8 +59048,10 @@ semudera
 semudik
 semufakat
 semujur
+semuka
 semukabalah
 semula
+semulia
 semunding
 semunian
 semuntu
@@ -58410,6 +59213,7 @@ seni
 senigai
 senil
 senilai
+senilitas
 seniman
 senimannya
 senin
@@ -58425,6 +59229,7 @@ senjatamu
 senjatanya
 senjong
 senjuang
+seno
 senofobia
 senoglosofobia
 senografi
@@ -58451,6 +59256,7 @@ sensoran
 sensorik
 sensorimotor
 sensoris
+sensual
 sensualism
 sensualisme
 sensualitas
@@ -58528,6 +59334,7 @@ seorang
 seorangpun
 seorganisasi
 sep
+sepa
 sepada
 sepadan
 sepadi
@@ -58577,6 +59384,7 @@ sepatung
 sepatunya
 sepatutnya
 sepau
+sepawamil
 sepeda
 sepedanya
 sepedas
@@ -58626,6 +59434,7 @@ seperangkat
 seperangkatan
 seperantu
 seperdua
+sepergimu
 seperinduan
 seperindukan
 seperiode
@@ -58655,6 +59464,7 @@ sepeser
 sepet
 sepetir
 sepi
+sepia
 sepicing
 sepicis
 sepih
@@ -58694,6 +59504,7 @@ sepucuk
 sepuh
 sepuhan
 sepui
+sepuit
 sepuk
 sepukal
 sepul
@@ -58821,9 +59632,11 @@ serebri
 serebrospinal
 serebrum
 seregang
+seregu
 sereguk
 sereh
 serejang
+serela
 serelanya
 serembah
 serembai
@@ -58835,6 +59648,7 @@ serempak
 serempe
 serempet
 serempu
+serenade
 serenceng
 serendah
 serendeng
@@ -58848,6 +59662,7 @@ serenta
 serentak
 serentang
 serentetan
+serenyuk
 serep
 serepih
 seresah
@@ -58926,10 +59741,12 @@ seroplastik
 seropot
 serositas
 serosoh
+serosum
 serot
 serotinal
 serotong
 serotonin
+serow
 seroyong
 seroyongan
 serp
@@ -58981,6 +59798,7 @@ seruntai
 seruntun
 serupa
 serupiah
+serupih
 seruput
 serut
 seruyan
@@ -59027,6 +59845,7 @@ sesat
 sesatif
 sesawi
 sesayat
+sese
 sesebentar
 sesederhana
 sesedikit
@@ -59111,10 +59930,12 @@ setapak
 setara
 setaraf
 setaria
+setasion
 setat
 setater
 setawar
 setebal
+seteger
 seteguk
 seteheng
 setek
@@ -59124,6 +59945,7 @@ setela
 setelah
 setelempap
 seteleng
+setem
 seteman
 setempap
 setempat
@@ -59174,9 +59996,11 @@ setipinnataty
 setipis
 setir
 setirman
+setirnya
 setiwal
 setiwel
 setmil
+setok
 setoka
 setoker
 setokin
@@ -59231,14 +60055,20 @@ seumpama
 seumpamanya
 seumum
 seumumnya
+seumur
+seumuran
+seunit
 seuntil
 seusai
 seusia
+seutuh
 seutuhnya
 sewa
+sewah
 sewajarnya
 sewajibnya
 sewaka
+sewakan
 sewaktu
 sewar
 sewat
@@ -59270,6 +60100,7 @@ sfingolipid
 sfingosina
 sfingter
 sfinks
+shabu
 shakespeare
 shalat
 shalt
@@ -59286,6 +60117,8 @@ sholawat
 sholeh
 sholeha
 sholehah
+sholot
+shopee
 shorea
 sia
 siaan
@@ -59347,6 +60180,7 @@ siarat
 siarkan
 siasah
 siasat
+siasati
 siasi
 siasial
 siasis
@@ -59361,6 +60195,7 @@ sibalaya
 sibar
 sibayak
 sibela
+sibeng
 siber
 siberfobia
 siberhutang
@@ -59421,6 +60256,7 @@ sidomukti
 sidratul
 sidratulmuntaha
 sidu
+sidua
 siduga
 sie
 siena
@@ -59473,7 +60309,9 @@ sigung
 sih
 sihaafari
 sihi
+sihim
 sihir
+sihoru
 sijil
 sijobang
 sijundai
@@ -59619,6 +60457,7 @@ siloksana
 silol
 silologi
 silometer
+silong
 silonit
 siloptik
 silosa
@@ -59730,6 +60569,7 @@ simplifikasi
 simplikasi
 simplikatif
 simplisia
+simplistik
 simplistis
 simponi
 simpor
@@ -59910,6 +60750,7 @@ sinklimal
 sinklin
 sinkonina
 sinkope
+sinkr
 sinkretik
 sinkretis
 sinkretisasi
@@ -60013,6 +60854,7 @@ siongka
 sionis
 sionisme
 sionistik
+siop
 siositas
 sip
 sipahi
@@ -60053,6 +60895,7 @@ siraman
 sirami
 siramkan
 siran
+sirang
 sirangkak
 sirap
 sirascakra
@@ -60266,6 +61109,7 @@ skala
 skalanya
 skalator
 skalina
+skalop
 skan
 skandal
 skandanavia
@@ -60348,6 +61192,7 @@ skriptif
 skriptorium
 skrobikulus
 skrub
+skrup
 sku
 skuadron
 skualena
@@ -60402,6 +61247,7 @@ smythea
 snatch
 snob
 snobisme
+snoker
 snooker
 snorkel
 snorkeling
@@ -60443,6 +61289,7 @@ sof
 sofa
 sofbol
 sofifi
+sofis
 sofisme
 sofistikasi
 sofistri
@@ -60476,6 +61323,7 @@ sokom
 sokong
 sokongan
 sol
+solah
 solak
 solang
 solanina
@@ -60516,6 +61364,7 @@ solnya
 solo
 solok
 solokan
+solong
 solor
 solora
 solot
@@ -60523,6 +61372,7 @@ solstis
 solum
 solusi
 solutif
+solv
 solvabilitas
 solven
 som
@@ -60556,6 +61406,7 @@ sompek
 sompeng
 somplak
 somplok
+sompoh
 sompong
 sompr
 sompral
@@ -60579,6 +61430,7 @@ sonduk
 soneta
 song
 songar
+songel
 songg
 songga
 songgak
@@ -60621,6 +61473,7 @@ sopir
 sopirnya
 sopo
 soporifik
+soppeng
 sopran
 soprano
 sor
@@ -60647,6 +61500,7 @@ soroban
 sorog
 sorogan
 sorok
+sorong
 sorongan
 sororia
 sorosis
@@ -60715,7 +61569,9 @@ sotoraks
 sotto
 sou
 souci
+sougb
 soul
+soum
 soun
 souvenir
 sow
@@ -61078,6 +61934,7 @@ stilir
 stilistika
 stilograf
 stilus
+stimasi
 stimulan
 stimulans
 stimulasi
@@ -61086,6 +61943,7 @@ stimulator
 stimulisasi
 stimulus
 sting
+stinkiest
 stip
 stipendium
 stipularis
@@ -61094,6 +61952,7 @@ stir
 stirena
 stirofoam
 stis
+stival
 stm
 stockpile
 stof
@@ -61150,6 +62009,7 @@ streptomisin
 streptomyces
 streptopelia
 stres
+stresor
 stress
 stri
 striasi
@@ -61217,6 +62077,7 @@ suami
 suamiku
 suamimu
 suaminda
+suaminya
 suan
 suana
 suang
@@ -61239,6 +62100,7 @@ suasua
 suat
 suatu
 suatupun
+suaveolens
 sub
 subak
 subakut
@@ -61293,6 +62155,7 @@ sublitoral
 subluksasi
 submaksimal
 submarine
+submenu
 submikron
 subminiata
 submukosa
@@ -61333,6 +62196,7 @@ subtil
 subtipe
 subtonik
 subtropik
+subtropis
 subuco
 subuh
 subumbrans
@@ -61358,6 +62222,7 @@ sudah
 sudahan
 sudahkah
 sudahlah
+sudahnya
 sudak
 sudan
 sudang
@@ -61513,6 +62378,7 @@ sulfonamida
 sulforafan
 sulfur
 sulfurasi
+sulfurisasi
 suli
 suligar
 sulih
@@ -61619,6 +62485,7 @@ suncus
 sunda
 sundai
 sundak
+sundakecil
 sundal
 sundang
 sundari
@@ -61632,6 +62499,7 @@ sundung
 sundusin
 sundut
 sung
+sunga
 sungai
 sungainya
 sungga
@@ -61817,6 +62685,7 @@ surjan
 suro
 surogasi
 surogat
+suromengggolo
 surplus
 suru
 suruh
@@ -61826,6 +62695,7 @@ surukan
 surung
 surup
 surut
+surutkan
 surutnya
 survai
 survei
@@ -62039,12 +62909,16 @@ syat
 syatar
 syaulam
 syawal
+syawalan
+sye
 syeh
 syekh
 syeti
 syi
+syiaga
 syiah
 syiar
+syik
 syikak
 syikal
 syiki
@@ -62058,8 +62932,10 @@ syncretic
 syok
 syorga
 syria
+system
 syu
 syuaib
+syub
 syubahat
 syubhat
 syufaat
@@ -62212,6 +63088,7 @@ tafkur
 tafofobia
 tafoglif
 tafonomi
+tafora
 taforis
 tafsir
 tafsiran
@@ -62737,6 +63614,7 @@ tambeng
 tamber
 tambera
 tambi
+tambing
 tambo
 tamborin
 tambra
@@ -63085,6 +63963,7 @@ tardasi
 tarek
 tarekat
 tarengke
+tarfia
 target
 targetkan
 tarhib
@@ -63098,6 +63977,7 @@ tarif
 tarik
 tarikan
 tarikat
+tarikatnya
 tarikh
 tarikhnya
 tariklah
@@ -63132,6 +64012,7 @@ tartar
 tartil
 tartir
 tartrat
+tartrazine
 taru
 tarub
 taruh
@@ -63157,6 +64038,7 @@ tasalsul
 tasamuh
 tasaruf
 tasawuf
+tasb
 tasbeh
 tasbih
 tasdid
@@ -63200,6 +64082,7 @@ tat
 tata
 tataan
 tatabahasa
+tatabahasawan
 tataban
 tatacara
 tataganing
@@ -63231,6 +64114,7 @@ tatisme
 tatkala
 tato
 tator
+tatron
 tatu
 tatung
 taty
@@ -63299,6 +64183,8 @@ tawasul
 tawasut
 tawazun
 tawon
+taworta
+tawung
 tawur
 tawuran
 taya
@@ -63531,6 +64417,7 @@ tele
 telearsika
 telebelanja
 teledeteksi
+teledor
 teledrama
 telefilm
 telefon
@@ -63803,6 +64690,7 @@ temukung
 temukus
 temulawak
 temungkul
+temuras
 temurat
 temurun
 ten
@@ -63817,6 +64705,7 @@ tenam
 tenan
 tenang
 tenanglah
+tenangnya
 tenapel
 tenar
 tenat
@@ -63917,6 +64806,7 @@ tenis
 tenjet
 tenong
 tenor
+tenreng
 tensi
 tensimeter
 tensiometer
@@ -63938,6 +64828,7 @@ tentu
 tentukan
 tentulah
 tentunya
+tenuiflora
 tenuifolium
 tenuk
 tenun
@@ -63950,6 +64841,7 @@ teodolit
 teofani
 teofobia
 teokrasi
+teokratik
 teokratis
 teolog
 teologi
@@ -64007,6 +64899,7 @@ teplok
 tepo
 tepong
 tepos
+tepra
 tepu
 tepuk
 tepung
@@ -64747,6 +65640,7 @@ terionisasi
 teripang
 teriris
 teriritasi
+terisak
 terisolasi
 terisolir
 teristimewa
@@ -64829,6 +65723,7 @@ terjotos
 terjualnya
 terjulur
 terjumbai
+terjumlah
 terjumpa
 terjun
 terjunam
@@ -64873,6 +65768,7 @@ terkategori
 terkatrol
 terkatup
 terkawal
+terkaya
 terkayuhkan
 terkebat
 terkebelakang
@@ -65064,6 +65960,7 @@ terlebih
 terlebur
 terlecah
 terledakkan
+terleka
 terlelah
 terlelang
 terlelap
@@ -65131,6 +66028,7 @@ terlukai
 terlukis
 terlukiskan
 terluluk
+terlumat
 terlumrah
 terlunak
 terlunasi
@@ -65230,6 +66128,7 @@ termometri
 termonasti
 termonuklir
 termoplastik
+termoregulasi
 termoregulator
 termoreseptor
 termos
@@ -65569,6 +66468,7 @@ tersedap
 tersedia
 tersedih
 tersedot
+tersehat
 tersekap
 tersekat
 terselam
@@ -65624,6 +66524,7 @@ tersengkang
 tersengsam
 tersengsara
 tersengsem
+tersenior
 tersentak
 tersentil
 tersentral
@@ -65709,6 +66610,7 @@ tersokong
 tersomplok
 tersompok
 tersongel
+tersoren
 tersorong
 tersorot
 tersosialisasikan
@@ -65754,6 +66656,7 @@ tersunjam
 tersunting
 tersuntuk
 tersuratkan
+tersuruk
 tersusahkan
 tersuspensi
 tertaati
@@ -65830,6 +66733,7 @@ tertelungkup
 tertelusuri
 tertembak
 tertembus
+tertempel
 tertempuh
 tertemu
 tertemukan
@@ -65847,6 +66751,7 @@ tertiadakan
 tertiarap
 tertib
 tertiban
+tertibkan
 tertidur
 tertikam
 tertilang
@@ -65863,6 +66768,7 @@ tertindih
 tertinggal
 tertinggi
 tertingginya
+tertipu
 tertiup
 tertohok
 tertolong
@@ -65910,6 +66816,7 @@ terucuk
 terucukan
 terugikan
 teruji
+terujud
 teruk
 teruka
 terukir
@@ -65931,6 +66838,7 @@ terunjur
 teruntai
 teruntuk
 terup
+terupa
 terupaya
 terurai
 teruraikan
@@ -65975,9 +66883,11 @@ tesis
 tesisnya
 tesla
 tesmak
+tespen
 tespong
 test
 testamen
+testasean
 testes
 testikel
 testimoni
@@ -66013,6 +66923,7 @@ teteguk
 teteh
 tetek
 tetelan
+tetelo
 tetenger
 teter
 teterapan
@@ -66020,6 +66931,7 @@ teterapang
 tetesan
 tetiba
 tetibau
+tetis
 tetra
 tetrad
 tetradactylum
@@ -66042,11 +66954,13 @@ tetrasilin
 tetrasitik
 tetris
 tetrode
+tetuang
 tetumbuhan
 tetun
 tetunggul
 teu
 teuku
+teur
 teuthis
 teve
 tewa
@@ -66097,6 +67011,7 @@ tidak
 tidakjelasan
 tidakkah
 tidaklah
+tidakmantapan
 tidaknya
 tidakpatuhan
 tidakserasian
@@ -66127,6 +67042,7 @@ tigel
 tiglium
 tigmotropisme
 tigo
+tigris
 tih
 tiha
 tihal
@@ -66321,6 +67237,7 @@ tingkatan
 tingkatannya
 tingkatkan
 tingkatnya
+tingkeb
 tingkeban
 tingker
 tingkis
@@ -66355,6 +67272,7 @@ tinuspora
 tinutuan
 tinyor
 tio
+tiol
 tiolin
 tiologi
 tiolus
@@ -66544,6 +67462,7 @@ togo
 togok
 togram
 toh
+toha
 tohi
 tohok
 tohor
@@ -66724,6 +67643,7 @@ tongpes
 tongs
 tongsan
 tongseng
+tongsil
 tongsis
 tongsit
 tongtong
@@ -66890,6 +67810,7 @@ toyah
 toyor
 toyulea
 tra
+trab
 trabekula
 trachy
 trachycoleus
@@ -66939,6 +67860,7 @@ transaktif
 transdiferensia
 transduksi
 transduser
+transek
 transeksual
 transenden
 transendental
@@ -67004,6 +67926,7 @@ transportasi
 transposisi
 transpria
 transpuan
+transv
 transversal
 transvestisme
 transvetisme
@@ -67041,6 +67964,8 @@ trenggalek
 trenggiling
 trengginas
 trengguli
+treponema
+treron
 tres
 tresna
 treycinetia
@@ -67121,6 +68046,7 @@ trilipat
 triliun
 triliunan
 triliuner
+triloba
 trilobit
 trilogi
 trilomba
@@ -67151,6 +68077,7 @@ tripanosomiasis
 tripartit
 tripel
 triphasia
+tripitaka
 triplek
 tripleks
 triplet
@@ -67210,6 +68137,7 @@ trol
 troli
 trolingual
 trologi
+trom
 tromaks
 tromamal
 trombin
@@ -67250,6 +68178,7 @@ tru
 trubadur
 truf
 truk
+truxillense
 tsa
 tsam
 tsanawiah
@@ -67339,6 +68268,7 @@ tugeri
 tugi
 tugrik
 tugu
+tuguk
 tugur
 tuguran
 tuh
@@ -67387,6 +68317,7 @@ tukik
 tukil
 tukin
 tukmis
+tukong
 tuks
 tuksedo
 tuktak
@@ -67398,6 +68329,7 @@ tukul
 tukun
 tukung
 tukup
+tukus
 tul
 tula
 tulage
@@ -67663,6 +68595,7 @@ turne
 turnedo
 turnera
 turnoi
+turo
 turofili
 turofilia
 turpuk
@@ -67720,6 +68653,7 @@ tutup
 tutupan
 tutupi
 tutuplah
+tutupnya
 tutur
 tuturan
 tutus
@@ -68008,6 +68942,7 @@ ulin
 uling
 ulir
 uliran
+ulis
 ulit
 uljanati
 ulkus
@@ -68130,6 +69065,7 @@ umker
 umkm
 umlaut
 umo
+umong
 umonia
 umonu
 ump
@@ -68259,6 +69195,7 @@ unguiculata
 unguis
 unhas
 unhatta
+unho
 uni
 unia
 uniang
@@ -68536,6 +69473,7 @@ urolog
 urologi
 urologis
 uron
+urong
 urophyllum
 uropoda
 uros
@@ -68598,6 +69536,8 @@ usat
 usb
 use
 useh
+usena
+useni
 user
 usi
 usia
@@ -68881,6 +69821,7 @@ vegetatif
 vehofobia
 vei
 veitehia
+vek
 veks
 vektor
 vel
@@ -68914,6 +69855,7 @@ venison
 venom
 vent
 ventifak
+ventilago
 ventilasi
 ventilator
 ventral
@@ -68972,6 +69914,7 @@ verset
 versi
 versifikasi
 verso
+verst
 verstek
 versus
 vertebra
@@ -69014,6 +69957,7 @@ viabilitas
 viaduk
 viasi
 viatis
+vib
 vibran
 vibrasi
 vibrato
@@ -69022,6 +69966,7 @@ vibrio
 vibriosis
 vice
 vicia
+vicillot
 vid
 vide
 videlicet
@@ -69046,6 +69991,7 @@ vigor
 vigoritas
 vihara
 vii
+viii
 vikariasi
 vikariat
 vikaris
@@ -69084,6 +70030,7 @@ viral
 virat
 virga
 virgatus
+virgin
 virginia
 virginipar
 virginitas
@@ -69102,11 +70049,13 @@ virogen
 viroid
 virologi
 viropeksis
+virosa
 virosis
 virtual
 virtualisasi
 virtualitas
 virtuoso
+virul
 virulen
 virulensi
 virus
@@ -69154,9 +70103,11 @@ vitaminoid
 vitelarium
 vitelin
 vitex
+vitifolium
 vitikultur
 vitiligo
 vitin
+vitis
 vitr
 vitrase
 vitrektomi
@@ -69173,6 +70124,7 @@ viudata
 viva
 vivarium
 vivendi
+vivera
 viverrividae
 vivifikasi
 vivipar
@@ -69251,6 +70203,7 @@ vosi
 vot
 votum
 voucer
+vous
 voyage
 voyeurisme
 vrah
@@ -69259,6 +70212,7 @@ vrijdenker
 vug
 vul
 vulcanism
+vulcanologist
 vulcanology
 vulgar
 vulgaris
@@ -69713,6 +70667,7 @@ wein
 wejang
 wejangan
 wek
+weka
 wekel
 weker
 wel
@@ -69731,6 +70686,7 @@ wemawe
 wembi
 wen
 wenang
+weng
 wenter
 weo
 wer
@@ -69744,6 +70700,7 @@ werek
 wereldheer
 wereng
 werit
+werkudara
 werst
 wertabin
 werwer
@@ -69766,6 +70723,7 @@ wewara
 wewarah
 wewe
 wewenang
+wheatstone
 wiah
 wiaoe
 wiau
@@ -69977,6 +70935,7 @@ wri
 wrightia
 wrisaba
 wto
+wua
 wudani
 wudhu
 wudu
@@ -70111,6 +71070,8 @@ xirofobia
 xister
 yaahowu
 yabakwas
+yabanda
+yabat
 yacht
 yacung
 yad
@@ -70351,6 +71312,7 @@ yuk
 yukagir
 yukata
 yuken
+yukyuh
 yul
 yum
 yumper
@@ -70464,6 +71426,7 @@ zefir
 zein
 zeitgeber
 zeitgeist
+zelofilia
 zelofobia
 zelot
 zemifobia
