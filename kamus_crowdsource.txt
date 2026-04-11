@@ -43898,6 +43898,7 @@ mundi
 munding
 mundu
 mundur
+mundurkan
 mung
 munggah
 munggahan
@@ -46206,6 +46207,7 @@ nyuk
 nyulam
 nyuling
 nyum
+nyumbang
 nyumi
 nyung
 nyungsung
@@ -64576,6 +64578,7 @@ tembel
 tembelang
 tembelek
 tembelian
+tembeliung
 tembem
 temberam
 temberang
