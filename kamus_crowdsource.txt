@@ -20303,6 +20303,7 @@ gerising
 gerit
 gerita
 geritan
+geriuk
 gerlap
 gerlip
 germafobia
@@ -42874,6 +42875,7 @@ mih
 mihane
 mihrab
 mihun
+miiofili
 miji
 mijil
 miju
@@ -62007,6 +62009,7 @@ stratosfer
 stratovolkano
 stratum
 stratus
+streng
 streptokokus
 streptomisin
 streptomyces
@@ -64582,6 +64585,7 @@ tembeliung
 tembem
 temberam
 temberang
+temberas
 temberek
 tembereng
 temberih
