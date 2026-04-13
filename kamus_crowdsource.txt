@@ -11971,6 +11971,7 @@ cling
 clitic
 clitoria
 clo
+clorodendron
 closet
 clostridium
 cloze
@@ -18591,6 +18592,7 @@ frit
 fritis
 fro
 froblastoma
+frologi
 fron
 front
 frontal
@@ -21900,6 +21902,7 @@ haramkan
 haramonting
 harang
 harangan
+haranya
 harap
 harapan
 harapanku
@@ -30824,6 +30827,7 @@ ketulenan
 ketulusan
 ketumbar
 ketumbuhan
+ketumpahan
 ketumpang
 ketumpangtindihan
 ketumpulan
@@ -35119,6 +35123,7 @@ libas
 libat
 libatkan
 libei
+libel
 liberal
 liberalis
 liberalisasi
@@ -47670,6 +47675,7 @@ pakistan
 pakkan
 paklik
 pakpak
+pakpung
 paks
 paksa
 paksaan
@@ -48825,6 +48831,7 @@ pelantikan
 pelanting
 pelantun
 pelanturan
+pelapah
 pelapukan
 pelarai
 pelaraian
@@ -62954,6 +62961,7 @@ syukurlah
 syukurmu
 syumuliah
 syur
+syura
 syurah
 syurga
 syuriah
