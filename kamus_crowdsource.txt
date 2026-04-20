@@ -18890,6 +18890,7 @@ gahi
 gahwannika
 gai
 gaib
+gaik
 gaikindo
 gail
 gaimana
@@ -25633,6 +25634,7 @@ jarah
 jarahan
 jarak
 jarakan
+jaraknya
 jaram
 jaramba
 jaran
@@ -33880,6 +33882,7 @@ lam
 lama
 lamaholot
 lamak
+lamakan
 lamalera
 lamalif
 laman
@@ -45126,6 +45129,7 @@ ngaw
 ngawah
 ngawi
 ngawur
+ngayab
 ngayal
 ngayuman
 ngb
@@ -56067,6 +56071,7 @@ riostatik
 rip
 ripah
 ripai
+ripang
 riparian
 ripit
 ripta
@@ -59016,6 +59021,7 @@ semang
 semangat
 semangati
 semangatku
+semangatnya
 semanggi
 semangka
 semangkok
