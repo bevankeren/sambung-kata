@@ -698,6 +698,7 @@ adverbialisasi
 adversitas
 advertensi
 advertorial
+adves
 advis
 advisor
 advisori
@@ -28848,6 +28849,7 @@ kekejangan
 kekejutan
 kekek
 kekekalan
+kekel
 kekelaman
 kekeliruan
 kekelong
@@ -37620,6 +37622,7 @@ megabyte
 megadosis
 megaflop
 megafon
+megah
 megahertz
 megahotel
 megakota
@@ -39763,6 +39766,7 @@ menemin
 menempah
 menempatkan
 menempel
+menempelak
 menempelakkan
 menempeli
 menempelkan
@@ -43374,6 +43378,7 @@ mokel
 mokin
 moko
 mokrasi
+mokrat
 moksa
 moksibasi
 moksu
@@ -68104,6 +68109,7 @@ tripofobia
 triprasetia
 trips
 tripsin
+tripsinog
 tripsinogen
 triptofan
 triptonik
