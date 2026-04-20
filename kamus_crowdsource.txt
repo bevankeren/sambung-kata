@@ -6402,6 +6402,7 @@ basantara
 basap
 basar
 basarok
+basau
 base
 basekat
 baselang
@@ -6962,6 +6963,7 @@ berabdas
 berabe
 berabonemen
 berabstraksi
+berabu
 berabungan
 beradaptasi
 beradiasi
@@ -9644,6 +9646,7 @@ binokular
 binomial
 binorna
 binoting
+binrat
 binsik
 bintak
 bintalak
@@ -9711,6 +9714,7 @@ bioma
 biomagnifikasi
 biomaterial
 biomedis
+biomekani
 biomekanika
 biomekanis
 biometeorologi
@@ -29171,6 +29175,7 @@ keloelektrovolt
 kelogisan
 keloid
 kelojotan
+kelok
 kelokak
 kelokan
 keloko
@@ -31504,6 +31509,7 @@ klorosis
 klowong
 klub
 klusif
+kluster
 kluwo
 knal
 knalpot
@@ -36234,6 +36240,7 @@ lusuh
 lut
 lutein
 lutetium
+luteum
 luther
 luti
 lutianus
@@ -36622,6 +36629,7 @@ makar
 makara
 makaroni
 makarun
+makas
 makasar
 makasih
 makassar
@@ -37803,6 +37811,7 @@ melatarbelakangi
 melatas
 melati
 melatih
+melating
 melatonin
 melatur
 melaungkan
@@ -38337,6 +38346,7 @@ membenam
 membencanai
 membencanakan
 membengang
+membengkak
 membengkakkan
 membengkokkan
 membengkos
@@ -41344,6 +41354,7 @@ meniada
 meniadakan
 meniagakan
 meniangpancangi
+meniapkan
 meniarap
 meniarapkan
 menidurinya
@@ -41633,6 +41644,7 @@ mensukseskan
 mensyairkan
 mensyarahkan
 mensyaratkan
+mensyarikat
 mensyurkan
 ment
 menta
@@ -41731,6 +41743,7 @@ menunas
 menunda
 menundakan
 menundukkan
+menundung
 menunggalkan
 menunggang
 menunggangi
@@ -42780,6 +42793,7 @@ meti
 metifobia
 metik
 metil
+metilasi
 metode
 metodis
 metodologi
@@ -43726,6 +43740,7 @@ muhlikah
 muhrim
 muhsan
 muhsanah
+muhsin
 muhtasyam
 mui
 muih
@@ -49680,6 +49695,7 @@ pencerita
 pencermatan
 pencerminan
 pencernaan
+pencet
 pencicil
 pencidukan
 penciptaan
@@ -58192,6 +58208,7 @@ segepok
 segera
 segerai
 segerombolan
+segetil
 segi
 segianya
 segitiga
@@ -66681,6 +66698,7 @@ tersuratkan
 tersuruk
 tersusahkan
 tersuspensi
+tersusun
 tertaati
 tertabal
 tertabrak
