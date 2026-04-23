@@ -6678,6 +6678,7 @@ bei
 beibel
 beijing
 beirut
+beje
 bejibun
 bejo
 bek
@@ -7945,6 +7946,7 @@ berkapitulasi
 berkapur
 berkarah
 berkarakter
+berkaraoke
 berkarat
 berkarate
 berkarau
@@ -8215,6 +8217,7 @@ berkompresor
 berkompromi
 berkomunikasi
 berkomunitas
+berkonde
 berkondektur
 berkondensor
 berkondisi
@@ -10101,6 +10104,7 @@ bonggol
 bongkah
 bongkahan
 bongkaran
+bongkeke
 bongko
 bongkok
 bongkol
@@ -10310,6 +10314,7 @@ brontosaurus
 bros
 brosur
 bruk
+bruksisme
 brumbun
 brunei
 brunois
@@ -18813,6 +18818,7 @@ gadamala
 gadang
 gadangan
 gadap
+gade
 gadeh
 gadget
 gadi
@@ -27172,6 +27178,7 @@ kambala
 kambam
 kamban
 kambang
+kambar
 kambau
 kambebe
 kambeh
@@ -28103,6 +28110,7 @@ kawan
 kawani
 kawanua
 kawao
+kaware
 kawargaan
 kawasan
 kawasannya
@@ -31795,6 +31803,7 @@ kolek
 kolekalsiferol
 koleksi
 koleksinya
+kolekte
 kolektif
 kolektifitas
 kolektivis
@@ -32501,6 +32510,7 @@ korepresor
 kores
 korespond
 koresponden
+korespondensi
 koresta
 koret
 koretan
@@ -32545,6 +32555,7 @@ korpulensi
 korpus
 korpuskel
 kors
+korsase
 korsel
 korset
 korsleting
@@ -36471,6 +36482,7 @@ maduratna
 madya
 mae
 maem
+maengket
 maesan
 maesenas
 maestro
@@ -36923,6 +36935,7 @@ mall
 malnutrisi
 maloh
 maloklusi
+malpighi
 malpraktek
 malpraktik
 malt
@@ -37688,6 +37701,7 @@ medalion
 medalis
 medan
 medangsia
+mede
 mededader
 medeplichtige
 medeplichtigheid
@@ -38738,6 +38752,7 @@ memetuahkan
 memfaalkan
 memfabrikasi
 memfahami
+memfanakan
 memfanatiki
 memfantasikan
 memfasilitasi
@@ -38847,6 +38862,7 @@ mempajaki
 mempaketkan
 mempaksa
 mempalang
+mempalingkan
 mempalsukan
 mempamerkan
 mempamitkan
@@ -39013,6 +39029,7 @@ memperlonggar
 memperluas
 memperlunak
 memperlurus
+mempermadukan
 mempermahir
 mempermainkan
 mempermaklumkan
@@ -39314,6 +39331,7 @@ menanap
 menancang
 menancapkan
 menandai
+menandangi
 menandaskan
 menandatangani
 menandemkan
@@ -40285,6 +40303,7 @@ mengatari
 mengatas
 mengatasi
 mengataskan
+mengategorikan
 mengatomkan
 mengatributkan
 mengatrol
@@ -40494,6 +40513,7 @@ mengendurkan
 mengenes
 mengengkang
 mengengkeng
+mengengkol
 mengenjut
 mengentak
 mengentakkan
@@ -40725,6 +40745,7 @@ menggelendot
 menggeleng
 menggelenting
 menggelenyar
+menggelepai
 menggelepek
 menggelepur
 menggeleserkan
@@ -40955,6 +40976,7 @@ menghafalkan
 menghakimi
 menghalalkan
 menghalang
+menghalangi
 menghaluankan
 menghamba
 menghambakan
@@ -40976,6 +40998,7 @@ menghantamkan
 menghantar
 menghantarkan
 menghantu
+menghantui
 menghanyut
 menghanyutkan
 menghapuskan
@@ -41138,6 +41161,7 @@ menginsinuasikan
 menginstal
 menginstitusionalisasikan
 menginstruksikan
+mengintaikan
 mengintegrasikan
 mengintensif
 mengintensifikasikan
@@ -41295,6 +41319,7 @@ mengomputerisasi
 mengomputerisasikan
 mengomputerkan
 mengonan
+mengonde
 mengondensasikan
 mengondokkan
 mengonferensikan
@@ -41771,6 +41796,7 @@ mentawan
 mentega
 mentera
 menterbelakangkan
+menterese
 menteri
 menterjemahkan
 mentersangkakan
@@ -41799,6 +41825,7 @@ menu
 menua
 menuami
 menuangi
+menuanrumahi
 menuba
 menubai
 menubrukkan
@@ -42094,6 +42121,7 @@ menyembah
 menyembahkan
 menyembam
 menyembarangi
+menyembat
 menyembelih
 menyembilu
 menyembir
@@ -42388,6 +42416,7 @@ menyumbi
 menyumpah
 menyumpahi
 menyumsum
+menyunahkan
 menyunati
 menyunatkan
 menyunatrasulkan
@@ -42581,6 +42610,7 @@ merecak
 merecik
 meredakan
 meredam
+meredistribusikan
 meredupkan
 meredusir
 mereferensi
@@ -43466,6 +43496,7 @@ modifikatif
 modifikator
 modin
 modis
+modiste
 modul
 mof
 mofet
@@ -43638,6 +43669,7 @@ monster
 monstera
 monstratif
 montana
+montase
 montek
 montenegro
 monti
@@ -48008,6 +48040,7 @@ pancakara
 pancakembar
 pancal
 pancalima
+pancalogam
 pancalomba
 pancalongok
 pancamarga
@@ -48804,6 +48837,7 @@ pedemo
 pedendang
 pedepokan
 pedestrian
+pedigre
 pedigree
 pedih
 pedikulofobia
@@ -52179,6 +52213,7 @@ pesi
 pesiar
 pesilat
 pesimis
+pesimisme
 pesimistis
 pesinetron
 pesing
@@ -53550,6 +53585,7 @@ propaganda
 propagandis
 propagasi
 propana
+propedeuse
 propeler
 propfan
 propilena
@@ -53946,6 +53982,7 @@ purik
 purin
 purina
 puris
+purisme
 puristis
 puritan
 puritanisme
@@ -55000,6 +55037,7 @@ redamkan
 redang
 redap
 redas
+rede
 redefinisi
 redenominasi
 redesain
@@ -59861,6 +59899,7 @@ serenyuk
 serep
 serepih
 seresah
+seresin
 seret
 sergap
 sergapan
@@ -60036,6 +60075,7 @@ sesanti
 sesap
 sesapan
 sesar
+sesaran
 sesat
 sesatif
 sesawi
@@ -60112,6 +60152,7 @@ setambuk
 setambul
 setan
 setandan
+setandar
 setanding
 setang
 setangan
@@ -61708,6 +61749,7 @@ sorot
 sorotan
 sorp
 sortir
+sortiran
 sorus
 sos
 sosak
@@ -62017,6 +62059,7 @@ staples
 star
 start
 starter
+starvasi
 stasi
 stasioner
 stasioneri
@@ -62254,6 +62297,7 @@ stu
 stuari
 stuarin
 stud
+studen
 studi
 studinya
 studio
@@ -64093,6 +64137,7 @@ taoci
 taoco
 taog
 taoge
+taoisme
 taok
 taoke
 taori
@@ -66012,6 +66057,7 @@ terkelip
 terkelola
 terkelolong
 terkelopak
+terkeloyak
 terkelu
 terkeluani
 terkelubak
@@ -66144,6 +66190,7 @@ terlambat
 terlampai
 terlampaui
 terlampiaskan
+terlampir
 terlancap
 terlanda
 terlangah
@@ -66168,6 +66215,7 @@ terlarang
 terlarutkan
 terlatih
 terlawan
+terlayah
 terlayak
 terlayang
 terlayani
@@ -66486,6 +66534,7 @@ terpedaya
 terpedih
 terpedo
 terpegan
+terpegang
 terpejam
 terpeka
 terpekak
@@ -68364,6 +68413,7 @@ trom
 tromaks
 tromamal
 trombin
+tromboembolisme
 tromboksan
 trombon
 trombonis
