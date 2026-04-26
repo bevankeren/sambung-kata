@@ -15296,6 +15296,7 @@ ditunggangi
 ditunggu
 dituntaskan
 diturunkan
+dituter
 ditutupnya
 ditziad
 diu
@@ -17132,6 +17133,7 @@ entitas
 entoderm
 entogenus
 entok
+entol
 entomofagi
 entomofili
 entomofobia
@@ -19061,6 +19063,7 @@ galanggasi
 galant
 galantin
 galanya
+galapak
 galar
 galaran
 galas
@@ -19424,6 +19427,7 @@ garnet
 garnis
 garnisun
 garnitur
+garo
 garong
 garontok
 garontong
@@ -21287,6 +21291,7 @@ grambyang
 gramedia
 gramineae
 gramofon
+grampa
 granala
 granat
 granatum
@@ -22831,6 +22836,7 @@ hilofobia
 hilum
 him
 hima
+himah
 himalaya
 himanga
 himar
@@ -35216,6 +35222,7 @@ ler
 lerah
 lerai
 leraian
+leraikan
 lerak
 leram
 leran
@@ -37897,6 +37904,7 @@ medio
 medioker
 medis
 medisinal
+medit
 meditasi
 meditatif
 mediterania
@@ -39556,6 +39564,7 @@ menantu
 menanwinkan
 menanya
 menanyakan
+menapaki
 menapaktilasi
 menapaskan
 menaplaki
@@ -39643,6 +39652,7 @@ mencangkung
 mencangkup
 mencanting
 mencantolkan
+mencantum
 mencantumkan
 mencapai
 mencapak
@@ -40505,6 +40515,7 @@ mengatung
 mengatupkan
 mengatur
 mengaudit
+mengaum
 mengaurkan
 mengausi
 mengauskan
@@ -41785,6 +41796,7 @@ menjambak
 menjambret
 menjaminkan
 menjampuk
+menjamu
 menjanda
 menjangankan
 menjangat
@@ -51901,6 +51913,7 @@ percumbuan
 perd
 perda
 perdagangan
+perdah
 perdamaian
 perdaraan
 perdarahan
@@ -56190,6 +56203,7 @@ rhodomyrtus
 rhodophyceae
 rhoeo
 rhombifolia
+rhumba
 rhynchoporus
 ria
 riadah
@@ -57952,6 +57966,7 @@ sapaan
 sapada
 sapah
 sapai
+sapanya
 sapar
 saparantu
 saparatis
@@ -63585,6 +63600,7 @@ syurah
 syurga
 syuriah
 syuriken
+syuruk
 syuting
 syzygium
 taa
@@ -65881,6 +65897,7 @@ terbunuhnya
 terburai
 terburu
 terburuk
+terbus
 terbusung
 tercabik
 tercabut
