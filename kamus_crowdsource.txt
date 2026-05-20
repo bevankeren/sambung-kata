@@ -2267,6 +2267,7 @@ alsil
 alsintan
 alsodeia
 alsofili
+alstonia
 alt
 altar
 alter
@@ -16276,6 +16277,7 @@ eksistensial
 eksistensialis
 eksistensialisme
 eksistensialistis
+eksistensinya
 eksit
 eksitasi
 eksitus
@@ -21358,6 +21360,7 @@ gresik
 gressi
 grewia
 greyed
+greying
 greyish
 gri
 griff
@@ -28214,6 +28217,7 @@ kaumnya
 kaun
 kaunaiki
 kaung
+kauniah
 kaunteya
 kauolah
 kaupatahkan
@@ -28350,6 +28354,7 @@ kealpaan
 keamanahan
 keamanan
 keambisian
+keambrukan
 keamburadulan
 keamiran
 keampuhan
@@ -29875,6 +29880,7 @@ kepacakan
 kepada
 kepadaan
 kepadaman
+kepadamulah
 kepadanyalah
 kepadatan
 kepaduan
@@ -30381,6 +30387,7 @@ kerung
 kerungkuhan
 kerunkel
 keruntang
+kerunting
 keruntuhan
 keruntung
 kerunyaman
@@ -38510,6 +38517,7 @@ memayungkan
 membabarkan
 membaca
 membacakan
+membacang
 membadik
 membagaikan
 membagikan
@@ -41128,6 +41136,7 @@ menggiriskan
 mengglasir
 mengglobal
 menggocoh
+menggodai
 menggodanya
 menggodot
 menggoes
@@ -41334,6 +41343,7 @@ mengikrarkan
 mengikuti
 mengikutinya
 mengikutkan
+mengilah
 mengilan
 mengilapkan
 mengilat
@@ -42283,6 +42293,7 @@ menyebelahi
 menyeberangkan
 menyebukan
 menyebutkan
+menyedang
 menyedangkan
 menyedapkan
 menyedekahi
@@ -43158,6 +43169,7 @@ metafor
 metafora
 metagenom
 metagenomik
+metai
 metak
 metakognisi
 metal
@@ -51822,6 +51834,7 @@ perangkai
 perangkaian
 perangkakan
 perangkapan
+perangkatan
 perangko
 perangkum
 perangsang
@@ -58640,6 +58653,7 @@ sedia
 sediaan
 sediakala
 sediakan
+sediakanlah
 sedianya
 sedih
 sedihlah
@@ -59167,6 +59181,7 @@ selayar
 selayun
 selayur
 selayut
+selbor
 sele
 selebar
 selebaran
