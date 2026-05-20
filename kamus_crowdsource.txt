@@ -15421,6 +15421,7 @@ dokosanoid
 dokpol
 doks
 doksing
+doksli
 doksofobia
 doksologi
 dokter
@@ -37808,6 +37809,7 @@ maximum
 maximus
 maya
 mayam
+mayan
 mayang
 mayangda
 mayangnya
@@ -45408,6 +45410,7 @@ ngalo
 ngalor
 ngalum
 ngam
+ngaman
 ngambek
 ngambil
 ngambilin
@@ -68453,6 +68456,7 @@ tosi
 toska
 toskop
 toso
+tosser
 tostatika
 tostones
 tosumunya
