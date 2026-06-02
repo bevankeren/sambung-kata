@@ -14235,6 +14235,7 @@ dihiasi
 dihibridakan
 dihidroksil
 dihijrahi
+dihilangkan
 dihilangkannya
 dihimbau
 dihimpun
@@ -14358,6 +14359,7 @@ dikemarikan
 dikembangi
 dikempesi
 dikemudikan
+dikenainya
 dikenakannya
 dikencingi
 dikendali
@@ -21719,6 +21721,7 @@ guttatus
 gutuk
 guyana
 guyang
+guyir
 guyon
 guyonan
 guyot
@@ -26802,6 +26805,7 @@ jurang
 jurat
 jurdil
 jure
+jurem
 juri
 juriat
 jurik
@@ -29862,6 +29866,7 @@ kenestapaan
 keng
 kengerian
 kengileran
+kengiluan
 kengkang
 kengkeng
 kenikir
@@ -29928,6 +29933,7 @@ kepadamulah
 kepadanyalah
 kepadatan
 kepaduan
+kepagian
 kepah
 kepahitan
 kepahlawanan
@@ -37628,6 +37634,7 @@ martini
 martir
 martirium
 maru
+marula
 marumia
 marun
 marus
