@@ -16,6 +16,7 @@ abaddon
 abadi
 abadiah
 abadiat
+abadikan
 abadiyah
 abah
 abahan
@@ -1835,6 +1836,7 @@ alarima
 alarm
 alarwale
 alas
+alasa
 alasan
 alasannya
 alasi
@@ -2026,6 +2028,7 @@ alikusu
 alila
 aliliu
 alim
+alimbuane
 alimbubu
 alimen
 alimentasi
@@ -5739,6 +5742,8 @@ bacak
 bacakan
 bacalah
 bacan
+baccaurea
+baccurea
 bacem
 bachelor
 bacik
@@ -6269,6 +6274,7 @@ banius
 banjar
 banjaran
 banjet
+banji
 banjir
 banjo
 banjur
@@ -10570,6 +10576,7 @@ bukusentris
 bukut
 bul
 bula
+bulabolo
 bulai
 bulak
 bulakan
@@ -18926,6 +18933,7 @@ fumigan
 fumigasi
 fumigator
 fun
+funa
 fundam
 fundamen
 fundamental
@@ -19020,6 +19028,7 @@ gabuka
 gabun
 gabung
 gabungan
+gabungi
 gabungkan
 gabungkannya
 gabus
@@ -19418,6 +19427,7 @@ ganimah
 ganimede
 ganiometer
 ganja
+ganjah
 ganjak
 ganjal
 ganjalan
@@ -20758,6 +20768,7 @@ gewang
 geweng
 gewor
 geyser
+ghaeri
 ghaib
 ghana
 ghetto
@@ -21667,6 +21678,7 @@ gulungannya
 gulungkan
 gulut
 gum
+guma
 gumal
 gumam
 gumaman
@@ -21923,6 +21935,7 @@ haf
 hafal
 hafalan
 hafalkan
+hafalnya
 hafefobia
 hafen
 hafiz
@@ -23764,6 +23777,7 @@ ibek
 ibi
 ibid
 ibidem
+ibil
 ibing
 ibis
 iblis
@@ -24600,6 +24614,7 @@ ingin
 inginan
 ingini
 inginkan
+ingka
 ingkah
 ingkar
 ingkaran
@@ -26142,6 +26157,7 @@ jekpot
 jeksi
 jekuan
 jel
+jela
 jelabak
 jelabir
 jeladan
@@ -31484,6 +31500,7 @@ kibor
 kibordis
 kibriah
 kibul
+kibut
 kicak
 kicang
 kicau
@@ -36210,6 +36227,7 @@ loe
 loek
 lofan
 log
+loga
 logam
 logamisasi
 logamnya
@@ -36846,10 +36864,12 @@ macis
 macrobium
 macrocarpa
 macrocladus
+macroeconomy
 macrolepidota
 macronocanthus
 macrophygia
 macropodidae
+macrosoma
 mactra
 mad
 mada
@@ -37382,6 +37402,7 @@ mamano
 mamar
 mamat
 mamata
+mamayu
 mambae
 mambang
 mambek
@@ -37619,6 +37640,7 @@ manortor
 manoskopi
 manostat
 mans
+mansan
 manset
 mansiang
 mansim
@@ -38593,6 +38615,7 @@ melusuhkan
 meluti
 meluweskan
 mem
+memaafi
 memaafkan
 memabukkan
 memacek
@@ -44279,6 +44302,7 @@ moparuja
 moped
 mopela
 mopit
+mopoi
 mopok
 mopt
 mor
@@ -44335,6 +44359,7 @@ mos
 mosaik
 mosana
 mosi
+mosional
 mosit
 moskona
 moskow
@@ -44900,6 +44925,7 @@ nab
 naba
 nabab
 naban
+nabat
 nabatah
 nabati
 nabaun
@@ -46633,6 +46659,7 @@ nozel
 nrima
 nrp
 nsa
+nsama
 nsi
 nsia
 nsik
@@ -47034,6 +47061,7 @@ oai
 oal
 oalah
 oamana
+oan
 oantropologi
 oap
 oars
@@ -48146,6 +48174,7 @@ otipikal
 otipologi
 otis
 otitis
+otk
 oto
 otoaktivitas
 otobiografi
@@ -48373,6 +48402,7 @@ padepokan
 paderi
 padewakang
 padi
+padinya
 padma
 padmasana
 padmi
@@ -48775,6 +48805,7 @@ panfobia
 pang
 pangab
 pangabekti
+pangah
 pangal
 pangalasan
 pangan
@@ -49569,6 +49600,7 @@ peju
 pejuang
 pek
 peka
+pekabar
 pekah
 pekaja
 pekajangan
@@ -49701,6 +49733,7 @@ pelatih
 pelatihan
 pelatihnya
 pelatuk
+pelaut
 pelawaan
 pelawak
 pelawangan
@@ -53505,6 +53538,7 @@ pizootik
 pizza
 pki
 pkl
+pla
 plafon
 plagiarisme
 plagiat
@@ -54216,6 +54250,7 @@ printilan
 priok
 prioritas
 pripih
+pris
 priser
 prismatik
 prit
@@ -54485,6 +54520,7 @@ pteropoda
 ptif
 ptn
 pto
+ptomania
 ptosis
 pts
 ptual
@@ -55757,6 +55793,7 @@ rechewing
 recik
 recikan
 recitativo
+reclass
 reclassing
 recok
 reconciliative
@@ -57362,6 +57399,7 @@ rui
 ruil
 ruilslag
 ruing
+ruis
 ruislag
 ruit
 ruj
@@ -62296,6 +62334,7 @@ soal
 soalan
 soalnya
 soang
+soap
 soar
 soarma
 sob
@@ -63194,6 +63233,7 @@ suberat
 suberin
 subfilum
 subfosil
+subg
 subgeneralisasi
 subgenus
 subhana
@@ -63340,6 +63380,7 @@ sugul
 sugun
 suh
 suhad
+suhan
 suhi
 suhian
 suhu
@@ -64105,6 +64146,7 @@ tabola
 tabolik
 tabolis
 tabolisme
+tabolit
 tabot
 tabrak
 tabrakan
@@ -65987,6 +66029,7 @@ tepat
 tepatan
 tepatnya
 tepdek
+tepeh
 tepek
 tepekong
 tepekur
@@ -70036,6 +70079,7 @@ uko
 ukod
 ukofit
 ukoma
+ukon
 ukonisia
 ukop
 ukopenia
@@ -70788,6 +70832,7 @@ utilitas
 utiliti
 utk
 uto
+utok
 utomo
 utopia
 utopis
@@ -72435,6 +72480,7 @@ yokoiho
 yolk
 yolks
 yom
+yoman
 yomi
 yon
 yona
