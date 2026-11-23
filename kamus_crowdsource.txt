@@ -2161,6 +2161,7 @@ almon
 almuazam
 almuhit
 almukhlis
+alnashetri
 alnaud
 alngilin
 alnilam
@@ -3259,6 +3260,7 @@ angioedema
 angiogenesis
 angiografi
 angiologi
+angiomax
 angiopati
 angioplasti
 angiosp
@@ -4794,6 +4796,7 @@ asem
 asembler
 asemen
 asemetri
+asenapin
 asep
 asepan
 asepsis
@@ -5907,6 +5910,7 @@ bainah
 baing
 baiq
 bair
+baira
 bairi
 bais
 bait
@@ -11260,6 +11264,7 @@ carilah
 carillon
 caring
 cariyu
+carnea
 carnegica
 carok
 caronx
@@ -12156,6 +12161,7 @@ coblos
 cobo
 coca
 cocakrawa
+cocculinida
 coch
 cochinchinensis
 cocok
@@ -13754,6 +13760,7 @@ despot
 despotik
 despotisme
 destabilisasi
+destalinisasi
 destar
 destarnya
 destilasi
@@ -21766,6 +21773,7 @@ gunyam
 guo
 gup
 gupa
+gupal
 gupi
 gupung
 gur
@@ -25951,6 +25959,7 @@ japonica
 japri
 japu
 japuk
+japura
 jar
 jara
 jarab
@@ -28346,6 +28355,7 @@ katoba
 katode
 katok
 katolik
+katolikroma
 katong
 katoppo
 katoptrofobia
@@ -30050,6 +30060,7 @@ kentu
 kentum
 kentungan
 kentut
+kenuak
 kenudisan
 kenung
 kenur
@@ -34099,6 +34110,7 @@ lae
 laer
 laeris
 laesa
+laetiporus
 laf
 lafal
 lafalnya
@@ -35628,6 +35640,7 @@ lewatkan
 lewatlah
 lewisid
 lex
+lexovisaurus
 leyeh
 leyot
 lezat
@@ -42310,6 +42323,7 @@ menstimulus
 menstop
 menstratakan
 menstruasi
+menstrukturkan
 mensubsidi
 mensucikan
 mensugestikan
@@ -43540,6 +43554,7 @@ meubel
 meul
 meunasah
 meurah
+meusuo
 mev
 mewacanakan
 mewadahi
@@ -45796,6 +45811,7 @@ ngatur
 ngau
 ngaw
 ngawah
+ngawang
 ngawi
 ngawur
 ngayab
@@ -46739,6 +46755,7 @@ nuling
 nulipara
 nulis
 num
+numar
 numbas
 numeral
 numeralia
@@ -46808,6 +46825,7 @@ nutriea
 nutrien
 nutrigenetika
 nutrigenomika
+nutrilipid
 nutrisi
 nutrisionis
 nutrisisme
@@ -46858,6 +46876,7 @@ nyamplung
 nyamu
 nyamuk
 nyamur
+nyamut
 nyan
 nyana
 nyang
@@ -47516,6 +47535,7 @@ olok
 olokal
 olokan
 olokkan
+olonetzianum
 olong
 olongiva
 olos
@@ -48295,6 +48315,7 @@ ovumnya
 owa
 owah
 owaha
+owaq
 owara
 owe
 owel
@@ -48882,6 +48903,7 @@ paninggaran
 panintuak
 panir
 paniradia
+paniradya
 panitia
 panitra
 panja
@@ -50834,6 +50856,7 @@ pengacauan
 pengacian
 pengacip
 pengadaan
+pengadaannya
 pengadang
 pengadaptasian
 pengadeganan
@@ -52504,6 +52527,7 @@ perisak
 perisakan
 perisalah
 periset
+perisphinctidae
 perispora
 peristalsis
 peristaltik
@@ -54614,6 +54638,7 @@ pulas
 pulasan
 pulasara
 pulau
+pulaumoro
 pulchella
 pulchur
 pulen
@@ -59571,6 +59596,7 @@ selancak
 selancang
 selancar
 selandang
+selanderorum
 selandia
 selandiabaru
 selang
@@ -62972,6 +62998,7 @@ stenotopik
 stensilan
 step
 stepa
+stephanomeria
 stepler
 ster
 steradian
@@ -63334,6 +63361,7 @@ sudahkah
 sudahlah
 sudahnya
 sudak
+sudamala
 sudan
 sudang
 sudara
@@ -71471,6 +71499,7 @@ wabo
 wabup
 wacana
 wacinwa
+wacuwacu
 wad
 wada
 wadag
